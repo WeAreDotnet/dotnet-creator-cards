@@ -1,0 +1,34 @@
+﻿{
+  "name": "Rockford Lhotka",
+  "country": "USA (M-Z)",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET",
+  "socials": {
+    "youtube": "",
+    "linkedin": "",
+    "twitter": "https://www.twitter.com/rockylhotka",
+    "github": "",
+    "mastodon": "https://fosstodon.org/@rockylhotka"
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://blog.lhotka.net"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "http://feeds.feedburner.com/RockyLhotka"
+    }
+  ]
+}

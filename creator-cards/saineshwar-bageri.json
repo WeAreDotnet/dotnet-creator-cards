@@ -1,0 +1,38 @@
+﻿{
+  "name": "Saineshwar Bageri",
+  "country": "India",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET, ASP.NET Core",
+  "socials": {
+    "youtube": "",
+    "linkedin": "",
+    "twitter": "https://twitter.com/saihacksoft",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://tutexchange.com"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://tutexchange.com/feed/"
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://tutexchange.com/comments/feed/"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+﻿{
+  "name": "Gerald Versluis",
+  "country": "Netherlands",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET MAUI, Blazor, C#",
+  "socials": {
+    "youtube": "https://www.youtube.com/c/GeraldVersluis",
+    "linkedin": "",
+    "twitter": "https://twitter.com/jfversluis",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://blog.verslu.is/"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCBBZ2kXWmd8eXlHg2wEaClw"
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://blog.verslu.is/feed/"
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://blog.verslu.is/comments/feed/"
+    }
+  ]
+}

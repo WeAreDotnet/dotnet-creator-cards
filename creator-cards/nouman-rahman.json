@@ -1,0 +1,34 @@
+﻿{
+  "name": "Nouman Rahman",
+  "country": "India",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET, C#",
+  "socials": {
+    "youtube": "",
+    "linkedin": "",
+    "twitter": "https://twitter.com/programmingfire",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://programmingfire.com"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "AHrefFeedType",
+      "url": "https://programmingfire.com/rss.xml"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+﻿{
+  "name": "Anton Wieslander",
+  "country": "United Kingdom (A-J)",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET, C#, ASP.NET Core",
+  "socials": {
+    "youtube": "https://www.youtube.com/c/RawCoding",
+    "linkedin": "",
+    "twitter": "https://twitter.com/anton_t0shik",
+    "github": "https://github.com/T0shik",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP_jWxjn__YXmo4iU7Low0g"
+    }
+  ]
+}

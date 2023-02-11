@@ -1,0 +1,30 @@
+﻿{
+  "name": "Kevin Bost",
+  "country": "USA (G-L)",
+  "slogan": "",
+  "bio": "",
+  "tags": "WPF, .NET",
+  "socials": {
+    "youtube": "https://www.youtube.com/c/KevinBost",
+    "linkedin": "",
+    "twitter": "https://twitter.com/kitokeboo",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCwrx8tfGSE-itqJQHx2586Q"
+    }
+  ]
+}

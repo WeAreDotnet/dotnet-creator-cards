@@ -1,0 +1,30 @@
+﻿{
+  "name": "Shivprasad Koirala",
+  "country": "India",
+  "slogan": "",
+  "bio": "",
+  "tags": "C#, .NET",
+  "socials": {
+    "youtube": "https://www.youtube.com/c/questpondvideos",
+    "linkedin": "",
+    "twitter": "https://twitter.com/questpond",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCH912uDFX3sIaPXMrJa9X_w"
+    }
+  ]
+}

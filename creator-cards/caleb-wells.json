@@ -1,0 +1,34 @@
+﻿{
+  "name": "Caleb Wells",
+  "country": "USA (A-F)",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET, C#",
+  "socials": {
+    "youtube": "",
+    "linkedin": "",
+    "twitter": "",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Twiter",
+      "url": "https://twitter.com/calebwellscodes"
+    },
+    {
+      "name": "Podcast",
+      "url": "https://topenddevs.com/podcasts/adventures-in-net"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    }
+  ]
+}

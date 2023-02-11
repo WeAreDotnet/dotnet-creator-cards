@@ -1,0 +1,46 @@
+﻿{
+  "name": ".NET Microsoft Channels",
+  "country": "👔 Official MSFT / .NET Foundation Content Resources / Xamarin",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET, C#, ASP.NET Core, .NET MAUI",
+  "socials": {
+    "youtube": "https://www.youtube.com/c/dotNET",
+    "linkedin": "",
+    "twitter": "https://twitter.com/dotnet",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://devblogs.microsoft.com/dotnet"
+    },
+    {
+      "name": "Documentation",
+      "url": "https://docs.microsoft.com/dotnet"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://devblogs.microsoft.com/dotnet/feed/"
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://devblogs.microsoft.com/dotnet/comments/feed/"
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvtT19MZW8dq5Wwfu6B0oxw"
+    }
+  ]
+}

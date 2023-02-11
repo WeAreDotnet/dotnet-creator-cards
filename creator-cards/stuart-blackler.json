@@ -1,0 +1,42 @@
+﻿{
+  "name": "Stuart Blackler",
+  "country": "United Kingdom (K-Z)",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET, C#",
+  "socials": {
+    "youtube": "https://www.youtube.com/c/CodeWithStu/videos",
+    "linkedin": "https://www.linkedin.com/in/im5tu/",
+    "twitter": "https://twitter.com/CodeWithStu",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://im5tu.io/article/"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCF5dh7bm49bpsZjWHYDG4Lg"
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://im5tu.io/article/index.xml"
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://im5tu.io/index.xml"
+    }
+  ]
+}

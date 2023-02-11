@@ -1,0 +1,34 @@
+﻿{
+  "name": "Scott Hanselman",
+  "country": "USA (M-Z)",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET",
+  "socials": {
+    "youtube": "https://www.youtube.com/channel/UCL-fHOdarou-CR2XUmK48Og",
+    "linkedin": "",
+    "twitter": "",
+    "github": "",
+    "mastodon": "https://hachyderm.io/@shanselman"
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Podcast",
+      "url": "https://www.hanselminutes.com/"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCL-fHOdarou-CR2XUmK48Og"
+    }
+  ]
+}

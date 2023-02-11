@@ -1,0 +1,34 @@
+﻿{
+  "name": "Daniel Cazzulino",
+  "country": "Argentina",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET, C#",
+  "socials": {
+    "youtube": "",
+    "linkedin": "https://www.linkedin.com/in/danielcazzulino/",
+    "twitter": "https://twitter.com/kzu",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://www.cazzulino.com/"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.cazzulino.com/feed.xml"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+﻿{
+  "name": "Dustin Moris Gorski",
+  "country": "United Kingdom (A-J)",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET, C#, ASP.NET Core",
+  "socials": {
+    "youtube": "",
+    "linkedin": "https://www.linkedin.com/in/dustinmoris/",
+    "twitter": "https://twitter.com/dustinmoris",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://dusted.codes/"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://dusted.codes/feed/rss"
+    },
+    {
+      "type": "LinkTagAtomType",
+      "url": "https://dusted.codes/feed/atom"
+    }
+  ]
+}

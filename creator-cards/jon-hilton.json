@@ -1,0 +1,34 @@
+﻿{
+  "name": "Jon Hilton",
+  "country": "United Kingdom (A-J)",
+  "slogan": "",
+  "bio": "",
+  "tags": "Blazor, .NET",
+  "socials": {
+    "youtube": "",
+    "linkedin": "",
+    "twitter": "https://twitter.com/jonhilt",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://jonhilton.net/"
+    },
+    {
+      "name": "Courses",
+      "url": "https://practicaldotnet.io"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    }
+  ]
+}

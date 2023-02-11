@@ -1,0 +1,30 @@
+﻿{
+  "name": "Camilo Terevinto",
+  "country": "Ireland",
+  "slogan": "",
+  "bio": "",
+  "tags": "C#, ASP.NET Core, Azure",
+  "socials": {
+    "youtube": "",
+    "linkedin": "https://www.linkedin.com/in/camiloterevinto/",
+    "twitter": "https://twitter.com/CTerevinto",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://www.camiloterevinto.com"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+﻿{
+  "name": "Rob Bos",
+  "country": "Netherlands",
+  "slogan": "",
+  "bio": "",
+  "tags": "DevOps, GitHub",
+  "socials": {
+    "youtube": "",
+    "linkedin": "https://www.linkedin.com/in/bosrob/",
+    "twitter": "",
+    "github": "https://github.com/rajbos",
+    "mastodon": "https://fosstodon.org/@Rob_Bos@mstdn.social"
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://devopsjournal.io/"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "AHrefFeedType",
+      "url": "https://devopsjournal.io/blog/atom.xml"
+    }
+  ]
+}

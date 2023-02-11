@@ -1,0 +1,30 @@
+﻿{
+  "name": "Xamarin Developers",
+  "country": "👔 Official MSFT / .NET Foundation Content Resources / Xamarin",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET, Xamarin",
+  "socials": {
+    "youtube": "https://www.youtube.com/c/XamarinDevelopers",
+    "linkedin": "",
+    "twitter": "",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCe-f02uZgEXdHmHpC3loAQg"
+    }
+  ]
+}

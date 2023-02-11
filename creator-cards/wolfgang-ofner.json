@@ -1,0 +1,34 @@
+﻿{
+  "name": "Wolfgang Ofner",
+  "country": "Switzerland",
+  "slogan": "",
+  "bio": "",
+  "tags": "Azure, Kubernetes",
+  "socials": {
+    "youtube": "",
+    "linkedin": "https://www.linkedin.com/in/wolfgangofner/",
+    "twitter": "https://twitter.com/wolfgang_ofner",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://programmingwithwolfgang.com/"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "AHrefFeedType",
+      "url": "https://programmingwithwolfgang.com/feed.xml"
+    }
+  ]
+}

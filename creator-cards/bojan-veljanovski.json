@@ -1,0 +1,34 @@
+﻿{
+  "name": "Bojan Veljanovski",
+  "country": "North Macedonia",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET, C#, SQL",
+  "socials": {
+    "youtube": "",
+    "linkedin": "https://www.linkedin.com/in/bojanv91/",
+    "twitter": "",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://bojanveljanovski.com/"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagAtomType",
+      "url": "https://bojanveljanovski.com/feed/feed.xml"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+﻿{
+  "name": "Dave Callan",
+  "country": "Ireland",
+  "slogan": "",
+  "bio": "",
+  "tags": "C#, .NET, Visual Studio",
+  "socials": {
+    "youtube": "",
+    "linkedin": "https://www.linkedin.com/in/davidcallan/",
+    "twitter": "https://twitter.com/DaveCallanIE",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    }
+  ]
+}

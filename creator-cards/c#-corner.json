@@ -1,0 +1,30 @@
+﻿{
+  "name": "C# Corner",
+  "country": "🤹 Multi-Creator Channels, Creator Name Unkown",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET, C#",
+  "socials": {
+    "youtube": "",
+    "linkedin": "",
+    "twitter": "",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://www.c-sharpcorner.com/"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    }
+  ]
+}

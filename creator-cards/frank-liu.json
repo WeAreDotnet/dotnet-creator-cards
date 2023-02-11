@@ -1,0 +1,46 @@
+﻿{
+  "name": "Frank Liu",
+  "country": "Canada",
+  "slogan": "",
+  "bio": "",
+  "tags": "Blazor, ASP.NET Core",
+  "socials": {
+    "youtube": "https://www.youtube.com/c/FrankLiuSoftware/",
+    "linkedin": "",
+    "twitter": "https://twitter.com/frankliucs",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Site",
+      "url": "https://frankliucs.com"
+    },
+    {
+      "name": "Blog",
+      "url": "https://frankliucs.com/blog/"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCV26kRmZIQALWhCkO_XKA-Q"
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://frankliucs.com/feed/"
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://frankliucs.com/comments/feed/"
+    }
+  ]
+}

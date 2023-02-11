@@ -1,0 +1,30 @@
+﻿{
+  "name": "Wes Doyle",
+  "country": "USA (M-Z)",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET, AWS",
+  "socials": {
+    "youtube": "https://youtube.com/c/WesDoyle",
+    "linkedin": "https://www.linkedin.com/in/wes-doyle/",
+    "twitter": "",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfniixfhHqpIGbU7z2JCNJw"
+    }
+  ]
+}

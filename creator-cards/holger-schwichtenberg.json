@@ -1,0 +1,26 @@
+﻿{
+  "name": "Holger Schwichtenberg",
+  "country": "Germany",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET, C#",
+  "socials": {
+    "youtube": "",
+    "linkedin": "",
+    "twitter": "https://twitter.com/DOTNETDOKTOR",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    }
+  ]
+}

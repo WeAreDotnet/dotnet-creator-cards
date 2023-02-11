@@ -1,0 +1,34 @@
+﻿{
+  "name": "Fons Sonnemans",
+  "country": "Netherlands",
+  "slogan": "",
+  "bio": "",
+  "tags": "C#, .NET, ASP.NET, WinUI",
+  "socials": {
+    "youtube": "",
+    "linkedin": "",
+    "twitter": "https://twitter.com/fonssonnemans",
+    "github": "https://github.com/sonnemaf",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://reflectionit.nl/blog"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.reflectionit.nl/blog/rss"
+    }
+  ]
+}

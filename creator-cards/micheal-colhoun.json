@@ -1,0 +1,42 @@
+﻿{
+  "name": "Micheal Colhoun",
+  "country": "United Kingdom (K-Z)",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET, C#, Azure",
+  "socials": {
+    "youtube": "https://www.youtube.com/channel/UC-mHR47cULEfJHvk49t1zQA/videos",
+    "linkedin": "",
+    "twitter": "https://twitter.com/colhountech",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://colhountech.com/blog/"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://colhountech.com/feed/"
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://colhountech.com/comments/feed/"
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-mHR47cULEfJHvk49t1zQA"
+    }
+  ]
+}

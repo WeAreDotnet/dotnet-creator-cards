@@ -1,0 +1,30 @@
+﻿{
+  "name": "Furkan Gözükara",
+  "country": "Turkey",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET, C#",
+  "socials": {
+    "youtube": "https://www.youtube.com/SECourses",
+    "linkedin": "https://www.linkedin.com/in/furkangozukara/",
+    "twitter": "https://twitter.com/gozukarafurkan",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKzrgTDEZjOolJAshjgvSKw"
+    }
+  ]
+}

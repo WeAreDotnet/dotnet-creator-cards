@@ -1,0 +1,42 @@
+﻿{
+  "name": "Hassan Rezk Habib",
+  "country": "USA (G-L)",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET",
+  "socials": {
+    "youtube": "",
+    "linkedin": "https://www.linkedin.com/in/hassanrezkhabib/recent-activity/shares/",
+    "twitter": "https://twitter.com/HassanRezkHabib",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://hassanhabib.com/blog/"
+    },
+    {
+      "name": "linktree",
+      "url": "https://linktr.ee/hassanrezkhabib"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://hassanhabib.com/feed/"
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://hassanhabib.com/comments/feed/"
+    }
+  ]
+}

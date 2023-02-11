@@ -1,0 +1,42 @@
+﻿{
+  "name": "Martin Finkel",
+  "country": "France",
+  "slogan": "",
+  "bio": "",
+  "tags": "NET, Architecture",
+  "socials": {
+    "youtube": "",
+    "linkedin": "https://www.linkedin.com/in/martin-finkel-a9368571/",
+    "twitter": "https://twitter.com/martz2804",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://mfkl.github.io"
+    },
+    {
+      "name": "Bio.Link",
+      "url": "https://bio.link/mfkl"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagAtomType",
+      "url": "https://mfkl.github.io/feed.xml"
+    },
+    {
+      "type": "AHrefFeedType",
+      "url": "https://mfkl.github.io/feed.xml"
+    }
+  ]
+}

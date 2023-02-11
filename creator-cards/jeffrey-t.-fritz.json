@@ -1,0 +1,38 @@
+﻿{
+  "name": "Jeffrey T. Fritz",
+  "country": "USA (G-L)",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET, ASP.NET Core",
+  "socials": {
+    "youtube": "https://www.youtube.com/c/csharpfritz/",
+    "linkedin": "",
+    "twitter": "",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Twitch",
+      "url": "https://www.twitch.tv/csharpfritz"
+    },
+    {
+      "name": "linktree",
+      "url": "https://linktr.ee/csharpfritz"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfvJirlbRTN-bU9sMWMb_ZQ"
+    }
+  ]
+}

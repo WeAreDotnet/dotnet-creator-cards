@@ -1,0 +1,38 @@
+﻿{
+  "name": "Valentin Anghel",
+  "country": "Romania",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET, C#",
+  "socials": {
+    "youtube": "",
+    "linkedin": "",
+    "twitter": "https://twitter.com/sharpprograming",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://programmingcsharp.com/"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://programmingcsharp.com/feed/"
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://programmingcsharp.com/comments/feed/"
+    }
+  ]
+}

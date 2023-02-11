@@ -1,0 +1,34 @@
+﻿{
+  "name": "Richard Campbell",
+  "country": "USA (M-Z)",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET",
+  "socials": {
+    "youtube": "",
+    "linkedin": "",
+    "twitter": "",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Podcast Site",
+      "url": "https://www.dotnetrocks.com"
+    },
+    {
+      "name": "Podcast on Bullhorn.fm",
+      "url": "https://www.bullhorn.fm/dotnetrocks"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+﻿{
+  "name": "Albert Starreveld",
+  "country": "Netherlands",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET, Azure, C#",
+  "socials": {
+    "youtube": "",
+    "linkedin": "https://www.linkedin.com/in/albert-starreveld/",
+    "twitter": "",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://medium.com/@abstarreveld"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://medium.com/feed/@abstarreveld"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+﻿{
+  "name": "Michael Eaton",
+  "country": "USA (M-Z)",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET, C#",
+  "socials": {
+    "youtube": "",
+    "linkedin": "https://www.linkedin.com/in/mjeaton/",
+    "twitter": "",
+    "github": "https://github.com/mjeaton",
+    "mastodon": "https://fosstodon.org/@mjeaton@our.devchatter.com"
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://samestuffdifferentday.net/"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagAtomType",
+      "url": "https://samestuffdifferentday.net/feed.xml"
+    },
+    {
+      "type": "AHrefFeedType",
+      "url": "https://samestuffdifferentday.net/feed.xml"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+﻿{
+  "name": "Max Hamulyák",
+  "country": "Netherlands",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET, C#",
+  "socials": {
+    "youtube": "",
+    "linkedin": "https://www.linkedin.com/in/maxhamulyak/",
+    "twitter": "https://twitter.com/kaylumah",
+    "github": "",
+    "mastodon": "https://fosstodon.org/@kaylumah@mastodon.nl"
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://kaylumah.nl/blog"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagAtomType",
+      "url": "https://kaylumah.nl/feed.xml"
+    },
+    {
+      "type": "AHrefFeedType",
+      "url": "https://kaylumah.nl/feed.xml"
+    }
+  ]
+}

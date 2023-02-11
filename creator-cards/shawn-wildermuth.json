@@ -1,0 +1,50 @@
+﻿{
+  "name": "Shawn Wildermuth",
+  "country": "USA (M-Z)",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET, ASP.NET Core",
+  "socials": {
+    "youtube": "https://www.youtube.com/c/swildermuth",
+    "linkedin": "https://www.linkedin.com/in/shawnwildermuth/",
+    "twitter": "https://twitter.com/shawnwildermuth",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://wildermuth.com/"
+    },
+    {
+      "name": "Pluralsight",
+      "url": "https://app.pluralsight.com/profile/author/shawn-wildermuth"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://wildermuth.com/feed.xml"
+    },
+    {
+      "type": "AHrefFeedType",
+      "url": "https://wildermuth.com/feed.xml"
+    },
+    {
+      "type": "AHrefFeedType",
+      "url": "https://wildermuth.com/feed.xml"
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVIcSx0JX1lBXnyezabutrA"
+    }
+  ]
+}

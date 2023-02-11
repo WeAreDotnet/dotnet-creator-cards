@@ -1,0 +1,26 @@
+﻿{
+  "name": "Saeed Esmaeelinejad",
+  "country": "Iran",
+  "slogan": "",
+  "bio": "",
+  "tags": "C#, EF, SQL Server, ASP.NET",
+  "socials": {
+    "youtube": "",
+    "linkedin": "https://www.linkedin.com/in/saeed-esmaeelinejad/",
+    "twitter": "",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    }
+  ]
+}

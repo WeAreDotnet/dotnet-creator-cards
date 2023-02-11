@@ -1,0 +1,38 @@
+﻿{
+  "name": "Adnan Rafiq",
+  "country": "USA (A-F)",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET, C#, SQL",
+  "socials": {
+    "youtube": "",
+    "linkedin": "",
+    "twitter": "",
+    "github": "",
+    "mastodon": "https://hachyderm.io/@adnanrafiq"
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://adnanrafiq.com/blog/"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://adnanrafiq.com/blog/rss.xml"
+    },
+    {
+      "type": "LinkTagAtomType",
+      "url": "https://adnanrafiq.com/blog/atom.xml"
+    }
+  ]
+}

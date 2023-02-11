@@ -1,0 +1,26 @@
+﻿{
+  "name": "Julie Lerman",
+  "country": "USA (G-L)",
+  "slogan": "",
+  "bio": "",
+  "tags": "EF Core, .NET",
+  "socials": {
+    "youtube": "",
+    "linkedin": "",
+    "twitter": "https://twitter.com/julielerman",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    }
+  ]
+}

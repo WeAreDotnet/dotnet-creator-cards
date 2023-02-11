@@ -1,0 +1,30 @@
+﻿{
+  "name": "Coding Blocks",
+  "country": "🤹 Multi-Creator Channels, Creator Name Unkown",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET Podcast",
+  "socials": {
+    "youtube": "",
+    "linkedin": "",
+    "twitter": "",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Podcast",
+      "url": "https://www.codingblocks.net/"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    }
+  ]
+}

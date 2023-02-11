@@ -1,0 +1,30 @@
+﻿{
+  "name": "Simuzeche Kaluwa",
+  "country": "Malawi",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET, ASP.NET Core",
+  "socials": {
+    "youtube": "https://www.youtube.com/channel/UCQw4zDb735eezImafcyYlWg",
+    "linkedin": "",
+    "twitter": "https://twitter.com/simuzeche",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQw4zDb735eezImafcyYlWg"
+    }
+  ]
+}

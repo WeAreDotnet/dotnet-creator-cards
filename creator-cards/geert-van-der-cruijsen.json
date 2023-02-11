@@ -1,0 +1,30 @@
+﻿{
+  "name": "Geert van der Cruijsen",
+  "country": "Netherlands",
+  "slogan": "",
+  "bio": "",
+  "tags": "DevOps, Azure",
+  "socials": {
+    "youtube": "",
+    "linkedin": "",
+    "twitter": "https://twitter.com/geertvdc",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://fullcycledeveloper.com/"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    }
+  ]
+}

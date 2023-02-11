@@ -1,0 +1,30 @@
+﻿{
+  "name": "Poornima Nayar",
+  "country": "United Kingdom (K-Z)",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET, C#",
+  "socials": {
+    "youtube": "",
+    "linkedin": "",
+    "twitter": "https://twitter.com/PoornimaNayar",
+    "github": "https://github.com/poornimanayar",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://poornimanayar.co.uk/"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    }
+  ]
+}

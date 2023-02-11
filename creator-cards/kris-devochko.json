@@ -1,0 +1,34 @@
+﻿{
+  "name": "Kris Devochko",
+  "country": "Norway",
+  "slogan": "",
+  "bio": "",
+  "tags": "Azure, Kubernetes",
+  "socials": {
+    "youtube": "",
+    "linkedin": "https://www.linkedin.com/in/krisde/",
+    "twitter": "https://twitter.com/kristhecodingu1",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://kristhecodingunicorn.com/post/"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://kristhecodingunicorn.com/post/index.xml"
+    }
+  ]
+}

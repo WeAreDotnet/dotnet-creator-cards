@@ -1,0 +1,42 @@
+﻿{
+  "name": "Steve Gordon",
+  "country": "United Kingdom (K-Z)",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET, C#",
+  "socials": {
+    "youtube": "",
+    "linkedin": "",
+    "twitter": "https://twitter.com/stevejgordon",
+    "github": "",
+    "mastodon": "https://fosstodon.org/@stevejgordon"
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Pluralsight",
+      "url": "https://app.pluralsight.com/profile/author/steve-gordon"
+    },
+    {
+      "name": "Blog",
+      "url": "https://www.stevejgordon.co.uk/"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.stevejgordon.co.uk/feed"
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.stevejgordon.co.uk/comments/feed"
+    }
+  ]
+}

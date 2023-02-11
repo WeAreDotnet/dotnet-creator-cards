@@ -1,0 +1,30 @@
+﻿{
+  "name": "Patrick Smacchia",
+  "country": "Mauritius",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET, C#, Architecture, ndepend",
+  "socials": {
+    "youtube": "",
+    "linkedin": "https://www.linkedin.com/in/patrick-smacchia-b0123110/",
+    "twitter": "https://twitter.com/ndepend",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://blog.ndepend.com"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    }
+  ]
+}

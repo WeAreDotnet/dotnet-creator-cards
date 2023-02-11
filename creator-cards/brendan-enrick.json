@@ -1,0 +1,46 @@
+﻿{
+  "name": "Brendan Enrick",
+  "country": "USA (A-F)",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET, C#, ASP.NET Core",
+  "socials": {
+    "youtube": "https://www.youtube.com/c/DevChatter/",
+    "linkedin": "",
+    "twitter": "https://twitter.com/brendoneus",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://brendoneus.com/"
+    },
+    {
+      "name": "Twitch",
+      "url": "https://www.twitch.tv/DevChatter"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCA8TsqMrOdFBv66iIuU6efA"
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://brendoneus.com/feed.xml"
+    },
+    {
+      "type": "AHrefFeedType",
+      "url": "https://brendoneus.com/feed.xml"
+    }
+  ]
+}

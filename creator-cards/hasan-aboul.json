@@ -1,0 +1,46 @@
+﻿{
+  "name": "Hasan Aboul",
+  "country": "Lebanon",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET",
+  "socials": {
+    "youtube": "https://www.youtube.com/c/heducate",
+    "linkedin": "",
+    "twitter": "https://twitter.com/h_educate",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://learnwithhasan.com"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCiLmLn593TxhOLpvbOfJFRg"
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCl4nXWTkPOqmKlEmIN5_TJQ"
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://learnwithhasan.com/feed/"
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://learnwithhasan.com/comments/feed/"
+    }
+  ]
+}

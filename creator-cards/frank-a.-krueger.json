@@ -1,0 +1,38 @@
+﻿{
+  "name": "Frank A. Krueger",
+  "country": "USA (A-F)",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET MAUI, .NET, Podcast",
+  "socials": {
+    "youtube": "",
+    "linkedin": "",
+    "twitter": "https://twitter.com/praeclarum",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Podcast (Merge Conflict)",
+      "url": "https://www.mergeconflict.fm/"
+    },
+    {
+      "name": "Blog",
+      "url": "https://praeclarum.org/"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagAtomType",
+      "url": "https://praeclarum.org/rss"
+    }
+  ]
+}

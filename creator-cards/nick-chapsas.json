@@ -1,0 +1,34 @@
+﻿{
+  "name": "Nick Chapsas",
+  "country": "United Kingdom (K-Z)",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET, C#",
+  "socials": {
+    "youtube": "https://www.youtube.com/c/Elfocrash",
+    "linkedin": "",
+    "twitter": "https://twitter.com/nickchapsas",
+    "github": "https://github.com/Elfocrash",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Site",
+      "url": "https://nickchapsas.com/"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCrkPsvLGln62OMZRO6K-llg"
+    }
+  ]
+}

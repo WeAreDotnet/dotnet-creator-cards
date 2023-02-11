@@ -1,0 +1,34 @@
+﻿{
+  "name": "Rahul Rai",
+  "country": "Australia",
+  "slogan": "",
+  "bio": "",
+  "tags": "Azure, Kubernetes",
+  "socials": {
+    "youtube": "",
+    "linkedin": "https://www.linkedin.com/in/rahulrai-in/",
+    "twitter": "https://twitter.com/rahulrai_in",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://thecloudblog.net"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://thecloudblog.net/index.xml"
+    }
+  ]
+}

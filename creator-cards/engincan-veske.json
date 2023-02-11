@@ -1,0 +1,30 @@
+﻿{
+  "name": "Engincan Veske",
+  "country": "Turkey",
+  "slogan": "",
+  "bio": "",
+  "tags": "ABP Framework, .NET, C#",
+  "socials": {
+    "youtube": "",
+    "linkedin": "https://www.linkedin.com/in/engincanv/",
+    "twitter": "https://twitter.com/EngincanVeske",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://engincanv.github.io/"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    }
+  ]
+}

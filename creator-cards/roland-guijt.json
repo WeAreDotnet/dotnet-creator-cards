@@ -1,0 +1,30 @@
+﻿{
+  "name": "Roland Guijt",
+  "country": "Netherlands",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET, ASP.NET Core",
+  "socials": {
+    "youtube": "",
+    "linkedin": "https://www.linkedin.com/in/rolandguijt",
+    "twitter": "https://twitter.com/rolandguijt",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Pluralsight",
+      "url": "https://app.pluralsight.com/profile/author/roland-guijt"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    }
+  ]
+}

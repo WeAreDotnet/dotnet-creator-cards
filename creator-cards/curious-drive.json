@@ -1,0 +1,30 @@
+﻿{
+  "name": "Curious Drive",
+  "country": "🤹 Multi-Creator Channels, Creator Name Unkown",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET, Blazor, ASP.NET Core",
+  "socials": {
+    "youtube": "https://www.youtube.com/c/CuriousDrive",
+    "linkedin": "",
+    "twitter": "",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCetyodKOWGk5H6FoKoFnkZw"
+    }
+  ]
+}

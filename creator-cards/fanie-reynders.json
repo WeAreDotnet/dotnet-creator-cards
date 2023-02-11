@@ -1,0 +1,42 @@
+﻿{
+  "name": "Fanie Reynders",
+  "country": "Netherlands",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET, Azure",
+  "socials": {
+    "youtube": "https://youtube.com/faniereynders",
+    "linkedin": "",
+    "twitter": "https://twitter.com/FanieReynders",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Twitch",
+      "url": "https://twitch.tv/faniereynders"
+    },
+    {
+      "name": "Blog",
+      "url": "https://reynders.co/blog/"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCiRJnaI0xIJj695qVyu9xoA"
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://reynders.co/blog/"
+    }
+  ]
+}

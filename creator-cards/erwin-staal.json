@@ -1,0 +1,38 @@
+﻿{
+  "name": "Erwin Staal",
+  "country": "Netherlands",
+  "slogan": "",
+  "bio": "",
+  "tags": "DevOps, Azure",
+  "socials": {
+    "youtube": "",
+    "linkedin": "",
+    "twitter": "https://twitter.com/erwin_staal",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://erwinstaal.nl/"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://erwinstaal.nl/index.xml"
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://erwinstaal.nl/index.xml"
+    }
+  ]
+}

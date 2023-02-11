@@ -1,0 +1,38 @@
+﻿{
+  "name": "Shreyas Jejurkar",
+  "country": "India",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET, ASP.NET Core",
+  "socials": {
+    "youtube": "",
+    "linkedin": "",
+    "twitter": "",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://shreyasjejurkar.com"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://shreyasjejurkar.com/feed/"
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://shreyasjejurkar.com/comments/feed/"
+    }
+  ]
+}

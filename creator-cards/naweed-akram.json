@@ -1,0 +1,42 @@
+﻿{
+  "name": "Naweed Akram",
+  "country": "Bahrain",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET MAUI",
+  "socials": {
+    "youtube": "https://www.youtube.com/@naweedakram",
+    "linkedin": "https://www.linkedin.com/in/naweed/",
+    "twitter": "https://twitter.com/xgeno",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://blogs.xgenoapps.com/"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://blogs.xgenoapps.com/syndication.axd"
+    },
+    {
+      "type": "LinkTagAtomType",
+      "url": "https://blogs.xgenoapps.com/syndication.axd?format=atom"
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUk0jFsrql8cJU5YOUj9yag"
+    }
+  ]
+}

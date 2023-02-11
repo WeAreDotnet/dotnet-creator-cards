@@ -1,0 +1,46 @@
+﻿{
+  "name": "Kevin Dockx",
+  "country": "Belgium",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET, Architecture, C#, ASP.NET Core, EF Core",
+  "socials": {
+    "youtube": "",
+    "linkedin": "",
+    "twitter": "https://twitter.com/kevindockx",
+    "github": "https://github.com/kevindockx",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://www.kevindockx.com/"
+    },
+    {
+      "name": "Pluralsight",
+      "url": "https://www.pluralsight.com/authors/kevin-dockx"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.kevindockx.com/feed/"
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.kevindockx.com/comments/feed/"
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.kevindockx.com/hi-im-kevin/feed/"
+    }
+  ]
+}

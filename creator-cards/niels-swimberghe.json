@@ -1,0 +1,38 @@
+﻿{
+  "name": "Niels Swimberghe",
+  "country": "USA (M-Z)",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET",
+  "socials": {
+    "youtube": "",
+    "linkedin": "https://www.linkedin.com/in/nielsswimberghe/",
+    "twitter": "https://twitter.com/RealSwimburger",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://swimburger.net"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://swimburger.net/atom.xml"
+    },
+    {
+      "type": "AHrefFeedType",
+      "url": "https://swimburger.net/atom.xml"
+    }
+  ]
+}

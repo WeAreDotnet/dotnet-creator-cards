@@ -1,0 +1,30 @@
+﻿{
+  "name": "Ahmad Mozaffar",
+  "country": "Lebanon",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET, Azure",
+  "socials": {
+    "youtube": "https://www.youtube.com/channel/UCRs-PO48PbbS0l7bBhbu5CA",
+    "linkedin": "",
+    "twitter": "https://twitter.com/ahmadmozaffar99",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCRs-PO48PbbS0l7bBhbu5CA"
+    }
+  ]
+}

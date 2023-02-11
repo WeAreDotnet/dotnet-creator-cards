@@ -1,0 +1,42 @@
+﻿{
+  "name": "Emanuele Bartolesi",
+  "country": "Switzerland",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET, Blazor, Azure",
+  "socials": {
+    "youtube": "",
+    "linkedin": "",
+    "twitter": "https://twitter.com/kasuken",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://dev.to/kasuken"
+    },
+    {
+      "name": "Blog RSS",
+      "url": "https://dev.to/feed/kasuken"
+    },
+    {
+      "name": "Mastering Minimal APIs in ASP.NET Core (Book)",
+      "url": "https://www.packtpub.com/product/mastering-minimal-apis-in-aspnet-core/9781803237824"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "BlogRssTag",
+      "url": "https://dev.to/feed/kasuken"
+    }
+  ]
+}

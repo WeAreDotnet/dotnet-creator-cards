@@ -1,0 +1,38 @@
+﻿{
+  "name": "Bryan Hogan",
+  "country": "USA (A-F)",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET, Podcast",
+  "socials": {
+    "youtube": "",
+    "linkedin": "https://www.linkedin.com/in/bryanjhogan/",
+    "twitter": "https://twitter.com/bryanjhogan",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Podcast",
+      "url": "https://nodogmapodcast.bryanhogan.net/"
+    },
+    {
+      "name": "Blog",
+      "url": "https://nodogmablog.bryanhogan.net/"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://nodogmablog.bryanhogan.net/index.xml"
+    }
+  ]
+}

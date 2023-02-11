@@ -1,0 +1,30 @@
+﻿{
+  "name": "DotNet Core Central",
+  "country": "🤹 Multi-Creator Channels, Creator Name Unkown",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET",
+  "socials": {
+    "youtube": "https://www.youtube.com/c/DotNetCoreCentral",
+    "linkedin": "",
+    "twitter": "",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjiKyvYzAYCEh4NSfsPG77A"
+    }
+  ]
+}

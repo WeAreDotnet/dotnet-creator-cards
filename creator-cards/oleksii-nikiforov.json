@@ -1,0 +1,38 @@
+﻿{
+  "name": "Oleksii Nikiforov",
+  "country": "Ukraine",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET, C#, ASP.NET",
+  "socials": {
+    "youtube": "",
+    "linkedin": "https://www.linkedin.com/in/nikiforov-oleksii/",
+    "twitter": "https://twitter.com/nikiforovall",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://nikiforovall.github.io"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://nikiforovall.github.io/feed.xml"
+    },
+    {
+      "type": "AHrefFeedType",
+      "url": "https://nikiforovall.github.io/feed.xml"
+    }
+  ]
+}

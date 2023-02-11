@@ -1,0 +1,30 @@
+﻿{
+  "name": "John Savill",
+  "country": "USA (G-L)",
+  "slogan": "",
+  "bio": "",
+  "tags": "Azure",
+  "socials": {
+    "youtube": "https://www.youtube.com/c/NTFAQGuy",
+    "linkedin": "https://www.linkedin.com/in/john-savill/",
+    "twitter": "https://twitter.com/NTFAQGuy",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCpIn7ox7j7bH_OFj7tYouOQ"
+    }
+  ]
+}

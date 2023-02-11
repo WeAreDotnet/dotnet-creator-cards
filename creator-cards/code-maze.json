@@ -1,0 +1,38 @@
+﻿{
+  "name": "Code Maze",
+  "country": "🤹 Multi-Creator Channels, Creator Name Unkown",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET, C#, ASP.NET Core",
+  "socials": {
+    "youtube": "",
+    "linkedin": "",
+    "twitter": "",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://www.code-maze.com"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://code-maze.com/feed/"
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://code-maze.com/comments/feed/"
+    }
+  ]
+}

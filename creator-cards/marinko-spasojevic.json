@@ -1,0 +1,38 @@
+﻿{
+  "name": "Marinko Spasojevic",
+  "country": "Serbia",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET, ASP.NET Core, Blazor, C#",
+  "socials": {
+    "youtube": "",
+    "linkedin": "https://www.linkedin.com/in/marinko-spasojevic-95bb023b/",
+    "twitter": "",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://code-maze.com/"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://code-maze.com/feed/"
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://code-maze.com/comments/feed/"
+    }
+  ]
+}

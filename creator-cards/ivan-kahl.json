@@ -1,0 +1,42 @@
+﻿{
+  "name": "Ivan Kahl",
+  "country": "South Africa",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET, C#",
+  "socials": {
+    "youtube": "https://www.youtube.com/c/IvanKahl",
+    "linkedin": "",
+    "twitter": "https://twitter.com/IvanKahl",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Site",
+      "url": "https://ivankahl.com/"
+    },
+    {
+      "name": "Blog",
+      "url": "https://blog.ivankahl.com/"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://blog.ivankahl.com/rss/"
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCfOgJz5a0hmjO9_UvmSS4A"
+    }
+  ]
+}

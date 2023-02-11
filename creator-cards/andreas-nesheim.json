@@ -1,0 +1,38 @@
+﻿{
+  "name": "Andreas Nesheim",
+  "country": "Norway",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET MAUI, Xamarin",
+  "socials": {
+    "youtube": "",
+    "linkedin": "https://www.linkedin.com/in/andreas-nesheim/",
+    "twitter": "https://twitter.com/AndreasNesheim",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://www.andreasnesheim.no/"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.andreasnesheim.no/feed/"
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.andreasnesheim.no/comments/feed/"
+    }
+  ]
+}

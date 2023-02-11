@@ -1,0 +1,46 @@
+﻿{
+  "name": "Lee Richardson",
+  "country": "USA (G-L)",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET, C#, .NET MAUI",
+  "socials": {
+    "youtube": "https://www.youtube.com/@LeeRichardson200/",
+    "linkedin": "https://www.linkedin.com/in/leerichardson/",
+    "twitter": "https://twitter.com/lprichar",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "http://www.leerichardson.com/"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagAtomType",
+      "url": "http://www.leerichardson.com/feeds/posts/default"
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "http://www.leerichardson.com/feeds/posts/default?alt=rss"
+    },
+    {
+      "type": "LinkTagAtomType",
+      "url": "https://www.blogger.com/feeds/6393051114813114443/posts/default"
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8W6--RkixZ6qcsyPGQTUFA"
+    }
+  ]
+}

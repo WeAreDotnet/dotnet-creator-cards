@@ -1,0 +1,46 @@
+﻿{
+  "name": "João Antunes",
+  "country": "Portugal",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET, C#",
+  "socials": {
+    "youtube": "https://www.youtube.com/c/CodingMilitia",
+    "linkedin": "https://www.linkedin.com/in/joaofbantunes/",
+    "twitter": "https://twitter.com/joaofbantunes",
+    "github": "",
+    "mastodon": "https://mastodon.social/@joaofbantunes"
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://blog.codingmilitia.com"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCWwlh9aTz2pGn6q2__yMn_g"
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://blog.codingmilitia.com/feed.xml"
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://blog.codingmilitia.com/feed.xml"
+    },
+    {
+      "type": "AHrefFeedType",
+      "url": "https://blog.codingmilitia.com/feed.xml"
+    }
+  ]
+}

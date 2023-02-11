@@ -1,0 +1,30 @@
+﻿{
+  "name": "Luke Malpass",
+  "country": "United Kingdom (K-Z)",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET, C#, Avalonia UI, WPF",
+  "socials": {
+    "youtube": "https://youtube.com/c/angelsix",
+    "linkedin": "",
+    "twitter": "https://twitter.com/angelsixuk",
+    "github": "https://github.com/angelsix",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJ3AxeCHGPZkMi3kRfCuiHw"
+    }
+  ]
+}

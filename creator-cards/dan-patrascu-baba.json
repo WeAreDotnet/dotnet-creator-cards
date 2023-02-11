@@ -1,0 +1,30 @@
+﻿{
+  "name": "Dan Patrascu-Baba",
+  "country": "Romania",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET, C#",
+  "socials": {
+    "youtube": "https://www.youtube.com/channel/UCyTPru-1gZ7-4qblcKM0TiQ",
+    "linkedin": "https://www.linkedin.com/in/dan-patrascu-baba-08b78523/",
+    "twitter": "https://twitter.com/danpdc",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCyTPru-1gZ7-4qblcKM0TiQ"
+    }
+  ]
+}

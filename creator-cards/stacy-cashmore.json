@@ -1,0 +1,34 @@
+﻿{
+  "name": "Stacy Cashmore",
+  "country": "Netherlands",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET, Azure Static Web Apps",
+  "socials": {
+    "youtube": "",
+    "linkedin": "",
+    "twitter": "https://twitter.com/Stacy_Cash",
+    "github": "",
+    "mastodon": "https://tech.lgbt/@StacyClouds"
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Beginning Static Web Apps with Blazor (Book)",
+      "url": "https://link.springer.com/book/10.1007/978-1-4842-8146-8"
+    },
+    {
+      "name": "Blog",
+      "url": "https://www.stacy-clouds.net/blog-posts"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    }
+  ]
+}

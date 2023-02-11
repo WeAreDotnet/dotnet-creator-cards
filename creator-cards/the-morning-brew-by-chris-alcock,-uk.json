@@ -1,0 +1,30 @@
+﻿{
+  "name": "The Morning Brew by Chris Alcock, UK",
+  "country": "🐙 Aggregator Sites",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET, Aggregator Site",
+  "socials": {
+    "youtube": "",
+    "linkedin": "",
+    "twitter": "",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Site",
+      "url": "https://blog.cwa.me.uk/"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    }
+  ]
+}

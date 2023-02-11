@@ -1,0 +1,42 @@
+﻿{
+  "name": "Jamie Maguire",
+  "country": "United Kingdom (A-J)",
+  "slogan": "",
+  "bio": "",
+  "tags": "Azure AI, .NET",
+  "socials": {
+    "youtube": "",
+    "linkedin": "https://www.linkedin.com/in/jamiemaguiredotnet/",
+    "twitter": "https://twitter.com/jamie_maguire1",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://jamiemaguire.net/"
+    },
+    {
+      "name": "LinkedIn Learning",
+      "url": "https://www.linkedin.com/learning/instructors/jamie-maguire"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://jamiemaguire.net/index.php/feed/"
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://jamiemaguire.net/index.php/comments/feed/"
+    }
+  ]
+}

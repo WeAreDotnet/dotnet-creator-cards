@@ -1,0 +1,42 @@
+﻿{
+  "name": "Trevoir Williams",
+  "country": "Jamaica",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET, ASP.NET Core, Azure, .NET MAUI",
+  "socials": {
+    "youtube": "https://www.youtube.com/c/trevoirwilliams",
+    "linkedin": "https://www.linkedin.com/in/trevoirwilliams/",
+    "twitter": "",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://www.trevoirwilliams.com/"
+    },
+    {
+      "name": "Udemy Profile",
+      "url": "https://www.udemy.com/user/trevoirwilliams/"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCiDaQZu0xwPT-qJoTDMYMCg"
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.trevoirwilliams.com/rss/"
+    }
+  ]
+}

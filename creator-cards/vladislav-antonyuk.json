@@ -1,0 +1,30 @@
+﻿{
+  "name": "Vladislav Antonyuk",
+  "country": "Ukraine",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET, C#, .NET MAUI, Blazor, Azure",
+  "socials": {
+    "youtube": "",
+    "linkedin": "https://www.linkedin.com/in/vladislav-antonyuk",
+    "twitter": "",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://vladislavantonyuk.github.io"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    }
+  ]
+}

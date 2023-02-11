@@ -1,0 +1,30 @@
+﻿{
+  "name": "Daniel Lawson",
+  "country": "France",
+  "slogan": "",
+  "bio": "",
+  "tags": "C#, AWS",
+  "socials": {
+    "youtube": "",
+    "linkedin": "",
+    "twitter": "https://twitter.com/danylaws",
+    "github": "https://github.com/danylaws",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Twitter Threads",
+      "url": "https://github.com/danylaws/my-twitter-threads"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    }
+  ]
+}

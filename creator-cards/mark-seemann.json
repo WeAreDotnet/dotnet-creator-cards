@@ -1,0 +1,38 @@
+﻿{
+  "name": "Mark Seemann",
+  "country": "Denmark",
+  "slogan": "",
+  "bio": "",
+  "tags": "Architecutre, .NET, F#",
+  "socials": {
+    "youtube": "",
+    "linkedin": "",
+    "twitter": "https://twitter.com/ploeh",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://blog.ploeh.dk/"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://blog.ploeh.dk/rss.xml"
+    },
+    {
+      "type": "LinkTagAtomType",
+      "url": "https://blog.ploeh.dk/atom.xml"
+    }
+  ]
+}

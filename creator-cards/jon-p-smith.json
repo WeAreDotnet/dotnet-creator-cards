@@ -1,0 +1,38 @@
+﻿{
+  "name": "Jon P Smith",
+  "country": "United Kingdom (A-J)",
+  "slogan": "",
+  "bio": "",
+  "tags": "ASP.NET Core, EF Core",
+  "socials": {
+    "youtube": "",
+    "linkedin": "",
+    "twitter": "https://twitter.com/thereformedprog",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://www.thereformedprogrammer.net"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.thereformedprogrammer.net/feed/"
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.thereformedprogrammer.net/comments/feed/"
+    }
+  ]
+}

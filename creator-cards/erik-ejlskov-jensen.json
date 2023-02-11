@@ -1,0 +1,38 @@
+﻿{
+  "name": "Erik Ejlskov Jensen",
+  "country": "Denmark",
+  "slogan": "",
+  "bio": "",
+  "tags": "EF Core, ADO.NET",
+  "socials": {
+    "youtube": "",
+    "linkedin": "",
+    "twitter": "https://twitter.com/erikej",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://erikej.github.io/"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagAtomType",
+      "url": "https://erikej.github.io/feed.xml"
+    },
+    {
+      "type": "AHrefFeedType",
+      "url": "https://erikej.github.io/feed.xml"
+    }
+  ]
+}

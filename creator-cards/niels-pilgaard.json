@@ -1,0 +1,30 @@
+﻿{
+  "name": "Niels Pilgaard",
+  "country": "Denmark",
+  "slogan": "",
+  "bio": "",
+  "tags": "Blazor, C#, Azure",
+  "socials": {
+    "youtube": "",
+    "linkedin": "",
+    "twitter": "https://twitter.com/Niels_Pilgaard",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://pilgaard-blog.azurewebsites.net/"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    }
+  ]
+}

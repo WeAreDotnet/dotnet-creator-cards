@@ -1,0 +1,38 @@
+﻿{
+  "name": "Marc Duiker",
+  "country": "Netherlands",
+  "slogan": "",
+  "bio": "",
+  "tags": "Azure Functions, Serverless",
+  "socials": {
+    "youtube": "https://www.youtube.com/c/marcduiker-serverless",
+    "linkedin": "",
+    "twitter": "https://twitter.com/marcduiker",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://blog.marcduiker.nl"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCmoWqg6T-c8zEGm4sZdnwbA"
+    },
+    {
+      "type": "LinkTagAtomType",
+      "url": "https://blog.marcduiker.nl/atom.xml"
+    }
+  ]
+}

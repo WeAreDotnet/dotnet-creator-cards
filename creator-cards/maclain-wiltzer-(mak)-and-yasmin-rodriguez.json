@@ -1,0 +1,42 @@
+﻿{
+  "name": "Maclain Wiltzer (Mak) and Yasmin Rodriguez",
+  "country": "USA (M-Z)",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET, C#, ASP.NET Core",
+  "socials": {
+    "youtube": "",
+    "linkedin": "",
+    "twitter": "https://twitter.com/makolyte",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://makolyte.com/"
+    },
+    {
+      "name": "LinkedIn Page",
+      "url": "https://www.linkedin.com/company/makolyte/"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://makolyte.com/feed/"
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://makolyte.com/comments/feed/"
+    }
+  ]
+}

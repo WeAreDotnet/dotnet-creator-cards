@@ -1,0 +1,34 @@
+﻿{
+  "name": "Coding After Work",
+  "country": "🤹 Multi-Creator Channels, Creator Name Unkown",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET, Blazor, Podcast",
+  "socials": {
+    "youtube": "",
+    "linkedin": "",
+    "twitter": "https://twitter.com/CodingAfterWork",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Podcast",
+      "url": "https://www.codingafterwork.com/"
+    },
+    {
+      "name": "Twitch",
+      "url": "https://www.twitch.tv/codingafterwork"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    }
+  ]
+}

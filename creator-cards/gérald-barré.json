@@ -1,0 +1,46 @@
+﻿{
+  "name": "Gérald Barré",
+  "country": "Canada",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET, ASP.NET Core, Blazor, C#",
+  "socials": {
+    "youtube": "",
+    "linkedin": "https://www.linkedin.com/in/meziantou/",
+    "twitter": "https://twitter.com/meziantou",
+    "github": "https://github.com/meziantou",
+    "mastodon": "https://hachyderm.io/@meziantou"
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://www.meziantou.net/"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.meziantou.net/feed.rss"
+    },
+    {
+      "type": "LinkTagAtomType",
+      "url": "https://www.meziantou.net/feed.atom"
+    },
+    {
+      "type": "AHrefFeedType",
+      "url": "https://www.meziantou.net/feed.rss"
+    },
+    {
+      "type": "AHrefFeedType",
+      "url": "https://feedly.com/i/subscription/feed/https%3A%2F%2Fwww.meziantou.net%2Ffeed.rss"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+﻿{
+  "name": "Patrick God",
+  "country": "Germany",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET, C#, ASP.NET Core, Blazor, EF Core",
+  "socials": {
+    "youtube": "https://www.youtube.com/c/PatrickGod",
+    "linkedin": "",
+    "twitter": "https://twitter.com/_PatrickGod",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCq8LldVrjqe61KQttZlLW8g"
+    }
+  ]
+}

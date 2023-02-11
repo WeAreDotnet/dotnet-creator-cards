@@ -1,0 +1,38 @@
+﻿{
+  "name": "Laurent Egbakou",
+  "country": "France",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET, Azure",
+  "socials": {
+    "youtube": "",
+    "linkedin": "",
+    "twitter": "https://twitter.com/lioncoding",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://lioncoding.com"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://lioncoding.com/rss.xml"
+    },
+    {
+      "type": "AHrefFeedType",
+      "url": "https://lioncoding.com/rss.xml"
+    }
+  ]
+}

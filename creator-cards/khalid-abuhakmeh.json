@@ -1,0 +1,34 @@
+﻿{
+  "name": "Khalid Abuhakmeh",
+  "country": "USA (G-L)",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET, C#",
+  "socials": {
+    "youtube": "",
+    "linkedin": "",
+    "twitter": "https://twitter.com/buhakmeh",
+    "github": "",
+    "mastodon": "https://fosstodon.org/@khalidabuhakmeh@mastodon.social"
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://khalidabuhakmeh.com/"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "AHrefFeedType",
+      "url": "https://khalidabuhakmeh.com/feed.xml"
+    }
+  ]
+}

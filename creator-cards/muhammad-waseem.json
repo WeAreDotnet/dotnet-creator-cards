@@ -1,0 +1,38 @@
+﻿{
+  "name": "Muhammad Waseem",
+  "country": "Pakistan",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET, C# , Entity Framework",
+  "socials": {
+    "youtube": "",
+    "linkedin": "https://www.linkedin.com/in/mwaseemzakir/",
+    "twitter": "https://twitter.com/mwaseemzakir",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": ".NET Newsletter",
+      "url": "https://mwaseemzakir.substack.com/"
+    },
+    {
+      "name": "Facebook",
+      "url": "https://facebook.com/IamMuhammadWaseemZakir"
+    },
+    {
+      "name": "Medium",
+      "url": "https://medium.com/@mwaseemzakir"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    }
+  ]
+}

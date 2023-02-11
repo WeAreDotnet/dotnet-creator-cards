@@ -1,0 +1,38 @@
+﻿{
+  "name": "Tim Corey",
+  "country": "USA (M-Z)",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET, C#, ASP.NET Core",
+  "socials": {
+    "youtube": "https://youtube.com/user/IAmTimCorey",
+    "linkedin": "",
+    "twitter": "https://twitter.com/IAmTimCorey",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Podcast",
+      "url": "https://iamtimcorey.com/p/podcast"
+    },
+    {
+      "name": "Blog",
+      "url": "https://blog.iamtimcorey.com/"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-ptWR16ITQyYOglXyQmpzw"
+    }
+  ]
+}

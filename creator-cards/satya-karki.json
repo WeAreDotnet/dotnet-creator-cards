@@ -1,0 +1,42 @@
+﻿{
+  "name": "Satya Karki",
+  "country": "Philippines",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET, C#",
+  "socials": {
+    "youtube": "https://www.youtube.com/@RijSat",
+    "linkedin": "https://www.linkedin.com/in/satya-karki-a506b473/",
+    "twitter": "",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://rijsat.com/"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://rijsat.com/feed/"
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://rijsat.com/comments/feed/"
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjW952NiKz9dIOrWcYgIaWg"
+    }
+  ]
+}

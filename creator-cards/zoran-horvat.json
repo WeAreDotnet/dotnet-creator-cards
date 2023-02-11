@@ -1,0 +1,34 @@
+﻿{
+  "name": "Zoran Horvat",
+  "country": "Serbia",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET, C#, Architecture",
+  "socials": {
+    "youtube": "https://www.youtube.com/c/zh-code",
+    "linkedin": "",
+    "twitter": "https://twitter.com/zoranh75",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://codinghelmet.com/articles"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxsWfh8LCcn55mFB6zGBT1g"
+    }
+  ]
+}

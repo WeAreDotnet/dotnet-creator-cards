@@ -1,0 +1,42 @@
+﻿{
+  "name": "Microsoft Visual Studio",
+  "country": "👔 Official MSFT / .NET Foundation Content Resources / Xamarin",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET, Visual Studio",
+  "socials": {
+    "youtube": "https://www.youtube.com/c/visualstudio",
+    "linkedin": "",
+    "twitter": "",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://devblogs.microsoft.com/visualstudio/"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChqrDOwARrxdJF-ykAptc7w"
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://devblogs.microsoft.com/visualstudio/feed/"
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://devblogs.microsoft.com/visualstudio/comments/feed/"
+    }
+  ]
+}

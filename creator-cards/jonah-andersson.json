@@ -1,0 +1,42 @@
+﻿{
+  "name": "Jonah Andersson",
+  "country": "Sweden",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET, C#, Azure",
+  "socials": {
+    "youtube": "",
+    "linkedin": "",
+    "twitter": "https://twitter.com/cjkodare",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Linktree",
+      "url": "https://linktr.ee/jonahandersson"
+    },
+    {
+      "name": "Blog",
+      "url": "https://jonahandersson.tech/blog/"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://jonahandersson.tech/feed/"
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://jonahandersson.tech/comments/feed/"
+    }
+  ]
+}

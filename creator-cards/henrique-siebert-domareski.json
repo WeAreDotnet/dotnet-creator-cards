@@ -1,0 +1,34 @@
+﻿{
+  "name": "Henrique Siebert Domareski",
+  "country": "Netherlands",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET, Azure",
+  "socials": {
+    "youtube": "",
+    "linkedin": "https://www.linkedin.com/in/henriquesd",
+    "twitter": "",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://henriquesd.medium.com"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://medium.com/feed/@henriquesd"
+    }
+  ]
+}

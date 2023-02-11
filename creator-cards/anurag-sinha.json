@@ -1,0 +1,38 @@
+﻿{
+  "name": "Anurag Sinha",
+  "country": "India",
+  "slogan": "",
+  "bio": "",
+  "tags": "C#, .NET",
+  "socials": {
+    "youtube": "",
+    "linkedin": "",
+    "twitter": "https://twitter.com/awesomeanurag",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://techncodetools.com/blog/"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://techncodetools.com/feed/"
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://techncodetools.com/comments/feed/"
+    }
+  ]
+}

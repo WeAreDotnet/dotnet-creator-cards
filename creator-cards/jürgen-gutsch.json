@@ -1,0 +1,38 @@
+﻿{
+  "name": "Jürgen Gutsch",
+  "country": "Switzerland",
+  "slogan": "",
+  "bio": "",
+  "tags": "ASP.NET Core",
+  "socials": {
+    "youtube": "",
+    "linkedin": "",
+    "twitter": "https://twitter.com/sharpcms/",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://asp.net-hacker.rocks"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://asp.net-hacker.rocks/rss.xml"
+    },
+    {
+      "type": "LinkTagAtomType",
+      "url": "https://asp.net-hacker.rocks/atom.xml"
+    }
+  ]
+}

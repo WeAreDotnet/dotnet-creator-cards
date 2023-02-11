@@ -1,0 +1,46 @@
+﻿{
+  "name": "Jon Skeet",
+  "country": "United Kingdom (A-J)",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET, C#",
+  "socials": {
+    "youtube": "",
+    "linkedin": "",
+    "twitter": "https://twitter.com/jonskeet",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://codeblog.jonskeet.uk/"
+    },
+    {
+      "name": "Book",
+      "url": "https://csharpindepth.com/"
+    },
+    {
+      "name": "StackOverflow",
+      "url": "https://stackoverflow.com/users/22656/jon-skeet"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://codeblog.jonskeet.uk/feed/"
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://codeblog.jonskeet.uk/comments/feed/"
+    }
+  ]
+}

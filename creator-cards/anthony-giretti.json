@@ -1,0 +1,42 @@
+﻿{
+  "name": "Anthony Giretti",
+  "country": "Canada",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET, C#",
+  "socials": {
+    "youtube": "",
+    "linkedin": "https://www.linkedin.com/in/anthony-g-98670426/",
+    "twitter": "https://twitter.com/anthonygiretti",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://anthonygiretti.com/"
+    },
+    {
+      "name": "gRPC/ASP.NET (Book)",
+      "url": "https://www.amazon.com/Beginning-gRPC-ASP-NET-Core-Applications/dp/1484280075"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://anthonygiretti.com/feed/"
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://anthonygiretti.com/comments/feed/"
+    }
+  ]
+}

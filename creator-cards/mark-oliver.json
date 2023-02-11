@@ -1,0 +1,38 @@
+﻿{
+  "name": "Mark Oliver",
+  "country": "United Kingdom (K-Z)",
+  "slogan": "",
+  "bio": "",
+  "tags": "C#, .NET",
+  "socials": {
+    "youtube": "",
+    "linkedin": "https://www.linkedin.com/in/profileformarkoliver/",
+    "twitter": "https://twitter.com/MicbOliver",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://blog.markoliver.website/"
+    },
+    {
+      "name": "Blog RSS",
+      "url": "https://blog.markoliver.website/rss.xml"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "BlogRssTag",
+      "url": "https://blog.markoliver.website/rss.xml"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+﻿{
+  "name": "David McCarter",
+  "country": "USA (A-F)",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET, C#",
+  "socials": {
+    "youtube": "",
+    "linkedin": "",
+    "twitter": "https://twitter.com/realDotNetDave",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://dotnettips.wordpress.com/"
+    },
+    {
+      "name": "Live Show",
+      "url": "https://www.c-sharpcorner.com/live/rockin-the-code-world-with-dotnetdave"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://dotnettips.wordpress.com/feed/"
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://dotnettips.wordpress.com/comments/feed/"
+    }
+  ]
+}

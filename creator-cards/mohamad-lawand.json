@@ -1,0 +1,34 @@
+﻿{
+  "name": "Mohamad Lawand",
+  "country": "United Kingdom (K-Z)",
+  "slogan": "",
+  "bio": "",
+  "tags": "ASP.NET Core, .NET",
+  "socials": {
+    "youtube": "https://www.youtube.com/c/MohamadLawand",
+    "linkedin": "",
+    "twitter": "https://twitter.com/Moe23",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://dev.to/moe23"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9ao0wlk--d-bsjnCHBKDzA"
+    }
+  ]
+}

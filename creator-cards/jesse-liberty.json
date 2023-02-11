@@ -1,0 +1,46 @@
+﻿{
+  "name": "Jesse Liberty",
+  "country": "USA (G-L)",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET, C#, .NET MAUI, git",
+  "socials": {
+    "youtube": "",
+    "linkedin": "",
+    "twitter": "",
+    "github": "",
+    "mastodon": "https://hachyderm.io/@jesseliberty"
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://jesseliberty.com/"
+    },
+    {
+      "name": "Blog RSS",
+      "url": "http://feeds.feedburner.com/JesseLiberty"
+    },
+    {
+      "name": "Podcast",
+      "url": "https://jesseliberty.com/podcast"
+    },
+    {
+      "name": "Other",
+      "url": "https://jesseliberty.com/find-me"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "BlogRssTag",
+      "url": "http://feeds.feedburner.com/JesseLiberty"
+    }
+  ]
+}

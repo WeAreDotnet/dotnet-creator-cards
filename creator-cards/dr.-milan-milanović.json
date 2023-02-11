@@ -1,0 +1,42 @@
+﻿{
+  "name": "Dr. Milan Milanović",
+  "country": "Serbia",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET, C#, Azure, Architecture",
+  "socials": {
+    "youtube": "",
+    "linkedin": "https://www.linkedin.com/in/milanmilanovic/",
+    "twitter": "https://twitter.com/milan_milanovic",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://milan.milanovic.org/post/"
+    },
+    {
+      "name": "Newsletter",
+      "url": "https://newsletter.techworld-with-milan.com/"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://milan.milanovic.org/post/index.xml"
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://milan.milanovic.org/post/index.xml"
+    }
+  ]
+}

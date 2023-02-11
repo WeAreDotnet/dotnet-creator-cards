@@ -1,0 +1,34 @@
+﻿{
+  "name": "José Pablo Ramírez Vargas",
+  "country": "Costa Rica",
+  "slogan": "",
+  "bio": "",
+  "tags": "Architecture, .NET, ASP.NET Core, C#",
+  "socials": {
+    "youtube": "",
+    "linkedin": "https://www.linkedin.com/in/jos%C3%A9-pablo-ram%C3%ADrez-vargas-308b6180/",
+    "twitter": "",
+    "github": "https://github.com/webJose",
+    "mastodon": "https://dotnet.social/@webJose"
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://webjose.hashnode.dev"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "AHrefFeedType",
+      "url": "https://webjose.hashnode.dev/rss.xml"
+    }
+  ]
+}

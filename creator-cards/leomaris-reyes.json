@@ -1,0 +1,42 @@
+﻿{
+  "name": "Leomaris Reyes",
+  "country": "Dominican Republic",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET MAUI, Xamarin",
+  "socials": {
+    "youtube": "",
+    "linkedin": "https://www.linkedin.com/in/leomaris-reyes-1b598661",
+    "twitter": "https://twitter.com/leomarisreyes11",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://askxammy.com/"
+    },
+    {
+      "name": "Telerik",
+      "url": "https://www.telerik.com/blogs/author/leomaris-reyes"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://askxammy.com/feed/"
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://askxammy.com/comments/feed/"
+    }
+  ]
+}

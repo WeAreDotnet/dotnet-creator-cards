@@ -1,0 +1,42 @@
+﻿{
+  "name": "James Eastham",
+  "country": "United Kingdom (A-J)",
+  "slogan": "",
+  "bio": "",
+  "tags": "AWS, Serverless, .NET, C#",
+  "socials": {
+    "youtube": "https://www.youtube.com/channel/UCutBMcgLfbSfRL-MB5Bskxg",
+    "linkedin": "https://www.linkedin.com/in/james-eastham/",
+    "twitter": "",
+    "github": "",
+    "mastodon": "https://hachyderm.io/@plantpowerjames"
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Site",
+      "url": "https://serverlessdotnet.dev/"
+    },
+    {
+      "name": "Blog",
+      "url": "https://jameseastham.co.uk/"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCutBMcgLfbSfRL-MB5Bskxg"
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://jameseastham.co.uk/index.xml"
+    }
+  ]
+}

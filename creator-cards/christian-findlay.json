@@ -1,0 +1,30 @@
+﻿{
+  "name": "Christian Findlay",
+  "country": "Australia",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET, C#",
+  "socials": {
+    "youtube": "",
+    "linkedin": "",
+    "twitter": "https://twitter.com/cfdevelop",
+    "github": "",
+    "mastodon": "https://fosstodon.org/@cfdevelop"
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://christianfindlay.com"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    }
+  ]
+}

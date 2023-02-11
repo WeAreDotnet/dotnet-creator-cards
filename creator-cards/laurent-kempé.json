@@ -1,0 +1,34 @@
+﻿{
+  "name": "Laurent Kempé",
+  "country": "France",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET, C#, WebAssembly",
+  "socials": {
+    "youtube": "",
+    "linkedin": "https://www.linkedin.com/in/laurentkempe/",
+    "twitter": "https://twitter.com/laurentkempe",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://laurentkempe.com/"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagAtomType",
+      "url": "https://laurentkempe.com/atom.xml"
+    }
+  ]
+}

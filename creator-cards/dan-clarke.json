@@ -1,0 +1,42 @@
+﻿{
+  "name": "Dan Clarke",
+  "country": "United Kingdom (A-J)",
+  "slogan": "",
+  "bio": "",
+  "tags": "Podcast, .NET",
+  "socials": {
+    "youtube": "https://www.youtube.com/@danclarkeuk",
+    "linkedin": "",
+    "twitter": "https://twitter.com/dracan",
+    "github": "",
+    "mastodon": "https://mstdn.social/@danclarke"
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://www.danclarke.com/"
+    },
+    {
+      "name": "Podcast",
+      "url": "https://unhandledexceptionpodcast.com/"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.danclarke.com/rss"
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCB1t80pX8DqYt4tUGX8zc1g"
+    }
+  ]
+}

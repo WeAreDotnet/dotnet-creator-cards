@@ -1,0 +1,34 @@
+﻿{
+  "name": "Dave Murray",
+  "country": "United Kingdom (A-J)",
+  "slogan": "",
+  "bio": "",
+  "tags": "Xamarin",
+  "socials": {
+    "youtube": "",
+    "linkedin": "https://www.linkedin.com/in/dave-murray-glasgow/",
+    "twitter": "",
+    "github": "",
+    "mastodon": "https://mastodon.scot/@irongut"
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://blog.taranissoftware.com/"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "AHrefFeedType",
+      "url": "https://blog.taranissoftware.com/rss.xml"
+    }
+  ]
+}

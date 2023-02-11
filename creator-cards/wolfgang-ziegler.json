@@ -1,0 +1,34 @@
+﻿{
+  "name": "Wolfgang Ziegler",
+  "country": "Austria",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET MAUI, C#",
+  "socials": {
+    "youtube": "",
+    "linkedin": "https://www.linkedin.com/in/wolfgangz/",
+    "twitter": "",
+    "github": "",
+    "mastodon": "https://fosstodon.org/@wolfgang@hachyderm.io"
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://wolfgang-ziegler.com/"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://wolfgang-ziegler.com/blog/rss"
+    }
+  ]
+}

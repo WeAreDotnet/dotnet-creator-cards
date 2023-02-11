@@ -1,0 +1,34 @@
+﻿{
+  "name": "SingletonSean",
+  "country": "USA (M-Z)",
+  "slogan": "",
+  "bio": "",
+  "tags": "WPF, .NET, C#",
+  "socials": {
+    "youtube": "https://www.youtube.com/c/SingletonSean",
+    "linkedin": "",
+    "twitter": "",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://seandodson.com/"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7X9mQ_XtTYWzr9Tf_NYcIg"
+    }
+  ]
+}

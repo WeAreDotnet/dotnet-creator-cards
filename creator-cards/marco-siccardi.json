@@ -1,0 +1,38 @@
+﻿{
+  "name": "Marco Siccardi",
+  "country": "Switzerland",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET, C#, Xamarin",
+  "socials": {
+    "youtube": "",
+    "linkedin": "https://www.linkedin.com/in/msicc/",
+    "twitter": "",
+    "github": "",
+    "mastodon": "https://mastodon.social/@msicc"
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://msicc.net/"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://msicc.net/feed/"
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://msicc.net/comments/feed/"
+    }
+  ]
+}

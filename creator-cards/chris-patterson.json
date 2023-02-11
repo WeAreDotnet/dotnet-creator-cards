@@ -1,0 +1,30 @@
+﻿{
+  "name": "Chris Patterson",
+  "country": "USA (A-F)",
+  "slogan": "",
+  "bio": "",
+  "tags": "MassTransit",
+  "socials": {
+    "youtube": "https://www.youtube.com/c/PhatBoyG",
+    "linkedin": "https://www.linkedin.com/in/chrispatterson/",
+    "twitter": "https://twitter.com/PhatBoyG",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjC-E0zi1ZokFmshlcq691Q"
+    }
+  ]
+}

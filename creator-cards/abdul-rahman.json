@@ -1,0 +1,30 @@
+﻿{
+  "name": "Abdul Rahman",
+  "country": "India",
+  "slogan": "",
+  "bio": "",
+  "tags": "C#, .NET",
+  "socials": {
+    "youtube": "",
+    "linkedin": "https://www.linkedin.com/in/fingers10/",
+    "twitter": "",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Site",
+      "url": "https://www.ilovedotnet.org"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    }
+  ]
+}

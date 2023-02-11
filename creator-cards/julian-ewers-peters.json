@@ -1,0 +1,34 @@
+﻿{
+  "name": "Julian Ewers-Peters",
+  "country": "Germany",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET, C#, MVVM, .NET MAUI, Xamarin.Forms",
+  "socials": {
+    "youtube": "",
+    "linkedin": "https://linkedin.com/in/jewerspeters",
+    "twitter": "",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://ewerspej.hashnode.dev"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "AHrefFeedType",
+      "url": "https://ewerspej.hashnode.dev/rss.xml"
+    }
+  ]
+}

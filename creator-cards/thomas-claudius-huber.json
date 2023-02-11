@@ -1,0 +1,30 @@
+﻿{
+  "name": "Thomas Claudius Huber",
+  "country": "Germany",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET, C#, Blazor, WinUI 3",
+  "socials": {
+    "youtube": "",
+    "linkedin": "",
+    "twitter": "https://twitter.com/thomasclaudiush",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Pluralsight",
+      "url": "https://app.pluralsight.com/profile/author/thomas-huber"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    }
+  ]
+}

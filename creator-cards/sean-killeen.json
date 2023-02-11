@@ -1,0 +1,42 @@
+﻿{
+  "name": "Sean Killeen",
+  "country": "USA (M-Z)",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET, C#, Automated Testing, Azure, Terraform",
+  "socials": {
+    "youtube": "https://www.youtube.com/SeanKilleen",
+    "linkedin": "https://linkedin.com/in/SeanKilleen",
+    "twitter": "https://twitter.com/sjkilleen",
+    "github": "",
+    "mastodon": "https://mastodon.social/@sjkilleen"
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://seankilleen.com/"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagAtomType",
+      "url": "https://seankilleen.com/feed.xml"
+    },
+    {
+      "type": "AHrefFeedType",
+      "url": "https://seankilleen.com/feed.xml"
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCilIuboVxEjp6aQpmCnEdKw"
+    }
+  ]
+}

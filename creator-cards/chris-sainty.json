@@ -1,0 +1,38 @@
+﻿{
+  "name": "Chris Sainty",
+  "country": "United Kingdom (A-J)",
+  "slogan": "",
+  "bio": "",
+  "tags": "Blazor",
+  "socials": {
+    "youtube": "",
+    "linkedin": "",
+    "twitter": "https://twitter.com/chris_sainty",
+    "github": "",
+    "mastodon": "https://mstdn.social/@chrissainty"
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://chrissainty.com/"
+    },
+    {
+      "name": "Blazor in Action (Book)",
+      "url": "https://bit.ly/blazorinaction"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://chrissainty.com/rss/"
+    }
+  ]
+}

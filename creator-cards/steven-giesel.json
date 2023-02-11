@@ -1,0 +1,34 @@
+﻿{
+  "name": "Steven Giesel",
+  "country": "Switzerland",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET, C#, Blazor",
+  "socials": {
+    "youtube": "",
+    "linkedin": "https://www.linkedin.com/in/steven-giesel/",
+    "twitter": "",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://steven-giesel.com"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "AHrefFeedType",
+      "url": "https://steven-giesel.com/feed.rss"
+    }
+  ]
+}

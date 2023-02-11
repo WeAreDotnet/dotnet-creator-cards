@@ -1,0 +1,34 @@
+﻿{
+  "name": "Jhonatan Oliveira",
+  "country": "Canada",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET, C#, ASP.NET Core, .NET MAUI",
+  "socials": {
+    "youtube": "",
+    "linkedin": "https://www.linkedin.com/in/jhonatanfernando/",
+    "twitter": "https://twitter.com/jhonatanfoliv",
+    "github": "https://github.com/jhonatanfernando",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://blog.jhonatanoliveira.dev/"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "AHrefFeedType",
+      "url": "https://blog.jhonatanoliveira.dev/rss.xml"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+﻿{
+  "name": "Steven Checo",
+  "country": "Dominican Republic",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET MAUI",
+  "socials": {
+    "youtube": "",
+    "linkedin": "",
+    "twitter": "",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://checox.com"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://checox.com/feed/"
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://checox.com/comments/feed/"
+    }
+  ]
+}

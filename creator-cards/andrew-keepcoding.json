@@ -1,0 +1,30 @@
+﻿{
+  "name": "Andrew KeepCoding",
+  "country": "Japan",
+  "slogan": "",
+  "bio": "",
+  "tags": "WinAppSDK, WinUI 3",
+  "socials": {
+    "youtube": "https://www.youtube.com/c/AndrewKeepCoding/",
+    "linkedin": "",
+    "twitter": "https://twitter.com/AndrewKeepCodin",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbsuXcQJCsrHgsQvUxO_NZw"
+    }
+  ]
+}

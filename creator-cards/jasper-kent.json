@@ -1,0 +1,30 @@
+﻿{
+  "name": "Jasper Kent",
+  "country": "United Kingdom (A-J)",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET, C#",
+  "socials": {
+    "youtube": "https://www.youtube.com/@CodingTutorialsAreGo",
+    "linkedin": "https://www.linkedin.com/in/jasper-kent-48a976104/",
+    "twitter": "https://twitter.com/LastOprichnik",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqWQzlUDdllnLmtgfSgYTCA"
+    }
+  ]
+}

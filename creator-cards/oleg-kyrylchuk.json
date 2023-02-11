@@ -1,0 +1,34 @@
+﻿{
+  "name": "Oleg Kyrylchuk",
+  "country": "Poland",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET, C#",
+  "socials": {
+    "youtube": "",
+    "linkedin": "https://www.linkedin.com/in/okyrylchuk/",
+    "twitter": "https://twitter.com/okyrylchuk",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://blog.okyrylchuk.dev/"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "AHrefFeedType",
+      "url": "https://blog.okyrylchuk.dev/rss.xml"
+    }
+  ]
+}

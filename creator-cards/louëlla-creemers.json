@@ -1,0 +1,38 @@
+﻿{
+  "name": "Louëlla Creemers",
+  "country": "Netherlands",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET, C#, Architecture",
+  "socials": {
+    "youtube": "",
+    "linkedin": "",
+    "twitter": "https://twitter.com/lovelacecoding",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://lovelacecoding.hashnode.dev/"
+    },
+    {
+      "name": "Bio.Link",
+      "url": "https://bio.link/lovelacecoding"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "AHrefFeedType",
+      "url": "https://lovelacecoding.hashnode.dev/rss.xml"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+﻿{
+  "name": "Davide Bellone",
+  "country": "Italy",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET",
+  "socials": {
+    "youtube": "",
+    "linkedin": "https://www.linkedin.com/in/bellonedavide/",
+    "twitter": "https://twitter.com/BelloneDavide",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://www.code4it.dev"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.code4it.dev/rss.xml"
+    },
+    {
+      "type": "AHrefFeedType",
+      "url": "https://www.code4it.dev/rss.xml"
+    }
+  ]
+}

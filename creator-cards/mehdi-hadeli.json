@@ -1,0 +1,42 @@
+﻿{
+  "name": "Mehdi Hadeli",
+  "country": "Iran",
+  "slogan": "",
+  "bio": "",
+  "tags": "Architecture, .NET, ASP.NET Core",
+  "socials": {
+    "youtube": "",
+    "linkedin": "",
+    "twitter": "https://twitter.com/mehdi_hadeli",
+    "github": "https://github.com/mehdihadeli",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://www.mehdihadeli.com/"
+    },
+    {
+      "name": "Blog RSS",
+      "url": "https://www.mehdihadeli.com/rss"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "AHrefFeedType",
+      "url": "https://www.mehdihadeli.com/rss.xml"
+    },
+    {
+      "type": "BlogRssTag",
+      "url": "https://www.mehdihadeli.com/rss"
+    }
+  ]
+}

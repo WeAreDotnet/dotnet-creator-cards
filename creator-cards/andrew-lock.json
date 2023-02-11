@@ -1,0 +1,38 @@
+﻿{
+  "name": "Andrew Lock",
+  "country": "United Kingdom (A-J)",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET, C#, ASP.NET Core",
+  "socials": {
+    "youtube": "",
+    "linkedin": "https://www.linkedin.com/in/andrewdlock/",
+    "twitter": "https://twitter.com/andrewlocknet",
+    "github": "",
+    "mastodon": "https://hachyderm.io/@andrewlock"
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://andrewlock.net/"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://andrewlock.net/rss.xml"
+    },
+    {
+      "type": "AHrefFeedType",
+      "url": "https://andrewlock.net/rss.xml"
+    }
+  ]
+}

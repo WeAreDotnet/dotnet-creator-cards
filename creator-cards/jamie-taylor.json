@@ -1,0 +1,34 @@
+﻿{
+  "name": "Jamie Taylor",
+  "country": "United Kingdom (A-J)",
+  "slogan": "",
+  "bio": "",
+  "tags": "Podcast, .NET",
+  "socials": {
+    "youtube": "https://www.youtube.com/c/JamieTaylorDotNetCore/videos",
+    "linkedin": "",
+    "twitter": "https://twitter.com/dotnetcoreshow/",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Podcast",
+      "url": "https://dotnetcore.show"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTDz8IxVCKPmhLemR9eOLPQ"
+    }
+  ]
+}

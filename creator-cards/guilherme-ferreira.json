@@ -1,0 +1,38 @@
+﻿{
+  "name": "Guilherme Ferreira",
+  "country": "Portugal",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET, C#, Architecture",
+  "socials": {
+    "youtube": "https://www.youtube.com/user/guilhermeasferreira",
+    "linkedin": "https://www.linkedin.com/in/gferreira/",
+    "twitter": "https://twitter.com/gsferreira",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://gsferreira.com"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "AHrefFeedType",
+      "url": "https://gsferreira.com/feed.xml"
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGd8ACZ918e3EjbWxiuyK-A"
+    }
+  ]
+}

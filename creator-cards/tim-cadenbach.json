@@ -1,0 +1,30 @@
+﻿{
+  "name": "Tim Cadenbach",
+  "country": "Germany",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET Core, ASP.NET Core",
+  "socials": {
+    "youtube": "",
+    "linkedin": "",
+    "twitter": "https://twitter.com/timcadenbach",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://www.tcdev.de/blog"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    }
+  ]
+}

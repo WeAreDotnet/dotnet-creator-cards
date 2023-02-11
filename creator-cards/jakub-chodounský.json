@@ -1,0 +1,38 @@
+﻿{
+  "name": "Jakub Chodounský",
+  "country": "New Zealand",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET",
+  "socials": {
+    "youtube": "",
+    "linkedin": "",
+    "twitter": "https://twitter.com/jakubgarfield",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Newsletter (csharpdigest.net)",
+      "url": "https://csharpdigest.net/"
+    },
+    {
+      "name": "Blog",
+      "url": "https://chodounsky.com/"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagAtomType",
+      "url": "https://chodounsky.com/feed.xml"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+﻿{
+  "name": "Mark Heath",
+  "country": "United Kingdom (K-Z)",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET, ASP.NET Core, Azure",
+  "socials": {
+    "youtube": "",
+    "linkedin": "",
+    "twitter": "https://twitter.com/mark_heath",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Pluralsight",
+      "url": "https://app.pluralsight.com/profile/author/mark-heath"
+    },
+    {
+      "name": "Blog",
+      "url": "https://markheath.net"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://markheath.net/feed/rss/"
+    },
+    {
+      "type": "LinkTagAtomType",
+      "url": "https://markheath.net/feed/atom/"
+    }
+  ]
+}

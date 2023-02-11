@@ -1,0 +1,46 @@
+﻿{
+  "name": "John Reilly",
+  "country": "United Kingdom (A-J)",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET",
+  "socials": {
+    "youtube": "",
+    "linkedin": "",
+    "twitter": "https://twitter.com/johnny_reilly",
+    "github": "",
+    "mastodon": "https://fosstodon.org/@johnny_reilly"
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://blog.johnnyreilly.com"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://blog.johnnyreilly.com/rss.xml"
+    },
+    {
+      "type": "LinkTagAtomType",
+      "url": "https://blog.johnnyreilly.com/atom.xml"
+    },
+    {
+      "type": "AHrefFeedType",
+      "url": "https://johnnyreilly.com/rss.xml"
+    },
+    {
+      "type": "AHrefFeedType",
+      "url": "https://johnnyreilly.com/atom.xml"
+    }
+  ]
+}

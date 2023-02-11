@@ -1,0 +1,46 @@
+﻿{
+  "name": "Les Jackson",
+  "country": "Australia",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET MAUI, ASP.NET Core, Blazor",
+  "socials": {
+    "youtube": "https://www.youtube.com/c/binarythistle",
+    "linkedin": "",
+    "twitter": "https://twitter.com/binarythistle",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://dotnetplaybook.com/"
+    },
+    {
+      "name": "Linktree",
+      "url": "https://linktr.ee/binarythistle"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIMRGVXufHT69s1uaHHYJIA"
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://dotnetplaybook.com/feed/"
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://dotnetplaybook.com/comments/feed/"
+    }
+  ]
+}

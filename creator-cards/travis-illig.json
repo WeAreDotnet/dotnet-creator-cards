@@ -1,0 +1,34 @@
+﻿{
+  "name": "Travis Illig",
+  "country": "USA (M-Z)",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET, C#",
+  "socials": {
+    "youtube": "",
+    "linkedin": "https://www.linkedin.com/in/tillig/",
+    "twitter": "https://twitter.com/tillig",
+    "github": "https://github.com/tillig",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://www.paraesthesia.com/"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagAtomType",
+      "url": "https://feeds.feedburner.com/Paraesthesia"
+    }
+  ]
+}

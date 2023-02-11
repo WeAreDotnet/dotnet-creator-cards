@@ -1,0 +1,34 @@
+﻿{
+  "name": "Carl Franklin",
+  "country": "USA (A-F)",
+  "slogan": "",
+  "bio": "",
+  "tags": "Blazor",
+  "socials": {
+    "youtube": "",
+    "linkedin": "",
+    "twitter": "https://twitter.com/carlfranklin",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Podcast",
+      "url": "https://www.dotnetrocks.com/"
+    },
+    {
+      "name": "BlazorTrain YouTube",
+      "url": "https://www.youtube.com/playlist?list=PL8h4jt35t1wjvwFnvcB2LlYL4jLRzRmoz"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+﻿{
+  "name": "Derek Comartin",
+  "country": "Canada",
+  "slogan": "",
+  "bio": "",
+  "tags": "Architecture, .NET",
+  "socials": {
+    "youtube": "https://www.youtube.com/channel/UC3RKA4vunFAfrfxiJhPEplw",
+    "linkedin": "https://www.linkedin.com/in/dcomartin/",
+    "twitter": "https://twitter.com/codeopinion",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://codeopinion.com"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC3RKA4vunFAfrfxiJhPEplw"
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://codeopinion.com/feed/"
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://codeopinion.com/comments/feed/"
+    }
+  ]
+}

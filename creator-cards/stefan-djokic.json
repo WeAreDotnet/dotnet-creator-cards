@@ -1,0 +1,30 @@
+﻿{
+  "name": "Stefan Djokic",
+  "country": "Serbia",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET, C#, Architecture, EntityFramework",
+  "socials": {
+    "youtube": "",
+    "linkedin": "https://www.linkedin.com/in/djokic-stefan/",
+    "twitter": "https://twitter.com/TheCodeMan__",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://www.exlrt.com/blog?a=stefan-djokic"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    }
+  ]
+}

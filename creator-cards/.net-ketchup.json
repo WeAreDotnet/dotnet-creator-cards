@@ -1,0 +1,30 @@
+﻿{
+  "name": ".NET Ketchup",
+  "country": "🐙 Aggregator Sites",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET, Aggregator Site",
+  "socials": {
+    "youtube": "",
+    "linkedin": "",
+    "twitter": "",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Site",
+      "url": "https://dotnetketchup.com"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    }
+  ]
+}

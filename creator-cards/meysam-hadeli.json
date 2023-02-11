@@ -1,0 +1,34 @@
+﻿{
+  "name": "Meysam Hadeli",
+  "country": "Iran",
+  "slogan": "",
+  "bio": "",
+  "tags": "Microservices, .NET, ASP.NET Core",
+  "socials": {
+    "youtube": "",
+    "linkedin": "",
+    "twitter": "https://twitter.com/meysamhadeli",
+    "github": "https://github.com/meysamhadeli",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://meysamhadeli.com"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://meysamhadeli.com/rss.xml"
+    }
+  ]
+}

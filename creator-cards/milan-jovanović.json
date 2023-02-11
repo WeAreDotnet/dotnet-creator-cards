@@ -1,0 +1,38 @@
+﻿{
+  "name": "Milan Jovanović",
+  "country": "Serbia",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET, C#, Architecture",
+  "socials": {
+    "youtube": "https://www.youtube.com/c/MilanJovanovicTech",
+    "linkedin": "https://www.linkedin.com/in/milan-jovanovic",
+    "twitter": "https://twitter.com/mjovanovictech",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://www.milanjovanovic.tech/blog"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.milanjovanovic.tech/rss/feed.xml"
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCC_dVe-RI-vgCZfls06mDZQ"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+﻿{
+  "name": "Steve Ardalis Smith",
+  "country": "USA (M-Z)",
+  "slogan": "",
+  "bio": "",
+  "tags": "Domain-Driven Design, Clean Architecture, .NET",
+  "socials": {
+    "youtube": "",
+    "linkedin": "https://www.linkedin.com/in/stevenandrewsmith/",
+    "twitter": "https://twitter.com/ardalis",
+    "github": "",
+    "mastodon": "https://fosstodon.org/@ardalis"
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://ardalis.com/blog"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://ardalis.com/rss.xml/"
+    }
+  ]
+}

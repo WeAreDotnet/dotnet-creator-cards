@@ -1,0 +1,38 @@
+﻿{
+  "name": "Christian Nagel",
+  "country": "Austria",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET, C#",
+  "socials": {
+    "youtube": "",
+    "linkedin": "",
+    "twitter": "https://twitter.com/ChristianNagel",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://csharp.christiannagel.com"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://csharp.christiannagel.com/feed/"
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://csharp.christiannagel.com/comments/feed/"
+    }
+  ]
+}

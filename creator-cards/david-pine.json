@@ -1,0 +1,34 @@
+﻿{
+  "name": "David Pine",
+  "country": "USA (A-F)",
+  "slogan": "",
+  "bio": "",
+  "tags": "Blazor",
+  "socials": {
+    "youtube": "",
+    "linkedin": "",
+    "twitter": "https://twitter.com/davidpine7",
+    "github": "",
+    "mastodon": "https://fosstodon.org/@davidpine@dotnet.social"
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://davidpine.net/blog"
+    },
+    {
+      "name": "Learning Blazor (Book)",
+      "url": "https://bit.ly/learning-blazor"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    }
+  ]
+}

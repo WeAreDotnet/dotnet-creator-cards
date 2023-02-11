@@ -1,0 +1,42 @@
+﻿{
+  "name": "Jérémy BRUN-PICARD",
+  "country": "France",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET, Xamarin/MAUI, Architecture",
+  "socials": {
+    "youtube": "",
+    "linkedin": "https://www.linkedin.com/in/jeremybrunpicard/",
+    "twitter": "https://twitter.com/jbrunpicard",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://www.respawnsive.com/en/author/jeremy-brunpicardrespawnsive-com/"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.respawnsive.com/en/feed/"
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.respawnsive.com/en/comments/feed/"
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.respawnsive.com/en/author/jeremy-brunpicardrespawnsive-com/feed/"
+    }
+  ]
+}

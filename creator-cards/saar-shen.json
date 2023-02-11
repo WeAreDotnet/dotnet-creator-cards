@@ -1,0 +1,34 @@
+﻿{
+  "name": "Saar Shen",
+  "country": "USA (M-Z)",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET, C#",
+  "socials": {
+    "youtube": "https://youtube.com/c/CodewithSaar",
+    "linkedin": "",
+    "twitter": "https://twitter.com/CodeWithSaar",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Site",
+      "url": "https://www.codewithsaar.net/"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFVGdkhRh174GKg9gVEhY6A"
+    }
+  ]
+}

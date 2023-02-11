@@ -1,0 +1,38 @@
+﻿{
+  "name": "Chris Woodruff",
+  "country": "USA (A-F)",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET, C#, Web APIs, EFCore, MSSQL",
+  "socials": {
+    "youtube": "",
+    "linkedin": "https://www.linkedin.com/in/chriswoodruff/",
+    "twitter": "https://twitter.com/cwoodruff",
+    "github": "",
+    "mastodon": "https://mastodon.social/@cwoodruff"
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://woodruff.dev/"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://woodruff.dev/feed/"
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://woodruff.dev/comments/feed/"
+    }
+  ]
+}

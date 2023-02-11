@@ -1,0 +1,34 @@
+﻿{
+  "name": "Alexis Chân GRIDEL",
+  "country": "France",
+  "slogan": "",
+  "bio": "",
+  "tags": "C#, .NET",
+  "socials": {
+    "youtube": "",
+    "linkedin": "https://www.linkedin.com/in/alexisgridel/",
+    "twitter": "https://twitter.com/alexiscgridel",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://agdl.dev"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "AHrefFeedType",
+      "url": "https://agdl.dev/feed.rss"
+    }
+  ]
+}

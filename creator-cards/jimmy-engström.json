@@ -1,0 +1,38 @@
+﻿{
+  "name": "Jimmy Engström",
+  "country": "Sweden",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET, Blazor, Podcast",
+  "socials": {
+    "youtube": "",
+    "linkedin": "",
+    "twitter": "https://twitter.com/EngstromJimmy",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Podcast",
+      "url": "https://www.codingafterwork.com/"
+    },
+    {
+      "name": "Blog",
+      "url": "https://engstromjimmy.com/"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://engstromjimmy.com/feed/rss/"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+﻿{
+  "name": "Gavin Lon",
+  "country": "United Kingdom (A-J)",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET, Blazor",
+  "socials": {
+    "youtube": "https://www.youtube.com/c/GavinLon/",
+    "linkedin": "",
+    "twitter": "",
+    "github": "https://github.com/gavinlondigital",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCa-Qgwt5VxN0iP3q6reHN6g"
+    }
+  ]
+}

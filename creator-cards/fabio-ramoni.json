@@ -1,0 +1,30 @@
+﻿{
+  "name": "Fabio Ramoni",
+  "country": "Italy",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET, SQL",
+  "socials": {
+    "youtube": "",
+    "linkedin": "",
+    "twitter": "https://twitter.com/developer_fabio",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Twitter Threads (GitHub)",
+      "url": "https://github.com/FabioDeveloper92/developer_fabio_twitter_threads"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    }
+  ]
+}

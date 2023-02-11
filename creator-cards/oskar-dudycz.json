@@ -1,0 +1,42 @@
+﻿{
+  "name": "Oskar Dudycz",
+  "country": "Poland",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET, Event-Driven Architecture",
+  "socials": {
+    "youtube": "",
+    "linkedin": "https://www.linkedin.com/in/oskardudycz/",
+    "twitter": "https://twitter.com/oskar_at_net",
+    "github": "",
+    "mastodon": "https://hachyderm.io/@oskardudycz"
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://event-driven.io/en/"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://event-driven.io/rss.xml"
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://event-driven.io/newsletter-pl-rss.xml"
+    },
+    {
+      "type": "AHrefFeedType",
+      "url": "https://event-driven.io/rss.xml"
+    }
+  ]
+}

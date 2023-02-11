@@ -1,0 +1,38 @@
+﻿{
+  "name": "Jason Taylor",
+  "country": "Australia",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET",
+  "socials": {
+    "youtube": "",
+    "linkedin": "https://www.linkedin.com/in/jasontaylordev/",
+    "twitter": "https://twitter.com/jasontaylordev",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://jasontaylor.dev/"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://jasontaylor.dev/feed/"
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://jasontaylor.dev/comments/feed/"
+    }
+  ]
+}

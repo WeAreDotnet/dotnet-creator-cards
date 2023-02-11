@@ -1,0 +1,34 @@
+﻿{
+  "name": ".NET Foundation",
+  "country": "👔 Official MSFT / .NET Foundation Content Resources / Xamarin",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET",
+  "socials": {
+    "youtube": "https://www.youtube.com/c/NETFoundation",
+    "linkedin": "",
+    "twitter": "",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Site",
+      "url": "https://twitter.com/dotnetfdn"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCiaZbznpWV1o-KLxj8zqR6A"
+    }
+  ]
+}

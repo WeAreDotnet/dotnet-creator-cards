@@ -1,0 +1,46 @@
+﻿{
+  "name": "James Montemagno",
+  "country": "USA (G-L)",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET MAUI, .NET, Podcast",
+  "socials": {
+    "youtube": "https://www.youtube.com/c/JamesMontemagno",
+    "linkedin": "https://linkedin.com/in/jamesmontemagno",
+    "twitter": "https://twitter.com/jamesmontemagno",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://montemagno.com"
+    },
+    {
+      "name": "Podcast",
+      "url": "https://www.mergeconflict.fm/"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCENTmbKaTphpWV2R2evVz2A"
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://montemagno.com/rss/"
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://montemagno.com/rss/"
+    }
+  ]
+}

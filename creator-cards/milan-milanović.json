@@ -1,0 +1,38 @@
+﻿{
+  "name": "Milan Milanović",
+  "country": "Serbia",
+  "slogan": "",
+  "bio": "",
+  "tags": "",
+  "socials": {
+    "youtube": "",
+    "linkedin": "https://www.linkedin.com/in/milanmilanovic/",
+    "twitter": "https://twitter.com/milan_milanovic",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://milan.milanovic.org/post/"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://milan.milanovic.org/post/index.xml"
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://milan.milanovic.org/post/index.xml"
+    }
+  ]
+}

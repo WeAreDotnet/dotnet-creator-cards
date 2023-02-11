@@ -1,0 +1,42 @@
+﻿{
+  "name": "Claudio Bernasconi",
+  "country": "Switzerland",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET, .NET MAUI",
+  "socials": {
+    "youtube": "https://youtube.com/claudiobernasconi",
+    "linkedin": "",
+    "twitter": "https://twitter.com/CHBernasconiC",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://www.claudiobernasconi.ch/"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTbHPk0bIOQwTXuGgD195bw"
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.claudiobernasconi.ch/feed/"
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.claudiobernasconi.ch/comments/feed/"
+    }
+  ]
+}

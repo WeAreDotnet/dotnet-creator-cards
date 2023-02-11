@@ -1,0 +1,38 @@
+﻿{
+  "name": "Martin Zikmund",
+  "country": "Czechia Republic",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET, C#, Uno Platform",
+  "socials": {
+    "youtube": "",
+    "linkedin": "",
+    "twitter": "https://twitter.com/mzikmunddev",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://blog.mzikmund.com/"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://blog.mzikmund.com/feed/"
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://blog.mzikmund.com/comments/feed/"
+    }
+  ]
+}

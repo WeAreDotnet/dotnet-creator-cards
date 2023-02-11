@@ -1,0 +1,38 @@
+﻿{
+  "name": "Maarten Balliauw",
+  "country": "Belgium",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET, C#, ASP.NET Core",
+  "socials": {
+    "youtube": "",
+    "linkedin": "https://www.linkedin.com/in/maartenballiauw/",
+    "twitter": "https://twitter.com/maartenballiauw",
+    "github": "",
+    "mastodon": "https://mastodon.online/@maartenballiauw"
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://blog.maartenballiauw.be/"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagAtomType",
+      "url": "https://blog.maartenballiauw.be/feed.xml"
+    },
+    {
+      "type": "AHrefFeedType",
+      "url": "https://blog.maartenballiauw.be/feed.xml"
+    }
+  ]
+}

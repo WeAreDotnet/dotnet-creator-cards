@@ -1,0 +1,38 @@
+﻿{
+  "name": "Anto Subash",
+  "country": "India",
+  "slogan": "",
+  "bio": "",
+  "tags": ".NET, Docker, ABP Framework",
+  "socials": {
+    "youtube": "https://www.youtube.com/c/AntoSubash",
+    "linkedin": "",
+    "twitter": "https://twitter.com/antosubash",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "Blog",
+      "url": "https://blog.antosubash.com"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "rss",
+      "url": ""
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCRyNnl63sHPuZ1aDye1Wg2w"
+    },
+    {
+      "type": "AHrefFeedType",
+      "url": "https://blog.antosubash.com/rss.xml"
+    }
+  ]
+}
