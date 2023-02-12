@@ -13,19 +13,11 @@
   },
   "channels": [
     {
-      "name": "",
-      "url": ""
-    },
-    {
       "name": "Blog",
       "url": "https://www.milanjovanovic.tech/blog"
     }
   ],
   "feeds": [
-    {
-      "type": "rss",
-      "url": ""
-    },
     {
       "type": "LinkTagRssType",
       "url": "https://www.milanjovanovic.tech/rss/feed.xml"

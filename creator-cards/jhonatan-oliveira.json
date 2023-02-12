@@ -13,19 +13,11 @@
   },
   "channels": [
     {
-      "name": "",
-      "url": ""
-    },
-    {
       "name": "Blog",
       "url": "https://blog.jhonatanoliveira.dev/"
     }
   ],
   "feeds": [
-    {
-      "type": "rss",
-      "url": ""
-    },
     {
       "type": "AHrefFeedType",
       "url": "https://blog.jhonatanoliveira.dev/rss.xml"

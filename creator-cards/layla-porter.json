@@ -13,10 +13,6 @@
   },
   "channels": [
     {
-      "name": "",
-      "url": ""
-    },
-    {
       "name": "Twitch",
       "url": "https://www.twitch.tv/laylacodesit"
     },
@@ -25,10 +21,5 @@
       "url": "https://www.layla.dev/"
     }
   ],
-  "feeds": [
-    {
-      "type": "rss",
-      "url": ""
-    }
-  ]
+  "feeds": []
 }

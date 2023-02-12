@@ -13,19 +13,11 @@
   },
   "channels": [
     {
-      "name": "",
-      "url": ""
-    },
-    {
       "name": "Blog",
       "url": "https://reflectionit.nl/blog"
     }
   ],
   "feeds": [
-    {
-      "type": "rss",
-      "url": ""
-    },
     {
       "type": "LinkTagRssType",
       "url": "https://www.reflectionit.nl/blog/rss"

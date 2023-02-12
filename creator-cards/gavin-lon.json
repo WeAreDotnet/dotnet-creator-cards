@@ -11,17 +11,8 @@
     "github": "https://github.com/gavinlondigital",
     "mastodon": ""
   },
-  "channels": [
-    {
-      "name": "",
-      "url": ""
-    }
-  ],
+  "channels": [],
   "feeds": [
-    {
-      "type": "rss",
-      "url": ""
-    },
     {
       "type": "LinkTagRssType",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCa-Qgwt5VxN0iP3q6reHN6g"

@@ -13,19 +13,11 @@
   },
   "channels": [
     {
-      "name": "",
-      "url": ""
-    },
-    {
       "name": "Blog",
       "url": "https://blog.ploeh.dk/"
     }
   ],
   "feeds": [
-    {
-      "type": "rss",
-      "url": ""
-    },
     {
       "type": "LinkTagRssType",
       "url": "https://blog.ploeh.dk/rss.xml"

@@ -13,19 +13,11 @@
   },
   "channels": [
     {
-      "name": "",
-      "url": ""
-    },
-    {
       "name": "Blog",
       "url": "https://agdl.dev"
     }
   ],
   "feeds": [
-    {
-      "type": "rss",
-      "url": ""
-    },
     {
       "type": "AHrefFeedType",
       "url": "https://agdl.dev/feed.rss"

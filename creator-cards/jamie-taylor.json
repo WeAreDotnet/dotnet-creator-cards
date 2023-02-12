@@ -13,19 +13,11 @@
   },
   "channels": [
     {
-      "name": "",
-      "url": ""
-    },
-    {
       "name": "Podcast",
       "url": "https://dotnetcore.show"
     }
   ],
   "feeds": [
-    {
-      "type": "rss",
-      "url": ""
-    },
     {
       "type": "LinkTagRssType",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTDz8IxVCKPmhLemR9eOLPQ"

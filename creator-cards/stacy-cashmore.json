@@ -13,10 +13,6 @@
   },
   "channels": [
     {
-      "name": "",
-      "url": ""
-    },
-    {
       "name": "Beginning Static Web Apps with Blazor (Book)",
       "url": "https://link.springer.com/book/10.1007/978-1-4842-8146-8"
     },
@@ -25,10 +21,5 @@
       "url": "https://www.stacy-clouds.net/blog-posts"
     }
   ],
-  "feeds": [
-    {
-      "type": "rss",
-      "url": ""
-    }
-  ]
+  "feeds": []
 }

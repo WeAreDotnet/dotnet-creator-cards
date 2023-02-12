@@ -13,18 +13,9 @@
   },
   "channels": [
     {
-      "name": "",
-      "url": ""
-    },
-    {
       "name": "Site",
       "url": "https://discoverdot.net"
     }
   ],
-  "feeds": [
-    {
-      "type": "rss",
-      "url": ""
-    }
-  ]
+  "feeds": []
 }

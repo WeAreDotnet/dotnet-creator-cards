@@ -13,18 +13,9 @@
   },
   "channels": [
     {
-      "name": "",
-      "url": ""
-    },
-    {
       "name": "Site",
       "url": "https://dotnetketchup.com"
     }
   ],
-  "feeds": [
-    {
-      "type": "rss",
-      "url": ""
-    }
-  ]
+  "feeds": []
 }

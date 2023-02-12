@@ -13,18 +13,9 @@
   },
   "channels": [
     {
-      "name": "",
-      "url": ""
-    },
-    {
       "name": "Blog",
       "url": "https://andreachiarelli.it/"
     }
   ],
-  "feeds": [
-    {
-      "type": "rss",
-      "url": ""
-    }
-  ]
+  "feeds": []
 }

@@ -13,19 +13,11 @@
   },
   "channels": [
     {
-      "name": "",
-      "url": ""
-    },
-    {
       "name": "Site",
       "url": "https://devmentors.io"
     }
   ],
   "feeds": [
-    {
-      "type": "rss",
-      "url": ""
-    },
     {
       "type": "LinkTagRssType",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCc3apIciZhgTUw_kk6C9EJQ"

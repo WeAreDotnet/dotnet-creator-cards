@@ -13,18 +13,9 @@
   },
   "channels": [
     {
-      "name": "",
-      "url": ""
-    },
-    {
       "name": "Mastering Minimal APIs in ASP.NET Core (Book)",
       "url": "https://www.packtpub.com/product/mastering-minimal-apis-in-aspnet-core/9781803237824"
     }
   ],
-  "feeds": [
-    {
-      "type": "rss",
-      "url": ""
-    }
-  ]
+  "feeds": []
 }

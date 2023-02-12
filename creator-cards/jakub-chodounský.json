@@ -13,10 +13,6 @@
   },
   "channels": [
     {
-      "name": "",
-      "url": ""
-    },
-    {
       "name": "Newsletter (csharpdigest.net)",
       "url": "https://csharpdigest.net/"
     },
@@ -26,10 +22,6 @@
     }
   ],
   "feeds": [
-    {
-      "type": "rss",
-      "url": ""
-    },
     {
       "type": "LinkTagAtomType",
       "url": "https://chodounsky.com/feed.xml"

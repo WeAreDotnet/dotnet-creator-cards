@@ -11,17 +11,8 @@
     "github": "https://github.com/T0shik",
     "mastodon": ""
   },
-  "channels": [
-    {
-      "name": "",
-      "url": ""
-    }
-  ],
+  "channels": [],
   "feeds": [
-    {
-      "type": "rss",
-      "url": ""
-    },
     {
       "type": "LinkTagRssType",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP_jWxjn__YXmo4iU7Low0g"

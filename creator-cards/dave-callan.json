@@ -11,16 +11,6 @@
     "github": "",
     "mastodon": ""
   },
-  "channels": [
-    {
-      "name": "",
-      "url": ""
-    }
-  ],
-  "feeds": [
-    {
-      "type": "rss",
-      "url": ""
-    }
-  ]
+  "channels": [],
+  "feeds": []
 }

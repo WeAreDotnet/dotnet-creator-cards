@@ -13,10 +13,6 @@
   },
   "channels": [
     {
-      "name": "",
-      "url": ""
-    },
-    {
       "name": "Pluralsight",
       "url": "https://app.pluralsight.com/profile/author/steve-gordon"
     },
@@ -26,10 +22,6 @@
     }
   ],
   "feeds": [
-    {
-      "type": "rss",
-      "url": ""
-    },
     {
       "type": "LinkTagRssType",
       "url": "https://www.stevejgordon.co.uk/feed"

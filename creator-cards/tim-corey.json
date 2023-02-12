@@ -13,10 +13,6 @@
   },
   "channels": [
     {
-      "name": "",
-      "url": ""
-    },
-    {
       "name": "Podcast",
       "url": "https://iamtimcorey.com/p/podcast"
     },
@@ -26,10 +22,6 @@
     }
   ],
   "feeds": [
-    {
-      "type": "rss",
-      "url": ""
-    },
     {
       "type": "LinkTagRssType",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-ptWR16ITQyYOglXyQmpzw"

@@ -13,10 +13,6 @@
   },
   "channels": [
     {
-      "name": "",
-      "url": ""
-    },
-    {
       "name": "Podcast (Merge Conflict)",
       "url": "https://www.mergeconflict.fm/"
     },
@@ -26,10 +22,6 @@
     }
   ],
   "feeds": [
-    {
-      "type": "rss",
-      "url": ""
-    },
     {
       "type": "LinkTagAtomType",
       "url": "https://praeclarum.org/rss"

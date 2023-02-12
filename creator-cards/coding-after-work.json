@@ -13,10 +13,6 @@
   },
   "channels": [
     {
-      "name": "",
-      "url": ""
-    },
-    {
       "name": "Podcast",
       "url": "https://www.codingafterwork.com/"
     },
@@ -25,10 +21,5 @@
       "url": "https://www.twitch.tv/codingafterwork"
     }
   ],
-  "feeds": [
-    {
-      "type": "rss",
-      "url": ""
-    }
-  ]
+  "feeds": []
 }

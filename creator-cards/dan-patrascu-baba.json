@@ -11,17 +11,8 @@
     "github": "",
     "mastodon": ""
   },
-  "channels": [
-    {
-      "name": "",
-      "url": ""
-    }
-  ],
+  "channels": [],
   "feeds": [
-    {
-      "type": "rss",
-      "url": ""
-    },
     {
       "type": "LinkTagRssType",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCyTPru-1gZ7-4qblcKM0TiQ"
