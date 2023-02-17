@@ -1,7 +1,11 @@
 ﻿{
   "name": "Amichai Mantinband",
-  "country": "Israel",
+  "sectionTitle": null,
+  "countryCode": "il",
   "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": ".NET, ASP.NET Core",
   "socials": {

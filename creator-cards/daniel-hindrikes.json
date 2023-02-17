@@ -1,7 +1,11 @@
 ﻿{
   "name": "Daniel Hindrikes",
-  "country": "Sweden",
+  "sectionTitle": null,
+  "countryCode": "se",
   "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": ".NET MAUI, Blazor, Azure",
   "socials": {

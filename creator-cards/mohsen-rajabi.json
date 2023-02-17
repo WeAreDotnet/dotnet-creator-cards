@@ -1,7 +1,11 @@
 ﻿{
   "name": "Mohsen Rajabi",
-  "country": "Iran",
+  "sectionTitle": null,
+  "countryCode": "ir",
   "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": "Microservices, .NET, ASP.NET Core, C#",
   "socials": {

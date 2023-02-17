@@ -1,7 +1,11 @@
 ﻿{
   "name": "Tim Cadenbach",
-  "country": "Germany",
+  "sectionTitle": null,
+  "countryCode": "de",
   "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": ".NET Core, ASP.NET Core",
   "socials": {

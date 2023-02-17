@@ -1,7 +1,11 @@
 ﻿{
   "name": "Poornima Nayar",
-  "country": "United Kingdom (K-Z)",
+  "sectionTitle": null,
+  "countryCode": "gb",
   "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": ".NET, C#",
   "socials": {

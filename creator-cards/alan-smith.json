@@ -1,7 +1,11 @@
 ﻿{
   "name": "Alan Smith",
-  "country": "Sweden",
+  "sectionTitle": null,
+  "countryCode": "se",
   "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": "Azure AI",
   "socials": {

@@ -1,7 +1,11 @@
 ﻿{
   "name": "Martin Zikmund",
-  "country": "Czechia Republic",
+  "sectionTitle": null,
+  "countryCode": "cz",
   "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": ".NET, C#, Uno Platform",
   "socials": {

@@ -1,7 +1,11 @@
 ﻿{
   "name": "Fanie Reynders",
-  "country": "Netherlands",
+  "sectionTitle": null,
+  "countryCode": "nl",
   "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": ".NET, Azure",
   "socials": {

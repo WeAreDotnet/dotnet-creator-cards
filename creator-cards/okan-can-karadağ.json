@@ -1,7 +1,11 @@
 ﻿{
   "name": "Okan Can Karadağ",
-  "country": "Turkey",
+  "sectionTitle": null,
+  "countryCode": "tr",
   "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": ".NET, C#",
   "socials": {

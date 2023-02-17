@@ -1,7 +1,11 @@
 ﻿{
   "name": "Hasan Aboul",
-  "country": "Lebanon",
+  "sectionTitle": null,
+  "countryCode": "lb",
   "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": ".NET",
   "socials": {

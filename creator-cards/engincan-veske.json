@@ -1,7 +1,11 @@
 ﻿{
   "name": "Engincan Veske",
-  "country": "Turkey",
+  "sectionTitle": null,
+  "countryCode": "tr",
   "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": "ABP Framework, .NET, C#",
   "socials": {

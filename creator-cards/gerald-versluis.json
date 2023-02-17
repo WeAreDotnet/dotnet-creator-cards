@@ -1,7 +1,11 @@
 ﻿{
   "name": "Gerald Versluis",
-  "country": "Netherlands",
+  "sectionTitle": null,
+  "countryCode": "nl",
   "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": ".NET MAUI, Blazor, C#",
   "socials": {

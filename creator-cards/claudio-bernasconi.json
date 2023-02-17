@@ -1,7 +1,11 @@
 ﻿{
   "name": "Claudio Bernasconi",
-  "country": "Switzerland",
+  "sectionTitle": null,
+  "countryCode": "ch",
   "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": ".NET, .NET MAUI",
   "socials": {

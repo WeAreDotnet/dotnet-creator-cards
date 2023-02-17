@@ -1,7 +1,11 @@
 ﻿{
   "name": "Patrick God",
-  "country": "Germany",
+  "sectionTitle": null,
+  "countryCode": "de",
   "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": ".NET, C#, ASP.NET Core, Blazor, EF Core",
   "socials": {

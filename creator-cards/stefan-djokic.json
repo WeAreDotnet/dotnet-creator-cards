@@ -1,7 +1,11 @@
 ﻿{
   "name": "Stefan Djokic",
-  "country": "Serbia",
+  "sectionTitle": null,
+  "countryCode": "rs",
   "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": ".NET, C#, Architecture, EntityFramework",
   "socials": {

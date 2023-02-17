@@ -1,7 +1,11 @@
 ﻿{
   "name": "Jamie Maguire",
-  "country": "United Kingdom (A-J)",
+  "sectionTitle": null,
+  "countryCode": "gb",
   "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": "Azure AI, .NET",
   "socials": {

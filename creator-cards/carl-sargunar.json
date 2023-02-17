@@ -1,0 +1,33 @@
+﻿{
+  "name": "Carl Sargunar",
+  "sectionTitle": null,
+  "countryCode": "gb",
+  "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
+  "bio": "",
+  "tags": ".NET, C#, Docker, Umbraco, Maui",
+  "socials": {
+    "youtube": "",
+    "linkedin": "https://www.linkedin.com/in/carl-sargunar-63b5814/",
+    "twitter": "https://twitter.com/carlcod_es",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "Github",
+      "url": "https://github.com/CarlSargunar"
+    },
+    {
+      "name": "Twitch",
+      "url": "https://www.twitch.tv/carlcod_es"
+    },
+    {
+      "name": "Site",
+      "url": "https://carlcod.es/"
+    }
+  ],
+  "feeds": []
+}

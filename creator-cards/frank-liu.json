@@ -1,7 +1,11 @@
 ﻿{
   "name": "Frank Liu",
-  "country": "Canada",
+  "sectionTitle": null,
+  "countryCode": "ca",
   "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": "Blazor, ASP.NET Core",
   "socials": {

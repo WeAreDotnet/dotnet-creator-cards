@@ -1,7 +1,11 @@
 ﻿{
   "name": "Muhammad Waseem",
-  "country": "Pakistan",
+  "sectionTitle": null,
+  "countryCode": "pk",
   "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": ".NET, C# , Entity Framework",
   "socials": {

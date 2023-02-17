@@ -1,7 +1,11 @@
 ﻿{
   "name": "Spyros Katsios",
-  "country": "Greece",
+  "sectionTitle": null,
+  "countryCode": "gr",
   "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": ".NET, C#",
   "socials": {

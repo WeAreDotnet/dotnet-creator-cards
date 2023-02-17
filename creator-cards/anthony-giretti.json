@@ -1,7 +1,11 @@
 ﻿{
   "name": "Anthony Giretti",
-  "country": "Canada",
+  "sectionTitle": null,
+  "countryCode": "ca",
   "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": ".NET, C#",
   "socials": {

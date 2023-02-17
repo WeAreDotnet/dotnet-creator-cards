@@ -1,7 +1,11 @@
 ﻿{
   "name": "Alexandre Nedelec",
-  "country": "France",
+  "sectionTitle": null,
+  "countryCode": "fr",
   "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": ".NET, C#, Azure",
   "socials": {

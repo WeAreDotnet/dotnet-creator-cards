@@ -1,7 +1,11 @@
 ﻿{
   "name": "Cyril Canovas",
-  "country": "France",
+  "sectionTitle": null,
+  "countryCode": "fr",
   "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": ".NET, Akka.NET, Architecture",
   "socials": {

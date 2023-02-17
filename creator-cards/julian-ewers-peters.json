@@ -1,7 +1,11 @@
 ﻿{
   "name": "Julian Ewers-Peters",
-  "country": "Germany",
+  "sectionTitle": null,
+  "countryCode": "de",
   "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": ".NET, C#, MVVM, .NET MAUI, Xamarin.Forms",
   "socials": {

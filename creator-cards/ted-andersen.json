@@ -1,7 +1,11 @@
 ﻿{
   "name": "Ted Andersen",
-  "country": "Japan",
+  "sectionTitle": null,
+  "countryCode": "jp",
   "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": ".NET, C#",
   "socials": {

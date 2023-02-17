@@ -1,7 +1,11 @@
 ﻿{
   "name": "Kevin Dockx",
-  "country": "Belgium",
+  "sectionTitle": null,
+  "countryCode": "be",
   "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": ".NET, Architecture, C#, ASP.NET Core, EF Core",
   "socials": {

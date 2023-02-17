@@ -1,7 +1,11 @@
 ﻿{
   "name": "Mohamad Lawand",
-  "country": "United Kingdom (K-Z)",
+  "sectionTitle": null,
+  "countryCode": "gb",
   "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": "ASP.NET Core, .NET",
   "socials": {

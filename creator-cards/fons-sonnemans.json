@@ -1,7 +1,11 @@
 ﻿{
   "name": "Fons Sonnemans",
-  "country": "Netherlands",
+  "sectionTitle": null,
+  "countryCode": "nl",
   "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": "C#, .NET, ASP.NET, WinUI",
   "socials": {

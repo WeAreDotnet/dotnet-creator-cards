@@ -1,7 +1,11 @@
 ﻿{
   "name": "Shady Nagy",
-  "country": "Egypt",
+  "sectionTitle": null,
+  "countryCode": "eg",
   "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": ".NET, ASP.NET Core",
   "socials": {

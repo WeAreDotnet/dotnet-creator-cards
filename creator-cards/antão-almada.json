@@ -1,7 +1,11 @@
 ﻿{
   "name": "Antão Almada",
-  "country": "Portugal",
+  "sectionTitle": null,
+  "countryCode": "pt",
   "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": ".NET, C#",
   "socials": {

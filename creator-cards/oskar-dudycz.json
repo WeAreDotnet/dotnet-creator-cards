@@ -1,7 +1,11 @@
 ﻿{
   "name": "Oskar Dudycz",
-  "country": "Poland",
+  "sectionTitle": null,
+  "countryCode": "pl",
   "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": ".NET, Event-Driven Architecture",
   "socials": {

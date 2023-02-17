@@ -1,7 +1,11 @@
 ﻿{
   "name": "SingletonSean",
-  "country": "USA (M-Z)",
+  "sectionTitle": null,
+  "countryCode": "us",
   "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": "WPF, .NET, C#",
   "socials": {

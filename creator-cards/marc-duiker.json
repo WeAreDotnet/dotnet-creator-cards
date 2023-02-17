@@ -1,7 +1,11 @@
 ﻿{
   "name": "Marc Duiker",
-  "country": "Netherlands",
+  "sectionTitle": null,
+  "countryCode": "nl",
   "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": "Azure Functions, Serverless",
   "socials": {

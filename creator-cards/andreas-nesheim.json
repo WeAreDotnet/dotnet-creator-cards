@@ -1,7 +1,11 @@
 ﻿{
   "name": "Andreas Nesheim",
-  "country": "Norway",
+  "sectionTitle": null,
+  "countryCode": "no",
   "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": ".NET MAUI, Xamarin",
   "socials": {

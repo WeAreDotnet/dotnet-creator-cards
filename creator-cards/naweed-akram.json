@@ -1,7 +1,11 @@
 ﻿{
   "name": "Naweed Akram",
-  "country": "Bahrain",
+  "sectionTitle": null,
+  "countryCode": "bh",
   "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": ".NET MAUI",
   "socials": {

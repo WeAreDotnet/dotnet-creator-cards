@@ -1,7 +1,11 @@
 ﻿{
   "name": "James Eastham",
-  "country": "United Kingdom (A-J)",
+  "sectionTitle": null,
+  "countryCode": "gb",
   "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": "AWS, Serverless, .NET, C#",
   "socials": {

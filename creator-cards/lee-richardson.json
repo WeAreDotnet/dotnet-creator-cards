@@ -1,7 +1,11 @@
 ﻿{
   "name": "Lee Richardson",
-  "country": "USA (G-L)",
+  "sectionTitle": null,
+  "countryCode": "us",
   "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": ".NET, C#, .NET MAUI",
   "socials": {

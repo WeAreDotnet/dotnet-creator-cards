@@ -1,7 +1,11 @@
 ﻿{
   "name": "Niels Swimberghe",
-  "country": "USA (M-Z)",
+  "sectionTitle": null,
+  "countryCode": "us",
   "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": ".NET",
   "socials": {

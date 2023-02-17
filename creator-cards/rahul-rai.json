@@ -1,7 +1,11 @@
 ﻿{
   "name": "Rahul Rai",
-  "country": "Australia",
+  "sectionTitle": null,
+  "countryCode": "au",
   "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": "Azure, Kubernetes",
   "socials": {

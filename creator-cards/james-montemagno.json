@@ -1,7 +1,11 @@
 ﻿{
   "name": "James Montemagno",
-  "country": "USA (G-L)",
+  "sectionTitle": null,
+  "countryCode": "us",
   "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": ".NET MAUI, .NET, Podcast",
   "socials": {

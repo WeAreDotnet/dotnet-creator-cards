@@ -1,7 +1,11 @@
 ﻿{
   "name": "Marco Siccardi",
-  "country": "Switzerland",
+  "sectionTitle": null,
+  "countryCode": "ch",
   "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": ".NET, C#, Xamarin",
   "socials": {

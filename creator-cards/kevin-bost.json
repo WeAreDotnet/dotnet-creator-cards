@@ -1,7 +1,11 @@
 ﻿{
   "name": "Kevin Bost",
-  "country": "USA (G-L)",
+  "sectionTitle": null,
+  "countryCode": "us",
   "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": "WPF, .NET",
   "socials": {

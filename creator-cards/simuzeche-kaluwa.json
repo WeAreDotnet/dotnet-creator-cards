@@ -1,7 +1,11 @@
 ﻿{
   "name": "Simuzeche Kaluwa",
-  "country": "Malawi",
+  "sectionTitle": null,
+  "countryCode": "mw",
   "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": ".NET, ASP.NET Core",
   "socials": {

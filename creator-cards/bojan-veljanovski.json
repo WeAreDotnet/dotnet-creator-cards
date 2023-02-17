@@ -1,7 +1,11 @@
 ﻿{
   "name": "Bojan Veljanovski",
-  "country": "North Macedonia",
+  "sectionTitle": null,
+  "countryCode": "mk",
   "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": ".NET, C#, SQL",
   "socials": {

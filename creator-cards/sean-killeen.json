@@ -1,7 +1,11 @@
 ﻿{
   "name": "Sean Killeen",
-  "country": "USA (M-Z)",
+  "sectionTitle": null,
+  "countryCode": "us",
   "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": ".NET, C#, Automated Testing, Azure, Terraform",
   "socials": {

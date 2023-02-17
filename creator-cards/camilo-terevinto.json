@@ -1,7 +1,11 @@
 ﻿{
   "name": "Camilo Terevinto",
-  "country": "Ireland",
+  "sectionTitle": null,
+  "countryCode": "ie",
   "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": "C#, ASP.NET Core, Azure",
   "socials": {
@@ -15,7 +19,16 @@
     {
       "name": "Blog",
       "url": "https://www.camiloterevinto.com"
+    },
+    {
+      "name": "Blog RSS",
+      "url": "https://www.camiloterevinto.com/rss.xml"
     }
   ],
-  "feeds": []
+  "feeds": [
+    {
+      "type": "BlogRssTag",
+      "url": "https://www.camiloterevinto.com/rss.xml"
+    }
+  ]
 }

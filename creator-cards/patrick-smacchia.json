@@ -1,7 +1,11 @@
 ﻿{
   "name": "Patrick Smacchia",
-  "country": "Mauritius",
+  "sectionTitle": null,
+  "countryCode": "mu",
   "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": ".NET, C#, Architecture, ndepend",
   "socials": {

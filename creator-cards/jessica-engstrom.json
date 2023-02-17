@@ -1,7 +1,11 @@
 ﻿{
   "name": "Jessica Engstrom",
-  "country": "Sweden",
+  "sectionTitle": null,
+  "countryCode": "se",
   "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": ".NET, Blazor, Podcast",
   "socials": {

@@ -1,7 +1,11 @@
 ﻿{
   "name": "Jakub Chodounský",
-  "country": "New Zealand",
+  "sectionTitle": null,
+  "countryCode": "nz",
   "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": ".NET",
   "socials": {

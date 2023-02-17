@@ -1,7 +1,11 @@
 ﻿{
   "name": "Dan Patrascu-Baba",
-  "country": "Romania",
+  "sectionTitle": null,
+  "countryCode": "ro",
   "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": ".NET, C#",
   "socials": {

@@ -1,7 +1,11 @@
 ﻿{
   "name": "Mehdi Hadeli",
-  "country": "Iran",
+  "sectionTitle": null,
+  "countryCode": "ir",
   "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": "Architecture, .NET, ASP.NET Core",
   "socials": {

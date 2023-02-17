@@ -1,7 +1,11 @@
 ﻿{
   "name": "Rijwan Ansari",
-  "country": "Philippines",
+  "sectionTitle": null,
+  "countryCode": "ph",
   "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": ".NET, C#",
   "socials": {

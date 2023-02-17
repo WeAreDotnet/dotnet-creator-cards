@@ -1,7 +1,11 @@
 ﻿{
-  "name": "Discover.NET",
-  "country": "🐙 Aggregator Sites",
+  "name": ".NET Ketchup",
+  "sectionTitle": "🐙 Aggregator Sites",
+  "countryCode": null,
   "slogan": "",
+  "type": "OTHER",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": ".NET, Aggregator Site",
   "socials": {
@@ -14,7 +18,7 @@
   "channels": [
     {
       "name": "Site",
-      "url": "https://discoverdot.net"
+      "url": "https://dotnetketchup.com"
     }
   ],
   "feeds": []

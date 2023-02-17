@@ -1,7 +1,11 @@
 ﻿{
   "name": "Anto Subash",
-  "country": "India",
+  "sectionTitle": null,
+  "countryCode": "in",
   "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": ".NET, Docker, ABP Framework",
   "socials": {

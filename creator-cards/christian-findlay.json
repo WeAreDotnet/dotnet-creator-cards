@@ -1,7 +1,11 @@
 ﻿{
   "name": "Christian Findlay",
-  "country": "Australia",
+  "sectionTitle": null,
+  "countryCode": "au",
   "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": ".NET, C#",
   "socials": {

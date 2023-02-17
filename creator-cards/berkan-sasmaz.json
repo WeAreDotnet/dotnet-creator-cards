@@ -1,7 +1,11 @@
 ﻿{
   "name": "Berkan Sasmaz",
-  "country": "Turkey",
+  "sectionTitle": null,
+  "countryCode": "tr",
   "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": "ABP Framework, .NET, Architecture",
   "socials": {

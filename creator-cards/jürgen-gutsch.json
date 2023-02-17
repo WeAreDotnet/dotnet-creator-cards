@@ -1,7 +1,11 @@
 ﻿{
   "name": "Jürgen Gutsch",
-  "country": "Switzerland",
+  "sectionTitle": null,
+  "countryCode": "ch",
   "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": "ASP.NET Core",
   "socials": {

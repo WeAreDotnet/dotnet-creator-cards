@@ -1,7 +1,11 @@
 ﻿{
   "name": "Gérald Barré",
-  "country": "Canada",
+  "sectionTitle": null,
+  "countryCode": "ca",
   "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": ".NET, ASP.NET Core, Blazor, C#",
   "socials": {

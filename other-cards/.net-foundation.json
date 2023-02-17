@@ -1,7 +1,11 @@
 ﻿{
   "name": ".NET Foundation",
-  "country": "👔 Official MSFT / .NET Foundation Content Resources / Xamarin",
+  "sectionTitle": "👔 Official MSFT / .NET Foundation Content Resources / Xamarin",
+  "countryCode": null,
   "slogan": "",
+  "type": "OTHER",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": ".NET",
   "socials": {

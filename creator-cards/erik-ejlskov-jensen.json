@@ -1,7 +1,11 @@
 ﻿{
   "name": "Erik Ejlskov Jensen",
-  "country": "Denmark",
+  "sectionTitle": null,
+  "countryCode": "dk",
   "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": "EF Core, ADO.NET",
   "socials": {

@@ -1,7 +1,11 @@
 ﻿{
   "name": "Maarten Balliauw",
-  "country": "Belgium",
+  "sectionTitle": null,
+  "countryCode": "be",
   "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": ".NET, C#, ASP.NET Core",
   "socials": {

@@ -1,7 +1,11 @@
 ﻿{
   "name": "Trevoir Williams",
-  "country": "Jamaica",
+  "sectionTitle": null,
+  "countryCode": "jm",
   "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": ".NET, ASP.NET Core, Azure, .NET MAUI",
   "socials": {

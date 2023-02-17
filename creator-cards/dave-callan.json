@@ -1,7 +1,11 @@
 ﻿{
   "name": "Dave Callan",
-  "country": "Ireland",
+  "sectionTitle": null,
+  "countryCode": "ie",
   "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": "C#, .NET, Visual Studio",
   "socials": {

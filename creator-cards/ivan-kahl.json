@@ -1,7 +1,11 @@
 ﻿{
   "name": "Ivan Kahl",
-  "country": "South Africa",
+  "sectionTitle": null,
+  "countryCode": "za",
   "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": ".NET, C#",
   "socials": {

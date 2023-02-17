@@ -1,7 +1,11 @@
 ﻿{
   "name": "Jérémy BRUN-PICARD",
-  "country": "France",
+  "sectionTitle": null,
+  "countryCode": "fr",
   "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": ".NET, Xamarin/MAUI, Architecture",
   "socials": {

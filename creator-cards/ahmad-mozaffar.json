@@ -1,7 +1,11 @@
 ﻿{
   "name": "Ahmad Mozaffar",
-  "country": "Lebanon",
+  "sectionTitle": null,
+  "countryCode": "lb",
   "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": ".NET, Azure",
   "socials": {

@@ -1,7 +1,11 @@
 ﻿{
   "name": "Steve Ardalis Smith",
-  "country": "USA (M-Z)",
+  "sectionTitle": null,
+  "countryCode": "us",
   "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": "Domain-Driven Design, Clean Architecture, .NET",
   "socials": {

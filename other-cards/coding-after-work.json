@@ -1,7 +1,11 @@
 ﻿{
   "name": "Coding After Work",
-  "country": "🤹 Multi-Creator Channels, Creator Name Unkown",
+  "sectionTitle": "🤹 Multi-Creator Channels, Creator Name Unkown",
+  "countryCode": null,
   "slogan": "",
+  "type": "OTHER",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": ".NET, Blazor, Podcast",
   "socials": {

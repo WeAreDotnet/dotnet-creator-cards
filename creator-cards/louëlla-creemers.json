@@ -1,7 +1,11 @@
 ﻿{
   "name": "Louëlla Creemers",
-  "country": "Netherlands",
+  "sectionTitle": null,
+  "countryCode": "nl",
   "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": ".NET, C#, Architecture",
   "socials": {

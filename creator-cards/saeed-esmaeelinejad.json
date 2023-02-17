@@ -1,7 +1,11 @@
 ﻿{
   "name": "Saeed Esmaeelinejad",
-  "country": "Iran",
+  "sectionTitle": null,
+  "countryCode": "ir",
   "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": "C#, EF, SQL Server, ASP.NET",
   "socials": {

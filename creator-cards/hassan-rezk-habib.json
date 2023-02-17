@@ -1,7 +1,11 @@
 ﻿{
   "name": "Hassan Rezk Habib",
-  "country": "USA (G-L)",
+  "sectionTitle": null,
+  "countryCode": "us",
   "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": ".NET",
   "socials": {

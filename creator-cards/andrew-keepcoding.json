@@ -1,7 +1,11 @@
 ﻿{
   "name": "Andrew KeepCoding",
-  "country": "Japan",
+  "sectionTitle": null,
+  "countryCode": "jp",
   "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": "WinAppSDK, WinUI 3",
   "socials": {

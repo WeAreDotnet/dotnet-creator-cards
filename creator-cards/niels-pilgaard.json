@@ -1,7 +1,11 @@
 ﻿{
   "name": "Niels Pilgaard",
-  "country": "Denmark",
+  "sectionTitle": null,
+  "countryCode": "dk",
   "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": "Blazor, C#, Azure",
   "socials": {

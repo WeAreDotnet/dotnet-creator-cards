@@ -1,7 +1,11 @@
 ﻿{
   "name": "Szymon Kulec",
-  "country": "Poland",
+  "sectionTitle": null,
+  "countryCode": "pl",
   "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": ".NET, C#",
   "socials": {

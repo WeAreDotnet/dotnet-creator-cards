@@ -1,7 +1,11 @@
 ﻿{
   "name": "Tim Corey",
-  "country": "USA (M-Z)",
+  "sectionTitle": null,
+  "countryCode": "us",
   "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": ".NET, C#, ASP.NET Core",
   "socials": {

@@ -1,7 +1,11 @@
 ﻿{
   "name": "Thomas Claudius Huber",
-  "country": "Germany",
+  "sectionTitle": null,
+  "countryCode": "de",
   "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": ".NET, C#, Blazor, WinUI 3",
   "socials": {

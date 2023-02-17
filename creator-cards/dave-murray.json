@@ -1,7 +1,11 @@
 ﻿{
   "name": "Dave Murray",
-  "country": "United Kingdom (A-J)",
+  "sectionTitle": null,
+  "countryCode": "gb",
   "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": "Xamarin",
   "socials": {

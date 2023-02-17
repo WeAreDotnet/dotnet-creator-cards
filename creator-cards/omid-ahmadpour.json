@@ -1,7 +1,11 @@
 ﻿{
   "name": "Omid Ahmadpour",
-  "country": "Iran",
+  "sectionTitle": null,
+  "countryCode": "ir",
   "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": "Microservices, .NET, C#, Clean Architecture, Clean Code, Azure",
   "socials": {

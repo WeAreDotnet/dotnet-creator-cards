@@ -1,0 +1,34 @@
+﻿{
+  "name": "Renato Golia",
+  "sectionTitle": null,
+  "countryCode": "it",
+  "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
+  "bio": "",
+  "tags": ".NET, ASP.NET Core, AWS, Serverless, Architecture, Infrastructure-as-Code, CI/CD",
+  "socials": {
+    "youtube": "",
+    "linkedin": "https://www.linkedin.com/in/renatogolia/",
+    "twitter": "https://twitter.com/Kralizek",
+    "github": "https://github.com/Kralizek",
+    "mastodon": "https://dotnet.social/@rengol"
+  },
+  "channels": [
+    {
+      "name": "Blog",
+      "url": "https://renatogolia.com/"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "LinkTagAtomType",
+      "url": "https://renatogolia.com/feed.xml"
+    },
+    {
+      "type": "AHrefFeedType",
+      "url": "https://renatogolia.com/feed.xml"
+    }
+  ]
+}

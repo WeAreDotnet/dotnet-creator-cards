@@ -1,7 +1,11 @@
 ﻿{
   "name": "Bhrugen Patel",
-  "country": "India",
+  "sectionTitle": null,
+  "countryCode": "in",
   "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": ".NET, ASP.NET Core, Blazor",
   "socials": {

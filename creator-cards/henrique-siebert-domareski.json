@@ -1,7 +1,11 @@
 ﻿{
   "name": "Henrique Siebert Domareski",
-  "country": "Netherlands",
+  "sectionTitle": null,
+  "countryCode": "nl",
   "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": ".NET, Azure",
   "socials": {

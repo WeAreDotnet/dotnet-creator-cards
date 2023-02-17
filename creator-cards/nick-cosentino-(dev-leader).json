@@ -1,0 +1,38 @@
+﻿{
+  "name": "Nick Cosentino (Dev Leader)",
+  "sectionTitle": null,
+  "countryCode": "ca",
+  "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
+  "bio": "",
+  "tags": ".NET, C#, Tutorials, Microsoft, Unity3D",
+  "socials": {
+    "youtube": "https://www.youtube.com/@devleader",
+    "linkedin": "",
+    "twitter": "https://www.twitter.com/devleaderca",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "Website",
+      "url": "https://www.devleader.ca"
+    },
+    {
+      "name": "TikTok",
+      "url": "https://www.tiktok.com/@devleader"
+    },
+    {
+      "name": "All Dev Leader Links",
+      "url": "https://linktr.ee/devleader"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJ90Is0z9KIyNSufH--IwRg"
+    }
+  ]
+}

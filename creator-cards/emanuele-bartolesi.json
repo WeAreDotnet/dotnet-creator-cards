@@ -1,7 +1,11 @@
 ﻿{
   "name": "Emanuele Bartolesi",
-  "country": "Switzerland",
+  "sectionTitle": null,
+  "countryCode": "ch",
   "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": ".NET, Blazor, Azure",
   "socials": {

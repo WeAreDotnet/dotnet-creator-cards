@@ -1,7 +1,11 @@
 ﻿{
   "name": "Fabio Ramoni",
-  "country": "Italy",
+  "sectionTitle": null,
+  "countryCode": "it",
   "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": ".NET, SQL",
   "socials": {

@@ -1,7 +1,11 @@
 ﻿{
   "name": "Steven Checo",
-  "country": "Dominican Republic",
+  "sectionTitle": null,
+  "countryCode": "do",
   "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": ".NET MAUI",
   "socials": {

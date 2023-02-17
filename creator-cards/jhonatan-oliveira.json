@@ -1,7 +1,11 @@
 ﻿{
   "name": "Jhonatan Oliveira",
-  "country": "Canada",
+  "sectionTitle": null,
+  "countryCode": "ca",
   "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": ".NET, C#, ASP.NET Core, .NET MAUI",
   "socials": {

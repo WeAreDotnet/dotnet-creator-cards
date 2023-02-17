@@ -1,7 +1,11 @@
 ﻿{
   "name": "Anurag Sinha",
-  "country": "India",
+  "sectionTitle": null,
+  "countryCode": "in",
   "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": "C#, .NET",
   "socials": {

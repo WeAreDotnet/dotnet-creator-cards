@@ -1,7 +1,11 @@
 ﻿{
   "name": "José Pablo Ramírez Vargas",
-  "country": "Costa Rica",
+  "sectionTitle": null,
+  "countryCode": "cr",
   "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": "Architecture, .NET, ASP.NET Core, C#",
   "socials": {

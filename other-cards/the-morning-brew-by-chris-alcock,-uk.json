@@ -1,7 +1,11 @@
 ﻿{
-  "name": "The Morning Dew by Alvin Ashcraft, USA",
-  "country": "🐙 Aggregator Sites",
+  "name": "The Morning Brew by Chris Alcock, UK",
+  "sectionTitle": "🐙 Aggregator Sites",
+  "countryCode": null,
   "slogan": "",
+  "type": "OTHER",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": ".NET, Aggregator Site",
   "socials": {
@@ -14,7 +18,7 @@
   "channels": [
     {
       "name": "Site",
-      "url": "https://www.alvinashcraft.com/"
+      "url": "https://blog.cwa.me.uk/"
     }
   ],
   "feeds": []

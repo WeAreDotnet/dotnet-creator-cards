@@ -1,7 +1,11 @@
 ﻿{
   "name": "Marinko Spasojevic",
-  "country": "Serbia",
+  "sectionTitle": null,
+  "countryCode": "rs",
   "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": ".NET, ASP.NET Core, Blazor, C#",
   "socials": {

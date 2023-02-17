@@ -1,7 +1,11 @@
 ﻿{
   "name": "Les Jackson",
-  "country": "Australia",
+  "sectionTitle": null,
+  "countryCode": "au",
   "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": ".NET MAUI, ASP.NET Core, Blazor",
   "socials": {

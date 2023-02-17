@@ -1,0 +1,34 @@
+﻿{
+  "name": "Peter Foot",
+  "sectionTitle": null,
+  "countryCode": "gb",
+  "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
+  "bio": "",
+  "tags": ".NET, C#, Mobile",
+  "socials": {
+    "youtube": "",
+    "linkedin": "",
+    "twitter": "https://twitter.com/peterfoot",
+    "github": "https://github.com/peterfoot",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "Blog",
+      "url": "https://inthehand.com/blog"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "LinkTagRssType",
+      "url": "https://inthehand.com/feed/"
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://inthehand.com/comments/feed/"
+    }
+  ]
+}

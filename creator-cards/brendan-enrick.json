@@ -1,7 +1,11 @@
 ﻿{
   "name": "Brendan Enrick",
-  "country": "USA (A-F)",
+  "sectionTitle": null,
+  "countryCode": "us",
   "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": ".NET, C#, ASP.NET Core",
   "socials": {

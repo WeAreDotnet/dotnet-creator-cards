@@ -1,7 +1,11 @@
 ﻿{
   "name": "Ledjon Behluli",
-  "country": "Kosovo",
+  "sectionTitle": null,
+  "countryCode": "xk",
   "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": ".NET, C#, Architecture",
   "socials": {

@@ -1,7 +1,11 @@
 ﻿{
   "name": "Vladislav Antonyuk",
-  "country": "Ukraine",
+  "sectionTitle": null,
+  "countryCode": "ua",
   "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": ".NET, C#, .NET MAUI, Blazor, Azure",
   "socials": {

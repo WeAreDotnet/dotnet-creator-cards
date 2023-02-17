@@ -1,7 +1,11 @@
 ﻿{
   "name": "Julie Lerman",
-  "country": "USA (G-L)",
+  "sectionTitle": null,
+  "countryCode": "us",
   "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": "EF Core, .NET",
   "socials": {

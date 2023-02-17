@@ -1,7 +1,11 @@
 ﻿{
   "name": "Carl Franklin",
-  "country": "USA (A-F)",
+  "sectionTitle": null,
+  "countryCode": "us",
   "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": "Blazor",
   "socials": {

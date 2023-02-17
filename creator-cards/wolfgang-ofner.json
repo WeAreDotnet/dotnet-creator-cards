@@ -1,7 +1,11 @@
 ﻿{
   "name": "Wolfgang Ofner",
-  "country": "Switzerland",
+  "sectionTitle": null,
+  "countryCode": "ch",
   "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": "Azure, Kubernetes",
   "socials": {

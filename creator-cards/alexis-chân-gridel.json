@@ -1,7 +1,11 @@
 ﻿{
   "name": "Alexis Chân GRIDEL",
-  "country": "France",
+  "sectionTitle": null,
+  "countryCode": "fr",
   "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": "C#, .NET",
   "socials": {

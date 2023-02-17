@@ -1,7 +1,11 @@
 ﻿{
   "name": "Wolfgang Ziegler",
-  "country": "Austria",
+  "sectionTitle": null,
+  "countryCode": "at",
   "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": ".NET MAUI, C#",
   "socials": {

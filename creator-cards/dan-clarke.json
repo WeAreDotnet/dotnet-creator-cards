@@ -1,7 +1,11 @@
 ﻿{
   "name": "Dan Clarke",
-  "country": "United Kingdom (A-J)",
+  "sectionTitle": null,
+  "countryCode": "gb",
   "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": "Podcast, .NET",
   "socials": {

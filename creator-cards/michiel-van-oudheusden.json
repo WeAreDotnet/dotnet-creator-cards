@@ -1,7 +1,11 @@
 ﻿{
   "name": "Michiel van Oudheusden",
-  "country": "Netherlands",
+  "sectionTitle": null,
+  "countryCode": "nl",
   "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": "Azure, GitHub, ALM, Remote Work",
   "socials": {

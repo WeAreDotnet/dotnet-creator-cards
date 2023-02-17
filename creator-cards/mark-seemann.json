@@ -1,7 +1,11 @@
 ﻿{
   "name": "Mark Seemann",
-  "country": "Denmark",
+  "sectionTitle": null,
+  "countryCode": "dk",
   "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": "Architecutre, .NET, F#",
   "socials": {

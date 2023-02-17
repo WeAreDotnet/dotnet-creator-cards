@@ -1,0 +1,29 @@
+﻿{
+  "name": "Aditya Oberai",
+  "sectionTitle": null,
+  "countryCode": "in",
+  "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
+  "bio": "",
+  "tags": ".NET, ASP.NET Web APIs, .NET MAUI, Azure",
+  "socials": {
+    "youtube": "",
+    "linkedin": "https://www.linkedin.com/in/adityaoberai1/",
+    "twitter": "https://twitter.com/adityaoberai1",
+    "github": "",
+    "mastodon": ""
+  },
+  "channels": [
+    {
+      "name": "Videos",
+      "url": "https://oberai.dev/videos"
+    },
+    {
+      "name": "Blog",
+      "url": "https://dev.to/adityaoberai/"
+    }
+  ],
+  "feeds": []
+}

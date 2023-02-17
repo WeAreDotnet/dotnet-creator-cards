@@ -1,7 +1,11 @@
 ﻿{
   "name": "Mukesh Murugan",
-  "country": "India",
+  "sectionTitle": null,
+  "countryCode": "in",
   "slogan": "",
+  "type": "CREATOR",
+  "gravatarHash": "",
+  "cardType": "",
   "bio": "",
   "tags": ".NET, AWS",
   "socials": {
