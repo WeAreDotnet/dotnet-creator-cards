@@ -4,16 +4,15 @@
   "countryCode": "de",
   "slogan": "",
   "type": "CREATOR",
-  "gravatarHash": "",
-  "cardType": "",
   "bio": "",
   "tags": ".NET Core, ASP.NET Core",
   "socials": {
     "youtube": "",
-    "linkedin": "https://www.linkedin.com/in/timcadenbach/",
+    "linkedin": "",
     "twitter": "https://twitter.com/timcadenbach",
-    "github": "https://www.github.com/deejaytc",
-    "mastodon": ""
+    "github": "",
+    "mastodon": "",
+    "sessionize": ""
   },
   "channels": [
     {

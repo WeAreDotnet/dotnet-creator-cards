@@ -4,8 +4,6 @@
   "countryCode": "us",
   "slogan": "",
   "type": "CREATOR",
-  "gravatarHash": "",
-  "cardType": "",
   "bio": "",
   "tags": "MassTransit",
   "socials": {
@@ -13,7 +11,8 @@
     "linkedin": "https://www.linkedin.com/in/chrispatterson/",
     "twitter": "https://twitter.com/PhatBoyG",
     "github": "",
-    "mastodon": ""
+    "mastodon": "",
+    "sessionize": ""
   },
   "channels": [],
   "feeds": [

@@ -4,8 +4,6 @@
   "countryCode": "gb",
   "slogan": "",
   "type": "CREATOR",
-  "gravatarHash": "",
-  "cardType": "",
   "bio": "",
   "tags": "ASP.NET Core, .NET",
   "socials": {
@@ -13,7 +11,8 @@
     "linkedin": "",
     "twitter": "https://twitter.com/Moe23",
     "github": "",
-    "mastodon": ""
+    "mastodon": "",
+    "sessionize": ""
   },
   "channels": [
     {

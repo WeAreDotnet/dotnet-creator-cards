@@ -4,8 +4,6 @@
   "countryCode": "jm",
   "slogan": "",
   "type": "CREATOR",
-  "gravatarHash": "",
-  "cardType": "",
   "bio": "",
   "tags": ".NET, ASP.NET Core, Azure, .NET MAUI",
   "socials": {
@@ -13,7 +11,8 @@
     "linkedin": "https://www.linkedin.com/in/trevoirwilliams/",
     "twitter": "",
     "github": "",
-    "mastodon": ""
+    "mastodon": "",
+    "sessionize": ""
   },
   "channels": [
     {

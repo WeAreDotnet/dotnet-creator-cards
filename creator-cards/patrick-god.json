@@ -4,8 +4,6 @@
   "countryCode": "de",
   "slogan": "",
   "type": "CREATOR",
-  "gravatarHash": "",
-  "cardType": "",
   "bio": "",
   "tags": ".NET, C#, ASP.NET Core, Blazor, EF Core",
   "socials": {
@@ -13,7 +11,8 @@
     "linkedin": "",
     "twitter": "https://twitter.com/_PatrickGod",
     "github": "",
-    "mastodon": ""
+    "mastodon": "",
+    "sessionize": ""
   },
   "channels": [],
   "feeds": [

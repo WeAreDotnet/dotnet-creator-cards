@@ -4,8 +4,6 @@
   "countryCode": "us",
   "slogan": "",
   "type": "CREATOR",
-  "gravatarHash": "",
-  "cardType": "",
   "bio": "",
   "tags": "WPF, .NET",
   "socials": {
@@ -13,7 +11,8 @@
     "linkedin": "",
     "twitter": "https://twitter.com/kitokeboo",
     "github": "",
-    "mastodon": ""
+    "mastodon": "",
+    "sessionize": ""
   },
   "channels": [],
   "feeds": [

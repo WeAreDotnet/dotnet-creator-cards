@@ -4,8 +4,6 @@
   "countryCode": "pt",
   "slogan": "",
   "type": "CREATOR",
-  "gravatarHash": "",
-  "cardType": "",
   "bio": "",
   "tags": ".NET, C#",
   "socials": {
@@ -13,7 +11,8 @@
     "linkedin": "https://www.linkedin.com/in/joaofbantunes/",
     "twitter": "https://twitter.com/joaofbantunes",
     "github": "",
-    "mastodon": "https://mastodon.social/@joaofbantunes"
+    "mastodon": "https://mastodon.social/@joaofbantunes",
+    "sessionize": ""
   },
   "channels": [
     {

@@ -4,8 +4,6 @@
   "countryCode": "us",
   "slogan": "",
   "type": "CREATOR",
-  "gravatarHash": "",
-  "cardType": "",
   "bio": "",
   "tags": ".NET",
   "socials": {
@@ -13,7 +11,8 @@
     "linkedin": "",
     "twitter": "",
     "github": "",
-    "mastodon": "https://hachyderm.io/@shanselman"
+    "mastodon": "https://hachyderm.io/@shanselman",
+    "sessionize": ""
   },
   "channels": [
     {

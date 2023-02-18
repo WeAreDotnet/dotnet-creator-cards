@@ -4,8 +4,6 @@
   "countryCode": "de",
   "slogan": "",
   "type": "CREATOR",
-  "gravatarHash": "",
-  "cardType": "",
   "bio": "",
   "tags": ".NET, C#, MVVM, .NET MAUI, Xamarin.Forms",
   "socials": {
@@ -13,7 +11,8 @@
     "linkedin": "https://linkedin.com/in/jewerspeters",
     "twitter": "",
     "github": "",
-    "mastodon": ""
+    "mastodon": "",
+    "sessionize": ""
   },
   "channels": [
     {

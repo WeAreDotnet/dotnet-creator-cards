@@ -4,8 +4,6 @@
   "countryCode": "nl",
   "slogan": "",
   "type": "CREATOR",
-  "gravatarHash": "",
-  "cardType": "",
   "bio": "",
   "tags": ".NET MAUI, Blazor, C#",
   "socials": {
@@ -13,7 +11,8 @@
     "linkedin": "",
     "twitter": "https://twitter.com/jfversluis",
     "github": "",
-    "mastodon": ""
+    "mastodon": "",
+    "sessionize": ""
   },
   "channels": [
     {

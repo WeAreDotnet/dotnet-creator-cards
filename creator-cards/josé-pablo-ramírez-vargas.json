@@ -4,8 +4,6 @@
   "countryCode": "cr",
   "slogan": "",
   "type": "CREATOR",
-  "gravatarHash": "",
-  "cardType": "",
   "bio": "",
   "tags": "Architecture, .NET, ASP.NET Core, C#",
   "socials": {
@@ -13,7 +11,8 @@
     "linkedin": "https://www.linkedin.com/in/jos%C3%A9-pablo-ram%C3%ADrez-vargas-308b6180/",
     "twitter": "",
     "github": "https://github.com/webJose",
-    "mastodon": "https://dotnet.social/@webJose"
+    "mastodon": "https://dotnet.social/@webJose",
+    "sessionize": ""
   },
   "channels": [
     {

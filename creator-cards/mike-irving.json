@@ -4,8 +4,6 @@
   "countryCode": "gb",
   "slogan": "",
   "type": "CREATOR",
-  "gravatarHash": "",
-  "cardType": "",
   "bio": "",
   "tags": ".NET, C#, Mobile",
   "socials": {
@@ -13,7 +11,8 @@
     "linkedin": "",
     "twitter": "https://twitter.com/mikeirvingweb",
     "github": "https://github.com/mikeirvingweb",
-    "mastodon": ""
+    "mastodon": "",
+    "sessionize": ""
   },
   "channels": [
     {

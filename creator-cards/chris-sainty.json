@@ -4,8 +4,6 @@
   "countryCode": "gb",
   "slogan": "",
   "type": "CREATOR",
-  "gravatarHash": "",
-  "cardType": "",
   "bio": "",
   "tags": "Blazor",
   "socials": {
@@ -13,7 +11,8 @@
     "linkedin": "",
     "twitter": "https://twitter.com/chris_sainty",
     "github": "",
-    "mastodon": "https://mstdn.social/@chrissainty"
+    "mastodon": "https://mstdn.social/@chrissainty",
+    "sessionize": ""
   },
   "channels": [
     {

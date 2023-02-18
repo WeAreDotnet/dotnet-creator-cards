@@ -4,8 +4,6 @@
   "countryCode": "gb",
   "slogan": "",
   "type": "CREATOR",
-  "gravatarHash": "",
-  "cardType": "",
   "bio": "",
   "tags": ".NET, C#, Avalonia UI, WPF",
   "socials": {
@@ -13,7 +11,8 @@
     "linkedin": "",
     "twitter": "https://twitter.com/angelsixuk",
     "github": "https://github.com/angelsix",
-    "mastodon": ""
+    "mastodon": "",
+    "sessionize": ""
   },
   "channels": [],
   "feeds": [

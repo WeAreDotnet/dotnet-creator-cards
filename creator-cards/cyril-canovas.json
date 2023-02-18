@@ -4,8 +4,6 @@
   "countryCode": "fr",
   "slogan": "",
   "type": "CREATOR",
-  "gravatarHash": "",
-  "cardType": "",
   "bio": "",
   "tags": ".NET, Akka.NET, Architecture",
   "socials": {
@@ -13,7 +11,8 @@
     "linkedin": "",
     "twitter": "",
     "github": "",
-    "mastodon": ""
+    "mastodon": "",
+    "sessionize": ""
   },
   "channels": [
     {

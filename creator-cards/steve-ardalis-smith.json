@@ -4,8 +4,6 @@
   "countryCode": "us",
   "slogan": "",
   "type": "CREATOR",
-  "gravatarHash": "",
-  "cardType": "",
   "bio": "",
   "tags": "Domain-Driven Design, Clean Architecture, .NET",
   "socials": {
@@ -13,7 +11,8 @@
     "linkedin": "https://www.linkedin.com/in/stevenandrewsmith/",
     "twitter": "https://twitter.com/ardalis",
     "github": "",
-    "mastodon": "https://fosstodon.org/@ardalis"
+    "mastodon": "https://fosstodon.org/@ardalis",
+    "sessionize": ""
   },
   "channels": [
     {

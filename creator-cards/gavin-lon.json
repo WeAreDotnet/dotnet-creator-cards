@@ -4,8 +4,6 @@
   "countryCode": "gb",
   "slogan": "",
   "type": "CREATOR",
-  "gravatarHash": "",
-  "cardType": "",
   "bio": "",
   "tags": ".NET, Blazor",
   "socials": {
@@ -13,7 +11,8 @@
     "linkedin": "",
     "twitter": "",
     "github": "https://github.com/gavinlondigital",
-    "mastodon": ""
+    "mastodon": "",
+    "sessionize": ""
   },
   "channels": [],
   "feeds": [

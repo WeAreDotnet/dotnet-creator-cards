@@ -4,8 +4,6 @@
   "countryCode": "tr",
   "slogan": "",
   "type": "CREATOR",
-  "gravatarHash": "",
-  "cardType": "",
   "bio": "",
   "tags": "ABP Framework, .NET, Architecture",
   "socials": {
@@ -13,7 +11,8 @@
     "linkedin": "https://www.linkedin.com/in/berkansasmaz/",
     "twitter": "https://twitter.com/berkansasmazz",
     "github": "",
-    "mastodon": ""
+    "mastodon": "",
+    "sessionize": ""
   },
   "channels": [
     {

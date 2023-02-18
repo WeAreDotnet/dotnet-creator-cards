@@ -4,8 +4,6 @@
   "countryCode": "it",
   "slogan": "",
   "type": "CREATOR",
-  "gravatarHash": "",
-  "cardType": "",
   "bio": "",
   "tags": ".NET, ASP.NET Core, AWS, Serverless, Architecture, Infrastructure-as-Code, CI/CD",
   "socials": {
@@ -13,7 +11,8 @@
     "linkedin": "https://www.linkedin.com/in/renatogolia/",
     "twitter": "https://twitter.com/Kralizek",
     "github": "https://github.com/Kralizek",
-    "mastodon": "https://dotnet.social/@rengol"
+    "mastodon": "https://dotnet.social/@rengol",
+    "sessionize": ""
   },
   "channels": [
     {

@@ -4,8 +4,6 @@
   "countryCode": "mu",
   "slogan": "",
   "type": "CREATOR",
-  "gravatarHash": "",
-  "cardType": "",
   "bio": "",
   "tags": ".NET, C#, Architecture, ndepend",
   "socials": {
@@ -13,7 +11,8 @@
     "linkedin": "https://www.linkedin.com/in/patrick-smacchia-b0123110/",
     "twitter": "https://twitter.com/ndepend",
     "github": "",
-    "mastodon": ""
+    "mastodon": "",
+    "sessionize": ""
   },
   "channels": [
     {

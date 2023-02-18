@@ -4,8 +4,6 @@
   "countryCode": "ca",
   "slogan": "",
   "type": "CREATOR",
-  "gravatarHash": "",
-  "cardType": "",
   "bio": "",
   "tags": "Microsoft, .NET MAUI, Xamarin, C#",
   "socials": {
@@ -13,7 +11,8 @@
     "linkedin": "",
     "twitter": "https://twitter.com/redth",
     "github": "https://github.com/redth",
-    "mastodon": "https://mas.to/@redth"
+    "mastodon": "https://mas.to/@redth",
+    "sessionize": ""
   },
   "channels": [
     {

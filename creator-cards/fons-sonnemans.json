@@ -4,8 +4,6 @@
   "countryCode": "nl",
   "slogan": "",
   "type": "CREATOR",
-  "gravatarHash": "",
-  "cardType": "",
   "bio": "",
   "tags": "C#, .NET, ASP.NET, WinUI",
   "socials": {
@@ -13,7 +11,8 @@
     "linkedin": "",
     "twitter": "https://twitter.com/fonssonnemans",
     "github": "https://github.com/sonnemaf",
-    "mastodon": ""
+    "mastodon": "",
+    "sessionize": ""
   },
   "channels": [
     {

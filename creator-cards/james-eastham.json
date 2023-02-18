@@ -4,8 +4,6 @@
   "countryCode": "gb",
   "slogan": "",
   "type": "CREATOR",
-  "gravatarHash": "",
-  "cardType": "",
   "bio": "",
   "tags": "AWS, Serverless, .NET, C#",
   "socials": {
@@ -13,7 +11,8 @@
     "linkedin": "https://www.linkedin.com/in/james-eastham/",
     "twitter": "",
     "github": "",
-    "mastodon": "https://hachyderm.io/@plantpowerjames"
+    "mastodon": "https://hachyderm.io/@plantpowerjames",
+    "sessionize": ""
   },
   "channels": [
     {

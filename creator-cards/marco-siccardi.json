@@ -4,8 +4,6 @@
   "countryCode": "ch",
   "slogan": "",
   "type": "CREATOR",
-  "gravatarHash": "",
-  "cardType": "",
   "bio": "",
   "tags": ".NET, C#, Xamarin",
   "socials": {
@@ -13,7 +11,8 @@
     "linkedin": "https://www.linkedin.com/in/msicc/",
     "twitter": "",
     "github": "",
-    "mastodon": "https://mastodon.social/@msicc"
+    "mastodon": "https://mastodon.social/@msicc",
+    "sessionize": ""
   },
   "channels": [
     {

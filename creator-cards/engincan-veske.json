@@ -4,8 +4,6 @@
   "countryCode": "tr",
   "slogan": "",
   "type": "CREATOR",
-  "gravatarHash": "",
-  "cardType": "",
   "bio": "",
   "tags": "ABP Framework, .NET, C#",
   "socials": {
@@ -13,7 +11,8 @@
     "linkedin": "https://www.linkedin.com/in/engincanv/",
     "twitter": "https://twitter.com/EngincanVeske",
     "github": "",
-    "mastodon": ""
+    "mastodon": "",
+    "sessionize": ""
   },
   "channels": [
     {

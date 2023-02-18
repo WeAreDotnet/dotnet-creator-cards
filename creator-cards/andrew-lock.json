@@ -4,8 +4,6 @@
   "countryCode": "gb",
   "slogan": "",
   "type": "CREATOR",
-  "gravatarHash": "",
-  "cardType": "",
   "bio": "",
   "tags": ".NET, C#, ASP.NET Core",
   "socials": {
@@ -13,7 +11,8 @@
     "linkedin": "https://www.linkedin.com/in/andrewdlock/",
     "twitter": "https://twitter.com/andrewlocknet",
     "github": "",
-    "mastodon": "https://hachyderm.io/@andrewlock"
+    "mastodon": "https://hachyderm.io/@andrewlock",
+    "sessionize": ""
   },
   "channels": [
     {

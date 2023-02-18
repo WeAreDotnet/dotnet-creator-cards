@@ -4,8 +4,6 @@
   "countryCode": "gb",
   "slogan": "",
   "type": "CREATOR",
-  "gravatarHash": "",
-  "cardType": "",
   "bio": "Layla is a Developer Advocate at VMware serving the .NET community. She makes videos and livecodes on YouTube. She is a Microsoft MVP,  a GitHub Star, Progress Ninja, and the founder of the #WomenOfDotNet Initiative. Layla loves sharing knowledge whilst having fun. No question is stupid and beginners are always welcome.",
   "tags": ".NET, C#",
   "socials": {
@@ -13,7 +11,8 @@
     "linkedin": "https://www.linkedin.com/in/layla-porter",
     "twitter": "https://twitter.com/LaylaCodesIt",
     "github": "http://github.com/layla-p",
-    "mastodon": "https://dotnet.social/@layla"
+    "mastodon": "https://dotnet.social/@layla",
+    "sessionize": ""
   },
   "channels": [
     {

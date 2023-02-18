@@ -4,8 +4,6 @@
   "countryCode": "us",
   "slogan": "",
   "type": "CREATOR",
-  "gravatarHash": "",
-  "cardType": "",
   "bio": "",
   "tags": ".NET, C#, SQL",
   "socials": {
@@ -13,7 +11,8 @@
     "linkedin": "",
     "twitter": "",
     "github": "",
-    "mastodon": "https://hachyderm.io/@adnanrafiq"
+    "mastodon": "https://hachyderm.io/@adnanrafiq",
+    "sessionize": ""
   },
   "channels": [
     {

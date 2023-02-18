@@ -4,8 +4,6 @@
   "countryCode": "cz",
   "slogan": "",
   "type": "CREATOR",
-  "gravatarHash": "",
-  "cardType": "",
   "bio": "Martin is a freelance software developer and Microsoft Developer Technologies MVP. He specializes in architecting and building cross-platform mobile and cloud solutions on the Microsoft technology stack. Martin loves contributing to open-source, primarily to Uno Platform, as it is a tremendous source of learning. You can also meet him on Stack Overflow, where he frequently helps other developers. In spare time he likes to do lead climbing/bouldering, play squash, game on Xbox, read, and find geocaches.",
   "tags": ".NET, C#, Uno Platform",
   "socials": {
@@ -13,7 +11,8 @@
     "linkedin": "https://www.linkedin.com/in/mzikmund",
     "twitter": "https://twitter.com/mzikmunddev",
     "github": "https://github.com/MartinZikmund",
-    "mastodon": "https://dotnet.social/@mzikmund"
+    "mastodon": "https://dotnet.social/@mzikmund",
+    "sessionize": ""
   },
   "channels": [
     {

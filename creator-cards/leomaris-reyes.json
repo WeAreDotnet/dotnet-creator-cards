@@ -4,8 +4,6 @@
   "countryCode": "do",
   "slogan": "",
   "type": "CREATOR",
-  "gravatarHash": "",
-  "cardType": "",
   "bio": "",
   "tags": ".NET MAUI, Xamarin",
   "socials": {
@@ -13,7 +11,8 @@
     "linkedin": "https://www.linkedin.com/in/leomaris-reyes-1b598661",
     "twitter": "https://twitter.com/leomarisreyes11",
     "github": "",
-    "mastodon": ""
+    "mastodon": "",
+    "sessionize": ""
   },
   "channels": [
     {

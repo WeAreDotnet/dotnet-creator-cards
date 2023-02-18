@@ -4,8 +4,6 @@
   "countryCode": "be",
   "slogan": "",
   "type": "CREATOR",
-  "gravatarHash": "",
-  "cardType": "",
   "bio": "",
   "tags": ".NET, C#, ASP.NET Core",
   "socials": {
@@ -13,7 +11,8 @@
     "linkedin": "https://www.linkedin.com/in/maartenballiauw/",
     "twitter": "https://twitter.com/maartenballiauw",
     "github": "",
-    "mastodon": "https://mastodon.online/@maartenballiauw"
+    "mastodon": "https://mastodon.online/@maartenballiauw",
+    "sessionize": ""
   },
   "channels": [
     {

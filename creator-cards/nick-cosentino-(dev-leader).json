@@ -4,8 +4,6 @@
   "countryCode": "ca",
   "slogan": "",
   "type": "CREATOR",
-  "gravatarHash": "",
-  "cardType": "",
   "bio": "",
   "tags": ".NET, C#, Tutorials, Microsoft, Unity3D",
   "socials": {
@@ -13,7 +11,8 @@
     "linkedin": "",
     "twitter": "https://www.twitter.com/devleaderca",
     "github": "",
-    "mastodon": ""
+    "mastodon": "",
+    "sessionize": ""
   },
   "channels": [
     {

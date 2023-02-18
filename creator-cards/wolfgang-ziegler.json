@@ -4,8 +4,6 @@
   "countryCode": "at",
   "slogan": "",
   "type": "CREATOR",
-  "gravatarHash": "",
-  "cardType": "",
   "bio": "",
   "tags": ".NET MAUI, C#",
   "socials": {
@@ -13,7 +11,8 @@
     "linkedin": "https://www.linkedin.com/in/wolfgangz/",
     "twitter": "",
     "github": "",
-    "mastodon": "https://fosstodon.org/@wolfgang@hachyderm.io"
+    "mastodon": "https://fosstodon.org/@wolfgang@hachyderm.io",
+    "sessionize": ""
   },
   "channels": [
     {

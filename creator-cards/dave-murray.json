@@ -4,8 +4,6 @@
   "countryCode": "gb",
   "slogan": "",
   "type": "CREATOR",
-  "gravatarHash": "",
-  "cardType": "",
   "bio": "",
   "tags": "Xamarin",
   "socials": {
@@ -13,7 +11,8 @@
     "linkedin": "https://www.linkedin.com/in/dave-murray-glasgow/",
     "twitter": "",
     "github": "",
-    "mastodon": "https://mastodon.scot/@irongut"
+    "mastodon": "https://mastodon.scot/@irongut",
+    "sessionize": ""
   },
   "channels": [
     {

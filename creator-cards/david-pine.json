@@ -4,8 +4,6 @@
   "countryCode": "us",
   "slogan": "",
   "type": "CREATOR",
-  "gravatarHash": "",
-  "cardType": "",
   "bio": "",
   "tags": "Blazor",
   "socials": {
@@ -13,7 +11,8 @@
     "linkedin": "",
     "twitter": "https://twitter.com/davidpine7",
     "github": "",
-    "mastodon": "https://fosstodon.org/@davidpine@dotnet.social"
+    "mastodon": "https://fosstodon.org/@davidpine@dotnet.social",
+    "sessionize": ""
   },
   "channels": [
     {

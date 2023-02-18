@@ -4,8 +4,6 @@
   "countryCode": "nl",
   "slogan": "",
   "type": "CREATOR",
-  "gravatarHash": "",
-  "cardType": "",
   "bio": "",
   "tags": "Azure, GitHub, ALM, Remote Work",
   "socials": {
@@ -13,7 +11,8 @@
     "linkedin": "https://www.linkedin.com/in/michielvanoudheusden",
     "twitter": "https://www.twitter.com/mivano",
     "github": "",
-    "mastodon": "https://mastodon.social/@mivano"
+    "mastodon": "https://mastodon.social/@mivano",
+    "sessionize": ""
   },
   "channels": [
     {

@@ -4,8 +4,6 @@
   "countryCode": "ch",
   "slogan": "",
   "type": "CREATOR",
-  "gravatarHash": "",
-  "cardType": "",
   "bio": "",
   "tags": "Azure, Kubernetes",
   "socials": {
@@ -13,7 +11,8 @@
     "linkedin": "https://www.linkedin.com/in/wolfgangofner/",
     "twitter": "https://twitter.com/wolfgang_ofner",
     "github": "",
-    "mastodon": ""
+    "mastodon": "",
+    "sessionize": ""
   },
   "channels": [
     {

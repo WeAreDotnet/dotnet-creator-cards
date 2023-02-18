@@ -4,8 +4,6 @@
   "countryCode": "us",
   "slogan": "",
   "type": "CREATOR",
-  "gravatarHash": "",
-  "cardType": "",
   "bio": "",
   "tags": ".NET, C#",
   "socials": {
@@ -13,7 +11,8 @@
     "linkedin": "https://www.linkedin.com/in/mjeaton/",
     "twitter": "",
     "github": "https://github.com/mjeaton",
-    "mastodon": "https://fosstodon.org/@mjeaton@our.devchatter.com"
+    "mastodon": "https://fosstodon.org/@mjeaton@our.devchatter.com",
+    "sessionize": ""
   },
   "channels": [
     {

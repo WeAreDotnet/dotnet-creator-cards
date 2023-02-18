@@ -4,8 +4,6 @@
   "countryCode": "pl",
   "slogan": "",
   "type": "CREATOR",
-  "gravatarHash": "",
-  "cardType": "",
   "bio": "",
   "tags": ".NET, Event-Driven Architecture",
   "socials": {
@@ -13,7 +11,8 @@
     "linkedin": "https://www.linkedin.com/in/oskardudycz/",
     "twitter": "https://twitter.com/oskar_at_net",
     "github": "",
-    "mastodon": "https://hachyderm.io/@oskardudycz"
+    "mastodon": "https://hachyderm.io/@oskardudycz",
+    "sessionize": ""
   },
   "channels": [
     {

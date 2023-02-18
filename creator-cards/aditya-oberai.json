@@ -4,8 +4,6 @@
   "countryCode": "in",
   "slogan": "",
   "type": "CREATOR",
-  "gravatarHash": "",
-  "cardType": "",
   "bio": "",
   "tags": ".NET, ASP.NET Web APIs, .NET MAUI, Azure",
   "socials": {
@@ -13,7 +11,8 @@
     "linkedin": "https://www.linkedin.com/in/adityaoberai1/",
     "twitter": "https://twitter.com/adityaoberai1",
     "github": "",
-    "mastodon": ""
+    "mastodon": "",
+    "sessionize": ""
   },
   "channels": [
     {

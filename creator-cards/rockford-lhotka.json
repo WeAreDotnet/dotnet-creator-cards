@@ -4,8 +4,6 @@
   "countryCode": "us",
   "slogan": "",
   "type": "CREATOR",
-  "gravatarHash": "",
-  "cardType": "",
   "bio": "",
   "tags": ".NET",
   "socials": {
@@ -13,7 +11,8 @@
     "linkedin": "",
     "twitter": "https://www.twitter.com/rockylhotka",
     "github": "",
-    "mastodon": "https://fosstodon.org/@rockylhotka"
+    "mastodon": "https://fosstodon.org/@rockylhotka",
+    "sessionize": ""
   },
   "channels": [
     {

@@ -4,8 +4,6 @@
   "countryCode": "us",
   "slogan": "",
   "type": "CREATOR",
-  "gravatarHash": "",
-  "cardType": "",
   "bio": "",
   "tags": ".NET, C#, Automated Testing, Azure, Terraform",
   "socials": {
@@ -13,7 +11,8 @@
     "linkedin": "https://linkedin.com/in/SeanKilleen",
     "twitter": "https://twitter.com/sjkilleen",
     "github": "",
-    "mastodon": "https://mastodon.social/@sjkilleen"
+    "mastodon": "https://mastodon.social/@sjkilleen",
+    "sessionize": ""
   },
   "channels": [
     {

@@ -4,8 +4,6 @@
   "countryCode": "nl",
   "slogan": "",
   "type": "CREATOR",
-  "gravatarHash": "",
-  "cardType": "",
   "bio": "",
   "tags": ".NET, C#",
   "socials": {
@@ -13,7 +11,8 @@
     "linkedin": "https://www.linkedin.com/in/maxhamulyak/",
     "twitter": "https://twitter.com/kaylumah",
     "github": "",
-    "mastodon": "https://fosstodon.org/@kaylumah@mastodon.nl"
+    "mastodon": "https://fosstodon.org/@kaylumah@mastodon.nl",
+    "sessionize": ""
   },
   "channels": [
     {

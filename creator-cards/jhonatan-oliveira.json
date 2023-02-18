@@ -4,8 +4,6 @@
   "countryCode": "ca",
   "slogan": "",
   "type": "CREATOR",
-  "gravatarHash": "",
-  "cardType": "",
   "bio": "",
   "tags": ".NET, C#, ASP.NET Core, .NET MAUI",
   "socials": {
@@ -13,7 +11,8 @@
     "linkedin": "https://www.linkedin.com/in/jhonatanfernando/",
     "twitter": "https://twitter.com/jhonatanfoliv",
     "github": "https://github.com/jhonatanfernando",
-    "mastodon": ""
+    "mastodon": "",
+    "sessionize": ""
   },
   "channels": [
     {

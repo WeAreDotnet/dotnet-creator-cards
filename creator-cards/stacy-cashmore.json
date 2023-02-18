@@ -4,8 +4,6 @@
   "countryCode": "nl",
   "slogan": "",
   "type": "CREATOR",
-  "gravatarHash": "",
-  "cardType": "",
   "bio": "",
   "tags": ".NET, Azure Static Web Apps",
   "socials": {
@@ -13,7 +11,8 @@
     "linkedin": "",
     "twitter": "https://twitter.com/Stacy_Cash",
     "github": "",
-    "mastodon": "https://tech.lgbt/@StacyClouds"
+    "mastodon": "https://tech.lgbt/@StacyClouds",
+    "sessionize": ""
   },
   "channels": [
     {

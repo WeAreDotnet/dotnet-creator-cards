@@ -4,8 +4,6 @@
   "countryCode": "nl",
   "slogan": "",
   "type": "CREATOR",
-  "gravatarHash": "",
-  "cardType": "",
   "bio": "",
   "tags": "DevOps, GitHub",
   "socials": {
@@ -13,7 +11,8 @@
     "linkedin": "https://www.linkedin.com/in/bosrob/",
     "twitter": "",
     "github": "https://github.com/rajbos",
-    "mastodon": "https://fosstodon.org/@Rob_Bos@mstdn.social"
+    "mastodon": "https://fosstodon.org/@Rob_Bos@mstdn.social",
+    "sessionize": ""
   },
   "channels": [
     {

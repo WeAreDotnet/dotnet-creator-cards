@@ -4,8 +4,6 @@
   "countryCode": "ir",
   "slogan": "",
   "type": "CREATOR",
-  "gravatarHash": "",
-  "cardType": "",
   "bio": "",
   "tags": "Microservices, .NET, C#, Clean Architecture, Clean Code, Azure",
   "socials": {
@@ -13,7 +11,8 @@
     "linkedin": "https://www.linkedin.com/in/omid-ahmadpour/",
     "twitter": "",
     "github": "https://github.com/omid-ahmadpour",
-    "mastodon": ""
+    "mastodon": "",
+    "sessionize": ""
   },
   "channels": [
     {

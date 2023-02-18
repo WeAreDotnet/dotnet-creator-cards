@@ -4,8 +4,6 @@
   "countryCode": "gb",
   "slogan": "",
   "type": "CREATOR",
-  "gravatarHash": "",
-  "cardType": "",
   "bio": "",
   "tags": ".NET, C#",
   "socials": {
@@ -13,7 +11,8 @@
     "linkedin": "",
     "twitter": "https://twitter.com/stevejgordon",
     "github": "",
-    "mastodon": "https://fosstodon.org/@stevejgordon"
+    "mastodon": "https://fosstodon.org/@stevejgordon",
+    "sessionize": ""
   },
   "channels": [
     {

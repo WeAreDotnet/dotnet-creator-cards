@@ -4,8 +4,6 @@
   "countryCode": "us",
   "slogan": "",
   "type": "CREATOR",
-  "gravatarHash": "",
-  "cardType": "",
   "bio": "",
   "tags": ".NET, C#, Web APIs, EFCore, MSSQL",
   "socials": {
@@ -13,7 +11,8 @@
     "linkedin": "https://www.linkedin.com/in/chriswoodruff/",
     "twitter": "https://twitter.com/cwoodruff",
     "github": "",
-    "mastodon": "https://mastodon.social/@cwoodruff"
+    "mastodon": "https://mastodon.social/@cwoodruff",
+    "sessionize": ""
   },
   "channels": [
     {

@@ -4,8 +4,6 @@
   "countryCode": "us",
   "slogan": "",
   "type": "CREATOR",
-  "gravatarHash": "",
-  "cardType": "",
   "bio": "",
   "tags": ".NET, C#, .NET MAUI, git",
   "socials": {
@@ -13,7 +11,8 @@
     "linkedin": "",
     "twitter": "",
     "github": "",
-    "mastodon": "https://hachyderm.io/@jesseliberty"
+    "mastodon": "https://hachyderm.io/@jesseliberty",
+    "sessionize": ""
   },
   "channels": [
     {

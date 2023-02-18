@@ -4,8 +4,6 @@
   "countryCode": "us",
   "slogan": "",
   "type": "CREATOR",
-  "gravatarHash": "",
-  "cardType": "",
   "bio": "",
   "tags": ".NET MAUI, .NET, Podcast",
   "socials": {
@@ -13,7 +11,8 @@
     "linkedin": "https://linkedin.com/in/jamesmontemagno",
     "twitter": "https://twitter.com/jamesmontemagno",
     "github": "",
-    "mastodon": ""
+    "mastodon": "",
+    "sessionize": ""
   },
   "channels": [
     {

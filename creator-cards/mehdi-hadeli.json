@@ -4,8 +4,6 @@
   "countryCode": "ir",
   "slogan": "",
   "type": "CREATOR",
-  "gravatarHash": "",
-  "cardType": "",
   "bio": "",
   "tags": "Architecture, .NET, ASP.NET Core",
   "socials": {
@@ -13,7 +11,8 @@
     "linkedin": "",
     "twitter": "https://twitter.com/mehdi_hadeli",
     "github": "https://github.com/mehdihadeli",
-    "mastodon": ""
+    "mastodon": "",
+    "sessionize": ""
   },
   "channels": [
     {

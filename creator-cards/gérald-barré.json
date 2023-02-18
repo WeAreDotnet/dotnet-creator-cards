@@ -4,8 +4,6 @@
   "countryCode": "ca",
   "slogan": "",
   "type": "CREATOR",
-  "gravatarHash": "",
-  "cardType": "",
   "bio": "",
   "tags": ".NET, ASP.NET Core, Blazor, C#",
   "socials": {
@@ -13,7 +11,8 @@
     "linkedin": "https://www.linkedin.com/in/meziantou/",
     "twitter": "https://twitter.com/meziantou",
     "github": "https://github.com/meziantou",
-    "mastodon": "https://hachyderm.io/@meziantou"
+    "mastodon": "https://hachyderm.io/@meziantou",
+    "sessionize": ""
   },
   "channels": [
     {

@@ -4,8 +4,6 @@
   "countryCode": "gb",
   "slogan": "",
   "type": "CREATOR",
-  "gravatarHash": "",
-  "cardType": "",
   "bio": "",
   "tags": ".NET",
   "socials": {
@@ -13,7 +11,8 @@
     "linkedin": "",
     "twitter": "https://twitter.com/johnny_reilly",
     "github": "",
-    "mastodon": "https://fosstodon.org/@johnny_reilly"
+    "mastodon": "https://fosstodon.org/@johnny_reilly",
+    "sessionize": ""
   },
   "channels": [
     {
