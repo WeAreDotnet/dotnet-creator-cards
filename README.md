@@ -63,6 +63,9 @@ Add your favourite creators by creating a PR.
       "url": ""
     }
   ],
-  "feeds": []
+  "feeds": [{
+      "type": "LinkTagRssType",
+      "url": "...feed.xml"  
+    }]
 }
 ```
