@@ -1,23 +1,27 @@
-﻿{
+{
   "name": "Niels Swimberghe",
   "sectionTitle": null,
   "countryCode": "us",
   "slogan": "",
   "type": "CREATOR",
-  "bio": "",
-  "tags": ".NET",
+  "bio": "Niels Swimberghe is a Belgian American software engineer, a technical content creator at Twilio, and a Microsoft MVP.",
+  "tags": "ASP.NET, .NET, C#, Web, Azure",
   "socials": {
-    "youtube": "",
+    "youtube": "https://www.youtube.com/@RealSwimburger",
     "linkedin": "https://www.linkedin.com/in/nielsswimberghe/",
     "twitter": "https://twitter.com/RealSwimburger",
-    "github": "",
-    "mastodon": "",
-    "sessionize": ""
+    "github": "https://github.com/Swimburger",
+    "mastodon": "https://dotnet.social/@swimburger",
+    "sessionize": "https://sessionize.com/swimburger"
   },
   "channels": [
     {
       "name": "Blog",
       "url": "https://swimburger.net"
+    },
+    {
+      "name": "YouTube",
+      "url": "https://www.youtube.com/@RealSwimburger"
     }
   ],
   "feeds": [
