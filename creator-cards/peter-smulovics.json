@@ -1,0 +1,28 @@
+{
+  "name": "Peter Smulovics",
+  "sectionTitle": null,
+  "countryCode": "us",
+  "slogan": "",
+  "type": "CREATOR",
+  "bio": "",
+  "tags": "C#, .NET, Azure, Mixed Reality",
+  "socials": {
+    "youtube": "https://www.youtube.com/MountGellert",
+    "linkedin": "https://www.linkedin.com/in/smulovicspeter/",
+    "twitter": "https://twitter.com/MountGellert",
+    "github": "https://github.com/psmulovics",
+    "mastodon": "https://universeodon.com/@mountgellert"
+  },
+  "channels": [
+    {
+      "name": "Site",
+      "url": "https://dotneteers.net"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "LinkTagRssType",
+      "url": "https://dotneteers.net/feed/"
+    }
+  ]
+}
