@@ -4,14 +4,14 @@
   "countryCode": "de",
   "slogan": "",
   "type": "CREATOR",
-  "bio": "",
+  "bio": "Freelance Mobile App Developer and Blogger working with C#, Xamarin.Forms and .NET MAUI",
   "tags": ".NET, C#, MVVM, .NET MAUI, Xamarin.Forms",
   "socials": {
     "youtube": "",
     "linkedin": "https://linkedin.com/in/jewerspeters",
     "twitter": "",
-    "github": "",
-    "mastodon": "",
+    "github": "https://github.com/ewerspej",
+    "mastodon": "https://hachyderm.io/@ewerspej",
     "sessionize": ""
   },
   "channels": [
