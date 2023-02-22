@@ -4,21 +4,42 @@
   "countryCode": "in",
   "slogan": "",
   "type": "CREATOR",
-  "bio": "",
-  "tags": "C#, .NET",
+  "bio": "A young lazy software developer who love to learn, practice and teach with .NET",
+  "tags": ".NET, DotNet, I Love DotNet, I ❤️ DotNet, Blazor, Blazor (WebAssembly), Blazor Wasm, C#, Entity Framework, LINQ, ML.NET, Web API, TDD, OOPS, Middleware, JWT, Dependency Injection, Report",
   "socials": {
-    "youtube": "",
-    "linkedin": "https://www.linkedin.com/in/fingers10/",
+    "youtube": "https://youtube.com/@ilovedotnet",
+    "linkedin": "https://linkedin.com/in/fingers10/",
     "twitter": "",
-    "github": "",
+    "github": "https://github.com/fingers10",
     "mastodon": "",
     "sessionize": ""
   },
   "channels": [
     {
       "name": "Site",
-      "url": "https://www.ilovedotnet.org"
-    }
+      "url": "https://ilovedotnet.org"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://linkedin.com/groups/9083706/"
+    },
+    {
+      "name": "YouTube",
+      "url": "https://youtube.com/@ilovedotnet"
+    },
+    {
+      "name": "Instagram",
+      "url": "https://instagram.com/ilovedotnet/"
+    },
   ],
-  "feeds": []
+  "feeds": [
+    {
+      "type": "LinkTagRssType",
+      "url": "https://ilovedotnet.org/atom.xml"
+    },
+    {
+      "type": "AHrefFeedType",
+      "url": "https://ilovedotnet.org/atom.xml"
+    }
+  ]
 }
