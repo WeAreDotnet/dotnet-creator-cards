@@ -1,0 +1,27 @@
+{
+    "name": "Filip Stas",
+    "sectionTitle": null,
+    "countryCode": "BE",
+    "slogan": "String.Replace(\"Suddenelfilio\", \"Visuasoft\");",
+    "type": "CREATOR",
+    "bio": "",
+    "tags": ".NET, C#, software design, EF, Azure",
+    "socials": {
+      "youtube": "",
+      "linkedin": "https://www.linkedin.com/in/filipstas/",
+      "twitter": "https://twitter.com/suddenelfilio",
+      "github": "https://github.com/suddenelfilio",
+      "mastodon": "",
+      "sessionize": ""
+    },
+    "channels": [
+      {
+        "name": "Blog",
+        "url": "https://blog.suddenelfilio.net"
+      }
+    ],
+    "feeds": [{
+        "type": "LinkTagRssType",
+        "url": "https://blog.suddenelfilio.net/rss/"  
+      }]
+  }
