@@ -1,0 +1,37 @@
+﻿{
+  "name": "Matthias Jost",
+  "sectionTitle": null,
+  "countryCode": "ch",
+  "slogan": "",
+  "type": "CREATOR",
+  "bio": "",
+  "tags": ".NET, C#",
+  "socials": {
+    "youtube": "",
+    "linkedin": "https://www.linkedin.com/in/matthias-jost/",
+    "twitter": "https://twitter.com/jost0101",
+    "github": "",
+    "mastodon": "",
+    "sessionize": ""
+  },
+  "channels": [
+    {
+      "name": "Blog",
+      "url": "https://www.matthias-jost.ch/en/"
+    },
+    {
+      "name": "Bio Link",
+      "url": "https://matthiasjost.bio.link/"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.matthias-jost.ch/en/feed/"
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.matthias-jost.ch/en/comments/feed/"
+    }
+  ]
+}
