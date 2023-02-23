@@ -4,20 +4,24 @@
   "countryCode": "nl",
   "slogan": "",
   "type": "CREATOR",
-  "bio": "",
+  "bio": "Engineer at Microsoft (.NET MAUI team) | content creator | speaker | gamer | .NET MAUI, Blazor, C# | He/Him",
   "tags": ".NET MAUI, Blazor, C#",
   "socials": {
-    "youtube": "https://www.youtube.com/c/GeraldVersluis",
-    "linkedin": "",
+    "youtube": "https://www.youtube.com/@jfversluis",
+    "linkedin": "https://www.linkedin.com/in/jfversluis/",
     "twitter": "https://twitter.com/jfversluis",
-    "github": "",
-    "mastodon": "",
-    "sessionize": ""
+    "github": "https://github.com/jfversluis",
+    "mastodon": "https://mas.to/@jfversluis",
+    "sessionize": "https://sessionize.com/jfversluis"
   },
   "channels": [
     {
       "name": "Blog",
       "url": "https://blog.verslu.is/"
+    },
+    {
+      "name": "Website",
+      "url": "https://jfversluis.dev/"
     }
   ],
   "feeds": [

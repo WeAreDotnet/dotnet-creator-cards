@@ -1,0 +1,31 @@
+{
+  "name": "Dimitrios Batsougiannis",
+  "sectionTitle": null,
+  "countryCode": "UK",
+  "slogan": "",
+  "type": "CREATOR",
+  "bio": "",
+  "tags": ".NET, C#, Azure,",
+  "socials": {
+    "youtube": "",
+    "linkedin": "https://www.linkedin.com/in/dbatsou",
+    "twitter": "https://twitter.com/dbatsou",
+    "github": "https://github.com/dbatsou",
+    "mastodon": "",
+    "sessionize": ""
+  },
+  "channels": [
+    {
+      "name": "Twitch",
+      "url": "https://www.twitch.tv/dbatsou"
+    },
+    {
+      "name": "Site",
+      "url": "https://slothycode.com/"
+    }
+  ],
+  "feeds": [{
+      "type": "LinkTagRssType",
+      "url": "https://slothycode.com/rss/"  
+    }]
+}

@@ -2,16 +2,16 @@
   "name": "Nick Cosentino (Dev Leader)",
   "sectionTitle": null,
   "countryCode": "ca",
-  "slogan": "",
+  "slogan": "Leveling up your software engineering abilities",
   "type": "CREATOR",
-  "bio": "",
+  "bio": "Dev Leader on social media. Principal Software Engineering Manager at Microsoft. Views are my own.",
   "tags": ".NET, C#, Tutorials, Microsoft, Unity3D",
   "socials": {
     "youtube": "https://www.youtube.com/@devleader",
-    "linkedin": "",
+    "linkedin": "https://www.linkedin.com/in/nickcosentino",
     "twitter": "https://www.twitter.com/devleaderca",
-    "github": "",
-    "mastodon": "",
+    "github": "https://www.github.com/ncosentino",
+    "mastodon": "https://hachyderm.io/@devleader",
     "sessionize": ""
   },
   "channels": [
@@ -26,12 +26,24 @@
     {
       "name": "All Dev Leader Links",
       "url": "https://linktr.ee/devleader"
+    },
+    {
+      "name": "Dude, Where's My Code? Podcast",
+      "url": "https://www.youtube.com/@dudewheresmycode"
+    },
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/dev.leader"
     }
   ],
   "feeds": [
     {
       "type": "LinkTagRssType",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJ90Is0z9KIyNSufH--IwRg"
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.devleader.ca/feed"
     }
   ]
 }

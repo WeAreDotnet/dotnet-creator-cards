@@ -1,0 +1,36 @@
+﻿{
+  "name": "Peter Bull",
+  "sectionTitle": null,
+  "countryCode": "gb",
+  "slogan": "",
+  "type": "CREATOR",
+  "bio": "Peter aka RoguePlanetoid is a software developer in the North East of England with over three decades of personal experience and two decades of professional experience. Keen to share including writing tutorials, workshops and delivering presentations along with having an interest in all things Microsoft!",
+  "tags": ".NET, C#, XAML, Tutorials",
+  "socials": {
+    "youtube": "https://youtube.com/@rogueplanetoid",
+    "linkedin": "https://www.linkedin.com/in/rogueplanetoid",
+    "twitter": "https://twitter.com/rogueplanetoid",
+    "github": "http://github.com/rogueplanetoid",
+    "mastodon": "",
+    "sessionize": ""
+  },
+  "channels": [
+    {
+      "name": "Learn",
+      "url": "https://www.tutorialr.com"
+    },
+    {
+      "name": "Site",
+      "url": "https://www.comentsys.com"
+    },
+    {
+      "name": "Blog",
+      "url": "https://www.rogueplanetoid.com/"
+    },
+    {
+      "name": "Podcast",
+      "url": "https://www.rogueplanetoid.com/podcast"
+    }
+  ],
+  "feeds": []
+}

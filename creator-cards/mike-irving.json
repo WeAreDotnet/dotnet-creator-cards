@@ -4,15 +4,15 @@
   "countryCode": "gb",
   "slogan": "",
   "type": "CREATOR",
-  "bio": "",
+  "bio": "Cross-platform Mobile and Web Developer, Speaker. Co-organiser of Dot Net North and Macc Tech",
   "tags": ".NET, C#, Mobile",
   "socials": {
     "youtube": "",
-    "linkedin": "",
+    "linkedin": "https://www.linkedin.com/in/mikeirving/",
     "twitter": "https://twitter.com/mikeirvingweb",
     "github": "https://github.com/mikeirvingweb",
     "mastodon": "",
-    "sessionize": ""
+    "sessionize": "https://sessionize.com/mikeirving/"
   },
   "channels": [
     {

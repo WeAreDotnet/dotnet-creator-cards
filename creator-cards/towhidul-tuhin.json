@@ -1,0 +1,24 @@
+{
+  "name": "Towhidul Tuhin",
+  "sectionTitle": null,
+  "countryCode": "bd",
+  "slogan": "",
+  "type": "CREATOR",
+  "bio": "",
+  "tags": "C#, .NET",
+  "socials": {
+    "youtube": "",
+    "linkedin": "https://www.linkedin.com/in/towhidulislamtuhin/",
+    "twitter": "",
+    "github": "https://github.com/tuhincse24",
+    "mastodon": "",
+    "sessionize": ""
+  },
+  "channels": [
+    {
+      "name": "Blog",
+      "url": "codertuhin.blogspot.com"
+    }
+  ],
+  "feeds": []
+}
