@@ -23,11 +23,11 @@
     "feeds": [
       {
         "type": "LinkTagRssType",
-        "url": "https://piraces.dev/feed/feed.xml"  
+        "url": "https://piraces.dev/feed/dotnet.xml"  
       },
       {
         "type": "AHrefFeedType",
-        "url": "https://piraces.dev/feed/feed.xml"
+        "url": "https://piraces.dev/feed/dotnet.xml"
       }
     ]
   }
