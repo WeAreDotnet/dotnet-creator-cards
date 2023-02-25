@@ -1,0 +1,29 @@
+﻿{
+  "name": "Daniel Paiva",
+  "sectionTitle": null,
+  "countryCode": "BR",
+  "slogan": "Done is better than perfect.",
+  "type": "CREATOR",
+  "bio": "Passionate about technology, a teacher in his spare time and an eternal learner.",
+  "tags": ".NET, C#, ASP.NET",
+  "socials": {
+    "youtube": "",
+    "linkedin": "https://www.linkedin.com/in/danhpaiva/",
+    "twitter": "https://twitter.com/danhpaiva",
+    "github": "https://github.com/danhpaiva",
+    "mastodon": "",
+    "sessionize": ""
+  },
+  "channels": [
+    {
+      "name": "Blog",
+      "url": "https://medium.com/@danhpaiva"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "LinkAuthorRssType",
+      "url": "https://medium.com/feed/@danhpaiva"
+    }
+  ]
+}
