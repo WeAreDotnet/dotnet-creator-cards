@@ -4,15 +4,15 @@
   "countryCode": "gb",
   "slogan": "",
   "type": "CREATOR",
-  "bio": "",
-  "tags": "Blazor",
+  "bio": "I'm a software developer, Microsoft MVP, content creator, international speaker, and maintainer of several popular open-source packages for Blazor.",
+  "tags": "Blazor .NET C#",
   "socials": {
-    "youtube": "",
-    "linkedin": "",
+    "youtube": "https://youtube.com/@chris-sainty",
+    "linkedin": "https://linkedin.com/in/chris-sainty",
     "twitter": "https://twitter.com/chris_sainty",
-    "github": "",
+    "github": "https://github.com/chrissainty",
     "mastodon": "https://mstdn.social/@chrissainty",
-    "sessionize": ""
+    "sessionize": "https://sessionize.com/chrissainty/"
   },
   "channels": [
     {
