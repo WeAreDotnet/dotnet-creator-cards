@@ -4,13 +4,13 @@
   "countryCode": "jp",
   "slogan": "",
   "type": "CREATOR",
-  "bio": "",
-  "tags": "WinAppSDK, WinUI 3",
+  "bio": "Just a regular dev working with WinAppSDK/WinUI 3",
+  "tags": "WinAppSDK, WinUI 3, .NET, C#",
   "socials": {
     "youtube": "https://www.youtube.com/c/AndrewKeepCoding/",
-    "linkedin": "",
+    "linkedin": "https://www.linkedin.com/in/andrew-keepcoding-624681252",
     "twitter": "https://twitter.com/AndrewKeepCodin",
-    "github": "",
+    "github": "https://github.com/AndrewKeepCoding",
     "mastodon": "",
     "sessionize": ""
   },
