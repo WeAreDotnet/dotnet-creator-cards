@@ -4,15 +4,15 @@
   "countryCode": "us",
   "slogan": "",
   "type": "CREATOR",
-  "bio": "",
+  "bio": "I teach, write and speak about Software Engineering & AI/ML with dotnet, Azure, & Python.",
   "tags": ".NET, C#, ML.NET",
   "socials": {
     "youtube": "https://MattOnDataScience.com",
-    "linkedin": "",
+    "linkedin": "https://www.linkedin.com/in/matteland/",
     "twitter": "https://twitter.com/IntegerMan",
-    "github": "",
-    "mastodon": "",
-    "sessionize": ""
+    "github": "https://github.com/integerman",
+    "mastodon": "https://techhub.social/@IntegerMan",
+    "sessionize": "https://sessionize.com/matt-eland/"
   },
   "channels": [
     {
