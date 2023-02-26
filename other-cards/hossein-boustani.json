@@ -1,0 +1,28 @@
+{
+  "name": "Hossein Boustani",
+  "sectionTitle": null,
+  "countryCode": "ir",
+  "slogan": "",
+  "type": "CREATOR",
+  "bio": "I'm a DotNet backend developer. i live in Tehran and i love my people. a coffee dude then tell me to take you in a good place.",
+  "tags": ".NET, C#, ASP.NET, I LOVE DOTNET",
+  "socials": {
+    "youtube": "https://youtube.com/@HosseinBoustani",
+    "linkedin": "https://www.linkedin.com/in/engboustani/",
+    "twitter": "https://www.twitter.com/engboustani",
+    "github": "https://github.com/engboustani",
+    "mastodon": "",
+    "sessionize": ""
+  },
+  "channels": [
+    {
+      "name": "YouTube",
+      "url": "https://youtube.com/@HosseinBoustani"
+    },
+    {
+      "name": "Instagram",
+      "url": "https://instagram.com/engboustani/"
+    },
+  ],
+  "feeds": []
+}
