@@ -1,0 +1,29 @@
+﻿{
+  "name": "Victor H Garcia",
+  "sectionTitle": null,
+  "countryCode": "mx",
+  "slogan": "",
+  "type": "CREATOR",
+  "bio": "Passionate software engineer with a love for design and an unwavering commitment to enjoying life to the fullest.",
+  "tags": ".NET, C#, ASP.NET, .NET MAUI",
+  "socials": {
+    "youtube": "",
+    "linkedin": "https://www.linkedin.com/in/victorhugogarcia/",
+    "twitter": "https://twitter.com/ivictorhugo",
+    "github": "https://github.com/vhugogarcia",
+    "mastodon": "",
+    "sessionize": ""
+  },
+  "channels": [
+    {
+      "name": "Site",
+      "url": "https://dev.to/vhugogarcia"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "LinkAuthorRssType",
+      "url": "https://dev.to/feed/vhugogarcia"
+    }
+  ]
+}

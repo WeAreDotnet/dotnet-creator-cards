@@ -1,0 +1,33 @@
+{
+    "name": "Raúl Piracés",
+    "sectionTitle": null,
+    "countryCode": "es",
+    "slogan": "",
+    "type": "CREATOR",
+    "bio": "Passionate Software Engineer and tech enthusiast into the .NET world",
+    "tags": ".NET, C#, Azure, DevOps, Docker, Authentication",
+    "socials": {
+      "youtube": "",
+      "linkedin": "https://www.linkedin.com/in/piraces/",
+      "twitter": "https://twitter.com/piraces_",
+      "github": "https://github.com/piraces",
+      "mastodon": "https://hachyderm.io/@piraces",
+      "sessionize": ""
+    },
+    "channels": [
+      {
+        "name": "Blog",
+        "url": "https://piraces.dev/"
+      }
+    ],
+    "feeds": [
+      {
+        "type": "LinkTagRssType",
+        "url": "https://piraces.dev/feed/dotnet.xml"  
+      },
+      {
+        "type": "AHrefFeedType",
+        "url": "https://piraces.dev/feed/dotnet.xml"
+      }
+    ]
+  }
