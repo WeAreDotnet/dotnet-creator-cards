@@ -1,0 +1,19 @@
+{
+  "firstName": "Kerry W.",
+  "lastName": "Lothrop",
+  "tagOrBio": "",
+  "stateOrRegion": "Frankfurt, Germany",
+  "emailAddress": "",
+  "twitterHandle": "kwlothrop",
+  "webSite": "https://kerry.lothrop.de/",
+  "feedUris": [
+    "https://kerry.lothrop.de/en/feed/"
+  ],
+  "gravatarHash": "250241b2800a1de895a75ce039bcfef4",
+  "githubHandle": "",
+  "position": {
+    "lat": 50.1307615,
+    "lon": 8.568736
+  },
+  "languageCode": "en"
+}

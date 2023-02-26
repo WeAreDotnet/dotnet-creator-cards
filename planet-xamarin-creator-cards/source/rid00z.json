@@ -1,0 +1,19 @@
+{
+  "firstName": "Michael",
+  "lastName": "Ridland",
+  "stateOrRegion": "Sydney, Australia",
+  "emailAddress": "michael@xam-consulting.com",
+  "tagOrBio": "Xamarin Contractor/Consultant | Founder XAM Consulting (xam-consulting.com) | Creator of FreshMvvm",
+  "webSite": "https://michaelridland.com",
+  "feedUris": [
+    "https://michaelridland.com/feed/"
+  ],
+  "twitterHandle": "rid00z",
+  "gravatarHash": "3c07e56045d18f4f290eb4983031309d",
+  "githubHandle": "rid00z",
+  "position": {
+    "lat": -25.348875,
+    "lon": 131.035
+  },
+  "languageCode": "en"
+}

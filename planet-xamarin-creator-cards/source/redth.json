@@ -1,0 +1,19 @@
+{
+  "firstName": "Jon",
+  "lastName": "Dick",
+  "tagOrBio": "",
+  "emailAddress": "jondick@gmail.com",
+  "twitterHandle": "redth",
+  "gravatarHash": "ad73e52d7e4d89e904e7c4cfd91fc2b9",
+  "stateOrRegion": "Ontario, Canada",
+  "webSite": "https://redth.codes",
+  "feedUris": [
+    "https://redth.codes/feed/"
+  ],
+  "githubHandle": "redth",
+  "position": {
+    "lat": 51.253775,
+    "lon": -85.323214
+  },
+  "languageCode": "en"
+}

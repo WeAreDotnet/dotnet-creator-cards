@@ -1,0 +1,19 @@
+{
+  "firstName": "Jérôme",
+  "lastName": "Giacomini",
+  "stateOrRegion": "Paris, France",
+  "emailAddress": "jerome.giacomini@gmail.com",
+  "tagOrBio": "is a Xamarin Enthusiast, co-author of a book on Xamarin",
+  "webSite": "https://jeromegiacomini.net/Blog/",
+  "twitterHandle": "jeromegiacomini",
+  "githubHandle": "jgiacomini",
+  "gravatarHash": "95e63961669a22586a1236fd6a7a494d",
+  "feedUris": [
+    "https://jeromegiacomini.net/Blog/feed/"
+  ],
+  "position": {
+    "lat": 48.8704842,
+    "lon": 2.3449646
+  },
+  "languageCode": "fr"
+}

@@ -1,0 +1,19 @@
+{
+  "firstName": "Nick",
+  "lastName": "Randolph",
+  "stateOrRegion": "Sydney, Australia",
+  "emailAddress": "nick@builttoroam.com",
+  "tagOrBio": "Microsoft MVP and maintainer of @MvvmCross. Co-founder, Tech Lead at Built to Roam (@btroam), special forces in cross platform app and cloud solutions.",
+  "webSite": "https://builttoroam.com",
+  "feedUris": [
+    "https://nicksnettravels.builttoroam.com/syndication.axd"
+  ],
+  "twitterHandle": "thenickrandolph",
+  "gravatarHash": "",
+  "githubHandle": "nickrandolph",
+  "position": {
+    "lat": -33.839559,
+    "lon": 151.2112434
+  },
+  "languageCode": "en"
+}

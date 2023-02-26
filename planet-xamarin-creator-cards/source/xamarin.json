@@ -1,0 +1,19 @@
+{
+  "firstName": "The Xamarin",
+  "lastName": "Blog",
+  "stateOrRegion": "Internet",
+  "emailAddress": "hello@xamarin.com",
+  "tagOrBio": "is your official source for Xamarin developer news.",
+  "webSite": "https://blog.xamarin.com",
+  "feedUris": [
+    "https://devblogs.microsoft.com/xamarin/feed/"
+  ],
+  "twitterHandle": "xamarinhq",
+  "gravatarHash": "70148d964bb389d42547834e1062c886",
+  "githubHandle": "xamarin",
+  "position": {
+    "lat": 37.77493,
+    "lon": -122.419416
+  },
+  "languageCode": "en"
+}

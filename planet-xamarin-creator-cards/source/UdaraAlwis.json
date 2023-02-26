@@ -1,0 +1,19 @@
+{
+  "firstName": "Udara",
+  "lastName": "Alwis",
+  "tagOrBio": "A mobile dev enthusiast. Xamarin Certified Developer in Singapore.",
+  "stateOrRegion": "Singapore",
+  "emailAddress": "udara.robotics@gmail.com",
+  "twitterHandle": "Udara_Alwis",
+  "gravatarHash": "125c4aaed98f2a88207dac78c17dd344",
+  "githubHandle": "UdaraAlwis",
+  "position": {
+    "lat": 1.284433,
+    "lon": 103.859609
+  },
+  "webSite": "https://theconfuzedsourcecode.wordpress.com/",
+  "feedUris": [
+    "https://theconfuzedsourcecode.wordpress.com/feed/"
+  ],
+  "languageCode": "en"
+}

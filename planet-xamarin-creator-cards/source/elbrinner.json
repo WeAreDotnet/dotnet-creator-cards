@@ -1,0 +1,19 @@
+{
+  "firstName": "Elbrinner",
+  "lastName": "da Silva Fernandes",
+  "stateOrRegion": "Madrid , Spain",
+  "emailAddress": "elbrinner@elbrinner.com",
+  "tagOrBio": "is a Xamarin consultant in everis Spain and organizer of the meetup group Xamarin Madrid.",
+  "webSite": "https://www.elbrinner.com/",
+  "twitterHandle": "elbrinner",
+  "githubHandle": "elbrinner",
+  "gravatarHash": "15e64690c0e4d5b2c692e9fc7de5e768",
+  "feedUris": [
+    "https://www.elbrinner.com/rss"
+  ],
+  "position": {
+    "lat": 40.416775,
+    "lon": -3.70379
+  },
+  "languageCode": "es"
+}

@@ -1,0 +1,19 @@
+{
+  "firstName": "Alejandro",
+  "lastName": "Ruiz",
+  "tagOrBio": "Alejandro Ruiz is a Xamarin MVP, C# & Open Source Lover",
+  "stateOrRegion": "Guadalajara, Mexico",
+  "emailAddress": "alejandro@alejandroruizvarela.com",
+  "webSite": "https://alejandroruizvarela.blogspot.mx",
+  "feedUris": [
+    "https://alejandroruizvarela.blogspot.mx/rss.xml"
+  ],
+  "twitterHandle": "alejandroruizva",
+  "gravatarHash": "35d0fff7dbc133e9fe2075aa14205a57",
+  "githubHandle": "AlejandroRuiz",
+  "position": {
+    "lat": 20.66682,
+    "lon": -103.39182
+  },
+  "languageCode": "es"
+}

@@ -1,0 +1,19 @@
+{
+  "feedUris": [
+    "https://blog.ostebaronen.dk/feed.xml"
+  ],
+  "firstName": "Tomasz",
+  "lastName": "Cielecki",
+  "stateOrRegion": "Copenhagen, Denmark",
+  "emailAddress": "tomasz@ostebaronen.dk",
+  "tagOrBio": "Open Source all the things!",
+  "webSite": "https://blog.ostebaronen.dk",
+  "twitterHandle": "Cheesebaron",
+  "githubHandle": "Cheesebaron",
+  "gravatarHash": "f780d57997526876b0625e517c1e0884",
+  "position": {
+    "lat": 55.8019193,
+    "lon": 12.523124
+  },
+  "languageCode": "en"
+}

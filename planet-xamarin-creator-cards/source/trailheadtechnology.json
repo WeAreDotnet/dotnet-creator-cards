@@ -1,0 +1,19 @@
+{
+  "firstName": "Trailhead Technology",
+  "lastName": "",
+  "stateOrRegion": "Jenison, MI",
+  "twitterHandle": "@TrailheadTec",
+  "emailAddress": "info@trailheadtechnology.com",
+  "tagOrBio": "",
+  "gravatarHash": "0d6c200b64336790495f110332e1d7be",
+  "webSite": "https://www.trailheadtechnology.com/",
+  "feedUris": [
+    "https://trailheadtechnology.com/feed"
+  ],
+  "githubHandle": "trailheadtechnology",
+  "position": {
+    "lat": 42.921436,
+    "lon": -85.806578
+  },
+  "languageCode": "en"
+}

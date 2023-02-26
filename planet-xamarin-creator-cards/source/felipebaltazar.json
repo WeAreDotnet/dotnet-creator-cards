@@ -1,0 +1,19 @@
+{
+  "firstName": "Felipe",
+  "lastName": "Baltazar",
+  "tagOrBio": "Xamarin 🐒, ApnetCore 🌐, Windows 💻, Nerd 🤓, Gamer 🎮 and Father 👨‍👩‍👦",
+  "stateOrRegion": "Rio Grande do sul, Brasil",
+  "emailAddress": "felipe.dasilvabaltazar@gmail.com",
+  "twitterHandle": "FelippeBaltazar",
+  "githubHandle": "felipebaltazar",
+  "gravatarHash": "c4deac62305f590fbda80209628afd0e",
+  "position": {
+    "lat": -29.940163,
+    "lon": -51.088751
+  },
+  "webSite": "https://medium.com/@felipedasilvabaltazar",
+  "feedUris": [
+    "https://medium.com/feed/@felipedasilvabaltazar"
+  ],
+  "languageCode": "pt"
+}

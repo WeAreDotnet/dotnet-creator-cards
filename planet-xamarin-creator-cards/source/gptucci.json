@@ -1,0 +1,19 @@
+{
+  "webSite": "https://www.informaticapressapochista.com/it",
+  "firstName": "Giampaolo",
+  "lastName": "Tucci",
+  "stateOrRegion": "Italia",
+  "emailAddress": "g.tucci@informaticapressapochista.com",
+  "tagOrBio": "L'IT come non l'avete mai letta",
+  "gravatarHash": "a8846caf48c8ccc9850ff201c1e2ad1d",
+  "feedUris": [
+    "https://www.informaticapressapochista.com/it/?format=feed&type=rss"
+  ],
+  "twitterHandle": "GiampaoloTUCCI",
+  "githubHandle": "gptucci",
+  "position": {
+    "lat": 44.40138,
+    "lon": 8.93419
+  },
+  "languageCode": "it"
+}

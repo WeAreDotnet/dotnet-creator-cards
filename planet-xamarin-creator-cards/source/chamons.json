@@ -1,0 +1,19 @@
+{
+  "firstName": "Chris",
+  "lastName": "Hamons",
+  "tagOrBio": "is the lead engineer for Xamarin.Mac",
+  "stateOrRegion": "Austin, Texas",
+  "emailAddress": "chris.hamons@xamarin.com",
+  "twitterHandle": "IfErrThrowBrick",
+  "webSite": "https://medium.com/@donblas",
+  "feedUris": [
+    "https://medium.com/feed/@donblas"
+  ],
+  "gravatarHash": "8fb3e7f07ea1386cefe1326b48e0e21a",
+  "githubHandle": "chamons",
+  "position": {
+    "lat": 30.267153,
+    "lon": -97.743061
+  },
+  "languageCode": "en"
+}

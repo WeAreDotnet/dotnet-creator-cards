@@ -1,0 +1,19 @@
+{
+  "firstName": "John",
+  "lastName": "Thiriet",
+  "stateOrRegion": "Paris, France",
+  "emailAddress": "johnthiriet@protonmail.com",
+  "tagOrBio": "is a Mobility Technical Manager, Trainer, Microsoft MVP, Xamarin MVP",
+  "webSite": "https://johnthiriet.com/",
+  "feedUris": [
+    "https://johnthiriet.com/feed.xml"
+  ],
+  "twitterHandle": "johnthiriet",
+  "gravatarHash": "ed92222c19a155a929d9f2c12d39c3f4",
+  "githubHandle": "johnthiriet",
+  "position": {
+    "lat": 48.875485,
+    "lon": 2.311039
+  },
+  "languageCode": "en"
+}

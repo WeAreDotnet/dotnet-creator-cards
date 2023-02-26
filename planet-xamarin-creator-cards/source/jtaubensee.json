@@ -1,0 +1,19 @@
+{
+  "firstName": "John",
+  "lastName": "Taubensee",
+  "stateOrRegion": "Chicago, IL",
+  "emailAddress": "",
+  "tagOrBio": "is a developer focused on Microsoft technologies. Microsoft Azure alumni",
+  "webSite": "https://taubensee.net",
+  "feedUris": [
+    "https://taubensee.net/rss"
+  ],
+  "twitterHandle": "jtaubensee",
+  "gravatarHash": "151bc535ca1581cb451eb4df1672b018",
+  "githubHandle": "jtaubensee",
+  "position": {
+    "lat": 41.8778143,
+    "lon": -87.6349955
+  },
+  "languageCode": "en"
+}

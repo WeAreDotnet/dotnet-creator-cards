@@ -1,0 +1,19 @@
+{
+  "firstName": "Asfend Yar",
+  "lastName": "Hamid",
+  "stateOrRegion": "Lahore, Pakistan",
+  "emailAddress": "asfend@hotmail.com",
+  "tagOrBio": "is a Technical Trainer, Author at Udemy and Passionate Community Member as well as Software Engineer",
+  "webSite": "https://xamarinui.blogspot.com/",
+  "feedUris": [
+    "https://xamarinui.blogspot.com/feeds/posts/default"
+  ],
+  "twitterHandle": "asfend",
+  "gravatarHash": "1aa9a7436eec5ad5d0418a385d1bdbe0",
+  "githubHandle": "asfend",
+  "position": {
+    "lat": 31.5712,
+    "lon": 74.3646
+  },
+  "languageCode": "en"
+}

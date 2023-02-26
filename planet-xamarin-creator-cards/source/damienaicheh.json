@@ -1,0 +1,19 @@
+{
+  "firstName": "Damien",
+  "lastName": "Aicheh",
+  "stateOrRegion": "Rennes, France",
+  "emailAddress": "",
+  "tagOrBio": "is a passionate mobile developer also interrested about Azure, Azure DevOps and.NET Core.",
+  "webSite": "https://damienaicheh.github.io/",
+  "twitterHandle": "damienaicheh",
+  "githubHandle": "damienaicheh",
+  "gravatarHash": "b5cf688a9aa81b3ef752ecda4366a8e9",
+  "feedUris": [
+    "https://damienaicheh.github.io/feed.xml"
+  ],
+  "position": {
+    "lat": 48.1113036,
+    "lon": -1.6801598
+  },
+  "languageCode": "en"
+}

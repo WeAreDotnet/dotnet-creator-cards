@@ -1,0 +1,19 @@
+{
+  "firstName": "Juliano",
+  "lastName": "Custódio",
+  "stateOrRegion": "Alphaville - Barueri, Brasil",
+  "twitterHandle": "JuuCustodio",
+  "githubHandle": "JuuCustodio",
+  "tagOrBio": "Solutions Architect, Blogger and Speaker",
+  "emailAddress": "juliano.custodio@hotmail.com.br",
+  "gravatarHash": "71de9936f2ffbc93e9918066479331f1",
+  "position": {
+    "lat": -23.4880831,
+    "lon": -46.8496769
+  },
+  "webSite": "https://www.julianocustodio.com",
+  "feedUris": [
+    "https://julianocustodio.com/tag/xamarin/rss/"
+  ],
+  "languageCode": "pt"
+}

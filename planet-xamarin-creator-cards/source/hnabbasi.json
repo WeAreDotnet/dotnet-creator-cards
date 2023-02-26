@@ -1,0 +1,19 @@
+{
+  "firstName": "Hussain",
+  "lastName": "Abbasi",
+  "stateOrRegion": "Houston, Texas",
+  "emailAddress": "hnabbasi@outlook.com",
+  "tagOrBio": "is a Blogger, Mobile Architect, and founder of intelliAbb.com. More at HussainAbbasi.com",
+  "webSite": "https://www.intelliabb.com/",
+  "twitterHandle": "HussainNAbbasi",
+  "githubHandle": "hnabbasi",
+  "gravatarHash": "6f415af725ae2d6b5b912a7e93b105b9",
+  "feedUris": [
+    "https://www.intelliabb.com/feed"
+  ],
+  "position": {
+    "lat": 29.7656,
+    "lon": -95.3681
+  },
+  "languageCode": "en"
+}

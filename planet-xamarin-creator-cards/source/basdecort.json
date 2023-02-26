@@ -1,0 +1,19 @@
+{
+  "firstName": "Bas",
+  "lastName": "de Cort",
+  "stateOrRegion": "Tilburg, The Netherlands",
+  "emailAddress": "",
+  "tagOrBio": "is a mobile developer with a great passion for Xamarin 🙉",
+  "webSite": "https://www.basdecort.com",
+  "twitterHandle": "basdecort",
+  "githubHandle": "basdecort",
+  "gravatarHash": "9cabafd38c21d9df358f7532ffa39153",
+  "position": {
+    "lat": 52.040222799999995,
+    "lon": 5.5349002999999994
+  },
+  "feedUris": [
+    "https://www.basdecort.com/rss"
+  ],
+  "languageCode": "en"
+}

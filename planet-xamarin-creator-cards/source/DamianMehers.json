@@ -1,0 +1,19 @@
+{
+  "firstName": "Damian",
+  "lastName": "Mehers",
+  "tagOrBio": "Independent Xamarin Developer",
+  "stateOrRegion": "Geneva, Switzerland",
+  "emailAddress": "damian@mehers.com",
+  "twitterHandle": "DamianMehers",
+  "gravatarHash": "d77613f4e20bfcae401a6bf0018a83d1",
+  "githubHandle": "DamianMehers",
+  "position": {
+    "lat": 46.3635288,
+    "lon": 6.1860801
+  },
+  "webSite": "https://damian.fyi/",
+  "feedUris": [
+    "https://damian.fyi/feed/Xamarin.xml"
+  ],
+  "languageCode": "en"
+}

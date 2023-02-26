@@ -1,0 +1,19 @@
+{
+  "firstName": "The Xamarin",
+  "lastName": "Podcast",
+  "stateOrRegion": "Internet",
+  "emailAddress": "hello@xamarin.com",
+  "tagOrBio": "is the official Xamarin podcast discussing all things Xamarin!",
+  "webSite": "http://www.xamarinpodcast.com",
+  "feedUris": [
+    "https://feeds.fireside.fm/xamarinpodcast/rss"
+  ],
+  "twitterHandle": "XamarinPodcast",
+  "gravatarHash": "70148d964bb389d42547834e1062c886",
+  "githubHandle": "",
+  "position": {
+    "lat": -1337.0,
+    "lon": 42.0
+  },
+  "languageCode": "en"
+}

@@ -1,0 +1,19 @@
+{
+  "firstName": "LetsCreateSeries",
+  "lastName": "",
+  "stateOrRegion": "United States",
+  "emailAddress": "letscreate.roblox@gmail.com",
+  "tagOrBio": "Create Mobile Apps using Xamarin.Forms",
+  "webSite": "https://letscreateseries.com",
+  "twitterHandle": "LetsCre8Series",
+  "githubHandle": "LetsCreateSeries",
+  "gravatarHash": "10793693ff507eda06ff02e9855e774f",
+  "feedUris": [
+    "https://letscreateseries.com/rss"
+  ],
+  "position": {
+    "lat": 40.6331,
+    "lon": 89.3985
+  },
+  "languageCode": "en"
+}

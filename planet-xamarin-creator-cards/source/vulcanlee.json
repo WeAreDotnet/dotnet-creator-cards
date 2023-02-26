@@ -1,0 +1,19 @@
+{
+  "firstName": "Vulcan",
+  "lastName": "Lee",
+  "stateOrRegion": "Taipei, Taiwan",
+  "twitterHandle": "vulcanlee",
+  "emailAddress": "vulcan.lee@gmail.com",
+  "tagOrBio": "Vulcan Lee is a Microsoft MVP who develops Xamarin at Doggy Ltd",
+  "gravatarHash": "f5de84ba365a15a05748624c07e70075",
+  "webSite": "https://mylabtw.blogspot.com/",
+  "feedUris": [
+    "https://mylabtw.blogspot.com/feeds/posts/default?alt=rss"
+  ],
+  "githubHandle": "vulcanlee",
+  "position": {
+    "lat": 25.043847,
+    "lon": 121.525645
+  },
+  "languageCode": "zh"
+}

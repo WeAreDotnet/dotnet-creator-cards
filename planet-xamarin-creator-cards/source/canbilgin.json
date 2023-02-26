@@ -1,0 +1,19 @@
+{
+  "firstName": "Can",
+  "lastName": "Bilgin",
+  "tagOrBio": "Seasoned microsoft stack developer with passion for mobile development. Microsoft MVP for Windows Platform Development",
+  "stateOrRegion": "Sarajevo",
+  "emailAddress": "can_bilgin@hotmail.com",
+  "twitterHandle": "can_bilgin",
+  "gravatarHash": "3659d530c25e6188f7ef4c98ed100dc8",
+  "webSite": "https://canbilgin.wordpress.com/",
+  "feedUris": [
+    "https://canbilgin.wordpress.com/feed/"
+  ],
+  "githubHandle": "canbilgin",
+  "position": {
+    "lat": 43.8938256,
+    "lon": 18.3129519
+  },
+  "languageCode": "en"
+}

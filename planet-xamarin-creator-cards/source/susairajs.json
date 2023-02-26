@@ -1,0 +1,19 @@
+{
+  "firstName": "Delpin",
+  "lastName": "Susai Raj",
+  "stateOrRegion": "Chennai, India",
+  "emailAddress": "susairajs@outlook.com",
+  "tagOrBio": "Code with Monkeys",
+  "webSite": "https://xamarinmonkeys.blogspot.com/",
+  "twitterHandle": "susairajs18",
+  "githubHandle": "susairajs",
+  "gravatarHash": "3408967b9598e7bb107baf15d5a15454",
+  "feedUris": [
+    "https://xamarinmonkeys.blogspot.com/feeds/posts/default"
+  ],
+  "position": {
+    "lat": 13.0783995,
+    "lon": 80.2886684
+  },
+  "languageCode": "en"
+}

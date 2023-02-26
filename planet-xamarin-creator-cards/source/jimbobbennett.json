@@ -1,0 +1,19 @@
+{
+  "firstName": "Jim",
+  "lastName": "Bennett",
+  "tagOrBio": "is the author of Xamarin in Action and a all-round nice guy",
+  "stateOrRegion": "Auckland, New Zealand",
+  "emailAddress": "jim@jimbobbennett.io",
+  "twitterHandle": "jimbobbennett",
+  "webSite": "https://jimbobbennett.io/",
+  "feedUris": [
+    "https://www.jimbobbennett.io/rss"
+  ],
+  "gravatarHash": "",
+  "githubHandle": "",
+  "position": {
+    "lat": -36.84846,
+    "lon": 174.763332
+  },
+  "languageCode": "en"
+}

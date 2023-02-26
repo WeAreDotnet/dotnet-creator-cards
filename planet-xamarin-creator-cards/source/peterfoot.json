@@ -1,0 +1,19 @@
+{
+  "firstName": "Peter",
+  "lastName": "Foot",
+  "stateOrRegion": "United Kingdom",
+  "emailAddress": "peter@peterfoot.net",
+  "twitterHandle": "peterfoot",
+  "webSite": "https://inthehand.com/blog/",
+  "feedUris": [
+    "https://inthehand.com/category/xamarin/feed/"
+  ],
+  "gravatarHash": "fa15aeeccc4b23e8a4677aeacb65b7bb",
+  "tagOrBio": "develops Xamarin and Windows applications at In The Hand Ltd",
+  "githubHandle": "peterfoot",
+  "position": {
+    "lat": 52.76872,
+    "lon": -2.37825
+  },
+  "languageCode": "en"
+}

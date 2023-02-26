@@ -1,0 +1,19 @@
+{
+  "firstName": "Marco",
+  "lastName": "Kuiper",
+  "tagOrBio": "is a Code monkey, incurably optimistic, loves great design and passionate about Xamarin.",
+  "stateOrRegion": "The Netherlands",
+  "emailAddress": "",
+  "twitterHandle": "marcofolio",
+  "gravatarHash": "5982941cf85cecc8254ec2a4f1c812ff",
+  "githubHandle": "marcofolio",
+  "position": {
+    "lat": 51.987642,
+    "lon": 5.904598
+  },
+  "webSite": "https://www.marcofolio.net/",
+  "feedUris": [
+    "https://feeds2.feedburner.com/marcofolio"
+  ],
+  "languageCode": "en"
+}

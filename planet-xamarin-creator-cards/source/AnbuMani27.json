@@ -1,0 +1,19 @@
+{
+  "firstName": "Anbu",
+  "lastName": "Mani",
+  "tagOrBio": "is a Microsoft MVP who Blogger, Speaker, Founder & Organizer of XMonkeys360 Community – India.",
+  "emailAddress": "anbumani@xmonkeys360.com",
+  "twitterHandle": "anbu_mani27",
+  "gravatarHash": "f97650474e4aa5b9609a28dcfdb052d4",
+  "stateOrRegion": "Chennai, India",
+  "webSite": "https://www.xmonkeys360.com/",
+  "position": {
+    "lat": 12.902749,
+    "lon": 80.190846
+  },
+  "feedUris": [
+    "https://xmonkeys360.com/feed/"
+  ],
+  "githubHandle": "AnbuMani27",
+  "languageCode": "en"
+}

@@ -1,0 +1,19 @@
+{
+  "firstName": "Boguslaw",
+  "lastName": "Blonski",
+  "tagOrBio": "Generalist who is pragmatic and has delivered real code to real users in a variety of shapes.",
+  "stateOrRegion": "Lezajsk, Poland",
+  "emailAddress": "boguslawblonski@gmail.com",
+  "twitterHandle": "filipoff",
+  "gravatarHash": "d48c54ac95492ddadfc221b646d4c612",
+  "webSite": "https://medium.com/@boguslawblonski",
+  "feedUris": [
+    "https://medium.com/feed/@boguslawblonski/"
+  ],
+  "githubHandle": "filipoff2",
+  "position": {
+    "lat": 50.2684647,
+    "lon": 22.3819053
+  },
+  "languageCode": "en"
+}

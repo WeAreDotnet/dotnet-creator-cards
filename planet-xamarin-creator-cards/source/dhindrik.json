@@ -1,0 +1,19 @@
+{
+  "firstName": "Daniel",
+  "lastName": "Hindrikes",
+  "stateOrRegion": "Borlänge, Sweden",
+  "emailAddress": "daniel@hindrikes.se",
+  "tagOrBio": "is an architect and developer using Xamarin and Azure. Working as a Ninja at tretton37. Also recording \"The Code Behind\" podcast!",
+  "webSite": "https://danielhindrikes.se",
+  "twitterHandle": "hindrikes",
+  "githubHandle": "dhindrik",
+  "gravatarHash": "054db2cfd79654ec5d92e20c180f2d72",
+  "feedUris": [
+    "https://danielhindrikes.se/index.php/feed/"
+  ],
+  "position": {
+    "lat": 60.48604,
+    "lon": 15.43391
+  },
+  "languageCode": "en"
+}

@@ -1,0 +1,19 @@
+{
+  "firstName": "Matthew",
+  "lastName": "Leibowitz",
+  "tagOrBio": "An all-round software guy. I live and breathe C# and .NET on any platform.",
+  "emailAddress": "mattleibow@live.com",
+  "twitterHandle": "mattleibow",
+  "githubHandle": "mattleibow",
+  "gravatarHash": "365da45bdc71334831f228aff805738f",
+  "stateOrRegion": "Cape Town, South Africa",
+  "position": {
+    "lat": -34.02231,
+    "lon": 18.46716
+  },
+  "webSite": "https://dotnetdevaddict.co.za",
+  "feedUris": [
+    "https://dotnetdevaddict.co.za/feed/"
+  ],
+  "languageCode": "en"
+}

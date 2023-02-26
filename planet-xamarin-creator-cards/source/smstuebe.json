@@ -1,0 +1,19 @@
+{
+  "firstName": "Sven-Michael",
+  "lastName": "Stübe",
+  "tagOrBio": "loves the cross platform approach, develops Xamarin plugins and organizes Xamarin Pizza & Beer Meetups in Munich",
+  "stateOrRegion": "Munich, Germany",
+  "emailAddress": "",
+  "twitterHandle": "stuebe2k14",
+  "webSite": "https://smstuebe.de/",
+  "feedUris": [
+    "https://smstuebe.de/feed.xml"
+  ],
+  "githubHandle": "smstuebe",
+  "gravatarHash": "08b73d0a58fc120a8cc8dc561d83b3d6",
+  "position": {
+    "lat": 48.1373831,
+    "lon": 11.5063151
+  },
+  "languageCode": "en"
+}

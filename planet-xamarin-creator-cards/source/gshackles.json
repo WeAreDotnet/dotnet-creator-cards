@@ -1,0 +1,19 @@
+{
+  "firstName": "Greg",
+  "lastName": "Shackles",
+  "tagOrBio": "knows a thing (or two) about mobile testing",
+  "emailAddress": "greg@gregshackles.com",
+  "twitterHandle": "gshackles",
+  "gravatarHash": "6d7b45031bf22823060849d494343a8c",
+  "stateOrRegion": "New York, NY",
+  "webSite": "https://gregshackles.com",
+  "feedUris": [
+    "https://gregshackles.com/rss/"
+  ],
+  "githubHandle": "gshackles",
+  "position": {
+    "lat": 40.712784,
+    "lon": -74.005941
+  },
+  "languageCode": "en"
+}

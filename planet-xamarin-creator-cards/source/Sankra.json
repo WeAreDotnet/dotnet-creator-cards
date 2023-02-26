@@ -1,0 +1,19 @@
+{
+  "firstName": "Runar Ovesen",
+  "lastName": "Hjerpbakk",
+  "tagOrBio": "Passionate, empathic and experienced developer, software architect and manager. My love for C# is only surpassed by my love for Xamarin and iOS.",
+  "stateOrRegion": "Trondheim, Norway",
+  "emailAddress": "runar@hjerpbakk.com",
+  "twitterHandle": "hjerpbakk",
+  "gravatarHash": "62b1d11eafee92745a51971d6cc21f85",
+  "githubHandle": "Sankra",
+  "position": {
+    "lat": 63.4305,
+    "lon": 10.3951
+  },
+  "webSite": "https://hjerpbakk.com/",
+  "feedUris": [
+    "https://hjerpbakk.com/feed.xml"
+  ],
+  "languageCode": "en"
+}

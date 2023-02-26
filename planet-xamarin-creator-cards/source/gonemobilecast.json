@@ -1,0 +1,19 @@
+{
+  "firstName": "Gone",
+  "lastName": "Mobile",
+  "stateOrRegion": "Internet",
+  "emailAddress": "hello@gonemobile.io",
+  "tagOrBio": "is a development podcast focused on mobile development hosted by Jon Dick and Greg Shackles.",
+  "webSite": "http://gonemobile.io",
+  "feedUris": [
+    "https://feed.gonemobile.io/"
+  ],
+  "twitterHandle": "gonemobilecast",
+  "position": {
+    "lat": 51.253775,
+    "lon": -85.323214
+  },
+  "gravatarHash": "cb611c5ecd9a53b2af53a9d50d83c3c5",
+  "githubHandle": "",
+  "languageCode": "en"
+}

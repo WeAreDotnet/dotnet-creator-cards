@@ -1,0 +1,19 @@
+{
+  "firstName": "Thomas",
+  "lastName": "Bandt",
+  "stateOrRegion": "Munich, Germany",
+  "position": {
+    "lat": 48.1485869,
+    "lon": 11.5353743
+  },
+  "emailAddress": "",
+  "webSite": "https://thomasbandt.com/",
+  "tagOrBio": "Developer & Entrepreneur of Passion",
+  "twitterHandle": "asp_net",
+  "githubHandle": "aspnetde",
+  "gravatarHash": "32860557b42ace0afa72704e466e34f1",
+  "feedUris": [
+    "https://thomasbandt.com/feed"
+  ],
+  "languageCode": "en"
+}

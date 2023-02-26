@@ -1,0 +1,19 @@
+{
+  "firstName": "Tom",
+  "lastName": "Soderling",
+  "stateOrRegion": "Minneapolis, MN",
+  "emailAddress": "",
+  "tagOrBio": "is a Sr. Mobile Developer, speaker, and open source contributor",
+  "twitterHandle": "tomsoderling",
+  "gravatarHash": "dd103f377899fc63b0b88c5bb62b15bd",
+  "position": {
+    "lat": 44.986656,
+    "lon": -93.258133
+  },
+  "webSite": "https://tomsoderling.github.io",
+  "feedUris": [
+    "https://tomsoderling.github.io/feed.xml"
+  ],
+  "githubHandle": "TomSoderling",
+  "languageCode": "en"
+}

@@ -1,0 +1,19 @@
+{
+  "firstName": "Divikiran",
+  "lastName": "Ravela",
+  "stateOrRegion": "Melbourne, Australia",
+  "emailAddress": "divikiran1@gmail.com",
+  "tagOrBio": "Xamarin Consultant/Tech Lead",
+  "webSite": "https://xamlabs.com/",
+  "twitterHandle": "",
+  "githubHandle": "divikiran",
+  "gravatarHash": "",
+  "feedUris": [
+    "https://xamlabs.com/feed/"
+  ],
+  "position": {
+    "lat": -37.8135511,
+    "lon": 144.9637748
+  },
+  "languageCode": "en"
+}

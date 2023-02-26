@@ -1,0 +1,19 @@
+{
+  "firstName": "Steven",
+  "lastName": "Thewissen",
+  "stateOrRegion": "The Netherlands",
+  "emailAddress": "",
+  "tagOrBio": " is a Xamarin Developer with a knack for Photoshop and a passion for soccer and cycling. He is also in love with his Xbox One",
+  "webSite": "https://www.thewissen.io/",
+  "feedUris": [
+    "https://www.thewissen.io/feed/"
+  ],
+  "twitterHandle": "devnl",
+  "gravatarHash": "9f698e6f515cb54dbda305034b6823fc",
+  "position": {
+    "lat": 50.889039,
+    "lon": 5.853717
+  },
+  "githubHandle": "sthewissen",
+  "languageCode": "en"
+}

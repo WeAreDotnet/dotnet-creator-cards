@@ -1,0 +1,19 @@
+{
+  "firstName": "Jon",
+  "lastName": "Douglas",
+  "tagOrBio": "",
+  "stateOrRegion": "Utah",
+  "emailAddress": "",
+  "twitterHandle": "_jondouglas",
+  "webSite": "https://www.jon-douglas.com/",
+  "feedUris": [
+    "https://www.jon-douglas.com/atom.xml"
+  ],
+  "gravatarHash": "83d67df0b9e002d1c55a2786aeeb0c1b",
+  "githubHandle": "JonDouglas",
+  "position": {
+    "lat": 39.32098,
+    "lon": -111.093731
+  },
+  "languageCode": "en"
+}

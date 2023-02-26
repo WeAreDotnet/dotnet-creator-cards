@@ -1,0 +1,19 @@
+{
+  "firstName": "Marc",
+  "lastName": "Bruins",
+  "tagOrBio": "is a native iOS/Android developer who fell in love with Xamarin",
+  "emailAddress": "marc@marcbruins.nl",
+  "twitterHandle": "MarcBruins",
+  "gravatarHash": "3795d2031be87499f76f6336ec5a3a45",
+  "stateOrRegion": "Utrecht, Netherlands",
+  "webSite": "https://www.marcbruins.nl",
+  "githubHandle": "MarcBruins",
+  "position": {
+    "lat": 53.219384,
+    "lon": 6.566502
+  },
+  "feedUris": [
+    "https://www.marcbruins.nl/feed.xml"
+  ],
+  "languageCode": "en"
+}

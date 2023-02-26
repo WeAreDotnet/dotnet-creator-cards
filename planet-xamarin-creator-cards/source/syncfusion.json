@@ -1,0 +1,19 @@
+{
+  "firstName": "Syncfusion",
+  "lastName": "",
+  "stateOrRegion": "North Carolina, USA",
+  "emailAddress": "info@syncfusion.com",
+  "tagOrBio": "Syncfusion provides the best third-party UI components for Xamarin, Xamarin.Android and Xamarin.iOS",
+  "webSite": "https://www.syncfusion.com/xamarin-ui-controls",
+  "feedUris": [
+    "https://www.syncfusion.com/blogs/feed"
+  ],
+  "twitterHandle": "Syncfusion",
+  "gravatarHash": "4291ef07481d300471113dbd4b4aabc2",
+  "githubHandle": "syncfusion",
+  "position": {
+    "lat": 35.855361,
+    "lon": -78.815751
+  },
+  "languageCode": "en"
+}

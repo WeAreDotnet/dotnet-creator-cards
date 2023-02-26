@@ -1,0 +1,20 @@
+{
+  "firstName": "Evgeny",
+  "lastName": "Zborovsky",
+  "stateOrRegion": "Estonia",
+  "emailAddress": "yuv4ik@gmail.com",
+  "tagOrBio": "blogs, speaks, helps others and is an enthusiastic Xamarin developer.",
+  "webSite": "https://evgenyzborovsky.com/",
+  "feedUris": [
+    "https://evgenyzborovsky.com/tag/xamarin-forms/feed/",
+    "https://evgenyzborovsky.com/tag/xamarin/feed/"
+  ],
+  "twitterHandle": "ezborovsky",
+  "gravatarHash": "b8a0ab8445fafb38afdf26cb976df32f",
+  "githubHandle": "yuv4ik",
+  "position": {
+    "lat": 58.3750372,
+    "lon": 26.6625567
+  },
+  "languageCode": "en"
+}

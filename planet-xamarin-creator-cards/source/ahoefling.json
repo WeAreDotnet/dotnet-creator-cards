@@ -1,0 +1,19 @@
+{
+  "firstName": "Andrew",
+  "lastName": "Hoefling",
+  "stateOrRegion": "New York, United States",
+  "emailAddress": "andrew@hoefling.me",
+  "tagOrBio": "Microsoft MVP (Developer Technologies) Open Source developer who loves integrating Xamarin with other platforms",
+  "webSite": "https://www.andrewhoefling.com/",
+  "twitterHandle": "andrew_hoefling",
+  "githubHandle": "ahoefling",
+  "gravatarHash": "beab68478a5128e634590af5e4f01941",
+  "feedUris": [
+    "https://www.andrewhoefling.com/feed.xml?category=xamarin&uno-platform"
+  ],
+  "position": {
+    "lat": 43.156578,
+    "lon": -77.608849
+  },
+  "languageCode": "en"
+}

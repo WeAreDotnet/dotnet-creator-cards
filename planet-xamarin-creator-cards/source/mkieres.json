@@ -1,0 +1,19 @@
+{
+  "emailAddress": "mikolaj.kieres@progrunning.net",
+  "languageCode": "en",
+  "feedUris": [
+    "https://progrunning.net/rss/"
+  ],
+  "firstName": "Mikolaj",
+  "githubHandle": "mkieres",
+  "gravatarHash": "",
+  "lastName": "Kieres",
+  "position": {
+    "lat": -33.826623,
+    "lon": 151.195031
+  },
+  "tagOrBio": "Mobile development adventurer",
+  "stateOrRegion": "Sydney, Australia",
+  "twitterHandle": "mikolajkieres",
+  "webSite": "https://progrunning.net"
+}

@@ -1,0 +1,19 @@
+{
+  "firstName": "Samir",
+  "lastName": "GC",
+  "tagOrBio": ".net lover, xamarin mobile developer | XamarinGuy Show Host | Trainer | Instructor",
+  "stateOrRegion": "Kathmandu/Nepal",
+  "emailAddress": "samirgcofficial@gmail.com",
+  "twitterHandle": "xamaringuy",
+  "githubHandle": "samirgcofficial",
+  "position": {
+    "lat": 27.700769,
+    "lon": 85.30014
+  },
+  "webSite": "https://xamaringuyshow.com/",
+  "feedUris": [
+    "https://xamaringuyshow.com/feed/"
+  ],
+  "gravatarHash": "4b0b695b7711b0184ab2049e33f2cfd7",
+  "languageCode": "en"
+}

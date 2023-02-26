@@ -1,0 +1,19 @@
+{
+  "firstName": "Ione",
+  "lastName": "Souza Junior",
+  "tagOrBio": "",
+  "stateOrRegion": "Blumenau, Brasil",
+  "emailAddress": "junior@ionixjunior.com.br",
+  "twitterHandle": "ionixjunior",
+  "githubHandle": "ionixjunior",
+  "gravatarHash": "790726f5b5613d61926dea2e2efd4da1",
+  "position": {
+    "lat": -26.914236,
+    "lon": -49.068776
+  },
+  "webSite": "https://www.ionixjunior.com.br",
+  "feedUris": [
+    "https://www.ionixjunior.com.br/rss"
+  ],
+  "languageCode": "pt"
+}

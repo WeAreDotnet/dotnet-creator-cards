@@ -1,0 +1,19 @@
+{
+  "firstName": "Robin",
+  "lastName": "Schroeder",
+  "tagOrBio": "Xamarin.Forms/UWP Software Consultant at MSCTek",
+  "stateOrRegion": "Illinois",
+  "emailAddress": "robin@msctek.com",
+  "twitterHandle": "RTSchroeder",
+  "gravatarHash": "1754cd9eee726fd3a5252a4718cbf108",
+  "githubHandle": "robintschroeder",
+  "position": {
+    "lat": 41.9136926,
+    "lon": -88.3148351
+  },
+  "webSite": "https://msctek.com/",
+  "feedUris": [
+    "https://www.msctek.com/feed/"
+  ],
+  "languageCode": "en"
+}

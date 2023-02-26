@@ -1,0 +1,19 @@
+{
+  "firstName": "Martin",
+  "lastName": "Zikmund",
+  "stateOrRegion": "Prague, Czech Republic",
+  "emailAddress": "martinzikmund@sphereline.com",
+  "tagOrBio": "is a mobile + cloud solutions developer, Microsoftie, Geocacher, regular squash player, foodie and Insanity & P90X fan",
+  "webSite": "https://blog.mzikmund.com/",
+  "twitterHandle": "MZetko",
+  "githubHandle": "MartinZikmund",
+  "gravatarHash": "d1a45c7ba013fbc3e9044ff6461f6acd",
+  "position": {
+    "lat": 50.124017,
+    "lon": 14.451934
+  },
+  "languageCode": "en",
+  "feedUris": [
+    "https://blog.mzikmund.com/feed/?lang=en_us"
+  ]
+}

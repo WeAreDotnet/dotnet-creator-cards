@@ -1,0 +1,19 @@
+{
+  "firstName": "Francois",
+  "lastName": "Raminosona",
+  "stateOrRegion": "Norway",
+  "emailAddress": "framinosona@hotmail.fr",
+  "tagOrBio": "Passionate Xamarin/Microsoft technologies developer",
+  "webSite": "https://blog.francois.raminosona.com/",
+  "feedUris": [
+    "https://blog.francois.raminosona.com/tag/xamarin/rss/"
+  ],
+  "twitterHandle": "framinosona",
+  "gravatarHash": "b3b91b8d4bd1e716982eef6e5228c92f",
+  "githubHandle": "framinosona",
+  "position": {
+    "lat": 58.9720089,
+    "lon": 5.7363974
+  },
+  "languageCode": "en"
+}

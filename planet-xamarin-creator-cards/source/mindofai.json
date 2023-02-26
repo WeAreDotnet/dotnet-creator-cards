@@ -1,0 +1,19 @@
+{
+  "firstName": "Bryan Anthony",
+  "lastName": "Garcia",
+  "stateOrRegion": "Manila, Philippines",
+  "githubHandle": "mindofai",
+  "twitterHandle": "mindofai",
+  "emailAddress": "bryananthonygarcia@live.com",
+  "tagOrBio": "Mobile .NET Developer who enjoys learning and writing about Mobile .NET stuff and has passion for football. Co-leads Mobile .NET Developers - Philippines",
+  "gravatarHash": "29e1cdab06c48322805220e33556c20c",
+  "webSite": "https://mindofai.github.io/",
+  "position": {
+    "lat": 14.668896,
+    "lon": 120.947204
+  },
+  "feedUris": [
+    "https://mindofai.github.io/feed.xml"
+  ],
+  "languageCode": "en"
+}

@@ -1,0 +1,19 @@
+{
+  "firstName": "Leomaris",
+  "lastName": "Reyes",
+  "tagOrBio": "is a software engineer",
+  "stateOrRegion": "Dominican Republic",
+  "emailAddress": "reyes.leomaris@gmail.com",
+  "twitterHandle": "leomarisreyes11",
+  "gravatarHash": "ae78e84a683611c7b72c9ba829c125e0",
+  "githubHandle": "LeomarisReyes",
+  "position": {
+    "lat": 18.47088,
+    "lon": -69.911525
+  },
+  "webSite": "https://askxammy.com/",
+  "feedUris": [
+    "https://askxammy.com/feed"
+  ],
+  "languageCode": "en"
+}

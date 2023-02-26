@@ -1,0 +1,19 @@
+{
+  "firstName": "Steven",
+  "lastName": "Checo",
+  "stateOrRegion": "United States",
+  "emailAddress": "steven.checo.19@gmail.com",
+  "tagOrBio": "is a C# ASP.Net and Xamarin Developer, I'd preferd back-end but I get along with the Front-End, I love help others with code and build new things with friends, I ♥ C#",
+  "webSite": "https://checox.com",
+  "twitterHandle": "steven1909",
+  "githubHandle": "sact1909",
+  "gravatarHash": "47ad7178de588bb9a0b5922a5c1364c8",
+  "feedUris": [
+    "https://checox.com/feed/"
+  ],
+  "position": {
+    "lat": 40.837222,
+    "lon": -73.886111
+  },
+  "languageCode": "en"
+}
