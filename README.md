@@ -27,6 +27,8 @@ By creators, we mean enthusiasts who create content for Blogs, YouTube, Twitch, 
 
 * If you do not submit an RSS or Atom URL. We cannot consider your feed for the upcoming aggregation feature. 
 
+* If your blog covers content other than .NET make sure to give us a filtered feed just containing your .NET content
+
 ## Content Guideline 
 
 * If you have a self-hosted blog, please ensure you have a valid HTTPS certificate. 
