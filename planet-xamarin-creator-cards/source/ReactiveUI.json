@@ -1,0 +1,19 @@
+{
+  "firstName": "ReactiveUI",
+  "lastName": "",
+  "stateOrRegion": "Internet",
+  "emailAddress": "hello@reactiveui.net",
+  "tagOrBio": "An advanced, composable, functional reactive model-view-viewmodel framework for all .NET platforms",
+  "webSite": "https://reactiveui.net/",
+  "feedUris": [
+    "https://reactiveui.net/rss"
+  ],
+  "twitterHandle": "ReactiveXUI",
+  "gravatarHash": "",
+  "githubHandle": "ReactiveUI",
+  "position": {
+    "lat": -13.6981464,
+    "lon": 37.3979239
+  },
+  "languageCode": "en"
+}

@@ -1,0 +1,19 @@
+{
+  "firstName": "MFractor",
+  "lastName": "",
+  "stateOrRegion": "Brisbane, Australia",
+  "emailAddress": "matthew@mfractor.com",
+  "tagOrBio": "is a powerful productivity tool for Xamarin Developers.",
+  "webSite": "https://www.mfractor.com/",
+  "twitterHandle": "mfractor",
+  "githubHandle": "mfractor",
+  "gravatarHash": "35bac056166a67222ddcd48b57113a32",
+  "feedUris": [
+    "https://www.mfractor.com/blogs/news.atom"
+  ],
+  "position": {
+    "lat": -27.470125,
+    "lon": 153.021072
+  },
+  "languageCode": "en"
+}

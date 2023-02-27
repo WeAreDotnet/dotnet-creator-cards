@@ -1,0 +1,19 @@
+{
+  "firstName": "Kent",
+  "lastName": "Boogaart",
+  "stateOrRegion": "Australia",
+  "emailAddress": "kent.boogaart@gmail.com",
+  "tagOrBio": "is a freelance software engineer working mainly in the mobile space",
+  "webSite": "https://kent-boogaart.com/",
+  "feedUris": [
+    "https://kent-boogaart.com/atom.xml"
+  ],
+  "twitterHandle": "kent_boogaart",
+  "gravatarHash": "",
+  "githubHandle": "",
+  "position": {
+    "lat": -35.0004451,
+    "lon": 138.3309978
+  },
+  "languageCode": "en"
+}

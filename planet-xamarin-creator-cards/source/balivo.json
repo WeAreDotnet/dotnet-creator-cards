@@ -1,0 +1,19 @@
+{
+  "firstName": "Jefferson",
+  "lastName": "Balivo",
+  "stateOrRegion": "Jaú, São Paulo, Brazil",
+  "emailAddress": "jefferson@balivo.com.br",
+  "tagOrBio": "Xamarin Enthusiast, Technical Lead and Cross Platform Architect, Multi-Plataform Technical Audience Contributor (MTAC), Technical Writer and Speaker",
+  "webSite": "https://balivo.com.br/",
+  "twitterHandle": "jbalivo",
+  "githubHandle": "balivo",
+  "gravatarHash": "e5a95c365e8f06786d6439474bc733df",
+  "feedUris": [
+    "https://balivo.com.br/rss"
+  ],
+  "position": {
+    "lat": -22.2997067,
+    "lon": -48.5931324
+  },
+  "languageCode": "pt"
+}

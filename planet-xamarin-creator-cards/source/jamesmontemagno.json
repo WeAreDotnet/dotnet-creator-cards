@@ -1,0 +1,19 @@
+{
+  "firstName": "James",
+  "lastName": "Montemagno",
+  "stateOrRegion": "Seattle, WA",
+  "emailAddress": "",
+  "tagOrBio": "is a Principal Program Manager for Mobile Developer Tools",
+  "webSite": "https://montemagno.com",
+  "feedUris": [
+    "https://montemagno.com/rss"
+  ],
+  "twitterHandle": "JamesMontemagno",
+  "gravatarHash": "5df4d86308e585c879c19e5f909d8bfe",
+  "githubHandle": "jamesmontemagno",
+  "position": {
+    "lat": 47.654177,
+    "lon": -122.35
+  },
+  "languageCode": "en"
+}

@@ -1,0 +1,19 @@
+{
+  "firstName": "Winston",
+  "lastName": "Gubantes",
+  "tagOrBio": "a Xamarin Developer at Gluon Consulting",
+  "stateOrRegion": "Davao City, Philippines",
+  "emailAddress": "winston.gubantes@gmail.com",
+  "twitterHandle": "tony_fear",
+  "gravatarHash": "9e1aea174237384361fc260b33559d05",
+  "githubHandle": "winstongubantes",
+  "position": {
+    "lat": 7.1066271,
+    "lon": 125.6294976
+  },
+  "webSite": "https://winstongubantes.blogspot.com/",
+  "feedUris": [
+    "https://winstongubantes.blogspot.com/feeds/posts/default?alt=rss"
+  ],
+  "languageCode": "es"
+}

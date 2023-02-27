@@ -1,0 +1,20 @@
+{
+  "firstName": "Daniel Angel",
+  "lastName": "Monettelli L.",
+  "tagOrBio": "is a Software Engineer, Videoblogger, Xamarin Mobile Developer & UI/UX Architect.",
+  "stateOrRegion": "Arequipa, Perú",
+  "emailAddress": "danielmonetelli@hotmail.com",
+  "webSite": "https://danielmonettelli.github.io",
+  "feedUris": [
+    "https://danielmonettelli.github.io/feed.xml",
+    "https://www.youtube.com/feeds/videos.xml?channel_id=UCTAlbAORoFvAHj7jA4DLSFQ"
+  ],
+  "twitterHandle": "DanielMonetelli",
+  "gravatarHash": "4b3d0e60019ad8fe1e4d7cd5c8850efb",
+  "githubHandle": "danielmonettelli",
+  "position": {
+    "lat": -16.4042643,
+    "lon": -71.5486383
+  },
+  "languageCode": "en"
+}

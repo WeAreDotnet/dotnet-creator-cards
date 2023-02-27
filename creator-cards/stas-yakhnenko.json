@@ -1,0 +1,19 @@
+{
+  "name": "Stas Yakhnenko",
+  "sectionTitle": null,
+  "countryCode": "ua",
+  "slogan": "",
+  "type": "CREATOR",
+  "bio": "",
+  "tags": ".NET, C#, ASP.NET",
+  "socials": {
+    "youtube": "",
+    "linkedin": "",
+    "twitter": "https://twitter.com/StasYakhnenko",
+    "github": "",
+    "mastodon": "",
+    "sessionize": ""
+  },
+  "channels": [],
+  "feeds": []
+}

@@ -1,0 +1,19 @@
+{
+  "firstName": "Ramon",
+  "lastName": "Esteban",
+  "tagOrBio": "Freelance Xamarin developer",
+  "stateOrRegion": "Malaga, Spain",
+  "emailAddress": "wantedforcode@outlook.com",
+  "twitterHandle": "ramonesteban78",
+  "gravatarHash": "2fc49c3e9095aece416ad4e147fa1452",
+  "githubHandle": "ramonesteban78",
+  "position": {
+    "lat": 36.5126395,
+    "lon": -4.6483388
+  },
+  "webSite": "https://ramonesteban78.github.io/",
+  "feedUris": [
+    "https://ramonesteban78.github.io/feed.xml"
+  ],
+  "languageCode": "es"
+}

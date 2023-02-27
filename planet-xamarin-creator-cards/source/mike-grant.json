@@ -1,0 +1,19 @@
+{
+  "firstName": "Mike",
+  "lastName": "Grant",
+  "stateOrRegion": "Leicestershire, England",
+  "emailAddress": "",
+  "tagOrBio": "Software Engineer",
+  "webSite": "https://www.mikegrant.org.uk",
+  "gravatarHash": "06c34ad3fb10ef6786a043c4522b6a5b",
+  "feedUris": [
+    "https://mikegrant.org.uk/feeds/Xamarin.Forms.xml"
+  ],
+  "twitterHandle": "mike_grant_",
+  "githubHandle": "mike-grant",
+  "position": {
+    "lat": 52.663878,
+    "lon": -1.3052377
+  },
+  "languageCode": "en"
+}

@@ -1,0 +1,19 @@
+{
+  "firstName": "Alex",
+  "lastName": "Shirshov",
+  "stateOrRegion": "Sydney, Australia",
+  "emailAddress": "shirshov@gmail.com",
+  "tagOrBio": "Software Craftsman",
+  "webSite": "https://omnitalented.com",
+  "twitterHandle": "omnitalented",
+  "githubHandle": "shirshov",
+  "gravatarHash": "",
+  "position": {
+    "lat": -33.88236,
+    "lon": 151.206588
+  },
+  "languageCode": "en",
+  "feedUris": [
+    "https://omnitalented.com/rss-xamarin.xml"
+  ]
+}

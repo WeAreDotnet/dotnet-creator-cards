@@ -1,0 +1,19 @@
+{
+  "firstName": "Merge",
+  "lastName": "Conflict",
+  "stateOrRegion": "Seattle, WA",
+  "emailAddress": "mergeconflictfm@gmail.com",
+  "tagOrBio": "is a weekly development podcast hosted by Frank Krueger and James Montemagno.",
+  "webSite": "http://mergeconflict.fm",
+  "feedUris": [
+    "https://feeds.fireside.fm/mergeconflict/rss"
+  ],
+  "twitterHandle": "MergeConflictFM",
+  "gravatarHash": "24527eb9b29a8adbfc4155db4044dd3c",
+  "githubHandle": "",
+  "position": {
+    "lat": 47.60621,
+    "lon": -122.332071
+  },
+  "languageCode": "en"
+}

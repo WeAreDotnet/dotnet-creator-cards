@@ -1,0 +1,19 @@
+{
+  "firstName": "Dan",
+  "lastName": "Siegel",
+  "stateOrRegion": "San Diego, CA",
+  "emailAddress": "dsiegel@avantipoint.com",
+  "tagOrBio": "is a Mobile App Consultant and Founder of AvantiPoint. He is an author of several OSS libraries, a maintainer of the Prism Library and a DevOps champion.",
+  "webSite": "https://dansiegel.net",
+  "feedUris": [
+    "https://dansiegel.net/syndication.axd"
+  ],
+  "twitterHandle": "DanJSiegel",
+  "gravatarHash": "b65a519785f69fbe7236dd0fd6396094",
+  "githubHandle": "dansiegel",
+  "position": {
+    "lat": 32.726308,
+    "lon": -117.177746
+  },
+  "languageCode": "en"
+}

@@ -1,0 +1,19 @@
+{
+  "firstName": "Jesse",
+  "lastName": "Liberty",
+  "tagOrBio": "See http://jesseliberty.me",
+  "stateOrRegion": "Massachusetts",
+  "emailAddress": "jesseliberty@gmail.com",
+  "twitterHandle": "jesseliberty",
+  "gravatarHash": "78d5b6609fe5a80ce67e9f971833a6c3",
+  "githubHandle": "JesseLiberty",
+  "position": {
+    "lat": 42.4703963,
+    "lon": -71.4477468
+  },
+  "webSite": "http://jesseliberty.me",
+  "feedUris": [
+    "https://feeds.feedburner.com/JesseLiberty-SilverlightGeek"
+  ],
+  "languageCode": "en"
+}

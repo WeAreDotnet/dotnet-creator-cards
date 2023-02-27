@@ -1,0 +1,19 @@
+{
+  "firstName": "The Xamarin",
+  "lastName": "Show",
+  "stateOrRegion": "Channel 9",
+  "emailAddress": "",
+  "tagOrBio": "is a Weekly Developer Show for Xamarin Developers",
+  "webSite": "http://xamarinshow.com",
+  "feedUris": [
+    "https://channel9.msdn.com/Shows/XamarinShow/feed"
+  ],
+  "twitterHandle": "TheXamarinShow",
+  "gravatarHash": "7a0c7da0279b4e90439e780fa01924e0",
+  "githubHandle": "",
+  "position": {
+    "lat": 47.645136,
+    "lon": -122.130939
+  },
+  "languageCode": "en"
+}

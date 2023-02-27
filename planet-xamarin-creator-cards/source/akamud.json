@@ -1,0 +1,19 @@
+{
+  "firstName": "Mahmoud",
+  "lastName": "Ali",
+  "stateOrRegion": "São Paulo, Brasil",
+  "emailAddress": "muddibr@gmail.com",
+  "tagOrBio": "Microsoft MVP",
+  "webSite": "https://www.lambda3.com.br/blog",
+  "twitterHandle": "akamud",
+  "githubHandle": "akamud",
+  "gravatarHash": "fc093b379c830c8105f8d15d9261a144",
+  "feedUris": [
+    "https://www.lambda3.com.br/feed/"
+  ],
+  "position": {
+    "lat": -23.552339,
+    "lon": -46.661393
+  },
+  "languageCode": "pt"
+}

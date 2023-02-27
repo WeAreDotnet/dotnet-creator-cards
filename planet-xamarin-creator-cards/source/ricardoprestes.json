@@ -1,0 +1,19 @@
+{
+  "firstName": "Ricardo",
+  "lastName": "Prestes",
+  "stateOrRegion": "Cornélio Procópio, Brasil",
+  "emailAddress": "ricardo.logan@hotmail.com",
+  "tagOrBio": "Tech lead mobile developer, Burger Monkeys Co-founder",
+  "webSite": "https://oficinadologan.wordpress.com/",
+  "twitterHandle": "ricardo_prestes",
+  "githubHandle": "ricardoprestes",
+  "gravatarHash": "9802e38d5bd2cd85db8b0720d5feed29",
+  "feedUris": [
+    "https://oficinadologan.wordpress.com/rss"
+  ],
+  "position": {
+    "lat": -23.194571,
+    "lon": -50.7795215
+  },
+  "languageCode": "pt"
+}

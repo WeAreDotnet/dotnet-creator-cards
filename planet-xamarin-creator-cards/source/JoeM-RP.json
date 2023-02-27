@@ -1,0 +1,19 @@
+{
+  "firstName": "Joe",
+  "lastName": "Meyer",
+  "stateOrRegion": "Chicago, IL",
+  "twitterHandle": "iwritecodesmtms",
+  "emailAddress": "joseph.w.meyer@live.com",
+  "tagOrBio": "I write code sometimes",
+  "gravatarHash": "1431dd2c4749b0a178c7a3130e71831e",
+  "webSite": "https://iwritecodesometimes.net",
+  "githubHandle": "JoeM-RP",
+  "position": {
+    "lat": 41.92,
+    "lon": -87.65
+  },
+  "feedUris": [
+    "https://iwritecodesometimes.net/feed/"
+  ],
+  "languageCode": "en"
+}

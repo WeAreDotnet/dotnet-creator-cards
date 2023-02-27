@@ -1,0 +1,19 @@
+{
+  "feedUris": [
+    "https://codemilltech.com/feed/"
+  ],
+  "firstName": "Matthew",
+  "lastName": "Soucoup",
+  "stateOrRegion": "Madison, WI",
+  "emailAddress": "msoucoup@codemilltech.com",
+  "tagOrBio": "",
+  "webSite": "https://codemilltech.com",
+  "twitterHandle": "codemillmatt",
+  "gravatarHash": "df69069a0bffd2dae5a8700a1bef7bfd",
+  "githubHandle": "codemillmatt",
+  "position": {
+    "lat": 43.073052,
+    "lon": -89.40123
+  },
+  "languageCode": "en"
+}

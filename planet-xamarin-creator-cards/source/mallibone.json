@@ -1,0 +1,19 @@
+{
+  "firstName": "Mark",
+  "lastName": "Allibone",
+  "stateOrRegion": "Zurich, Switzerland",
+  "emailAddress": "",
+  "tagOrBio": "is a Microsoft MVP who blogs, talks, coaches and develops all around mobile development.",
+  "webSite": "https://mallibone.com",
+  "twitterHandle": "mallibone",
+  "githubHandle": "mallibone",
+  "gravatarHash": "4fa14971da4fafb96830960bc7c6733d",
+  "feedUris": [
+    "https://mallibone.com/feed/"
+  ],
+  "position": {
+    "lat": 47.5056381,
+    "lon": 8.7241297
+  },
+  "languageCode": "en"
+}

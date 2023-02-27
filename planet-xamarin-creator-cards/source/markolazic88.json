@@ -1,0 +1,19 @@
+{
+  "firstName": "Marko",
+  "lastName": "Lazić",
+  "tagOrBio": "Software engineer, tech enthusiast, passionate traveler. 4+ years of active development in Xamarin.Forms",
+  "stateOrRegion": "Belgrade, Serbia",
+  "emailAddress": "marko.lazic88@gmail.com",
+  "twitterHandle": "markolazic88",
+  "gravatarHash": "5645586a7d29654e9b296b1409107014",
+  "webSite": "https://markolazic.com/",
+  "feedUris": [
+    "https://markolazic.com/feed/"
+  ],
+  "githubHandle": "markolazic88",
+  "position": {
+    "lat": 44.7866,
+    "lon": 20.4489
+  },
+  "languageCode": "en"
+}

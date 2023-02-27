@@ -1,0 +1,19 @@
+{
+  "feedUris": [
+    "https://ryandavis.io/rss/"
+  ],
+  "firstName": "Ryan",
+  "lastName": "Davis",
+  "stateOrRegion": "Brisbane, Australia",
+  "emailAddress": "ryandavis.au@gmail.com",
+  "tagOrBio": "knows how to 🎉",
+  "webSite": "https://ryandavis.io",
+  "twitterHandle": "rdavis_au",
+  "githubHandle": "rdavisau",
+  "gravatarHash": "d351762ec451e252b20ff860dfcded91d351762ec451e252b20ff860dfcded91",
+  "position": {
+    "lat": -27.469771,
+    "lon": 153.025124
+  },
+  "languageCode": "en"
+}

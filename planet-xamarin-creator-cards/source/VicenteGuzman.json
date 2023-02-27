@@ -1,0 +1,19 @@
+{
+  "firstName": "Vicente",
+  "lastName": "Guzman",
+  "tagOrBio": "Vicente Guzman is a Community Member / Microsoft rMVP / Software Engineer",
+  "stateOrRegion": "Ciudad de México",
+  "emailAddress": "luciomsp@geeks.ms",
+  "webSite": "https://vicenteguzman.mx/",
+  "feedUris": [
+    "https://vicenteguzman.mx/feed/"
+  ],
+  "twitterHandle": "luciomsp",
+  "gravatarHash": "72cce778aac0d6066a14225e90c30874",
+  "githubHandle": "VicenteGuzman",
+  "position": {
+    "lat": 19.432608,
+    "lon": -99.133209
+  },
+  "languageCode": "es"
+}

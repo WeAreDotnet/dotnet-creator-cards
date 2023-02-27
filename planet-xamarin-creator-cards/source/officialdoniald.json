@@ -1,0 +1,19 @@
+{
+  "firstName": "Bence",
+  "lastName": "Lenart",
+  "tagOrBio": "Xamarin developer and blogger.",
+  "stateOrRegion": "Szeged, Hungary",
+  "emailAddress": "bence960206@gmail.com",
+  "webSite": "ttps://officialdoniald.com",
+  "feedUris": [
+    "https://officialdoniald.com/feed"
+  ],
+  "twitterHandle": "officialdoniald",
+  "gravatarHash": "4e467fcdbb65da5080d215bf303c442a",
+  "githubHandle": "officialdoniald",
+  "position": {
+    "lat": 46.231222,
+    "lon": 20.119167
+  },
+  "languageCode": "en"
+}

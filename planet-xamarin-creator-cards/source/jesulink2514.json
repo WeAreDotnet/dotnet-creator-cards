@@ -1,0 +1,20 @@
+{
+  "firstName": "Jesús",
+  "lastName": "Angulo",
+  "stateOrRegion": "Lima",
+  "emailAddress": "jesus.angulo@outlook.com",
+  "tagOrBio": "Microsoft MVP | Certified Xamarin Mobile Developer",
+  "webSite": "https://somostechies.com",
+  "twitterHandle": "jesulink2514",
+  "githubHandle": "jesulink2514",
+  "gravatarHash": "63359672e0ecb75e7ed261a358bf0478",
+  "feedUris": [
+    "https://somostechies.com/rss/",
+    "https://www.youtube.com/feeds/videos.xml?channel_id=UCnqaA_ArZIT0nytKMAiurzw"
+  ],
+  "position": {
+    "lat": -12.0896427,
+    "lon": -77.0060778
+  },
+  "languageCode": "es"
+}

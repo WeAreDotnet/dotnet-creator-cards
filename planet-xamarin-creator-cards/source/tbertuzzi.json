@@ -1,0 +1,19 @@
+{
+  "firstName": "Thiago",
+  "lastName": "Bertuzzi",
+  "tagOrBio": "Web and Mobile Developer, Blogger, Speaker",
+  "stateOrRegion": "São Paulo, Brasil",
+  "emailAddress": "thiago.bertuzzi@gmail.com",
+  "twitterHandle": "tbertuzzi",
+  "githubHandle": "tbertuzzi",
+  "gravatarHash": "82d95125be475913cdc7a7fe319d0133",
+  "position": {
+    "lat": -23.5834337,
+    "lon": -46.6672048
+  },
+  "webSite": "https://medium.com/@bertuzzi/",
+  "feedUris": [
+    "https://medium.com/feed/@bertuzzi"
+  ],
+  "languageCode": "pt"
+}

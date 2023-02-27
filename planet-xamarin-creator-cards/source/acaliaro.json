@@ -1,0 +1,19 @@
+{
+  "firstName": "Alessandro",
+  "lastName": "Caliaro",
+  "tagOrBio": "I like Xamarin Forms and I like help other people to understand it",
+  "emailAddress": "acaliaro@libero.it",
+  "twitterHandle": "acaliaro",
+  "gravatarHash": "a7466eb1c467806f77bc692a4745d0f9",
+  "stateOrRegion": "Lissone, Italy",
+  "webSite": "https://acaliaro.wordpress.com",
+  "githubHandle": "acaliaro",
+  "position": {
+    "lat": 45.632783,
+    "lon": 9.227265
+  },
+  "feedUris": [
+    "https://acaliaro.wordpress.com/feed/"
+  ],
+  "languageCode": "en"
+}

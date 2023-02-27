@@ -1,0 +1,19 @@
+{
+  "firstName": "Pieter",
+  "lastName": "Nijs",
+  "tagOrBio": "Senior .NET Software Engineer & Competence Leader Mobile @ Ordina Belgium. Passionate about programming, especially .NET, C#, XAML, Xamarin and UWP.",
+  "stateOrRegion": "Hasselt, Belgium",
+  "emailAddress": "pieternijs@live.be",
+  "twitterHandle": "nijspieter",
+  "gravatarHash": "61c9184b95820bdbbcd51764f3b9fb6e",
+  "githubHandle": "PieEatingNinjas",
+  "position": {
+    "lat": 50.93,
+    "lon": 5.3375
+  },
+  "webSite": "https://blog.pieeatingninjas.be/",
+  "feedUris": [
+    "https://blog.pieeatingninjas.be/feed/rss"
+  ],
+  "languageCode": "en"
+}

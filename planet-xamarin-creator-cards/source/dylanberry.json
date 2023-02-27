@@ -1,0 +1,19 @@
+{
+  "firstName": "Dylan",
+  "lastName": "Berry",
+  "tagOrBio": "Genetically Predisposed Programmer",
+  "stateOrRegion": "Toronto, Canada",
+  "emailAddress": "dylanberry@gmail.com",
+  "twitterHandle": "dylbot9000",
+  "gravatarHash": "8ef85938904ff43397d50caa9b0eebed",
+  "githubHandle": "dylanberry",
+  "position": {
+    "lat": 43.653493,
+    "lon": -79.384095
+  },
+  "webSite": "https://www.dylanberry.com/",
+  "feedUris": [
+    "https://www.dylanberry.com/feed/"
+  ],
+  "languageCode": "en"
+}

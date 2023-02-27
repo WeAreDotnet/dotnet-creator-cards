@@ -1,0 +1,19 @@
+{
+  "firstName": "Alexandr",
+  "lastName": "Sorokoletov",
+  "tagOrBio": "when he's not developing mobile applications enjoys snowboarding, kitesurfing and travel",
+  "stateOrRegion": "Washington, D.C.",
+  "emailAddress": "",
+  "twitterHandle": "AlexSorokoletov",
+  "githubHandle": "alexsorokoletov",
+  "position": {
+    "lat": 38.905147,
+    "lon": -77.065189
+  },
+  "webSite": "https://sorokoletov.com",
+  "feedUris": [
+    "https://sorokoletov.com/atom.xml"
+  ],
+  "gravatarHash": "b07fef8827dd03655303751e2fd5ca95",
+  "languageCode": "en"
+}

@@ -1,0 +1,19 @@
+{
+  "firstName": "Nigel",
+  "lastName": "Ferrissey",
+  "tagOrBio": "Mobile and front-end developer, Xamarin specialist",
+  "emailAddress": "n_ferrissey@hotmail.com",
+  "twitterHandle": "nferrissey",
+  "gravatarHash": "106ec2de3e2ea4e88e9fc431974f5d53",
+  "stateOrRegion": "Brisbane, Australia",
+  "webSite": "https://xamarininsider.com",
+  "feedUris": [
+    "https://xamarininsider.com/rss/"
+  ],
+  "githubHandle": "nigelferrissey",
+  "position": {
+    "lat": -27.469657,
+    "lon": 153.025241
+  },
+  "languageCode": "en"
+}

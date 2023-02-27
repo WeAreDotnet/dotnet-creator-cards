@@ -1,0 +1,19 @@
+{
+  "firstName": "Stephen",
+  "lastName": "Marcus",
+  "stateOrRegion": "Orange County, California",
+  "emailAddress": "marcus@marcusts.com",
+  "tagOrBio": "Certified Xamarin mobile app developer",
+  "webSite": "https://www.marcusts.com",
+  "feedUris": [
+    "https://www.marcusts.com/category/Xamarin/feed/"
+  ],
+  "twitterHandle": "",
+  "gravatarHash": "a64074b2ab0ac9b5a27379670b259d6d",
+  "githubHandle": "marcusts",
+  "position": {
+    "lat": 33.6423,
+    "lon": -117.6977
+  },
+  "languageCode": "en"
+}

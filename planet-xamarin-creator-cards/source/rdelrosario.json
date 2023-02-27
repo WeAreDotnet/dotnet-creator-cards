@@ -1,0 +1,19 @@
+{
+  "firstName": "Rendy",
+  "lastName": "Del Rosario",
+  "tagOrBio": "is a senior software developer with a passion for mobile development using Xamarin platform",
+  "stateOrRegion": "Dominican Republic",
+  "emailAddress": "rendy@crossgeeks.com",
+  "twitterHandle": "rdelrosario",
+  "gravatarHash": "4bece0ce1c33e65177110bcb95688c68",
+  "githubHandle": "rdelrosario",
+  "position": {
+    "lat": 18.486058,
+    "lon": -69.931212
+  },
+  "webSite": "https://xamboy.com/",
+  "feedUris": [
+    "https://xamboy.com/rss"
+  ],
+  "languageCode": "en"
+}

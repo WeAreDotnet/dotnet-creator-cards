@@ -1,0 +1,19 @@
+{
+  "firstName": "Andreas",
+  "lastName": "Nesheim",
+  "stateOrRegion": "Norway",
+  "emailAddress": "andreas.aronsen.nesheim@gmail.com",
+  "tagOrBio": ".NET developer with a passion for Xamarin, Azure DevOps and .NET Core.",
+  "webSite": "https://www.andreasnesheim.no/",
+  "twitterHandle": "AndreasNesheim",
+  "githubHandle": "andreas-nesheim",
+  "gravatarHash": "3f1d141d2809114debffb23277e91e3e",
+  "feedUris": [
+    "https://andreasnesheim.no/feed"
+  ],
+  "position": {
+    "lat": 58.9540147,
+    "lon": 5.7259639
+  },
+  "languageCode": "en"
+}

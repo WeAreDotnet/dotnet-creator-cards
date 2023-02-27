@@ -1,0 +1,19 @@
+{
+  "firstName": "Chris",
+  "lastName": "Williams",
+  "tagOrBio": "",
+  "emailAddress": "",
+  "twitterHandle": "crswlls",
+  "gravatarHash": "21e379df7ba9c57f167188e2fcb7dd75",
+  "stateOrRegion": "Bristol, UK",
+  "webSite": "https://crswlls.wordpress.com",
+  "feedUris": [
+    "https://crswlls.wordpress.com/rss/"
+  ],
+  "githubHandle": "",
+  "position": {
+    "lat": 30.267153,
+    "lon": -97.743061
+  },
+  "languageCode": "en"
+}

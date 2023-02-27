@@ -1,0 +1,29 @@
+{
+  "name": "Tim Jones",
+  "sectionTitle": null,
+  "countryCode": "uk",
+  "slogan": "",
+  "type": "CREATOR",
+  "bio": "Hi I'm Tim, creative coder, dotnet enthusiast, CTO and I love my dog",
+  "tags": ".NET, C#, ASP.NET Core",
+  "socials": {
+    "youtube": "",
+    "linkedin": "https://www.linkedin.com/in/timmoth/",
+    "twitter": "https://twitter.com/Timmoth_j",
+    "github": "https://github.com/Timmoth",
+    "mastodon": "",
+    "sessionize": ""
+  },
+  "channels": [
+    {
+      "name": "Blog",
+      "url": "https://timmoth.com/posts"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "LinkTagRssType",
+      "url": "https://timmoth.com/rss.xml"
+    }
+  ]
+}

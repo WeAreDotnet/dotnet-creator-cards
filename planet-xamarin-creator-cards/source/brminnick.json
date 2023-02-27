@@ -1,0 +1,19 @@
+{
+  "firstName": "Brandon",
+  "lastName": "Minnick",
+  "stateOrRegion": "San Francisco, CA",
+  "emailAddress": "brandon@codetraveler.io",
+  "tagOrBio": "works as a Developer Advocate at Microsoft. Formerly a Customer Success Engineer at Xamarin (before the Microsoft Acquisition), Brandon has a loves helping developers make 5-star apps!",
+  "webSite": "https://codetraveler.io",
+  "twitterHandle": "TheCodeTraveler",
+  "githubHandle": "brminnick",
+  "gravatarHash": "e03e28629383def59c31d54fb8bb3982",
+  "position": {
+    "lat": 37.77669,
+    "lon": -122.416644
+  },
+  "languageCode": "en",
+  "feedUris": [
+    "https://codetraveler.io/tag/xamarin/rss"
+  ]
+}

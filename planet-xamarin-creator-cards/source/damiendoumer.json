@@ -1,0 +1,19 @@
+{
+  "firstName": "Damien",
+  "lastName": "Doumer",
+  "stateOrRegion": "Douala, Cameroon",
+  "emailAddress": "damientohin@gmail.com",
+  "tagOrBio": "Fresh .Net developer, who loves mobile app development.",
+  "webSite": "https://doumer.me/",
+  "feedUris": [
+    "https://doumer.me/feed/"
+  ],
+  "twitterHandle": "Damien_Doumer",
+  "gravatarHash": "ecdd93df62c61daa04da17967f82d08d",
+  "githubHandle": "damiendoumer",
+  "position": {
+    "lat": 4.07316844239285,
+    "lon": 9.6842408186165585
+  },
+  "languageCode": "en"
+}

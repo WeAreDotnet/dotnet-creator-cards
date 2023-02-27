@@ -1,0 +1,19 @@
+{
+  "firstName": "Kym",
+  "lastName": "Phillpotts",
+  "tagOrBio": "is one of the Xamarin University instructors",
+  "stateOrRegion": "Melbourne, Australia",
+  "emailAddress": "kphillpotts@gmail.com",
+  "twitterHandle": "kphillpotts",
+  "gravatarHash": "3218e66502c6f0836dfd0f02f210ba0b",
+  "webSite": "https://kymphillpotts.com/",
+  "feedUris": [
+    "https://kymphillpotts.com/feed"
+  ],
+  "githubHandle": "kphillpotts",
+  "position": {
+    "lat": -37.813628,
+    "lon": 144.963058
+  },
+  "languageCode": "en"
+}

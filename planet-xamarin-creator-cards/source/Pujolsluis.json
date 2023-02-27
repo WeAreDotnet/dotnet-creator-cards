@@ -1,0 +1,19 @@
+{
+  "firstName": "Luis",
+  "lastName": "Pujols",
+  "stateOrRegion": "United States",
+  "emailAddress": "luispujolso@gmail.com",
+  "tagOrBio": "is a Software Engineer with a passion for Mobile Development and Software Architecture. Co-organizer of the .NET Community in the Dominican Republic and a Xamarin Lover.",
+  "webSite": "https://www.pujolsluis.com/",
+  "twitterHandle": "Pujolsluis1",
+  "githubHandle": "Pujolsluis",
+  "gravatarHash": "c91c0d654f4f06ca6e7a7e54699de85d",
+  "feedUris": [
+    "https://www.pujolsluis.com/rss"
+  ],
+  "position": {
+    "lat": 26.0203048,
+    "lon": -80.115093
+  },
+  "languageCode": "en"
+}

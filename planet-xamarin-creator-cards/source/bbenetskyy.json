@@ -1,0 +1,19 @@
+{
+  "firstName": "Bohdan",
+  "lastName": "Benetskyi",
+  "stateOrRegion": "Rzeszow, Poland",
+  "emailAddress": "benetskyybogdan@gmail.com",
+  "tagOrBio": "Xamarin Software Developer, co-organizer of Xamarin Local Events in Rzeszow, Local CSS at Xamarin Advocate",
+  "webSite": "https://medium.com/@benetskyybogdan/",
+  "twitterHandle": "bbenetskyy",
+  "githubHandle": "bbenetskyy",
+  "gravatarHash": "8bfa7db9239c2969b79468a58c8dd066",
+  "feedUris": [
+    "https://medium.com/feed/@benetskyybogdan/"
+  ],
+  "position": {
+    "lat": 50.041187,
+    "lon": 21.999121
+  },
+  "languageCode": "en"
+}

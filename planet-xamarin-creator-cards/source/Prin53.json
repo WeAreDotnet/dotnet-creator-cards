@@ -1,0 +1,19 @@
+{
+  "firstName": "Denys",
+  "lastName": "Fiediaiev",
+  "stateOrRegion": "Ukraine",
+  "emailAddress": "fiediaiev@sbyte.dev",
+  "tagOrBio": "is a mobile developer specializing in Xamarin technology",
+  "webSite": "https://medium.com/@prin53",
+  "twitterHandle": "sbytedev",
+  "githubHandle": "Prin53",
+  "gravatarHash": "0d5df57543a53231787d7a34a9b79cd6",
+  "feedUris": [
+    "https://medium.com/feed/@prin53"
+  ],
+  "position": {
+    "lat": 50.4547,
+    "lon": 30.5238
+  },
+  "languageCode": "en"
+}

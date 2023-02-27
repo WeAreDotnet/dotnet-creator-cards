@@ -1,0 +1,19 @@
+{
+  "feedUris": [
+    "https://javiersuarezruiz.wordpress.com/feed/"
+  ],
+  "firstName": "Javier",
+  "lastName": "Suarez",
+  "stateOrRegion": "Seville, Spain",
+  "emailAddress": "javiersuarezruiz@hotmail.com",
+  "tagOrBio": "is a passionate software developer from Spain who enjoys learning, talk and help others",
+  "webSite": "https://javiersuarezruiz.wordpress.com",
+  "twitterHandle": "jsuarezruiz",
+  "gravatarHash": "",
+  "position": {
+    "lat": 37.389092,
+    "lon": -5.984459
+  },
+  "githubHandle": "jsuarezruiz",
+  "languageCode": "es"
+}

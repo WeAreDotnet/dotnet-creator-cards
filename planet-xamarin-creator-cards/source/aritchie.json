@@ -1,0 +1,19 @@
+{
+  "firstName": "Allan",
+  "lastName": "Ritchie",
+  "stateOrRegion": "Toronto, Canada",
+  "emailAddress": "allan.ritchie@gmail.com",
+  "tagOrBio": "",
+  "webSite": "https://allancritchie.net",
+  "twitterHandle": "allanritchie911",
+  "githubHandle": "aritchie",
+  "gravatarHash": "5f22bd04ca38ed4d0a5225d0825e0726",
+  "position": {
+    "lat": 43.6425701,
+    "lon": -79.3892455
+  },
+  "languageCode": "en",
+  "feedUris": [
+    "https://allancritchie.net/xamarin.rss"
+  ]
+}

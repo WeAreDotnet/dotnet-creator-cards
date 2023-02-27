@@ -1,0 +1,19 @@
+{
+  "firstName": "Suthahar",
+  "lastName": "Jegatheesan",
+  "tagOrBio": "insatiable desire to keep learning keeps the dynamic blogger. I take keen interest in sharing my knowledge and solving my readers’ technology-related problems.",
+  "emailAddress": "",
+  "twitterHandle": "jssuthahar",
+  "gravatarHash": "2a34ebf4e9c4dca84eb7feee7217568f",
+  "stateOrRegion": "Bangalore, India",
+  "webSite": "https://www.msdevbuild.com/",
+  "position": {
+    "lat": 12.971599,
+    "lon": 77.594563
+  },
+  "feedUris": [
+    "https://www.msdevbuild.com/feeds/posts/default"
+  ],
+  "githubHandle": "jssuthahar",
+  "languageCode": "en"
+}

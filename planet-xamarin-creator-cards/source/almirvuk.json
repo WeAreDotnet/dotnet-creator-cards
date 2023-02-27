@@ -1,0 +1,19 @@
+{
+  "firstName": "Almir",
+  "lastName": "Vuk",
+  "tagOrBio": "Software Development Engineer & Microsoft MVP, crafting apps with ASP.NET Core and Xamarin",
+  "stateOrRegion": "Mostar, Bosnia and Herzegovina",
+  "emailAddress": "almir.vuk@outlook.com",
+  "twitterHandle": "almirvuk",
+  "gravatarHash": "d58b6fd6c2d9f949345e8d14d203a4b2",
+  "webSite": "https://almirvuk.com/",
+  "feedUris": [
+    "https://almirvuk.com/rss/"
+  ],
+  "githubHandle": "almirvuk",
+  "position": {
+    "lat": 43.3395522,
+    "lon": 17.7862211
+  },
+  "languageCode": "en"
+}

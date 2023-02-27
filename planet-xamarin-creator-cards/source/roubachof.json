@@ -1,0 +1,19 @@
+{
+  "firstName": "Jean-Marie",
+  "lastName": "Alfonsi",
+  "tagOrBio": "is a singing software engineer who travels at the speed light and wanna make a supersonic man out of you.",
+  "stateOrRegion": "Paris, France",
+  "emailAddress": "jm.alfonsi@gmail.com",
+  "twitterHandle": "Piskariov",
+  "gravatarHash": "2a30d8bc59e2ccb6e83bb498d519394a",
+  "webSite": "https://www.sharpnado.com/",
+  "feedUris": [
+    "https://www.sharpnado.com/rss/"
+  ],
+  "githubHandle": "roubachof",
+  "position": {
+    "lat": 48.8588377,
+    "lon": 2.2770206
+  },
+  "languageCode": "en"
+}

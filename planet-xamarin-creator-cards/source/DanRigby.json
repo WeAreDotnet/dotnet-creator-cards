@@ -1,0 +1,19 @@
+{
+  "firstName": "Dan",
+  "lastName": "Rigby",
+  "tagOrBio": "is a Technical Solutions Professional",
+  "stateOrRegion": "Raleigh, North Carolina",
+  "emailAddress": "Dan.Rigby@Microsoft.com",
+  "twitterHandle": "DanRigby",
+  "githubHandle": "DanRigby",
+  "gravatarHash": "f025f772418fbcfd3a1e15a74bf0f8a4",
+  "position": {
+    "lat": 35.77959,
+    "lon": -78.638179
+  },
+  "webSite": "https://danrigby.com/",
+  "feedUris": [
+    "https://feeds.feedburner.com/DanRigby"
+  ],
+  "languageCode": "en"
+}

@@ -1,0 +1,19 @@
+{
+  "firstName": "Esteban",
+  "lastName": "Solano",
+  "stateOrRegion": "Cartago, Costa Rica",
+  "emailAddress": "stvansolano@outlook.com",
+  "tagOrBio": "is a passionate software community guy from Costa Rica who enjoys learning, talk and help others to learn C# and Xamarin",
+  "webSite": "https://stvansolano.github.io/",
+  "feedUris": [
+    "https://stvansolano.github.io/atom.xml"
+  ],
+  "twitterHandle": "stvansolano",
+  "gravatarHash": "d02d96057c4cd905d60d14549b00db0d",
+  "githubHandle": "stvansolano",
+  "position": {
+    "lat": 9.9322992,
+    "lon": -84.0815271
+  },
+  "languageCode": "es"
+}

@@ -1,0 +1,19 @@
+{
+  "firstName": "Matt",
+  "lastName": "Crombie",
+  "tagOrBio": "Senior Xamarin Mobile Consultant/Architect",
+  "stateOrRegion": "Brisbane, Australia",
+  "emailAddress": "matt@xamarinhowto.com",
+  "twitterHandle": "xamarinhowto",
+  "gravatarHash": "3f1200c50911032b3558b7c0fc29c847",
+  "githubHandle": "xamarinhowto",
+  "position": {
+    "lat": -27.46845,
+    "lon": 153.024184
+  },
+  "webSite": "https://xamarinhowto.com/",
+  "feedUris": [
+    "https://xamarinhowto.com/feed/"
+  ],
+  "languageCode": "en"
+}

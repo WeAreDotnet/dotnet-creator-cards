@@ -1,0 +1,19 @@
+{
+  "firstName": "Logesh",
+  "lastName": "Palani",
+  "stateOrRegion": "Thiruvannamalai,Tamil Nadu,  India",
+  "emailAddress": "logesh.01@hotmail.com",
+  "tagOrBio": "Keep Learning,.. and Keep Practicing,...",
+  "webSite": "https://logeshpalani.blogspot.com/",
+  "twitterHandle": "logeshpalani98",
+  "githubHandle": "logeshpalani98",
+  "gravatarHash": "14fd9ec21509b468c84abbed2e47384e",
+  "feedUris": [
+    "https://logeshpalani.blogspot.com/feeds/posts/default"
+  ],
+  "position": {
+    "lat": 12.527056,
+    "lon": 79.098382
+  },
+  "languageCode": "en"
+}

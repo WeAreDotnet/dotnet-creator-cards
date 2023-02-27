@@ -1,0 +1,29 @@
+{
+  "name": "Michiel Post",
+  "sectionTitle": null,
+  "countryCode": "nl",
+  "slogan": "Freelance C# developer",
+  "type": "CREATOR",
+  "bio": "C# developer and creator of the open source HueApi library. Love working with ASP.Net, Blazor, Azure and web3/blockchain",
+  "tags": "Azure, GitHub, ASP.Net, Blazor, Remote Work",
+  "socials": {
+    "youtube": "",
+    "linkedin": "https://www.linkedin.com/in/michielpostnl",
+    "twitter": "https://twitter.com/michielpostnl",
+    "github": "https://www.github.com/michielpost",
+    "mastodon": "",
+    "sessionize": ""
+  },
+  "channels": [
+    {
+      "name": "Blog",
+      "url": "https://www.michielpost.nl/"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.michielpost.nl/feed/rss"
+    }
+  ]
+}

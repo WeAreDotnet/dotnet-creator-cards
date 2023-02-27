@@ -1,0 +1,19 @@
+{
+  "firstName": "Xablu",
+  "lastName": "",
+  "stateOrRegion": "Amsterdam, the Netherlands",
+  "emailAddress": "hello@xablu.com",
+  "tagOrBio": "a 100% pure Xamarin company.",
+  "webSite": "https://www.xablu.com/",
+  "twitterHandle": "xabluhq",
+  "githubHandle": "xablu",
+  "gravatarHash": "508b1a99bb81e09c189e7487ecb69167",
+  "feedUris": [
+    "https://www.xablu.com/tag/planet-xamarin/feed/"
+  ],
+  "position": {
+    "lat": 52.3702,
+    "lon": 4.8952
+  },
+  "languageCode": "en"
+}

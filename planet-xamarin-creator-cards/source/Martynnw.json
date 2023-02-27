@@ -1,0 +1,19 @@
+{
+  "firstName": "Martyn",
+  "lastName": "Wiggins",
+  "tagOrBio": "Mobile Developer, Mountain Biker, Wannabe Adventurer",
+  "stateOrRegion": "Nottingham",
+  "emailAddress": "Martynnw@gmail.com",
+  "twitterHandle": "Martynnw",
+  "gravatarHash": "bf974dae53bdbf5018fbbbf928db0f4e",
+  "githubHandle": "Martynnw",
+  "position": {
+    "lat": 52.95,
+    "lon": -1.133333
+  },
+  "webSite": "https://martynnw.wordpress.com",
+  "feedUris": [
+    "https://martynnw.wordpress.com/feed/"
+  ],
+  "languageCode": "en"
+}

@@ -1,0 +1,19 @@
+{
+  "firstName": "András",
+  "lastName": "Tóth",
+  "tagOrBio": "also known as banditoth | Xamarin && C# .NET developer from Hungary.",
+  "stateOrRegion": "Budapest, Hungary",
+  "emailAddress": "",
+  "twitterHandle": "",
+  "githubHandle": "banditoth",
+  "position": {
+    "lat": 47.497913,
+    "lon": 19.040236
+  },
+  "webSite": "https://www.banditoth.hu",
+  "feedUris": [
+    "https://www.banditoth.hu/feed/"
+  ],
+  "gravatarHash": "e11e3fd93c1cc4db5ec6f309bac0ff4d",
+  "languageCode": "hu"
+}

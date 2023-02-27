@@ -1,0 +1,19 @@
+{
+  "firstName": "John",
+  "lastName": "Wilson",
+  "stateOrRegion": "Brisbane, Australia",
+  "emailAddress": "wislon@hotmail.com",
+  "tagOrBio": "Head of Mobile, Tech Lead, Xamarin Specialist",
+  "webSite": "https://blog.wislon.io/",
+  "feedUris": [
+    "https://blog.wislon.io/atom.xml"
+  ],
+  "twitterHandle": "wislon",
+  "gravatarHash": "86c9d925c04b4c79c98bfc839d949e15",
+  "githubHandle": "wislon",
+  "position": {
+    "lat": -27.3812513,
+    "lon": 152.7130138
+  },
+  "languageCode": "en"
+}

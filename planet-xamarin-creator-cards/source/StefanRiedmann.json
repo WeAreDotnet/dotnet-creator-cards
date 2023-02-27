@@ -1,0 +1,19 @@
+{
+  "firstName": "Stefan",
+  "githubHandle": "StefanRiedmann",
+  "lastName": "Riedmann",
+  "tagOrBio": "Growing software",
+  "stateOrRegion": "Mendoza, Argentina and Gemünden, Germany",
+  "emailAddress": "stefan.riedmann@ciclosoftware.com",
+  "twitterHandle": "CicloSoftware",
+  "webSite": "https://www.ciclosoftware.com",
+  "feedUris": [
+    "https://www.ciclosoftware.com/feed/"
+  ],
+  "gravatarHash": "2781a55d04634584326bedfe08660537",
+  "position": {
+    "lat": -32.8886904,
+    "lon": -68.8481432
+  },
+  "languageCode": "en"
+}

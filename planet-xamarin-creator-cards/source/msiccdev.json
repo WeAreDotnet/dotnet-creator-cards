@@ -1,0 +1,19 @@
+{
+  "firstName": "Marco",
+  "lastName": "Siccardi",
+  "tagOrBio": "cross platform developer, writing software for Desktop, Mobiles and IOT",
+  "stateOrRegion": "Switzerland",
+  "emailAddress": "msiccdev@hotmail.com",
+  "twitterHandle": "msicc",
+  "gravatarHash": "67aaa7c3b6357dbccc1167a70b0c73e3",
+  "githubHandle": "msiccdev",
+  "position": {
+    "lat": 47.4683,
+    "lon": 8.75727
+  },
+  "webSite": "https://msicc.net/category/devstories/xamarin/",
+  "feedUris": [
+    "https://msicc.net/category/devstories/xamarin/feed/"
+  ],
+  "languageCode": "en"
+}

@@ -1,0 +1,19 @@
+{
+  "firstName": "William",
+  "lastName": "Barbosa",
+  "stateOrRegion": "Santos, Brasil",
+  "twitterHandle": "willdotnet",
+  "githubHandle": "willsb",
+  "tagOrBio": "Microsoft MVP, Blogger, Speaker, Monkey Nights Co-founder/Host and MvvmCross contributor",
+  "emailAddress": "heytherewill@gmail.com",
+  "gravatarHash": "e47d219e8ee5d6dd5a44940dc26585c4",
+  "position": {
+    "lat": -23.954821,
+    "lon": -46.3247136
+  },
+  "webSite": "https://willsb.github.io",
+  "feedUris": [
+    "https://medium.com/feed/@heytherewill"
+  ],
+  "languageCode": "en"
+}

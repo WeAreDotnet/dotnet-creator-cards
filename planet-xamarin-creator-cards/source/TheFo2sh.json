@@ -1,0 +1,19 @@
+{
+  "firstName": "Ahmed",
+  "lastName": "Fouad",
+  "stateOrRegion": "Vienna, Austria",
+  "emailAddress": "ahmed.fouad.net@hotmail.com",
+  "tagOrBio": "software engineer with 10 years experience with the .NET Framework living in Vienna, Austria.",
+  "webSite": "https://itnext.com/@csharpwriter",
+  "feedUris": [
+    "https://medium.com/feed/@csharpwriter"
+  ],
+  "twitterHandle": "MCC_Ahmed",
+  "gravatarHash": "5727eb3df565991947d90ed140962472",
+  "githubHandle": "TheFo2sh",
+  "position": {
+    "lat": 48.20849,
+    "lon": 16.37208
+  },
+  "languageCode": "en"
+}

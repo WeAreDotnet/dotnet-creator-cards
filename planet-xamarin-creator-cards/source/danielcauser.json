@@ -1,0 +1,19 @@
+{
+  "firstName": "Daniel",
+  "lastName": "Causer",
+  "stateOrRegion": "Toronto, Canada",
+  "emailAddress": "danielcauser@gmail.com",
+  "tagOrBio": "is a Xamarin Certified Developer fan of Xamarin and Mobile Development.",
+  "webSite": "https://causerexception.com/",
+  "twitterHandle": "danielcauser",
+  "githubHandle": "danielcauser",
+  "gravatarHash": "2666956714a2c2d48c480a6bddac4071",
+  "feedUris": [
+    "https://causerexception.com/feed"
+  ],
+  "position": {
+    "lat": 43.653103,
+    "lon": -79.383851
+  },
+  "languageCode": "en"
+}

@@ -1,0 +1,19 @@
+{
+  "firstName": "Telerik",
+  "lastName": "",
+  "stateOrRegion": "Global",
+  "emailAddress": "telerikxamarinteam@progress.com",
+  "tagOrBio": "Progress Telerik UI libraries equip .NET ninjas with a full arsenal of weapons to help you create beautiful, modern and future-proof applications quickly and intuitively.",
+  "webSite": "https://www.telerik.com/",
+  "twitterHandle": "telerik",
+  "githubHandle": "telerik",
+  "gravatarHash": "",
+  "feedUris": [
+    "https://feeds.telerik.com/blogs"
+  ],
+  "position": {
+    "lat": 42.512778,
+    "lon": -71.2515
+  },
+  "languageCode": "en"
+}

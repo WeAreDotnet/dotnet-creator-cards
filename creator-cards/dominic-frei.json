@@ -1,0 +1,24 @@
+﻿{
+  "name": "Dominic Frei",
+  "sectionTitle": null,
+  "countryCode": "ie",
+  "slogan": "",
+  "type": "CREATOR",
+  "bio": "",
+  "tags": ".NET, C#, Blazor, Unity3D, MongoDB",
+  "socials": {
+    "youtube": "",
+    "linkedin": "https://www.linkedin.com/in/dominicfrei/",
+    "twitter": "https://twitter.com/dominicfrei",
+    "github": "https://github.com/DominicFrei",
+    "mastodon": "",
+    "sessionize": ""
+  },
+  "channels": [
+    {
+      "name": "Blog",
+      "url": "https://www.mongodb.com/developer/author/dominic-frei/"
+    }
+  ],
+  "feeds": []
+}

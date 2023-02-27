@@ -1,0 +1,19 @@
+{
+  "firstName": "Kodjo Laurent",
+  "lastName": "Egbakou",
+  "stateOrRegion": "Lome, Togo",
+  "emailAddress": "laurent@lioncoding.com",
+  "tagOrBio": "is C#/.Net/Xamarin developer who learns and shares.",
+  "webSite": "https://lioncoding.com/",
+  "twitterHandle": "lioncoding",
+  "githubHandle": "egbakou",
+  "gravatarHash": "6e26a030d3b9495872b58d922bd86157",
+  "feedUris": [
+    "https://lioncoding.com/feed.xml"
+  ],
+  "position": {
+    "lat": 6.2030129,
+    "lon": 1.1918434
+  },
+  "languageCode": "fr"
+}

@@ -1,0 +1,19 @@
+{
+  "firstName": "Gerald",
+  "lastName": "Versluis",
+  "stateOrRegion": "The Netherlands",
+  "emailAddress": "gerald@verslu.is",
+  "tagOrBio": "Software Engineer at Microsoft on the Xamarin.Forms team",
+  "webSite": "https://blog.verslu.is/",
+  "feedUris": [
+    "https://blog.verslu.is/feed/"
+  ],
+  "twitterHandle": "jfversluis",
+  "gravatarHash": "f9d4d4211d7956ce3e07e83df0889731",
+  "githubHandle": "jfversluis",
+  "position": {
+    "lat": 50.889039,
+    "lon": 5.853717
+  },
+  "languageCode": "en"
+}

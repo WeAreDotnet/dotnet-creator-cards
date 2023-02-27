@@ -1,0 +1,19 @@
+{
+  "firstName": "Charlin",
+  "lastName": "Agramonte",
+  "tagOrBio": "Software Engineer",
+  "stateOrRegion": "Dominican Republic",
+  "emailAddress": "charlin@crossgeeks.com",
+  "twitterHandle": "Chard003",
+  "gravatarHash": "7db2bb2eed17e8df7e78b0d5461d90b0",
+  "githubHandle": "char0394",
+  "position": {
+    "lat": 18.4735438,
+    "lon": -69.9456919
+  },
+  "webSite": "https://xamgirl.com/",
+  "feedUris": [
+    "https://xamgirl.com/rss"
+  ],
+  "languageCode": "en"
+}

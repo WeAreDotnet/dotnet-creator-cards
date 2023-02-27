@@ -1,0 +1,20 @@
+{
+  "firstName": "Luis",
+  "lastName": "Matos",
+  "stateOrRegion": "Dominican Republic",
+  "twitterHandle": "luismatosluna",
+  "emailAddress": "hello@luismts.com",
+  "tagOrBio": "Software Engineer, Entrepreneur",
+  "gravatarHash": "ac9ac28f6b1e05a310d622b37e8bc4be",
+  "webSite": "https://www.luismts.com/",
+  "feedUris": [
+    "https://www.luismts.com/feed/",
+    "https://www.luismts.com/es/feed/"
+  ],
+  "githubHandle": "luismts",
+  "position": {
+    "lat": 18.4900563,
+    "lon": -69.8962411
+  },
+  "languageCode": "en"
+}

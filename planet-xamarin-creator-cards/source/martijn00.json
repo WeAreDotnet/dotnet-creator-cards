@@ -1,0 +1,19 @@
+{
+  "firstName": "Martijn",
+  "lastName": "van Dijk",
+  "stateOrRegion": "Amsterdam, Netherlands",
+  "emailAddress": "mhvdijk@gmail.com",
+  "tagOrBio": "is working at Baseflow.com on Apps and MvvmCross",
+  "webSite": "https://medium.com/@martijn00",
+  "feedUris": [
+    "https://medium.com/feed/@martijn00"
+  ],
+  "twitterHandle": "mhvdijk",
+  "gravatarHash": "22155f520ab611cf04f76762556ca3f5",
+  "githubHandle": "martijn00",
+  "position": {
+    "lat": 52.370216,
+    "lon": 4.895168
+  },
+  "languageCode": "en"
+}

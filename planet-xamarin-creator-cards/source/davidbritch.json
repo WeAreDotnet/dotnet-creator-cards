@@ -1,0 +1,21 @@
+{
+  "firstName": "David",
+  "lastName": "Britch",
+  "Title": "Senior Developer/Writer",
+  "stateOrRegion": "UK",
+  "emailAddress": "",
+  "twitterHandle": "britchdavid",
+  "gravatarHash": "0ddca71a03a3591203b4a748fcdfb47a",
+  "Started": "2015-06-08T00:00:00",
+  "tagOrBio": "",
+  "githubHandle": "davidbritch",
+  "position": {
+    "lat": 53.4793,
+    "lon": -2.2479
+  },
+  "webSite": "https://www.davidbritch.com",
+  "feedUris": [
+    "https://www.davidbritch.com/rss.xml"
+  ],
+  "languageCode": "en"
+}

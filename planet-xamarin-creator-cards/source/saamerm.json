@@ -1,0 +1,19 @@
+{
+  "feedUris": [
+    "https://medium.com/feed/@prototypemakers"
+  ],
+  "firstName": "Saamer",
+  "lastName": "Mansoor",
+  "stateOrRegion": "Toronto, Canada",
+  "emailAddress": "i@saamer.me",
+  "tagOrBio": "Top 5% Xamarin StackOverflow, Freelancer, Trainer",
+  "webSite": "https://medium.com/@prototypemakers",
+  "twitterHandle": "saamerm",
+  "githubHandle": "saamerm",
+  "gravatarHash": "66887acb0b76f2d3059255a1c53a3b22",
+  "position": {
+    "lat": 43.639728,
+    "lon": -79.380099
+  },
+  "languageCode": "en"
+}

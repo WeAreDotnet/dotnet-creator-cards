@@ -1,0 +1,19 @@
+{
+  "firstName": "Carel",
+  "lastName": "Lotz",
+  "tagOrBio": "is a Software Architect/Developer that loves to code",
+  "stateOrRegion": "Cape Town, South Africa",
+  "emailAddress": "carel.lotz@gmail.com",
+  "twitterHandle": "cjlotz",
+  "githubHandle": "cjlotz",
+  "gravatarHash": "0f692990601721c06f141f4fe860685e",
+  "position": {
+    "lat": -33.89635,
+    "lon": 18.70199
+  },
+  "webSite": "https://cjlotz.github.io",
+  "feedUris": [
+    "https://cjlotz.github.io/feed.xml"
+  ],
+  "languageCode": "en"
+}
