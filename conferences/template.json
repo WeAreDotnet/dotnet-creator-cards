@@ -5,10 +5,10 @@
 	"description": "lorem ipsum",
 	"uRL": "https://www.lmgtfy.com",
 	"type": "virtual | in-person",
-	"CFP_URI": "https://sessionize.com/xxxx",
+	"CFSURI": "https://sessionize.com/xxxx", //URL for your call for speakers on sessionize
   	"logoUri": "https://......",
 	"StartDate": "2022-10-10Z11:50",
 	"EndDate": "2022-10-10Z11:50",
-	"CFPStart": "2022-10-10Z11:50",
-	"CFPEnd": "2022-10-10Z11:50"
+	"CFSStart": "2022-10-10Z11:50", //call for speaker start
+	"CFSEnd": "2022-10-10Z11:50" // call for speaker end
 }
