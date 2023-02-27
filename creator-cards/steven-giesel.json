@@ -4,15 +4,15 @@
   "countryCode": "ch",
   "slogan": "",
   "type": "CREATOR",
-  "bio": "",
+  "bio": "Backend Software Engineer with a passion for new technologies! Microsoft MVP since 2023.",
   "tags": ".NET, C#, Blazor",
   "socials": {
     "youtube": "",
     "linkedin": "https://www.linkedin.com/in/steven-giesel/",
     "twitter": "",
-    "github": "",
+    "github": "https://github.com/linkdotnet",
     "mastodon": "",
-    "sessionize": ""
+    "sessionize": "https://sessionize.com/steven-giesel/"
   },
   "channels": [
     {
