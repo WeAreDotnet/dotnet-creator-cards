@@ -1,18 +1,33 @@
-By sending this pull request to add my blog I verify that I adhere to the WeAreDotnet Channel guidelines (please check each item that applies):
+# #WeAreDonet Creator Submission Guidelines
 
- I have a valid blog & RSS URL, both using HTTPS 🔒 with a valid certificate
- 
- I host NO malicious or offensive content on the blog (including photos, swearing, etc.)
- 
- My blog is active with at least 3 .NET related blog posts in the last 6 months
- 
- 
- In addition to the previous guideline; it should be apperant that the blog is active for a longer period of time and the posts on it are not fabricated in a small amount of time to comply to the '3 posts in last 6 months' guideline.
- I understand, if I delete my channel, I will be deleted from WeAreDotnet
- I understand, my blog may be removed at any time if any of these guidelines are broken.
- The submitted channel is not owned by a company which sole purpose it is to advertise a product of productline.
-Only the collaborators of this repository decide whether a blog is eligible or not. 
+* By submitting this pull request to add my creator card, I verify that I adhere to the #WeAreDotnet creator card submission guidelines.
 
-They will determine if the rules are followed and if the quality of the content is high enough.
-Opening another PR, after the first one is closed in a small period of time will not be reevaluated. 
-If a PR is closed, the issues with your blog are too significant to be fixed within a matter of hours.
+* We do not accept submissions with the sole intention of promoting a product or company.
+
+* We add you as a creator, not your company. 
+
+* The moderator team decides whether we accept or reject a submission.
+
+## When Do We Accept Someone's Creator Card Submission? 
+
+* You must have published a post since 2022 on any of your channels. 
+
+* There must be one publication in English. 
+
+* There needs to be more than tweets. 
+
+* A longer-form article on LinkedIn is good, but a self-hosted blog or one on a well-known platform like Hashnode, medium etc., is better. 
+
+* Alternatively, you contributed with another form on a platform like YouTube, Twitch, Udemy or Pluralsight. If you have some recorded talks of conferences or anywhere else, that counts too! So in the form of a recorded video or a book. 
+
+## RSS or Atom Feed 
+
+* Submit an Atom or RSS URL inside your creator card that belongs to your blog 
+
+* If you do not submit an RSS or Atom URL. We cannot consider your feed for the upcoming aggregation feature. 
+
+## Content Guideline 
+
+* If you have a self-hosted blog, please ensure you have a valid HTTPS certificate. 
+
+* We host NO malicious or offensive content on the blog (including photos, swearing, etc.)
