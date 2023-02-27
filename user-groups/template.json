@@ -2,8 +2,10 @@
 	"name": "My User Group Name",
 	"countrycode": "US",
 	"description": "lorem ipsum",
-	"URL": "https://www.lmgtfy.com",
+	"URL": "https://www.lmgtfy.com", // Your website or signup link
 	"Type": "virtual | in-person",
-	"main-topics": "...",
-	"frequency": "weekly | by-weekly | monthly | whatever applies"
+	"main-topics": "...", // the main topics you're talking about, just say .NET if its everything
+	"frequency": "weekly | by-weekly | monthly | whatever applies",
+	"icalUri": "" // If you have an ical feed, just put it here
+	"DayOfWeek": "" // the day you're typically meeting, can say like "last thursday of a month" etc etc
 }
