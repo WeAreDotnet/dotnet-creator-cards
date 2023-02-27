@@ -4,20 +4,28 @@
   "countryCode": "gb",
   "slogan": "",
   "type": "CREATOR",
-  "bio": "",
-  "tags": ".NET, C#",
+  "bio": "I help .NET & DevOps engineers expand their knowledge with tips, tricks and tutorials",
+  "tags": ".NET, C#, DevOps, AWS",
   "socials": {
-    "youtube": "https://www.youtube.com/c/CodeWithStu/videos",
+    "youtube": "https://youtube.com/@CodeWithStu",
     "linkedin": "https://www.linkedin.com/in/im5tu/",
     "twitter": "https://twitter.com/CodeWithStu",
-    "github": "",
-    "mastodon": "",
+    "github": "https://github.com/Im5tu",
+    "mastodon": "https://hachyderm.io/@codewithstu",
     "sessionize": ""
   },
   "channels": [
     {
+      "name": "Youtube",
+      "url": "https://youtube.com/@CodeWithStu"
+    },
+    {
       "name": "Blog",
       "url": "https://im5tu.io/article/"
+    },
+    {
+      "name": "Newsletter",
+      "url": "https://news.codewithstu.tv"
     }
   ],
   "feeds": [
@@ -27,11 +35,7 @@
     },
     {
       "type": "LinkTagRssType",
-      "url": "https://im5tu.io/article/index.xml"
-    },
-    {
-      "type": "LinkTagRssType",
-      "url": "https://im5tu.io/index.xml"
+      "url": "https://im5tu.io/tags/dotnet/index.xml"
     }
   ]
 }
