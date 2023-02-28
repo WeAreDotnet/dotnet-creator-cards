@@ -1,0 +1,36 @@
+{
+  "name": "Amit Puri",
+  "sectionTitle": null,
+  "countryCode": "in",
+  "slogan": "A lifelong learner, a technophile by instinct, a developer by heart, an architect by profession, and a mentor by passion",
+  "type": "CREATOR",
+  "bio": "Doctorate Candidate, worked with Emirates, Microsoft, Hitachi and IBM",
+  "tags": ".NET, C#, Azure, Power Platform, .NET MAUI",
+  "socials": {
+    "youtube": "https://www.youtube.com/@AmitPuri",
+    "linkedin": "https://linkedin.com/in/amitpuriindia",
+    "twitter": "https://twitter.com/iamamitpuri",
+    "github": "https://github.com/amitpuri",
+    "mastodon": "https://mastodon.social/@amitpuri",
+    "devto": "https://dev.to/amitpuri",
+    "medium": "https://medium.amitpuri.com",
+    "hashnode": "https://hashnode.amitpuri.com/",
+    "sessionize": "https://sessionize.com/amitpuri"
+  },
+  "channels": [
+    {
+      "name": "Blog",
+      "url": "https://blog.amitpuri.com"
+    },
+    {
+      "name": "Website",
+      "url": "https://www.amitpuri.com/"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "LinkTagRssType",
+      "url": "https://blog.amitpuri.com/feed.xml"
+    }
+  ]
+}
