@@ -1,20 +1,24 @@
 ﻿{
   "name": "Ahmad Mozaffar",
   "sectionTitle": null,
-  "countryCode": "lb",
+  "countryCode": "sy",
   "slogan": "",
   "type": "CREATOR",
-  "bio": "",
+  "bio": "Senrio .NET and Azure developer, technical content creator @akacademy, and technical author",
   "tags": ".NET, Azure",
   "socials": {
     "youtube": "https://www.youtube.com/channel/UCRs-PO48PbbS0l7bBhbu5CA",
-    "linkedin": "",
+    "linkedin": "https://www.linkedin.com/in/ahmad-mozaffar-a07183123/",
     "twitter": "https://twitter.com/ahmadmozaffar99",
-    "github": "",
+    "github": "https://github.com/aksoftware98",
     "mastodon": "",
-    "sessionize": ""
+    "sessionize": "https://sessionize.com/ahmadmozaffar99"
   },
-  "channels": [],
+  "channels": [
+    {
+      "name": "Site",
+      "url": "https://ahmadmozaffar.net"
+    }],
   "feeds": [
     {
       "type": "LinkTagRssType",
