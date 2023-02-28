@@ -1,0 +1,14 @@
+{
+	"name": "The big fancy .NET Conference",
+	"countrycode": "DE",
+	"location": "Berlin City Cube, street, no, whatever applicable"
+	"description": "lorem ipsum",
+	"uRL": "https://www.lmgtfy.com",
+	"type": "virtual | in-person",
+	"CFSURI": "https://sessionize.com/xxxx", //URL for your call for speakers on sessionize
+  	"logoUri": "https://......",
+	"StartDate": "2022-10-10Z11:50",
+	"EndDate": "2022-10-10Z11:50",
+	"CFSStart": "2022-10-10Z11:50", //call for speaker start
+	"CFSEnd": "2022-10-10Z11:50" // call for speaker end
+}
