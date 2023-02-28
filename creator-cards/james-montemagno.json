@@ -2,17 +2,17 @@
   "name": "James Montemagno",
   "sectionTitle": null,
   "countryCode": "us",
-  "slogan": "",
+  "slogan": "Live, Love, Bike, & Code",
   "type": "CREATOR",
-  "bio": "",
+  "bio": "James Montemagno is a Principal Lead Program Manager for Developer Community at Microsoft.",
   "tags": ".NET MAUI, .NET, Podcast",
   "socials": {
     "youtube": "https://www.youtube.com/c/JamesMontemagno",
     "linkedin": "https://linkedin.com/in/jamesmontemagno",
     "twitter": "https://twitter.com/jamesmontemagno",
-    "github": "",
-    "mastodon": "",
-    "sessionize": ""
+    "github": "https://github.com/jamesmontemagno",
+    "mastodon": "https://mastodon.social/@jamesmontemagno",
+    "sessionize": "https://sessionize.com/jamesmontemagno/"
   },
   "channels": [
     {
@@ -28,10 +28,6 @@
     {
       "type": "LinkTagRssType",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCENTmbKaTphpWV2R2evVz2A"
-    },
-    {
-      "type": "LinkTagRssType",
-      "url": "https://montemagno.com/rss/"
     },
     {
       "type": "LinkTagRssType",
