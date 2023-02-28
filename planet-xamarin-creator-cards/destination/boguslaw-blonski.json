@@ -1,0 +1,29 @@
+﻿{
+    "slogan": null,
+    "sectionTitle": "Planet Xamarin",
+    "socials": {
+        "sessionize": null,
+        "youtube": null,
+        "mastodon": null,
+        "twitter": "filipoff",
+        "linkedin": null,
+        "github": "filipoff2"
+    },
+    "tags": null,
+    "bio": "Generalist who is pragmatic and has delivered real code to real users in a variety of shapes.",
+    "type": "CREATOR",
+    "name": "Boguslaw Blonski",
+    "feeds": [
+        {
+            "type": "AHrefFeedType",
+            "url": "https://medium.com/feed/@boguslawblonski/"
+        }
+    ],
+    "countryCode": "pl",
+    "channels": [
+        {
+            "url": "https://medium.com/@boguslawblonski",
+            "name": "Site"
+        }
+    ]
+}

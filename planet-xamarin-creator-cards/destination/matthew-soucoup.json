@@ -1,0 +1,29 @@
+﻿{
+    "slogan": null,
+    "sectionTitle": "Planet Xamarin",
+    "socials": {
+        "sessionize": null,
+        "youtube": null,
+        "mastodon": null,
+        "twitter": "codemillmatt",
+        "linkedin": null,
+        "github": "codemillmatt"
+    },
+    "tags": null,
+    "bio": "",
+    "type": "CREATOR",
+    "name": "Matthew Soucoup",
+    "feeds": [
+        {
+            "type": "AHrefFeedType",
+            "url": "https://codemilltech.com/feed/"
+        }
+    ],
+    "countryCode": "us",
+    "channels": [
+        {
+            "url": "https://codemilltech.com",
+            "name": "Site"
+        }
+    ]
+}

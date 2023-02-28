@@ -1,0 +1,29 @@
+﻿{
+    "slogan": null,
+    "sectionTitle": "Planet Xamarin",
+    "socials": {
+        "sessionize": null,
+        "youtube": null,
+        "mastodon": null,
+        "twitter": "jimbobbennett",
+        "linkedin": null,
+        "github": ""
+    },
+    "tags": null,
+    "bio": "is the author of Xamarin in Action and a all-round nice guy",
+    "type": "CREATOR",
+    "name": "Jim Bennett",
+    "feeds": [
+        {
+            "type": "AHrefFeedType",
+            "url": "https://www.jimbobbennett.io/rss"
+        }
+    ],
+    "countryCode": "nz",
+    "channels": [
+        {
+            "url": "https://jimbobbennett.io/",
+            "name": "Site"
+        }
+    ]
+}

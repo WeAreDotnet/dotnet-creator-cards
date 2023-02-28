@@ -1,0 +1,29 @@
+﻿{
+    "slogan": null,
+    "sectionTitle": "Planet Xamarin",
+    "socials": {
+        "sessionize": null,
+        "youtube": null,
+        "mastodon": null,
+        "twitter": "thenickrandolph",
+        "linkedin": null,
+        "github": "nickrandolph"
+    },
+    "tags": null,
+    "bio": "Microsoft MVP and maintainer of @MvvmCross. Co-founder, Tech Lead at Built to Roam (@btroam), special forces in cross platform app and cloud solutions.",
+    "type": "CREATOR",
+    "name": "Nick Randolph",
+    "feeds": [
+        {
+            "type": "AHrefFeedType",
+            "url": "https://nicksnettravels.builttoroam.com/syndication.axd"
+        }
+    ],
+    "countryCode": "au",
+    "channels": [
+        {
+            "url": "https://builttoroam.com",
+            "name": "Site"
+        }
+    ]
+}

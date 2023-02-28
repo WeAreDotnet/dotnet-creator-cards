@@ -1,0 +1,29 @@
+﻿{
+    "slogan": null,
+    "sectionTitle": "Planet Xamarin",
+    "socials": {
+        "sessionize": null,
+        "youtube": null,
+        "mastodon": null,
+        "twitter": "can_bilgin",
+        "linkedin": null,
+        "github": "canbilgin"
+    },
+    "tags": null,
+    "bio": "Seasoned microsoft stack developer with passion for mobile development. Microsoft MVP for Windows Platform Development",
+    "type": "CREATOR",
+    "name": "Can Bilgin",
+    "feeds": [
+        {
+            "type": "AHrefFeedType",
+            "url": "https://canbilgin.wordpress.com/feed/"
+        }
+    ],
+    "countryCode": "ba",
+    "channels": [
+        {
+            "url": "https://canbilgin.wordpress.com/",
+            "name": "Site"
+        }
+    ]
+}

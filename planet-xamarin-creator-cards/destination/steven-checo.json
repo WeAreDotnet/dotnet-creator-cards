@@ -1,0 +1,29 @@
+﻿{
+    "slogan": null,
+    "sectionTitle": "Planet Xamarin",
+    "socials": {
+        "sessionize": null,
+        "youtube": null,
+        "mastodon": null,
+        "twitter": "steven1909",
+        "linkedin": null,
+        "github": "sact1909"
+    },
+    "tags": null,
+    "bio": "is a C# ASP.Net and Xamarin Developer, I\u0027d preferd back-end but I get along with the Front-End, I love help others with code and build new things with friends, I â™¥ C#",
+    "type": "CREATOR",
+    "name": "Steven Checo",
+    "feeds": [
+        {
+            "type": "AHrefFeedType",
+            "url": "https://checox.com/feed/"
+        }
+    ],
+    "countryCode": "us",
+    "channels": [
+        {
+            "url": "https://checox.com",
+            "name": "Site"
+        }
+    ]
+}

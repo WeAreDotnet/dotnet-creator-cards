@@ -1,0 +1,29 @@
+﻿{
+    "slogan": null,
+    "sectionTitle": "Planet Xamarin",
+    "socials": {
+        "sessionize": null,
+        "youtube": null,
+        "mastodon": null,
+        "twitter": "MCC_Ahmed",
+        "linkedin": null,
+        "github": "TheFo2sh"
+    },
+    "tags": null,
+    "bio": "software engineer with 10 years experience with the .NET Framework living in Vienna, Austria.",
+    "type": "CREATOR",
+    "name": "Ahmed Fouad",
+    "feeds": [
+        {
+            "type": "AHrefFeedType",
+            "url": "https://medium.com/feed/@csharpwriter"
+        }
+    ],
+    "countryCode": "at",
+    "channels": [
+        {
+            "url": "https://itnext.com/@csharpwriter",
+            "name": "Site"
+        }
+    ]
+}

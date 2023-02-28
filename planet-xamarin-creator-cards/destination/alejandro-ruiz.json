@@ -1,0 +1,29 @@
+﻿{
+    "slogan": null,
+    "sectionTitle": "Planet Xamarin",
+    "socials": {
+        "sessionize": null,
+        "youtube": null,
+        "mastodon": null,
+        "twitter": "alejandroruizva",
+        "linkedin": null,
+        "github": "AlejandroRuiz"
+    },
+    "tags": null,
+    "bio": "Alejandro Ruiz is a Xamarin MVP, C# \u0026 Open Source Lover",
+    "type": "CREATOR",
+    "name": "Alejandro Ruiz",
+    "feeds": [
+        {
+            "type": "AHrefFeedType",
+            "url": "https://alejandroruizvarela.blogspot.mx/rss.xml"
+        }
+    ],
+    "countryCode": "mx",
+    "channels": [
+        {
+            "url": "https://alejandroruizvarela.blogspot.mx",
+            "name": "Site"
+        }
+    ]
+}

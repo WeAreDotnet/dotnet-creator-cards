@@ -1,0 +1,29 @@
+﻿{
+    "slogan": null,
+    "sectionTitle": "Planet Xamarin",
+    "socials": {
+        "sessionize": null,
+        "youtube": null,
+        "mastodon": null,
+        "twitter": "CicloSoftware",
+        "linkedin": null,
+        "github": "StefanRiedmann"
+    },
+    "tags": null,
+    "bio": "Growing software",
+    "type": "CREATOR",
+    "name": "Stefan Riedmann",
+    "feeds": [
+        {
+            "type": "AHrefFeedType",
+            "url": "https://www.ciclosoftware.com/feed/"
+        }
+    ],
+    "countryCode": null,
+    "channels": [
+        {
+            "url": "https://www.ciclosoftware.com",
+            "name": "Site"
+        }
+    ]
+}

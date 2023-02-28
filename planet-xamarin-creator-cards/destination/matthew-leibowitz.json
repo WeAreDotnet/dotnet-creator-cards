@@ -1,0 +1,29 @@
+﻿{
+    "slogan": null,
+    "sectionTitle": "Planet Xamarin",
+    "socials": {
+        "sessionize": null,
+        "youtube": null,
+        "mastodon": null,
+        "twitter": "mattleibow",
+        "linkedin": null,
+        "github": "mattleibow"
+    },
+    "tags": null,
+    "bio": "An all-round software guy. I live and breathe C# and .NET on any platform.",
+    "type": "CREATOR",
+    "name": "Matthew Leibowitz",
+    "feeds": [
+        {
+            "type": "AHrefFeedType",
+            "url": "https://dotnetdevaddict.co.za/feed/"
+        }
+    ],
+    "countryCode": "za",
+    "channels": [
+        {
+            "url": "https://dotnetdevaddict.co.za",
+            "name": "Site"
+        }
+    ]
+}

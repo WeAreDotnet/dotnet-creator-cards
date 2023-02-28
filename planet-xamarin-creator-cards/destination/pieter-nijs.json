@@ -1,0 +1,29 @@
+﻿{
+    "slogan": null,
+    "sectionTitle": "Planet Xamarin",
+    "socials": {
+        "sessionize": null,
+        "youtube": null,
+        "mastodon": null,
+        "twitter": "nijspieter",
+        "linkedin": null,
+        "github": "PieEatingNinjas"
+    },
+    "tags": null,
+    "bio": "Senior .NET Software Engineer \u0026 Competence Leader Mobile @ Ordina Belgium. Passionate about programming, especially .NET, C#, XAML, Xamarin and UWP.",
+    "type": "CREATOR",
+    "name": "Pieter Nijs",
+    "feeds": [
+        {
+            "type": "AHrefFeedType",
+            "url": "https://blog.pieeatingninjas.be/feed/rss"
+        }
+    ],
+    "countryCode": "be",
+    "channels": [
+        {
+            "url": "https://blog.pieeatingninjas.be/",
+            "name": "Site"
+        }
+    ]
+}

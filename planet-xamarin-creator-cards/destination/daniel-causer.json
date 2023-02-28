@@ -1,0 +1,29 @@
+﻿{
+    "slogan": null,
+    "sectionTitle": "Planet Xamarin",
+    "socials": {
+        "sessionize": null,
+        "youtube": null,
+        "mastodon": null,
+        "twitter": "danielcauser",
+        "linkedin": null,
+        "github": "danielcauser"
+    },
+    "tags": null,
+    "bio": "is a Xamarin Certified Developer fan of Xamarin and Mobile Development.",
+    "type": "CREATOR",
+    "name": "Daniel Causer",
+    "feeds": [
+        {
+            "type": "AHrefFeedType",
+            "url": "https://causerexception.com/feed"
+        }
+    ],
+    "countryCode": "ca",
+    "channels": [
+        {
+            "url": "https://causerexception.com/",
+            "name": "Site"
+        }
+    ]
+}

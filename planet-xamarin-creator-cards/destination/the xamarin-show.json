@@ -1,0 +1,29 @@
+﻿{
+    "slogan": null,
+    "sectionTitle": "Planet Xamarin",
+    "socials": {
+        "sessionize": null,
+        "youtube": null,
+        "mastodon": null,
+        "twitter": "TheXamarinShow",
+        "linkedin": null,
+        "github": ""
+    },
+    "tags": null,
+    "bio": "is a Weekly Developer Show for Xamarin Developers",
+    "type": "CREATOR",
+    "name": "The Xamarin Show",
+    "feeds": [
+        {
+            "type": "AHrefFeedType",
+            "url": "https://channel9.msdn.com/Shows/XamarinShow/feed"
+        }
+    ],
+    "countryCode": "channel 9",
+    "channels": [
+        {
+            "url": "http://xamarinshow.com",
+            "name": "Site"
+        }
+    ]
+}

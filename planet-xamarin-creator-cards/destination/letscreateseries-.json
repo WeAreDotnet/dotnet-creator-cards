@@ -1,0 +1,29 @@
+﻿{
+    "slogan": null,
+    "sectionTitle": "Planet Xamarin",
+    "socials": {
+        "sessionize": null,
+        "youtube": null,
+        "mastodon": null,
+        "twitter": "LetsCre8Series",
+        "linkedin": null,
+        "github": "LetsCreateSeries"
+    },
+    "tags": null,
+    "bio": "Create Mobile Apps using Xamarin.Forms",
+    "type": "CREATOR",
+    "name": "LetsCreateSeries ",
+    "feeds": [
+        {
+            "type": "AHrefFeedType",
+            "url": "https://letscreateseries.com/rss"
+        }
+    ],
+    "countryCode": "us",
+    "channels": [
+        {
+            "url": "https://letscreateseries.com",
+            "name": "Site"
+        }
+    ]
+}

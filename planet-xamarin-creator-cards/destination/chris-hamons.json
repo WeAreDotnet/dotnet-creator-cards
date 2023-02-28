@@ -1,0 +1,29 @@
+﻿{
+    "slogan": null,
+    "sectionTitle": "Planet Xamarin",
+    "socials": {
+        "sessionize": null,
+        "youtube": null,
+        "mastodon": null,
+        "twitter": "IfErrThrowBrick",
+        "linkedin": null,
+        "github": "chamons"
+    },
+    "tags": null,
+    "bio": "is the lead engineer for Xamarin.Mac",
+    "type": "CREATOR",
+    "name": "Chris Hamons",
+    "feeds": [
+        {
+            "type": "AHrefFeedType",
+            "url": "https://medium.com/feed/@donblas"
+        }
+    ],
+    "countryCode": "us",
+    "channels": [
+        {
+            "url": "https://medium.com/@donblas",
+            "name": "Site"
+        }
+    ]
+}

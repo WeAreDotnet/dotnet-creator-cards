@@ -1,0 +1,33 @@
+﻿{
+    "slogan": null,
+    "sectionTitle": "Planet Xamarin",
+    "socials": {
+        "sessionize": null,
+        "youtube": null,
+        "mastodon": null,
+        "twitter": "luismatosluna",
+        "linkedin": null,
+        "github": "luismts"
+    },
+    "tags": null,
+    "bio": "Software Engineer, Entrepreneur",
+    "type": "CREATOR",
+    "name": "Luis Matos",
+    "feeds": [
+        {
+            "type": "AHrefFeedType",
+            "url": "https://www.luismts.com/feed/"
+        },
+        {
+            "type": "AHrefFeedType",
+            "url": "https://www.luismts.com/es/feed/"
+        }
+    ],
+    "countryCode": "do",
+    "channels": [
+        {
+            "url": "https://www.luismts.com/",
+            "name": "Site"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+﻿{
+    "slogan": null,
+    "sectionTitle": "Planet Xamarin",
+    "socials": {
+        "sessionize": null,
+        "youtube": null,
+        "mastodon": null,
+        "twitter": "ionixjunior",
+        "linkedin": null,
+        "github": "ionixjunior"
+    },
+    "tags": null,
+    "bio": "",
+    "type": "CREATOR",
+    "name": "Ione Souza Junior",
+    "feeds": [
+        {
+            "type": "AHrefFeedType",
+            "url": "https://www.ionixjunior.com.br/rss"
+        }
+    ],
+    "countryCode": "br",
+    "channels": [
+        {
+            "url": "https://www.ionixjunior.com.br",
+            "name": "Site"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+﻿{
+    "slogan": null,
+    "sectionTitle": "Planet Xamarin",
+    "socials": {
+        "sessionize": null,
+        "youtube": null,
+        "mastodon": null,
+        "twitter": "vulcanlee",
+        "linkedin": null,
+        "github": "vulcanlee"
+    },
+    "tags": null,
+    "bio": "Vulcan Lee is a Microsoft MVP who develops Xamarin at Doggy Ltd",
+    "type": "CREATOR",
+    "name": "Vulcan Lee",
+    "feeds": [
+        {
+            "type": "AHrefFeedType",
+            "url": "https://mylabtw.blogspot.com/feeds/posts/default?alt=rss"
+        }
+    ],
+    "countryCode": "tw",
+    "channels": [
+        {
+            "url": "https://mylabtw.blogspot.com/",
+            "name": "Site"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+﻿{
+    "slogan": null,
+    "sectionTitle": "Planet Xamarin",
+    "socials": {
+        "sessionize": null,
+        "youtube": null,
+        "mastodon": null,
+        "twitter": "andrew_hoefling",
+        "linkedin": null,
+        "github": "ahoefling"
+    },
+    "tags": null,
+    "bio": "Microsoft MVP (Developer Technologies) Open Source developer who loves integrating Xamarin with other platforms",
+    "type": "CREATOR",
+    "name": "Andrew Hoefling",
+    "feeds": [
+        {
+            "type": "AHrefFeedType",
+            "url": "https://www.andrewhoefling.com/feed.xml?category=xamarin\u0026uno-platform"
+        }
+    ],
+    "countryCode": "us",
+    "channels": [
+        {
+            "url": "https://www.andrewhoefling.com/",
+            "name": "Site"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+﻿{
+    "slogan": null,
+    "sectionTitle": "Planet Xamarin",
+    "socials": {
+        "sessionize": null,
+        "youtube": null,
+        "mastodon": null,
+        "twitter": "almirvuk",
+        "linkedin": null,
+        "github": "almirvuk"
+    },
+    "tags": null,
+    "bio": "Software Development Engineer \u0026 Microsoft MVP, crafting apps with ASP.NET Core and Xamarin",
+    "type": "CREATOR",
+    "name": "Almir Vuk",
+    "feeds": [
+        {
+            "type": "AHrefFeedType",
+            "url": "https://almirvuk.com/rss/"
+        }
+    ],
+    "countryCode": "ba",
+    "channels": [
+        {
+            "url": "https://almirvuk.com/",
+            "name": "Site"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+﻿{
+    "slogan": null,
+    "sectionTitle": "Planet Xamarin",
+    "socials": {
+        "sessionize": null,
+        "youtube": null,
+        "mastodon": null,
+        "twitter": "asp_net",
+        "linkedin": null,
+        "github": "aspnetde"
+    },
+    "tags": null,
+    "bio": "Developer \u0026 Entrepreneur of Passion",
+    "type": "CREATOR",
+    "name": "Thomas Bandt",
+    "feeds": [
+        {
+            "type": "AHrefFeedType",
+            "url": "https://thomasbandt.com/feed"
+        }
+    ],
+    "countryCode": "de",
+    "channels": [
+        {
+            "url": "https://thomasbandt.com/",
+            "name": "Site"
+        }
+    ]
+}

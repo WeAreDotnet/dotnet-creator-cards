@@ -1,0 +1,29 @@
+﻿{
+    "slogan": null,
+    "sectionTitle": "Planet Xamarin",
+    "socials": {
+        "sessionize": null,
+        "youtube": null,
+        "mastodon": null,
+        "twitter": "ricardo_prestes",
+        "linkedin": null,
+        "github": "ricardoprestes"
+    },
+    "tags": null,
+    "bio": "Tech lead mobile developer, Burger Monkeys Co-founder",
+    "type": "CREATOR",
+    "name": "Ricardo Prestes",
+    "feeds": [
+        {
+            "type": "AHrefFeedType",
+            "url": "https://oficinadologan.wordpress.com/rss"
+        }
+    ],
+    "countryCode": null,
+    "channels": [
+        {
+            "url": "https://oficinadologan.wordpress.com/",
+            "name": "Site"
+        }
+    ]
+}

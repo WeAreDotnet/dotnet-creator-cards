@@ -1,0 +1,29 @@
+﻿{
+    "slogan": null,
+    "sectionTitle": "Planet Xamarin",
+    "socials": {
+        "sessionize": null,
+        "youtube": null,
+        "mastodon": null,
+        "twitter": "mfractor",
+        "linkedin": null,
+        "github": "mfractor"
+    },
+    "tags": null,
+    "bio": "is a powerful productivity tool for Xamarin Developers.",
+    "type": "CREATOR",
+    "name": "MFractor ",
+    "feeds": [
+        {
+            "type": "AHrefFeedType",
+            "url": "https://www.mfractor.com/blogs/news.atom"
+        }
+    ],
+    "countryCode": "au",
+    "channels": [
+        {
+            "url": "https://www.mfractor.com/",
+            "name": "Site"
+        }
+    ]
+}

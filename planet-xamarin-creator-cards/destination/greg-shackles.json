@@ -1,0 +1,29 @@
+﻿{
+    "slogan": null,
+    "sectionTitle": "Planet Xamarin",
+    "socials": {
+        "sessionize": null,
+        "youtube": null,
+        "mastodon": null,
+        "twitter": "gshackles",
+        "linkedin": null,
+        "github": "gshackles"
+    },
+    "tags": null,
+    "bio": "knows a thing (or two) about mobile testing",
+    "type": "CREATOR",
+    "name": "Greg Shackles",
+    "feeds": [
+        {
+            "type": "AHrefFeedType",
+            "url": "https://gregshackles.com/rss/"
+        }
+    ],
+    "countryCode": "us",
+    "channels": [
+        {
+            "url": "https://gregshackles.com",
+            "name": "Site"
+        }
+    ]
+}

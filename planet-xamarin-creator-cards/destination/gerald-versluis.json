@@ -1,0 +1,29 @@
+﻿{
+    "slogan": null,
+    "sectionTitle": "Planet Xamarin",
+    "socials": {
+        "sessionize": null,
+        "youtube": null,
+        "mastodon": null,
+        "twitter": "jfversluis",
+        "linkedin": null,
+        "github": "jfversluis"
+    },
+    "tags": null,
+    "bio": "Software Engineer at Microsoft on the Xamarin.Forms team",
+    "type": "CREATOR",
+    "name": "Gerald Versluis",
+    "feeds": [
+        {
+            "type": "AHrefFeedType",
+            "url": "https://blog.verslu.is/feed/"
+        }
+    ],
+    "countryCode": "nl",
+    "channels": [
+        {
+            "url": "https://blog.verslu.is/",
+            "name": "Site"
+        }
+    ]
+}

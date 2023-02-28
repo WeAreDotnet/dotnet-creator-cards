@@ -1,0 +1,29 @@
+﻿{
+    "slogan": null,
+    "sectionTitle": "Planet Xamarin",
+    "socials": {
+        "sessionize": null,
+        "youtube": null,
+        "mastodon": null,
+        "twitter": "telerik",
+        "linkedin": null,
+        "github": "telerik"
+    },
+    "tags": null,
+    "bio": "Progress Telerik UI libraries equip .NET ninjas with a full arsenal of weapons to help you create beautiful, modern and future-proof applications quickly and intuitively.",
+    "type": "CREATOR",
+    "name": "Telerik ",
+    "feeds": [
+        {
+            "type": "AHrefFeedType",
+            "url": "https://feeds.telerik.com/blogs"
+        }
+    ],
+    "countryCode": "global",
+    "channels": [
+        {
+            "url": "https://www.telerik.com/",
+            "name": "Site"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+﻿{
+    "slogan": null,
+    "sectionTitle": "Planet Xamarin",
+    "socials": {
+        "sessionize": null,
+        "youtube": null,
+        "mastodon": null,
+        "twitter": "MarcBruins",
+        "linkedin": null,
+        "github": "MarcBruins"
+    },
+    "tags": null,
+    "bio": "is a native iOS/Android developer who fell in love with Xamarin",
+    "type": "CREATOR",
+    "name": "Marc Bruins",
+    "feeds": [
+        {
+            "type": "AHrefFeedType",
+            "url": "https://www.marcbruins.nl/feed.xml"
+        }
+    ],
+    "countryCode": "nl",
+    "channels": [
+        {
+            "url": "https://www.marcbruins.nl",
+            "name": "Site"
+        }
+    ]
+}

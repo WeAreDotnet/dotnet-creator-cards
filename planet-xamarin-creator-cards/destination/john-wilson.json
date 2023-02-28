@@ -1,0 +1,29 @@
+﻿{
+    "slogan": null,
+    "sectionTitle": "Planet Xamarin",
+    "socials": {
+        "sessionize": null,
+        "youtube": null,
+        "mastodon": null,
+        "twitter": "wislon",
+        "linkedin": null,
+        "github": "wislon"
+    },
+    "tags": null,
+    "bio": "Head of Mobile, Tech Lead, Xamarin Specialist",
+    "type": "CREATOR",
+    "name": "John Wilson",
+    "feeds": [
+        {
+            "type": "AHrefFeedType",
+            "url": "https://blog.wislon.io/atom.xml"
+        }
+    ],
+    "countryCode": "au",
+    "channels": [
+        {
+            "url": "https://blog.wislon.io/",
+            "name": "Site"
+        }
+    ]
+}

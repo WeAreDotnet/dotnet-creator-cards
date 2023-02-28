@@ -1,0 +1,29 @@
+﻿{
+    "slogan": null,
+    "sectionTitle": "Planet Xamarin",
+    "socials": {
+        "sessionize": null,
+        "youtube": null,
+        "mastodon": null,
+        "twitter": "bbenetskyy",
+        "linkedin": null,
+        "github": "bbenetskyy"
+    },
+    "tags": null,
+    "bio": "Xamarin Software Developer, co-organizer of Xamarin Local Events in Rzeszow, Local CSS at Xamarin Advocate",
+    "type": "CREATOR",
+    "name": "Bohdan Benetskyi",
+    "feeds": [
+        {
+            "type": "AHrefFeedType",
+            "url": "https://medium.com/feed/@benetskyybogdan/"
+        }
+    ],
+    "countryCode": "pl",
+    "channels": [
+        {
+            "url": "https://medium.com/@benetskyybogdan/",
+            "name": "Site"
+        }
+    ]
+}

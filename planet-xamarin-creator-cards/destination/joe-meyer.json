@@ -1,0 +1,29 @@
+﻿{
+    "slogan": null,
+    "sectionTitle": "Planet Xamarin",
+    "socials": {
+        "sessionize": null,
+        "youtube": null,
+        "mastodon": null,
+        "twitter": "iwritecodesmtms",
+        "linkedin": null,
+        "github": "JoeM-RP"
+    },
+    "tags": null,
+    "bio": "I write code sometimes",
+    "type": "CREATOR",
+    "name": "Joe Meyer",
+    "feeds": [
+        {
+            "type": "AHrefFeedType",
+            "url": "https://iwritecodesometimes.net/feed/"
+        }
+    ],
+    "countryCode": "us",
+    "channels": [
+        {
+            "url": "https://iwritecodesometimes.net",
+            "name": "Site"
+        }
+    ]
+}

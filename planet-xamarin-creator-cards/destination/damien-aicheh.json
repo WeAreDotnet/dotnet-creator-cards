@@ -1,0 +1,29 @@
+﻿{
+    "slogan": null,
+    "sectionTitle": "Planet Xamarin",
+    "socials": {
+        "sessionize": null,
+        "youtube": null,
+        "mastodon": null,
+        "twitter": "damienaicheh",
+        "linkedin": null,
+        "github": "damienaicheh"
+    },
+    "tags": null,
+    "bio": "is a passionate mobile developer also interrested about Azure, Azure DevOps and.NET Core.",
+    "type": "CREATOR",
+    "name": "Damien Aicheh",
+    "feeds": [
+        {
+            "type": "AHrefFeedType",
+            "url": "https://damienaicheh.github.io/feed.xml"
+        }
+    ],
+    "countryCode": "fr",
+    "channels": [
+        {
+            "url": "https://damienaicheh.github.io/",
+            "name": "Site"
+        }
+    ]
+}

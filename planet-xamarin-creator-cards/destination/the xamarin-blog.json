@@ -1,0 +1,29 @@
+﻿{
+    "slogan": null,
+    "sectionTitle": "Planet Xamarin",
+    "socials": {
+        "sessionize": null,
+        "youtube": null,
+        "mastodon": null,
+        "twitter": "xamarinhq",
+        "linkedin": null,
+        "github": "xamarin"
+    },
+    "tags": null,
+    "bio": "is your official source for Xamarin developer news.",
+    "type": "CREATOR",
+    "name": "The Xamarin Blog",
+    "feeds": [
+        {
+            "type": "AHrefFeedType",
+            "url": "https://devblogs.microsoft.com/xamarin/feed/"
+        }
+    ],
+    "countryCode": "internet",
+    "channels": [
+        {
+            "url": "https://blog.xamarin.com",
+            "name": "Site"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+﻿{
+    "slogan": null,
+    "sectionTitle": "Planet Xamarin",
+    "socials": {
+        "sessionize": null,
+        "youtube": null,
+        "mastodon": null,
+        "twitter": "stuebe2k14",
+        "linkedin": null,
+        "github": "smstuebe"
+    },
+    "tags": null,
+    "bio": "loves the cross platform approach, develops Xamarin plugins and organizes Xamarin Pizza \u0026 Beer Meetups in Munich",
+    "type": "CREATOR",
+    "name": "Sven-Michael StÃ¼be",
+    "feeds": [
+        {
+            "type": "AHrefFeedType",
+            "url": "https://smstuebe.de/feed.xml"
+        }
+    ],
+    "countryCode": "de",
+    "channels": [
+        {
+            "url": "https://smstuebe.de/",
+            "name": "Site"
+        }
+    ]
+}

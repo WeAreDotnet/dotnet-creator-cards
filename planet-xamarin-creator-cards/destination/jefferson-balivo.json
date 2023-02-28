@@ -1,0 +1,29 @@
+﻿{
+    "slogan": null,
+    "sectionTitle": "Planet Xamarin",
+    "socials": {
+        "sessionize": null,
+        "youtube": null,
+        "mastodon": null,
+        "twitter": "jbalivo",
+        "linkedin": null,
+        "github": "balivo"
+    },
+    "tags": null,
+    "bio": "Xamarin Enthusiast, Technical Lead and Cross Platform Architect, Multi-Plataform Technical Audience Contributor (MTAC), Technical Writer and Speaker",
+    "type": "CREATOR",
+    "name": "Jefferson Balivo",
+    "feeds": [
+        {
+            "type": "AHrefFeedType",
+            "url": "https://balivo.com.br/rss"
+        }
+    ],
+    "countryCode": null,
+    "channels": [
+        {
+            "url": "https://balivo.com.br/",
+            "name": "Site"
+        }
+    ]
+}

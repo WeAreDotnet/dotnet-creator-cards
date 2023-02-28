@@ -1,0 +1,29 @@
+﻿{
+    "slogan": null,
+    "sectionTitle": "Planet Xamarin",
+    "socials": {
+        "sessionize": null,
+        "youtube": null,
+        "mastodon": null,
+        "twitter": "JuuCustodio",
+        "linkedin": null,
+        "github": "JuuCustodio"
+    },
+    "tags": null,
+    "bio": "Solutions Architect, Blogger and Speaker",
+    "type": "CREATOR",
+    "name": "Juliano CustÃ³dio",
+    "feeds": [
+        {
+            "type": "AHrefFeedType",
+            "url": "https://julianocustodio.com/tag/xamarin/rss/"
+        }
+    ],
+    "countryCode": "br",
+    "channels": [
+        {
+            "url": "https://www.julianocustodio.com",
+            "name": "Site"
+        }
+    ]
+}

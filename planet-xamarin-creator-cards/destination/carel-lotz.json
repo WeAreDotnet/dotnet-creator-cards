@@ -1,0 +1,29 @@
+﻿{
+    "slogan": null,
+    "sectionTitle": "Planet Xamarin",
+    "socials": {
+        "sessionize": null,
+        "youtube": null,
+        "mastodon": null,
+        "twitter": "cjlotz",
+        "linkedin": null,
+        "github": "cjlotz"
+    },
+    "tags": null,
+    "bio": "is a Software Architect/Developer that loves to code",
+    "type": "CREATOR",
+    "name": "Carel Lotz",
+    "feeds": [
+        {
+            "type": "AHrefFeedType",
+            "url": "https://cjlotz.github.io/feed.xml"
+        }
+    ],
+    "countryCode": "za",
+    "channels": [
+        {
+            "url": "https://cjlotz.github.io",
+            "name": "Site"
+        }
+    ]
+}

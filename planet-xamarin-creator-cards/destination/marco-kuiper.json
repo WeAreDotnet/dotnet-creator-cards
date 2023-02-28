@@ -1,0 +1,29 @@
+﻿{
+    "slogan": null,
+    "sectionTitle": "Planet Xamarin",
+    "socials": {
+        "sessionize": null,
+        "youtube": null,
+        "mastodon": null,
+        "twitter": "marcofolio",
+        "linkedin": null,
+        "github": "marcofolio"
+    },
+    "tags": null,
+    "bio": "is a Code monkey, incurably optimistic, loves great design and passionate about Xamarin.",
+    "type": "CREATOR",
+    "name": "Marco Kuiper",
+    "feeds": [
+        {
+            "type": "AHrefFeedType",
+            "url": "https://feeds2.feedburner.com/marcofolio"
+        }
+    ],
+    "countryCode": "nl",
+    "channels": [
+        {
+            "url": "https://www.marcofolio.net/",
+            "name": "Site"
+        }
+    ]
+}

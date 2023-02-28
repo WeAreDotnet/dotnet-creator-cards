@@ -1,0 +1,29 @@
+﻿{
+    "slogan": null,
+    "sectionTitle": "Planet Xamarin",
+    "socials": {
+        "sessionize": null,
+        "youtube": null,
+        "mastodon": null,
+        "twitter": "saamerm",
+        "linkedin": null,
+        "github": "saamerm"
+    },
+    "tags": null,
+    "bio": "Top 5% Xamarin StackOverflow, Freelancer, Trainer",
+    "type": "CREATOR",
+    "name": "Saamer Mansoor",
+    "feeds": [
+        {
+            "type": "AHrefFeedType",
+            "url": "https://medium.com/feed/@prototypemakers"
+        }
+    ],
+    "countryCode": "ca",
+    "channels": [
+        {
+            "url": "https://medium.com/@prototypemakers",
+            "name": "Site"
+        }
+    ]
+}

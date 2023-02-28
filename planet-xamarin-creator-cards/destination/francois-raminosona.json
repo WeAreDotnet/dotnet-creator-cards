@@ -1,0 +1,29 @@
+﻿{
+    "slogan": null,
+    "sectionTitle": "Planet Xamarin",
+    "socials": {
+        "sessionize": null,
+        "youtube": null,
+        "mastodon": null,
+        "twitter": "framinosona",
+        "linkedin": null,
+        "github": "framinosona"
+    },
+    "tags": null,
+    "bio": "Passionate Xamarin/Microsoft technologies developer",
+    "type": "CREATOR",
+    "name": "Francois Raminosona",
+    "feeds": [
+        {
+            "type": "AHrefFeedType",
+            "url": "https://blog.francois.raminosona.com/tag/xamarin/rss/"
+        }
+    ],
+    "countryCode": "no",
+    "channels": [
+        {
+            "url": "https://blog.francois.raminosona.com/",
+            "name": "Site"
+        }
+    ]
+}

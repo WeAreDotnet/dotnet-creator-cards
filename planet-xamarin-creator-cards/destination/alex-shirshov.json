@@ -1,0 +1,29 @@
+﻿{
+    "slogan": null,
+    "sectionTitle": "Planet Xamarin",
+    "socials": {
+        "sessionize": null,
+        "youtube": null,
+        "mastodon": null,
+        "twitter": "omnitalented",
+        "linkedin": null,
+        "github": "shirshov"
+    },
+    "tags": null,
+    "bio": "Software Craftsman",
+    "type": "CREATOR",
+    "name": "Alex Shirshov",
+    "feeds": [
+        {
+            "type": "AHrefFeedType",
+            "url": "https://omnitalented.com/rss-xamarin.xml"
+        }
+    ],
+    "countryCode": "au",
+    "channels": [
+        {
+            "url": "https://omnitalented.com",
+            "name": "Site"
+        }
+    ]
+}

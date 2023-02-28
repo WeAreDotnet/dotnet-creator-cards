@@ -1,0 +1,29 @@
+﻿{
+    "slogan": null,
+    "sectionTitle": "Planet Xamarin",
+    "socials": {
+        "sessionize": null,
+        "youtube": null,
+        "mastodon": null,
+        "twitter": "leomarisreyes11",
+        "linkedin": null,
+        "github": "LeomarisReyes"
+    },
+    "tags": null,
+    "bio": "is a software engineer",
+    "type": "CREATOR",
+    "name": "Leomaris Reyes",
+    "feeds": [
+        {
+            "type": "AHrefFeedType",
+            "url": "https://askxammy.com/feed"
+        }
+    ],
+    "countryCode": "do",
+    "channels": [
+        {
+            "url": "https://askxammy.com/",
+            "name": "Site"
+        }
+    ]
+}

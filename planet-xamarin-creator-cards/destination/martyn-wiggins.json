@@ -1,0 +1,29 @@
+﻿{
+    "slogan": null,
+    "sectionTitle": "Planet Xamarin",
+    "socials": {
+        "sessionize": null,
+        "youtube": null,
+        "mastodon": null,
+        "twitter": "Martynnw",
+        "linkedin": null,
+        "github": "Martynnw"
+    },
+    "tags": null,
+    "bio": "Mobile Developer, Mountain Biker, Wannabe Adventurer",
+    "type": "CREATOR",
+    "name": "Martyn Wiggins",
+    "feeds": [
+        {
+            "type": "AHrefFeedType",
+            "url": "https://martynnw.wordpress.com/feed/"
+        }
+    ],
+    "countryCode": "gb",
+    "channels": [
+        {
+            "url": "https://martynnw.wordpress.com",
+            "name": "Site"
+        }
+    ]
+}

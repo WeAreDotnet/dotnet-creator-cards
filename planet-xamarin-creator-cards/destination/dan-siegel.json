@@ -1,0 +1,29 @@
+﻿{
+    "slogan": null,
+    "sectionTitle": "Planet Xamarin",
+    "socials": {
+        "sessionize": null,
+        "youtube": null,
+        "mastodon": null,
+        "twitter": "DanJSiegel",
+        "linkedin": null,
+        "github": "dansiegel"
+    },
+    "tags": null,
+    "bio": "is a Mobile App Consultant and Founder of AvantiPoint. He is an author of several OSS libraries, a maintainer of the Prism Library and a DevOps champion.",
+    "type": "CREATOR",
+    "name": "Dan Siegel",
+    "feeds": [
+        {
+            "type": "AHrefFeedType",
+            "url": "https://dansiegel.net/syndication.axd"
+        }
+    ],
+    "countryCode": "us",
+    "channels": [
+        {
+            "url": "https://dansiegel.net",
+            "name": "Site"
+        }
+    ]
+}

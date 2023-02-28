@@ -1,0 +1,29 @@
+﻿{
+    "slogan": null,
+    "sectionTitle": "Planet Xamarin",
+    "socials": {
+        "sessionize": null,
+        "youtube": null,
+        "mastodon": null,
+        "twitter": "xamaringuy",
+        "linkedin": null,
+        "github": "samirgcofficial"
+    },
+    "tags": null,
+    "bio": ".net lover, xamarin mobile developer | XamarinGuy Show Host | Trainer | Instructor",
+    "type": "CREATOR",
+    "name": "Samir GC",
+    "feeds": [
+        {
+            "type": "AHrefFeedType",
+            "url": "https://xamaringuyshow.com/feed/"
+        }
+    ],
+    "countryCode": "np",
+    "channels": [
+        {
+            "url": "https://xamaringuyshow.com/",
+            "name": "Site"
+        }
+    ]
+}

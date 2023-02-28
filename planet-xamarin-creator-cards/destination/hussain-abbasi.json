@@ -1,0 +1,29 @@
+﻿{
+    "slogan": null,
+    "sectionTitle": "Planet Xamarin",
+    "socials": {
+        "sessionize": null,
+        "youtube": null,
+        "mastodon": null,
+        "twitter": "HussainNAbbasi",
+        "linkedin": null,
+        "github": "hnabbasi"
+    },
+    "tags": null,
+    "bio": "is a Blogger, Mobile Architect, and founder of intelliAbb.com. More at HussainAbbasi.com",
+    "type": "CREATOR",
+    "name": "Hussain Abbasi",
+    "feeds": [
+        {
+            "type": "AHrefFeedType",
+            "url": "https://www.intelliabb.com/feed"
+        }
+    ],
+    "countryCode": "us",
+    "channels": [
+        {
+            "url": "https://www.intelliabb.com/",
+            "name": "Site"
+        }
+    ]
+}

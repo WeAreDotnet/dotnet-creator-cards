@@ -1,0 +1,29 @@
+﻿{
+    "slogan": null,
+    "sectionTitle": "Planet Xamarin",
+    "socials": {
+        "sessionize": null,
+        "youtube": null,
+        "mastodon": null,
+        "twitter": "xabluhq",
+        "linkedin": null,
+        "github": "xablu"
+    },
+    "tags": null,
+    "bio": "a 100% pure Xamarin company.",
+    "type": "CREATOR",
+    "name": "Xablu ",
+    "feeds": [
+        {
+            "type": "AHrefFeedType",
+            "url": "https://www.xablu.com/tag/planet-xamarin/feed/"
+        }
+    ],
+    "countryCode": "nl",
+    "channels": [
+        {
+            "url": "https://www.xablu.com/",
+            "name": "Site"
+        }
+    ]
+}

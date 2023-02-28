@@ -1,0 +1,29 @@
+﻿{
+    "slogan": null,
+    "sectionTitle": "Planet Xamarin",
+    "socials": {
+        "sessionize": null,
+        "youtube": null,
+        "mastodon": null,
+        "twitter": "hindrikes",
+        "linkedin": null,
+        "github": "dhindrik"
+    },
+    "tags": null,
+    "bio": "is an architect and developer using Xamarin and Azure. Working as a Ninja at tretton37. Also recording \"The Code Behind\" podcast!",
+    "type": "CREATOR",
+    "name": "Daniel Hindrikes",
+    "feeds": [
+        {
+            "type": "AHrefFeedType",
+            "url": "https://danielhindrikes.se/index.php/feed/"
+        }
+    ],
+    "countryCode": null,
+    "channels": [
+        {
+            "url": "https://danielhindrikes.se",
+            "name": "Site"
+        }
+    ]
+}

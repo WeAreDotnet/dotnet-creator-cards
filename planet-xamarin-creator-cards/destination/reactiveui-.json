@@ -1,0 +1,29 @@
+﻿{
+    "slogan": null,
+    "sectionTitle": "Planet Xamarin",
+    "socials": {
+        "sessionize": null,
+        "youtube": null,
+        "mastodon": null,
+        "twitter": "ReactiveXUI",
+        "linkedin": null,
+        "github": "ReactiveUI"
+    },
+    "tags": null,
+    "bio": "An advanced, composable, functional reactive model-view-viewmodel framework for all .NET platforms",
+    "type": "CREATOR",
+    "name": "ReactiveUI ",
+    "feeds": [
+        {
+            "type": "AHrefFeedType",
+            "url": "https://reactiveui.net/rss"
+        }
+    ],
+    "countryCode": "internet",
+    "channels": [
+        {
+            "url": "https://reactiveui.net/",
+            "name": "Site"
+        }
+    ]
+}

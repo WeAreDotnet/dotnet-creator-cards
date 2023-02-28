@@ -1,0 +1,29 @@
+﻿{
+    "slogan": null,
+    "sectionTitle": "Planet Xamarin",
+    "socials": {
+        "sessionize": null,
+        "youtube": null,
+        "mastodon": null,
+        "twitter": "Udara_Alwis",
+        "linkedin": null,
+        "github": "UdaraAlwis"
+    },
+    "tags": null,
+    "bio": "A mobile dev enthusiast. Xamarin Certified Developer in Singapore.",
+    "type": "CREATOR",
+    "name": "Udara Alwis",
+    "feeds": [
+        {
+            "type": "AHrefFeedType",
+            "url": "https://theconfuzedsourcecode.wordpress.com/feed/"
+        }
+    ],
+    "countryCode": "sg",
+    "channels": [
+        {
+            "url": "https://theconfuzedsourcecode.wordpress.com/",
+            "name": "Site"
+        }
+    ]
+}

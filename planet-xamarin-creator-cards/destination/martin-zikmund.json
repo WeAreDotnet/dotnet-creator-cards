@@ -1,0 +1,29 @@
+﻿{
+    "slogan": null,
+    "sectionTitle": "Planet Xamarin",
+    "socials": {
+        "sessionize": null,
+        "youtube": null,
+        "mastodon": null,
+        "twitter": "MZetko",
+        "linkedin": null,
+        "github": "MartinZikmund"
+    },
+    "tags": null,
+    "bio": "is a mobile + cloud solutions developer, Microsoftie, Geocacher, regular squash player, foodie and Insanity \u0026 P90X fan",
+    "type": "CREATOR",
+    "name": "Martin Zikmund",
+    "feeds": [
+        {
+            "type": "AHrefFeedType",
+            "url": "https://blog.mzikmund.com/feed/?lang=en_us"
+        }
+    ],
+    "countryCode": "cz",
+    "channels": [
+        {
+            "url": "https://blog.mzikmund.com/",
+            "name": "Site"
+        }
+    ]
+}

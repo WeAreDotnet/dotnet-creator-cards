@@ -1,0 +1,29 @@
+﻿{
+    "slogan": null,
+    "sectionTitle": "Planet Xamarin",
+    "socials": {
+        "sessionize": null,
+        "youtube": null,
+        "mastodon": null,
+        "twitter": "tbertuzzi",
+        "linkedin": null,
+        "github": "tbertuzzi"
+    },
+    "tags": null,
+    "bio": "Web and Mobile Developer, Blogger, Speaker",
+    "type": "CREATOR",
+    "name": "Thiago Bertuzzi",
+    "feeds": [
+        {
+            "type": "AHrefFeedType",
+            "url": "https://medium.com/feed/@bertuzzi"
+        }
+    ],
+    "countryCode": null,
+    "channels": [
+        {
+            "url": "https://medium.com/@bertuzzi/",
+            "name": "Site"
+        }
+    ]
+}

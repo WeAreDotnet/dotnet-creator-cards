@@ -1,0 +1,29 @@
+﻿{
+    "slogan": null,
+    "sectionTitle": "Planet Xamarin",
+    "socials": {
+        "sessionize": null,
+        "youtube": null,
+        "mastodon": null,
+        "twitter": "mindofai",
+        "linkedin": null,
+        "github": "mindofai"
+    },
+    "tags": null,
+    "bio": "Mobile .NET Developer who enjoys learning and writing about Mobile .NET stuff and has passion for football. Co-leads Mobile .NET Developers - Philippines",
+    "type": "CREATOR",
+    "name": "Bryan Anthony Garcia",
+    "feeds": [
+        {
+            "type": "AHrefFeedType",
+            "url": "https://mindofai.github.io/feed.xml"
+        }
+    ],
+    "countryCode": "ph",
+    "channels": [
+        {
+            "url": "https://mindofai.github.io/",
+            "name": "Site"
+        }
+    ]
+}

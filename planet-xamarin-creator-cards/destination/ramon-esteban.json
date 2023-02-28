@@ -1,0 +1,29 @@
+﻿{
+    "slogan": null,
+    "sectionTitle": "Planet Xamarin",
+    "socials": {
+        "sessionize": null,
+        "youtube": null,
+        "mastodon": null,
+        "twitter": "ramonesteban78",
+        "linkedin": null,
+        "github": "ramonesteban78"
+    },
+    "tags": null,
+    "bio": "Freelance Xamarin developer",
+    "type": "CREATOR",
+    "name": "Ramon Esteban",
+    "feeds": [
+        {
+            "type": "AHrefFeedType",
+            "url": "https://ramonesteban78.github.io/feed.xml"
+        }
+    ],
+    "countryCode": "es",
+    "channels": [
+        {
+            "url": "https://ramonesteban78.github.io/",
+            "name": "Site"
+        }
+    ]
+}

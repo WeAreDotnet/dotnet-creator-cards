@@ -1,0 +1,29 @@
+﻿{
+    "slogan": null,
+    "sectionTitle": "Planet Xamarin",
+    "socials": {
+        "sessionize": null,
+        "youtube": null,
+        "mastodon": null,
+        "twitter": "luciomsp",
+        "linkedin": null,
+        "github": "VicenteGuzman"
+    },
+    "tags": null,
+    "bio": "Vicente Guzman is a Community Member / Microsoft rMVP / Software Engineer",
+    "type": "CREATOR",
+    "name": "Vicente Guzman",
+    "feeds": [
+        {
+            "type": "AHrefFeedType",
+            "url": "https://vicenteguzman.mx/feed/"
+        }
+    ],
+    "countryCode": null,
+    "channels": [
+        {
+            "url": "https://vicenteguzman.mx/",
+            "name": "Site"
+        }
+    ]
+}

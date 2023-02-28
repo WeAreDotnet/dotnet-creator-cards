@@ -1,0 +1,29 @@
+﻿{
+    "slogan": null,
+    "sectionTitle": "Planet Xamarin",
+    "socials": {
+        "sessionize": null,
+        "youtube": null,
+        "mastodon": null,
+        "twitter": "hjerpbakk",
+        "linkedin": null,
+        "github": "Sankra"
+    },
+    "tags": null,
+    "bio": "Passionate, empathic and experienced developer, software architect and manager. My love for C# is only surpassed by my love for Xamarin and iOS.",
+    "type": "CREATOR",
+    "name": "Runar Ovesen Hjerpbakk",
+    "feeds": [
+        {
+            "type": "AHrefFeedType",
+            "url": "https://hjerpbakk.com/feed.xml"
+        }
+    ],
+    "countryCode": "no",
+    "channels": [
+        {
+            "url": "https://hjerpbakk.com/",
+            "name": "Site"
+        }
+    ]
+}

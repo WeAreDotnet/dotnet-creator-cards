@@ -1,0 +1,29 @@
+﻿{
+    "slogan": null,
+    "sectionTitle": "Planet Xamarin",
+    "socials": {
+        "sessionize": null,
+        "youtube": null,
+        "mastodon": null,
+        "twitter": "tomsoderling",
+        "linkedin": null,
+        "github": "TomSoderling"
+    },
+    "tags": null,
+    "bio": "is a Sr. Mobile Developer, speaker, and open source contributor",
+    "type": "CREATOR",
+    "name": "Tom Soderling",
+    "feeds": [
+        {
+            "type": "AHrefFeedType",
+            "url": "https://tomsoderling.github.io/feed.xml"
+        }
+    ],
+    "countryCode": "us",
+    "channels": [
+        {
+            "url": "https://tomsoderling.github.io",
+            "name": "Site"
+        }
+    ]
+}

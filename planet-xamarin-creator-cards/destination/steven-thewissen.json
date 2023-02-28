@@ -1,0 +1,29 @@
+﻿{
+    "slogan": null,
+    "sectionTitle": "Planet Xamarin",
+    "socials": {
+        "sessionize": null,
+        "youtube": null,
+        "mastodon": null,
+        "twitter": "devnl",
+        "linkedin": null,
+        "github": "sthewissen"
+    },
+    "tags": null,
+    "bio": " is a Xamarin Developer with a knack for Photoshop and a passion for soccer and cycling. He is also in love with his Xbox One",
+    "type": "CREATOR",
+    "name": "Steven Thewissen",
+    "feeds": [
+        {
+            "type": "AHrefFeedType",
+            "url": "https://www.thewissen.io/feed/"
+        }
+    ],
+    "countryCode": "nl",
+    "channels": [
+        {
+            "url": "https://www.thewissen.io/",
+            "name": "Site"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+﻿{
+    "slogan": null,
+    "sectionTitle": "Planet Xamarin",
+    "socials": {
+        "sessionize": null,
+        "youtube": null,
+        "mastodon": null,
+        "twitter": "elbrinner",
+        "linkedin": null,
+        "github": "elbrinner"
+    },
+    "tags": null,
+    "bio": "is a Xamarin consultant in everis Spain and organizer of the meetup group Xamarin Madrid.",
+    "type": "CREATOR",
+    "name": "Elbrinner da Silva Fernandes",
+    "feeds": [
+        {
+            "type": "AHrefFeedType",
+            "url": "https://www.elbrinner.com/rss"
+        }
+    ],
+    "countryCode": "es",
+    "channels": [
+        {
+            "url": "https://www.elbrinner.com/",
+            "name": "Site"
+        }
+    ]
+}

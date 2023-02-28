@@ -1,0 +1,29 @@
+﻿{
+    "slogan": null,
+    "sectionTitle": "Planet Xamarin",
+    "socials": {
+        "sessionize": null,
+        "youtube": null,
+        "mastodon": null,
+        "twitter": "jesseliberty",
+        "linkedin": null,
+        "github": "JesseLiberty"
+    },
+    "tags": null,
+    "bio": "See http://jesseliberty.me",
+    "type": "CREATOR",
+    "name": "Jesse Liberty",
+    "feeds": [
+        {
+            "type": "AHrefFeedType",
+            "url": "https://feeds.feedburner.com/JesseLiberty-SilverlightGeek"
+        }
+    ],
+    "countryCode": "us",
+    "channels": [
+        {
+            "url": "http://jesseliberty.me",
+            "name": "Site"
+        }
+    ]
+}

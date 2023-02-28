@@ -1,0 +1,29 @@
+﻿{
+    "slogan": null,
+    "sectionTitle": "Planet Xamarin",
+    "socials": {
+        "sessionize": null,
+        "youtube": null,
+        "mastodon": null,
+        "twitter": "mhvdijk",
+        "linkedin": null,
+        "github": "martijn00"
+    },
+    "tags": null,
+    "bio": "is working at Baseflow.com on Apps and MvvmCross",
+    "type": "CREATOR",
+    "name": "Martijn van Dijk",
+    "feeds": [
+        {
+            "type": "AHrefFeedType",
+            "url": "https://medium.com/feed/@martijn00"
+        }
+    ],
+    "countryCode": "nl",
+    "channels": [
+        {
+            "url": "https://medium.com/@martijn00",
+            "name": "Site"
+        }
+    ]
+}

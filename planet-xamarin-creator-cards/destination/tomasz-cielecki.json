@@ -1,0 +1,29 @@
+﻿{
+    "slogan": null,
+    "sectionTitle": "Planet Xamarin",
+    "socials": {
+        "sessionize": null,
+        "youtube": null,
+        "mastodon": null,
+        "twitter": "Cheesebaron",
+        "linkedin": null,
+        "github": "Cheesebaron"
+    },
+    "tags": null,
+    "bio": "Open Source all the things!",
+    "type": "CREATOR",
+    "name": "Tomasz Cielecki",
+    "feeds": [
+        {
+            "type": "AHrefFeedType",
+            "url": "https://blog.ostebaronen.dk/feed.xml"
+        }
+    ],
+    "countryCode": "dk",
+    "channels": [
+        {
+            "url": "https://blog.ostebaronen.dk",
+            "name": "Site"
+        }
+    ]
+}

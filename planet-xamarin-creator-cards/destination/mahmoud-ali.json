@@ -1,0 +1,29 @@
+﻿{
+    "slogan": null,
+    "sectionTitle": "Planet Xamarin",
+    "socials": {
+        "sessionize": null,
+        "youtube": null,
+        "mastodon": null,
+        "twitter": "akamud",
+        "linkedin": null,
+        "github": "akamud"
+    },
+    "tags": null,
+    "bio": "Microsoft MVP",
+    "type": "CREATOR",
+    "name": "Mahmoud Ali",
+    "feeds": [
+        {
+            "type": "AHrefFeedType",
+            "url": "https://www.lambda3.com.br/feed/"
+        }
+    ],
+    "countryCode": null,
+    "channels": [
+        {
+            "url": "https://www.lambda3.com.br/blog",
+            "name": "Site"
+        }
+    ]
+}

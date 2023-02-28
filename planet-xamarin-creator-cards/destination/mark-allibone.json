@@ -1,0 +1,29 @@
+﻿{
+    "slogan": null,
+    "sectionTitle": "Planet Xamarin",
+    "socials": {
+        "sessionize": null,
+        "youtube": null,
+        "mastodon": null,
+        "twitter": "mallibone",
+        "linkedin": null,
+        "github": "mallibone"
+    },
+    "tags": null,
+    "bio": "is a Microsoft MVP who blogs, talks, coaches and develops all around mobile development.",
+    "type": "CREATOR",
+    "name": "Mark Allibone",
+    "feeds": [
+        {
+            "type": "AHrefFeedType",
+            "url": "https://mallibone.com/feed/"
+        }
+    ],
+    "countryCode": "ch",
+    "channels": [
+        {
+            "url": "https://mallibone.com",
+            "name": "Site"
+        }
+    ]
+}

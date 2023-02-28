@@ -1,0 +1,29 @@
+﻿{
+    "slogan": null,
+    "sectionTitle": "Planet Xamarin",
+    "socials": {
+        "sessionize": null,
+        "youtube": null,
+        "mastodon": null,
+        "twitter": "Pujolsluis1",
+        "linkedin": null,
+        "github": "Pujolsluis"
+    },
+    "tags": null,
+    "bio": "is a Software Engineer with a passion for Mobile Development and Software Architecture. Co-organizer of the .NET Community in the Dominican Republic and a Xamarin Lover.",
+    "type": "CREATOR",
+    "name": "Luis Pujols",
+    "feeds": [
+        {
+            "type": "AHrefFeedType",
+            "url": "https://www.pujolsluis.com/rss"
+        }
+    ],
+    "countryCode": "us",
+    "channels": [
+        {
+            "url": "https://www.pujolsluis.com/",
+            "name": "Site"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+﻿{
+    "slogan": null,
+    "sectionTitle": "Planet Xamarin",
+    "socials": {
+        "sessionize": null,
+        "youtube": null,
+        "mastodon": null,
+        "twitter": "jssuthahar",
+        "linkedin": null,
+        "github": "jssuthahar"
+    },
+    "tags": null,
+    "bio": "insatiable desire to keep learning keeps the dynamic blogger. I take keen interest in sharing my knowledge and solving my readersâ€™ technology-related problems.",
+    "type": "CREATOR",
+    "name": "Suthahar Jegatheesan",
+    "feeds": [
+        {
+            "type": "AHrefFeedType",
+            "url": "https://www.msdevbuild.com/feeds/posts/default"
+        }
+    ],
+    "countryCode": "in",
+    "channels": [
+        {
+            "url": "https://www.msdevbuild.com/",
+            "name": "Site"
+        }
+    ]
+}

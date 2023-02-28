@@ -1,0 +1,29 @@
+﻿{
+    "slogan": null,
+    "sectionTitle": "Planet Xamarin",
+    "socials": {
+        "sessionize": null,
+        "youtube": null,
+        "mastodon": null,
+        "twitter": "stvansolano",
+        "linkedin": null,
+        "github": "stvansolano"
+    },
+    "tags": null,
+    "bio": "is a passionate software community guy from Costa Rica who enjoys learning, talk and help others to learn C# and Xamarin",
+    "type": "CREATOR",
+    "name": "Esteban Solano",
+    "feeds": [
+        {
+            "type": "AHrefFeedType",
+            "url": "https://stvansolano.github.io/atom.xml"
+        }
+    ],
+    "countryCode": "cr",
+    "channels": [
+        {
+            "url": "https://stvansolano.github.io/",
+            "name": "Site"
+        }
+    ]
+}

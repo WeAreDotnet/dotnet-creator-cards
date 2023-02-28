@@ -1,0 +1,29 @@
+﻿{
+    "slogan": null,
+    "sectionTitle": "Planet Xamarin",
+    "socials": {
+        "sessionize": null,
+        "youtube": null,
+        "mastodon": null,
+        "twitter": "TheCodeTraveler",
+        "linkedin": null,
+        "github": "brminnick"
+    },
+    "tags": null,
+    "bio": "works as a Developer Advocate at Microsoft. Formerly a Customer Success Engineer at Xamarin (before the Microsoft Acquisition), Brandon has a loves helping developers make 5-star apps!",
+    "type": "CREATOR",
+    "name": "Brandon Minnick",
+    "feeds": [
+        {
+            "type": "AHrefFeedType",
+            "url": "https://codetraveler.io/tag/xamarin/rss"
+        }
+    ],
+    "countryCode": "us",
+    "channels": [
+        {
+            "url": "https://codetraveler.io",
+            "name": "Site"
+        }
+    ]
+}

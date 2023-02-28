@@ -1,0 +1,29 @@
+﻿{
+    "slogan": null,
+    "sectionTitle": "Planet Xamarin",
+    "socials": {
+        "sessionize": null,
+        "youtube": null,
+        "mastodon": null,
+        "twitter": "kent_boogaart",
+        "linkedin": null,
+        "github": ""
+    },
+    "tags": null,
+    "bio": "is a freelance software engineer working mainly in the mobile space",
+    "type": "CREATOR",
+    "name": "Kent Boogaart",
+    "feeds": [
+        {
+            "type": "AHrefFeedType",
+            "url": "https://kent-boogaart.com/atom.xml"
+        }
+    ],
+    "countryCode": "au",
+    "channels": [
+        {
+            "url": "https://kent-boogaart.com/",
+            "name": "Site"
+        }
+    ]
+}

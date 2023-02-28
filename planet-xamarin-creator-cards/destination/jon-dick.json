@@ -1,0 +1,29 @@
+﻿{
+    "slogan": null,
+    "sectionTitle": "Planet Xamarin",
+    "socials": {
+        "sessionize": null,
+        "youtube": null,
+        "mastodon": null,
+        "twitter": "redth",
+        "linkedin": null,
+        "github": "redth"
+    },
+    "tags": null,
+    "bio": "",
+    "type": "CREATOR",
+    "name": "Jon Dick",
+    "feeds": [
+        {
+            "type": "AHrefFeedType",
+            "url": "https://redth.codes/feed/"
+        }
+    ],
+    "countryCode": "ca",
+    "channels": [
+        {
+            "url": "https://redth.codes",
+            "name": "Site"
+        }
+    ]
+}

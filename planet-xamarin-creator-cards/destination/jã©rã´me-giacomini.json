@@ -1,0 +1,29 @@
+﻿{
+    "slogan": null,
+    "sectionTitle": "Planet Xamarin",
+    "socials": {
+        "sessionize": null,
+        "youtube": null,
+        "mastodon": null,
+        "twitter": "jeromegiacomini",
+        "linkedin": null,
+        "github": "jgiacomini"
+    },
+    "tags": null,
+    "bio": "is a Xamarin Enthusiast, co-author of a book on Xamarin",
+    "type": "CREATOR",
+    "name": "JÃ©rÃ´me Giacomini",
+    "feeds": [
+        {
+            "type": "AHrefFeedType",
+            "url": "https://jeromegiacomini.net/Blog/feed/"
+        }
+    ],
+    "countryCode": "fr",
+    "channels": [
+        {
+            "url": "https://jeromegiacomini.net/Blog/",
+            "name": "Site"
+        }
+    ]
+}

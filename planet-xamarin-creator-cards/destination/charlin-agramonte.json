@@ -1,0 +1,29 @@
+﻿{
+    "slogan": null,
+    "sectionTitle": "Planet Xamarin",
+    "socials": {
+        "sessionize": null,
+        "youtube": null,
+        "mastodon": null,
+        "twitter": "Chard003",
+        "linkedin": null,
+        "github": "char0394"
+    },
+    "tags": null,
+    "bio": "Software Engineer",
+    "type": "CREATOR",
+    "name": "Charlin Agramonte",
+    "feeds": [
+        {
+            "type": "AHrefFeedType",
+            "url": "https://xamgirl.com/rss"
+        }
+    ],
+    "countryCode": "do",
+    "channels": [
+        {
+            "url": "https://xamgirl.com/",
+            "name": "Site"
+        }
+    ]
+}

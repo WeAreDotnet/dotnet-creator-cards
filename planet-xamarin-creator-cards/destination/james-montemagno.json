@@ -1,0 +1,29 @@
+﻿{
+    "slogan": null,
+    "sectionTitle": "Planet Xamarin",
+    "socials": {
+        "sessionize": null,
+        "youtube": null,
+        "mastodon": null,
+        "twitter": "JamesMontemagno",
+        "linkedin": null,
+        "github": "jamesmontemagno"
+    },
+    "tags": null,
+    "bio": "is a Principal Program Manager for Mobile Developer Tools",
+    "type": "CREATOR",
+    "name": "James Montemagno",
+    "feeds": [
+        {
+            "type": "AHrefFeedType",
+            "url": "https://montemagno.com/rss"
+        }
+    ],
+    "countryCode": "us",
+    "channels": [
+        {
+            "url": "https://montemagno.com",
+            "name": "Site"
+        }
+    ]
+}

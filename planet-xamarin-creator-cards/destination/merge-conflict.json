@@ -1,0 +1,29 @@
+﻿{
+    "slogan": null,
+    "sectionTitle": "Planet Xamarin",
+    "socials": {
+        "sessionize": null,
+        "youtube": null,
+        "mastodon": null,
+        "twitter": "MergeConflictFM",
+        "linkedin": null,
+        "github": ""
+    },
+    "tags": null,
+    "bio": "is a weekly development podcast hosted by Frank Krueger and James Montemagno.",
+    "type": "CREATOR",
+    "name": "Merge Conflict",
+    "feeds": [
+        {
+            "type": "AHrefFeedType",
+            "url": "https://feeds.fireside.fm/mergeconflict/rss"
+        }
+    ],
+    "countryCode": "us",
+    "channels": [
+        {
+            "url": "http://mergeconflict.fm",
+            "name": "Site"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+﻿{
+    "slogan": null,
+    "sectionTitle": "Planet Xamarin",
+    "socials": {
+        "sessionize": null,
+        "youtube": null,
+        "mastodon": null,
+        "twitter": "asfend",
+        "linkedin": null,
+        "github": "asfend"
+    },
+    "tags": null,
+    "bio": "is a Technical Trainer, Author at Udemy and Passionate Community Member as well as Software Engineer",
+    "type": "CREATOR",
+    "name": "Asfend Yar Hamid",
+    "feeds": [
+        {
+            "type": "AHrefFeedType",
+            "url": "https://xamarinui.blogspot.com/feeds/posts/default"
+        }
+    ],
+    "countryCode": "pk",
+    "channels": [
+        {
+            "url": "https://xamarinui.blogspot.com/",
+            "name": "Site"
+        }
+    ]
+}

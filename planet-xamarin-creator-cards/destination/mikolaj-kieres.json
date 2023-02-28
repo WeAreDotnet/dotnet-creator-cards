@@ -1,0 +1,29 @@
+﻿{
+    "slogan": null,
+    "sectionTitle": "Planet Xamarin",
+    "socials": {
+        "sessionize": null,
+        "youtube": null,
+        "mastodon": null,
+        "twitter": "mikolajkieres",
+        "linkedin": null,
+        "github": "mkieres"
+    },
+    "tags": null,
+    "bio": "Mobile development adventurer",
+    "type": "CREATOR",
+    "name": "Mikolaj Kieres",
+    "feeds": [
+        {
+            "type": "AHrefFeedType",
+            "url": "https://progrunning.net/rss/"
+        }
+    ],
+    "countryCode": "au",
+    "channels": [
+        {
+            "url": "https://progrunning.net",
+            "name": "Site"
+        }
+    ]
+}

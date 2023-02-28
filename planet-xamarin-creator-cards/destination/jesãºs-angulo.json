@@ -1,0 +1,33 @@
+﻿{
+    "slogan": null,
+    "sectionTitle": "Planet Xamarin",
+    "socials": {
+        "sessionize": null,
+        "youtube": null,
+        "mastodon": null,
+        "twitter": "jesulink2514",
+        "linkedin": null,
+        "github": "jesulink2514"
+    },
+    "tags": null,
+    "bio": "Microsoft MVP | Certified Xamarin Mobile Developer",
+    "type": "CREATOR",
+    "name": "JesÃºs Angulo",
+    "feeds": [
+        {
+            "type": "AHrefFeedType",
+            "url": "https://somostechies.com/rss/"
+        },
+        {
+            "type": "AHrefFeedType",
+            "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnqaA_ArZIT0nytKMAiurzw"
+        }
+    ],
+    "countryCode": "pe",
+    "channels": [
+        {
+            "url": "https://somostechies.com",
+            "name": "Site"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+﻿{
+    "slogan": null,
+    "sectionTitle": "Planet Xamarin",
+    "socials": {
+        "sessionize": null,
+        "youtube": null,
+        "mastodon": null,
+        "twitter": "DanielMonetelli",
+        "linkedin": null,
+        "github": "danielmonettelli"
+    },
+    "tags": null,
+    "bio": "is a Software Engineer, Videoblogger, Xamarin Mobile Developer \u0026 UI/UX Architect.",
+    "type": "CREATOR",
+    "name": "Daniel Angel Monettelli L.",
+    "feeds": [
+        {
+            "type": "AHrefFeedType",
+            "url": "https://danielmonettelli.github.io/feed.xml"
+        },
+        {
+            "type": "AHrefFeedType",
+            "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTAlbAORoFvAHj7jA4DLSFQ"
+        }
+    ],
+    "countryCode": null,
+    "channels": [
+        {
+            "url": "https://danielmonettelli.github.io",
+            "name": "Site"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+﻿{
+    "slogan": null,
+    "sectionTitle": "Planet Xamarin",
+    "socials": {
+        "sessionize": null,
+        "youtube": null,
+        "mastodon": null,
+        "twitter": "willdotnet",
+        "linkedin": null,
+        "github": "willsb"
+    },
+    "tags": null,
+    "bio": "Microsoft MVP, Blogger, Speaker, Monkey Nights Co-founder/Host and MvvmCross contributor",
+    "type": "CREATOR",
+    "name": "William Barbosa",
+    "feeds": [
+        {
+            "type": "AHrefFeedType",
+            "url": "https://medium.com/feed/@heytherewill"
+        }
+    ],
+    "countryCode": "br",
+    "channels": [
+        {
+            "url": "https://willsb.github.io",
+            "name": "Site"
+        }
+    ]
+}

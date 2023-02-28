@@ -1,0 +1,29 @@
+﻿{
+    "slogan": null,
+    "sectionTitle": "Planet Xamarin",
+    "socials": {
+        "sessionize": null,
+        "youtube": null,
+        "mastodon": null,
+        "twitter": "rid00z",
+        "linkedin": null,
+        "github": "rid00z"
+    },
+    "tags": null,
+    "bio": "Xamarin Contractor/Consultant | Founder XAM Consulting (xam-consulting.com) | Creator of FreshMvvm",
+    "type": "CREATOR",
+    "name": "Michael Ridland",
+    "feeds": [
+        {
+            "type": "AHrefFeedType",
+            "url": "https://michaelridland.com/feed/"
+        }
+    ],
+    "countryCode": "au",
+    "channels": [
+        {
+            "url": "https://michaelridland.com",
+            "name": "Site"
+        }
+    ]
+}

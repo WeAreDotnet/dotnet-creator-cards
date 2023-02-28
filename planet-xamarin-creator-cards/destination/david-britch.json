@@ -1,0 +1,29 @@
+﻿{
+    "slogan": null,
+    "sectionTitle": "Planet Xamarin",
+    "socials": {
+        "sessionize": null,
+        "youtube": null,
+        "mastodon": null,
+        "twitter": "britchdavid",
+        "linkedin": null,
+        "github": "davidbritch"
+    },
+    "tags": null,
+    "bio": "",
+    "type": "CREATOR",
+    "name": "David Britch",
+    "feeds": [
+        {
+            "type": "AHrefFeedType",
+            "url": "https://www.davidbritch.com/rss.xml"
+        }
+    ],
+    "countryCode": "gb",
+    "channels": [
+        {
+            "url": "https://www.davidbritch.com",
+            "name": "Site"
+        }
+    ]
+}

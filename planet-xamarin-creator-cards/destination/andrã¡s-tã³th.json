@@ -1,0 +1,29 @@
+﻿{
+    "slogan": null,
+    "sectionTitle": "Planet Xamarin",
+    "socials": {
+        "sessionize": null,
+        "youtube": null,
+        "mastodon": null,
+        "twitter": "",
+        "linkedin": null,
+        "github": "banditoth"
+    },
+    "tags": null,
+    "bio": "also known as banditoth | Xamarin \u0026\u0026 C# .NET developer from Hungary.",
+    "type": "CREATOR",
+    "name": "AndrÃ¡s TÃ³th",
+    "feeds": [
+        {
+            "type": "AHrefFeedType",
+            "url": "https://www.banditoth.hu/feed/"
+        }
+    ],
+    "countryCode": "hu",
+    "channels": [
+        {
+            "url": "https://www.banditoth.hu",
+            "name": "Site"
+        }
+    ]
+}

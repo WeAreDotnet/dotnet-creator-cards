@@ -1,0 +1,29 @@
+﻿{
+    "slogan": null,
+    "sectionTitle": "Planet Xamarin",
+    "socials": {
+        "sessionize": null,
+        "youtube": null,
+        "mastodon": null,
+        "twitter": "rdavis_au",
+        "linkedin": null,
+        "github": "rdavisau"
+    },
+    "tags": null,
+    "bio": "knows how to ðŸŽ‰",
+    "type": "CREATOR",
+    "name": "Ryan Davis",
+    "feeds": [
+        {
+            "type": "AHrefFeedType",
+            "url": "https://ryandavis.io/rss/"
+        }
+    ],
+    "countryCode": "au",
+    "channels": [
+        {
+            "url": "https://ryandavis.io",
+            "name": "Site"
+        }
+    ]
+}

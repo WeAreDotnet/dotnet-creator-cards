@@ -1,0 +1,33 @@
+﻿{
+    "slogan": null,
+    "sectionTitle": "Planet Xamarin",
+    "socials": {
+        "sessionize": null,
+        "youtube": null,
+        "mastodon": null,
+        "twitter": "ezborovsky",
+        "linkedin": null,
+        "github": "yuv4ik"
+    },
+    "tags": null,
+    "bio": "blogs, speaks, helps others and is an enthusiastic Xamarin developer.",
+    "type": "CREATOR",
+    "name": "Evgeny Zborovsky",
+    "feeds": [
+        {
+            "type": "AHrefFeedType",
+            "url": "https://evgenyzborovsky.com/tag/xamarin-forms/feed/"
+        },
+        {
+            "type": "AHrefFeedType",
+            "url": "https://evgenyzborovsky.com/tag/xamarin/feed/"
+        }
+    ],
+    "countryCode": "ee",
+    "channels": [
+        {
+            "url": "https://evgenyzborovsky.com/",
+            "name": "Site"
+        }
+    ]
+}

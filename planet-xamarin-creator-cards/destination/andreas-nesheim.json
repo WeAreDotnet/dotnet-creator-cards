@@ -1,0 +1,29 @@
+﻿{
+    "slogan": null,
+    "sectionTitle": "Planet Xamarin",
+    "socials": {
+        "sessionize": null,
+        "youtube": null,
+        "mastodon": null,
+        "twitter": "AndreasNesheim",
+        "linkedin": null,
+        "github": "andreas-nesheim"
+    },
+    "tags": null,
+    "bio": ".NET developer with a passion for Xamarin, Azure DevOps and .NET Core.",
+    "type": "CREATOR",
+    "name": "Andreas Nesheim",
+    "feeds": [
+        {
+            "type": "AHrefFeedType",
+            "url": "https://andreasnesheim.no/feed"
+        }
+    ],
+    "countryCode": "no",
+    "channels": [
+        {
+            "url": "https://www.andreasnesheim.no/",
+            "name": "Site"
+        }
+    ]
+}

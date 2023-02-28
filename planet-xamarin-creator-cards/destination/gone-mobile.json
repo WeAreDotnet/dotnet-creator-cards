@@ -1,0 +1,29 @@
+﻿{
+    "slogan": null,
+    "sectionTitle": "Planet Xamarin",
+    "socials": {
+        "sessionize": null,
+        "youtube": null,
+        "mastodon": null,
+        "twitter": "gonemobilecast",
+        "linkedin": null,
+        "github": ""
+    },
+    "tags": null,
+    "bio": "is a development podcast focused on mobile development hosted by Jon Dick and Greg Shackles.",
+    "type": "CREATOR",
+    "name": "Gone Mobile",
+    "feeds": [
+        {
+            "type": "AHrefFeedType",
+            "url": "https://feed.gonemobile.io/"
+        }
+    ],
+    "countryCode": "internet",
+    "channels": [
+        {
+            "url": "http://gonemobile.io",
+            "name": "Site"
+        }
+    ]
+}

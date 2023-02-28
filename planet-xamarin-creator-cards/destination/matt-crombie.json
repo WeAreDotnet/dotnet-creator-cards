@@ -1,0 +1,29 @@
+﻿{
+    "slogan": null,
+    "sectionTitle": "Planet Xamarin",
+    "socials": {
+        "sessionize": null,
+        "youtube": null,
+        "mastodon": null,
+        "twitter": "xamarinhowto",
+        "linkedin": null,
+        "github": "xamarinhowto"
+    },
+    "tags": null,
+    "bio": "Senior Xamarin Mobile Consultant/Architect",
+    "type": "CREATOR",
+    "name": "Matt Crombie",
+    "feeds": [
+        {
+            "type": "AHrefFeedType",
+            "url": "https://xamarinhowto.com/feed/"
+        }
+    ],
+    "countryCode": "au",
+    "channels": [
+        {
+            "url": "https://xamarinhowto.com/",
+            "name": "Site"
+        }
+    ]
+}

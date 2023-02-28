@@ -1,0 +1,29 @@
+﻿{
+    "slogan": null,
+    "sectionTitle": "Planet Xamarin",
+    "socials": {
+        "sessionize": null,
+        "youtube": null,
+        "mastodon": null,
+        "twitter": "_jondouglas",
+        "linkedin": null,
+        "github": "JonDouglas"
+    },
+    "tags": null,
+    "bio": "",
+    "type": "CREATOR",
+    "name": "Jon Douglas",
+    "feeds": [
+        {
+            "type": "AHrefFeedType",
+            "url": "https://www.jon-douglas.com/atom.xml"
+        }
+    ],
+    "countryCode": "us",
+    "channels": [
+        {
+            "url": "https://www.jon-douglas.com/",
+            "name": "Site"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+﻿{
+    "slogan": null,
+    "sectionTitle": "Planet Xamarin",
+    "socials": {
+        "sessionize": null,
+        "youtube": null,
+        "mastodon": null,
+        "twitter": "Syncfusion",
+        "linkedin": null,
+        "github": "syncfusion"
+    },
+    "tags": null,
+    "bio": "Syncfusion provides the best third-party UI components for Xamarin, Xamarin.Android and Xamarin.iOS",
+    "type": "CREATOR",
+    "name": "Syncfusion ",
+    "feeds": [
+        {
+            "type": "AHrefFeedType",
+            "url": "https://www.syncfusion.com/blogs/feed"
+        }
+    ],
+    "countryCode": "us",
+    "channels": [
+        {
+            "url": "https://www.syncfusion.com/xamarin-ui-controls",
+            "name": "Site"
+        }
+    ]
+}

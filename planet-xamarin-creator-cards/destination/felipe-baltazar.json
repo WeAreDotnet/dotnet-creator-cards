@@ -1,0 +1,29 @@
+﻿{
+    "slogan": null,
+    "sectionTitle": "Planet Xamarin",
+    "socials": {
+        "sessionize": null,
+        "youtube": null,
+        "mastodon": null,
+        "twitter": "FelippeBaltazar",
+        "linkedin": null,
+        "github": "felipebaltazar"
+    },
+    "tags": null,
+    "bio": "Xamarin ðŸ’, ApnetCore ðŸŒ, Windows ðŸ’», Nerd ðŸ¤“, Gamer ðŸŽ® and Father ðŸ‘¨â€ðŸ‘©â€ðŸ‘¦",
+    "type": "CREATOR",
+    "name": "Felipe Baltazar",
+    "feeds": [
+        {
+            "type": "AHrefFeedType",
+            "url": "https://medium.com/feed/@felipedasilvabaltazar"
+        }
+    ],
+    "countryCode": "br",
+    "channels": [
+        {
+            "url": "https://medium.com/@felipedasilvabaltazar",
+            "name": "Site"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+﻿{
+    "slogan": null,
+    "sectionTitle": "Planet Xamarin",
+    "socials": {
+        "sessionize": null,
+        "youtube": null,
+        "mastodon": null,
+        "twitter": "Damien_Doumer",
+        "linkedin": null,
+        "github": "damiendoumer"
+    },
+    "tags": null,
+    "bio": "Fresh .Net developer, who loves mobile app development.",
+    "type": "CREATOR",
+    "name": "Damien Doumer",
+    "feeds": [
+        {
+            "type": "AHrefFeedType",
+            "url": "https://doumer.me/feed/"
+        }
+    ],
+    "countryCode": "cm",
+    "channels": [
+        {
+            "url": "https://doumer.me/",
+            "name": "Site"
+        }
+    ]
+}

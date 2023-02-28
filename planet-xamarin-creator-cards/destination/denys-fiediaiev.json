@@ -1,0 +1,29 @@
+﻿{
+    "slogan": null,
+    "sectionTitle": "Planet Xamarin",
+    "socials": {
+        "sessionize": null,
+        "youtube": null,
+        "mastodon": null,
+        "twitter": "sbytedev",
+        "linkedin": null,
+        "github": "Prin53"
+    },
+    "tags": null,
+    "bio": "is a mobile developer specializing in Xamarin technology",
+    "type": "CREATOR",
+    "name": "Denys Fiediaiev",
+    "feeds": [
+        {
+            "type": "AHrefFeedType",
+            "url": "https://medium.com/feed/@prin53"
+        }
+    ],
+    "countryCode": "ua",
+    "channels": [
+        {
+            "url": "https://medium.com/@prin53",
+            "name": "Site"
+        }
+    ]
+}

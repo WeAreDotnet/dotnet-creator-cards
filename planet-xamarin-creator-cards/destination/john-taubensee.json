@@ -1,0 +1,29 @@
+﻿{
+    "slogan": null,
+    "sectionTitle": "Planet Xamarin",
+    "socials": {
+        "sessionize": null,
+        "youtube": null,
+        "mastodon": null,
+        "twitter": "jtaubensee",
+        "linkedin": null,
+        "github": "jtaubensee"
+    },
+    "tags": null,
+    "bio": "is a developer focused on Microsoft technologies. Microsoft Azure alumni",
+    "type": "CREATOR",
+    "name": "John Taubensee",
+    "feeds": [
+        {
+            "type": "AHrefFeedType",
+            "url": "https://taubensee.net/rss"
+        }
+    ],
+    "countryCode": "us",
+    "channels": [
+        {
+            "url": "https://taubensee.net",
+            "name": "Site"
+        }
+    ]
+}

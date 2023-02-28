@@ -1,0 +1,29 @@
+﻿{
+    "slogan": null,
+    "sectionTitle": "Planet Xamarin",
+    "socials": {
+        "sessionize": null,
+        "youtube": null,
+        "mastodon": null,
+        "twitter": "GiampaoloTUCCI",
+        "linkedin": null,
+        "github": "gptucci"
+    },
+    "tags": null,
+    "bio": "L\u0027IT come non l\u0027avete mai letta",
+    "type": "CREATOR",
+    "name": "Giampaolo Tucci",
+    "feeds": [
+        {
+            "type": "AHrefFeedType",
+            "url": "https://www.informaticapressapochista.com/it/?format=feed\u0026type=rss"
+        }
+    ],
+    "countryCode": "it",
+    "channels": [
+        {
+            "url": "https://www.informaticapressapochista.com/it",
+            "name": "Site"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+﻿{
+    "slogan": null,
+    "sectionTitle": "Planet Xamarin",
+    "socials": {
+        "sessionize": null,
+        "youtube": null,
+        "mastodon": null,
+        "twitter": "rdelrosario",
+        "linkedin": null,
+        "github": "rdelrosario"
+    },
+    "tags": null,
+    "bio": "is a senior software developer with a passion for mobile development using Xamarin platform",
+    "type": "CREATOR",
+    "name": "Rendy Del Rosario",
+    "feeds": [
+        {
+            "type": "AHrefFeedType",
+            "url": "https://xamboy.com/rss"
+        }
+    ],
+    "countryCode": "do",
+    "channels": [
+        {
+            "url": "https://xamboy.com/",
+            "name": "Site"
+        }
+    ]
+}
