@@ -1,0 +1,29 @@
+﻿{
+  "name": "Michiel Sioen",
+  "sectionTitle": null,
+  "countryCode": "be",
+  "slogan": "",
+  "type": "CREATOR",
+  "bio": "Tech enthusiast, developer, geek. Competencce Center Lead .NET at ACA Group.",
+  "tags": ".NET, Azure",
+  "socials": {
+    "youtube": "",
+    "linkedin": "https://www.linkedin.com/in/michielsioen",
+    "twitter": "https://twitter.com/MichielSioen",
+    "github": "https://github.com/msioen",
+    "mastodon": "",
+    "sessionize": ""
+  },
+  "channels": [
+    {
+      "name": "Blog",
+      "url": "https://michielsioen.be"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "LinkTagRssType",
+      "url": "https://michielsioen.be/feed.xml"
+    }
+  ]
+}
