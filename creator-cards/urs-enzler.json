@@ -1,0 +1,29 @@
+{
+  "name": "Urs Enzler",
+  "sectionTitle": null,
+  "countryCode": "ch",
+  "slogan": "More awesome maker",
+  "type": "CREATOR",
+  "bio": "",
+  "tags": "F#, Architecture, TDD",
+  "socials": {
+    "youtube": "",
+    "linkedin": "https://www.linkedin.com/in/ursenzler/",
+    "twitter": "https://twitter.com/ursenzler",
+    "github": "https://github.com/ursenzler",
+    "mastodon": "https://tooting.ch/@UrsEnzler",
+    "sessionize": "https://sessionize.com/urs-enzler"
+  },
+  "channels": [
+    {
+      "name": "Blog",
+      "url": "https://www.planetgeek.ch/"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.planetgeek.ch/feed/"
+    }
+  ]
+}
