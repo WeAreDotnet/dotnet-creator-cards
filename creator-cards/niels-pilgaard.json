@@ -2,16 +2,16 @@
   "name": "Niels Pilgaard",
   "sectionTitle": null,
   "countryCode": "dk",
-  "slogan": "",
+  "slogan": "Passionate about learning and growing as a developer.",
   "type": "CREATOR",
-  "bio": "",
+  "bio": "I'm a C# developer, focused mostly on backend and automation. I particularly enjoy performance work, RabbitMQ and exploring new topics.",
   "tags": "Blazor, C#, Azure",
   "socials": {
     "youtube": "",
-    "linkedin": "",
+    "linkedin": "https://www.linkedin.com/in/niels-pilgaard/",
     "twitter": "https://twitter.com/Niels_Pilgaard",
-    "github": "",
-    "mastodon": "",
+    "github": "https://github.com/NielsPilgaard",
+    "mastodon": "@NielsPilgaard@hachyderm.io",
     "sessionize": ""
   },
   "channels": [
