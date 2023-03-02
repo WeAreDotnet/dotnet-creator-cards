@@ -2,22 +2,26 @@
   "name": "Claudio Bernasconi",
   "sectionTitle": null,
   "countryCode": "ch",
-  "slogan": "",
+  "slogan": "Not only writes code, but solves problems.",
   "type": "CREATOR",
   "bio": "",
-  "tags": ".NET, .NET MAUI",
+  "tags": ".NET, Blazor, C#, Azure",
   "socials": {
     "youtube": "https://youtube.com/claudiobernasconi",
-    "linkedin": "",
+    "linkedin": "https://www.linkedin.com/pub/claudio-bernasconi/65/69/5ab/",
     "twitter": "https://twitter.com/CHBernasconiC",
-    "github": "",
-    "mastodon": "",
+    "github": "https://github.com/claudiobernasconi",
+    "mastodon": "https://indieweb.social/@bernasconi",
     "sessionize": ""
   },
   "channels": [
     {
       "name": "Blog",
       "url": "https://www.claudiobernasconi.ch/"
+    }, 
+    {
+      "name": "YouTube",
+      "url": "https://youtube.com/claudiobernasconi"
     }
   ],
   "feeds": [
@@ -28,10 +32,6 @@
     {
       "type": "LinkTagRssType",
       "url": "https://www.claudiobernasconi.ch/feed/"
-    },
-    {
-      "type": "LinkTagRssType",
-      "url": "https://www.claudiobernasconi.ch/comments/feed/"
     }
   ]
 }
