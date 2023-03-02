@@ -4,15 +4,15 @@
   "countryCode": "gb",
   "slogan": "",
   "type": "CREATOR",
-  "bio": "",
-  "tags": ".NET, C#, Mobile",
+  "bio": ".NET Mobile and Bluetooth developer | Microsoft MVP since 2003",
+  "tags": ".NET, C#, Mobile, Bluetooth",
   "socials": {
     "youtube": "",
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/in/pfoot",
     "twitter": "https://twitter.com/peterfoot",
     "github": "https://github.com/peterfoot",
-    "mastodon": "",
-    "sessionize": ""
+    "mastodon": "https://mastodon.online/@peterfoot",
+    "sessionize": "https://sessionize.com/peterfoot"
   },
   "channels": [
     {
@@ -24,10 +24,6 @@
     {
       "type": "LinkTagRssType",
       "url": "https://inthehand.com/feed/"
-    },
-    {
-      "type": "LinkTagRssType",
-      "url": "https://inthehand.com/comments/feed/"
     }
   ]
 }
