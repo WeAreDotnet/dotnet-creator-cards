@@ -2,17 +2,17 @@
   "name": "David Pine",
   "sectionTitle": null,
   "countryCode": "us",
-  "slogan": "",
+  "slogan": "Changing the world, one line of code at a time.",
   "type": "CREATOR",
-  "bio": "",
-  "tags": "Blazor",
+  "bio": "Published Author, Google Developer Expert, Twilio Champion, International Speaker, Open-Source Developer",
+  "tags": ".NET, C#, Blazor",
   "socials": {
-    "youtube": "",
-    "linkedin": "",
+    "youtube": "https://www.youtube.com/user/davidpine7",
+    "linkedin": "https://www.linkedin.com/in/dpine",
     "twitter": "https://twitter.com/davidpine7",
-    "github": "",
-    "mastodon": "https://fosstodon.org/@davidpine@dotnet.social",
-    "sessionize": ""
+    "github": "https://github.com/IEvangelist",
+    "mastodon": "https://dotnet.social/@davidpine",
+    "sessionize": "https://sessionize.com/davidpine"
   },
   "channels": [
     {
@@ -22,7 +22,15 @@
     {
       "name": "Learning Blazor (Book)",
       "url": "https://bit.ly/learning-blazor"
-    }
+    },
+    {
+      "name": "dev.to",
+      "url": "https://dev.to/ievangelist"
   ],
-  "feeds": []
+  "feeds": [
+      {
+      "type": "LinkTagRssType",
+      "url": "https://davidpine.net/index.xml"
+    },
+  ]
 }
