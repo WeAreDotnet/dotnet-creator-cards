@@ -8,17 +8,13 @@
   "tags": ".NET, C#",
   "socials": {
     "youtube": "",
-    "linkedin": "",
-    "twitter": "",
-    "github": "",
+    "linkedin": "https://www.linkedin.com/in/calebcwells/",
+    "twitter": "https://twitter.com/calebwellscodes",
+    "github": "https://github.com/calebcwells",
     "mastodon": "",
     "sessionize": ""
   },
   "channels": [
-    {
-      "name": "Twiter",
-      "url": "https://twitter.com/calebwellscodes"
-    },
     {
       "name": "Podcast",
       "url": "https://topenddevs.com/podcasts/adventures-in-net"
