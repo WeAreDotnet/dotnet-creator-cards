@@ -31,3 +31,5 @@
 * If you have a self-hosted blog, please ensure you have a valid HTTPS certificate. 
 
 * We host NO malicious or offensive content on the blog (including photos, swearing, etc.)
+
+* You must add the full URL to your GitHub profile to your card, so we can assign it to the member account that used the same GitHub account for sign-up.
