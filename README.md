@@ -6,6 +6,8 @@ If you write about .NET or create .NET-related content, we are happy to have you
 
 We would love to add your content. Just make sure to follow our [Code of Conduct](https://github.com/wearedotnet/dotnet-creator-cards/blob/master/CODE_OF_CONDUCT.md)
 
+You must add the full URL to your GitHub profile to your card, so we can assign it to the member account that used the same GitHub account for sign-up.
+
 ## What Are Creators?
 By creators, we mean enthusiasts who create content for Blogs, YouTube, Twitch, Books, and tutorial platforms (e.g. Pluralsight). The content can be free or paid.
 
