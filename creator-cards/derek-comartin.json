@@ -10,7 +10,7 @@
     "youtube": "https://www.youtube.com/channel/UC3RKA4vunFAfrfxiJhPEplw",
     "linkedin": "https://www.linkedin.com/in/dcomartin/",
     "twitter": "https://twitter.com/codeopinion",
-    "github": "",
+    "github": "https://github.com/dcomartin",
     "mastodon": "",
     "sessionize": ""
   },
@@ -28,10 +28,6 @@
     {
       "type": "LinkTagRssType",
       "url": "https://codeopinion.com/feed/"
-    },
-    {
-      "type": "LinkTagRssType",
-      "url": "https://codeopinion.com/comments/feed/"
     }
   ]
 }

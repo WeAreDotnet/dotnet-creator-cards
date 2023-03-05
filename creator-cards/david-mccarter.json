@@ -10,7 +10,7 @@
     "youtube": "",
     "linkedin": "",
     "twitter": "https://twitter.com/realDotNetDave",
-    "github": "",
+    "github": "https://github.com/RealDotNetDave",
     "mastodon": "",
     "sessionize": ""
   },
@@ -28,10 +28,6 @@
     {
       "type": "LinkTagRssType",
       "url": "https://dotnettips.wordpress.com/feed/"
-    },
-    {
-      "type": "LinkTagRssType",
-      "url": "https://dotnettips.wordpress.com/comments/feed/"
     }
   ]
 }
