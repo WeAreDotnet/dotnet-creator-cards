@@ -10,7 +10,7 @@
     "youtube": "",
     "linkedin": "",
     "twitter": "https://twitter.com/damien_bod",
-    "github": "",
+    "github": "https://github.com/damienbod",
     "mastodon": "",
     "sessionize": ""
   },
@@ -24,10 +24,6 @@
     {
       "type": "LinkTagRssType",
       "url": "https://damienbod.com/feed/"
-    },
-    {
-      "type": "LinkTagRssType",
-      "url": "https://damienbod.com/comments/feed/"
     }
   ]
 }

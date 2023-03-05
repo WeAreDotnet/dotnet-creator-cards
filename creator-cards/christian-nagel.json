@@ -10,7 +10,7 @@
     "youtube": "",
     "linkedin": "",
     "twitter": "https://twitter.com/ChristianNagel",
-    "github": "",
+    "github": "https://github.com/christiannagel",
     "mastodon": "",
     "sessionize": ""
   },
@@ -24,10 +24,6 @@
     {
       "type": "LinkTagRssType",
       "url": "https://csharp.christiannagel.com/feed/"
-    },
-    {
-      "type": "LinkTagRssType",
-      "url": "https://csharp.christiannagel.com/comments/feed/"
     }
   ]
 }

@@ -16,10 +16,6 @@
   },
   "channels": [
     {
-      "name": "Github",
-      "url": "https://github.com/CarlSargunar"
-    },
-    {
       "name": "Twitch",
       "url": "https://www.twitch.tv/carlcod_es"
     },
