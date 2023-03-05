@@ -10,7 +10,7 @@
     "youtube": "",
     "linkedin": "",
     "twitter": "https://twitter.com/erwin_staal",
-    "github": "",
+    "github": "https://github.com/staal-it",
     "mastodon": "",
     "sessionize": ""
   },
@@ -21,10 +21,6 @@
     }
   ],
   "feeds": [
-    {
-      "type": "LinkTagRssType",
-      "url": "https://erwinstaal.nl/index.xml"
-    },
     {
       "type": "LinkTagRssType",
       "url": "https://erwinstaal.nl/index.xml"

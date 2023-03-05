@@ -10,7 +10,7 @@
     "youtube": "https://www.youtube.com/c/FrankLiuSoftware/",
     "linkedin": "",
     "twitter": "https://twitter.com/frankliucs",
-    "github": "",
+    "github": "https://github.com/frank-liu-toronto",
     "mastodon": "",
     "sessionize": ""
   },
@@ -32,10 +32,6 @@
     {
       "type": "LinkTagRssType",
       "url": "https://frankliucs.com/feed/"
-    },
-    {
-      "type": "LinkTagRssType",
-      "url": "https://frankliucs.com/comments/feed/"
     }
   ]
 }
