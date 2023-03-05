@@ -10,7 +10,7 @@
     "youtube": "https://www.youtube.com/c/binarythistle",
     "linkedin": "",
     "twitter": "https://twitter.com/binarythistle",
-    "github": "",
+    "github": "https://github.com/binarythistle",
     "mastodon": "",
     "sessionize": ""
   },
@@ -32,10 +32,6 @@
     {
       "type": "LinkTagRssType",
       "url": "https://dotnetplaybook.com/feed/"
-    },
-    {
-      "type": "LinkTagRssType",
-      "url": "https://dotnetplaybook.com/comments/feed/"
     }
   ]
 }

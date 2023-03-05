@@ -10,7 +10,7 @@
     "youtube": "",
     "linkedin": "https://www.linkedin.com/in/leomaris-reyes-1b598661",
     "twitter": "https://twitter.com/leomarisreyes11",
-    "github": "",
+    "github": "https://github.com/LeomarisReyes",
     "mastodon": "",
     "sessionize": ""
   },
@@ -28,10 +28,6 @@
     {
       "type": "LinkTagRssType",
       "url": "https://askxammy.com/feed/"
-    },
-    {
-      "type": "LinkTagRssType",
-      "url": "https://askxammy.com/comments/feed/"
     }
   ]
 }

@@ -10,7 +10,7 @@
     "youtube": "https://www.youtube.com/@LeeRichardson200/",
     "linkedin": "https://www.linkedin.com/in/leerichardson/",
     "twitter": "https://twitter.com/lprichar",
-    "github": "",
+    "github": "https://github.com/lprichar",
     "mastodon": "",
     "sessionize": ""
   },
@@ -24,14 +24,6 @@
     {
       "type": "LinkTagAtomType",
       "url": "http://www.leerichardson.com/feeds/posts/default"
-    },
-    {
-      "type": "LinkTagRssType",
-      "url": "http://www.leerichardson.com/feeds/posts/default?alt=rss"
-    },
-    {
-      "type": "LinkTagAtomType",
-      "url": "https://www.blogger.com/feeds/6393051114813114443/posts/default"
     },
     {
       "type": "LinkTagRssType",

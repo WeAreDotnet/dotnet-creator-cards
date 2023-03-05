@@ -10,7 +10,7 @@
     "youtube": "",
     "linkedin": "",
     "twitter": "https://twitter.com/lioncoding",
-    "github": "",
+    "github": "https://github.com/egbakou",
     "mastodon": "",
     "sessionize": ""
   },
@@ -23,10 +23,6 @@
   "feeds": [
     {
       "type": "LinkTagRssType",
-      "url": "https://lioncoding.com/rss.xml"
-    },
-    {
-      "type": "AHrefFeedType",
       "url": "https://lioncoding.com/rss.xml"
     }
   ]
