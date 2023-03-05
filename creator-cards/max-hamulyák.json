@@ -2,15 +2,15 @@
   "name": "Max Hamulyák",
   "sectionTitle": null,
   "countryCode": "nl",
-  "slogan": "",
+  "slogan": "Building a solid solution is more important than the technology used",
   "type": "CREATOR",
-  "bio": "",
+  "bio": "Hi, my name is Max; I started blogging to share ideas and solutions to problems I encountered",
   "tags": ".NET, C#",
   "socials": {
     "youtube": "",
     "linkedin": "https://www.linkedin.com/in/maxhamulyak/",
     "twitter": "https://twitter.com/kaylumah",
-    "github": "",
+    "github": "https://github.com/kaylumah",
     "mastodon": "https://fosstodon.org/@kaylumah@mastodon.nl",
     "sessionize": ""
   },
