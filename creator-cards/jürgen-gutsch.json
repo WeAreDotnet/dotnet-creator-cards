@@ -10,7 +10,7 @@
     "youtube": "",
     "linkedin": "",
     "twitter": "https://twitter.com/sharpcms/",
-    "github": "",
+    "github": "https://github.com/JuergenGutsch",
     "mastodon": "",
     "sessionize": ""
   },
@@ -24,10 +24,6 @@
     {
       "type": "LinkTagRssType",
       "url": "https://asp.net-hacker.rocks/rss.xml"
-    },
-    {
-      "type": "LinkTagAtomType",
-      "url": "https://asp.net-hacker.rocks/atom.xml"
     }
   ]
 }

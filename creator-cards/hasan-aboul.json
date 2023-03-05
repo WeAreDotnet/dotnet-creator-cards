@@ -10,7 +10,7 @@
     "youtube": "https://www.youtube.com/c/heducate",
     "linkedin": "",
     "twitter": "https://twitter.com/h_educate",
-    "github": "",
+    "github": "https://github.com/hassancs91",
     "mastodon": "",
     "sessionize": ""
   },
@@ -32,10 +32,6 @@
     {
       "type": "LinkTagRssType",
       "url": "https://learnwithhasan.com/feed/"
-    },
-    {
-      "type": "LinkTagRssType",
-      "url": "https://learnwithhasan.com/comments/feed/"
     }
   ]
 }

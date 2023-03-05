@@ -10,7 +10,7 @@
     "youtube": "",
     "linkedin": "https://www.linkedin.com/in/jeremybrunpicard/",
     "twitter": "https://twitter.com/jbrunpicard",
-    "github": "",
+    "github": "https://github.com/JeremyBP",
     "mastodon": "",
     "sessionize": ""
   },
@@ -21,14 +21,6 @@
     }
   ],
   "feeds": [
-    {
-      "type": "LinkTagRssType",
-      "url": "https://www.respawnsive.com/en/feed/"
-    },
-    {
-      "type": "LinkTagRssType",
-      "url": "https://www.respawnsive.com/en/comments/feed/"
-    },
     {
       "type": "LinkTagRssType",
       "url": "https://www.respawnsive.com/en/author/jeremy-brunpicardrespawnsive-com/feed/"

@@ -10,7 +10,7 @@
     "youtube": "",
     "linkedin": "",
     "twitter": "https://twitter.com/thereformedprog",
-    "github": "",
+    "github": "https://github.com/JonPSmith",
     "mastodon": "",
     "sessionize": ""
   },
@@ -24,10 +24,6 @@
     {
       "type": "LinkTagRssType",
       "url": "https://www.thereformedprogrammer.net/feed/"
-    },
-    {
-      "type": "LinkTagRssType",
-      "url": "https://www.thereformedprogrammer.net/comments/feed/"
     }
   ]
 }

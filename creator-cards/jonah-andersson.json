@@ -10,7 +10,7 @@
     "youtube": "",
     "linkedin": "",
     "twitter": "https://twitter.com/cjkodare",
-    "github": "",
+    "github": "https://github.com/jonahandersson",
     "mastodon": "",
     "sessionize": ""
   },
@@ -28,10 +28,6 @@
     {
       "type": "LinkTagRssType",
       "url": "https://jonahandersson.tech/feed/"
-    },
-    {
-      "type": "LinkTagRssType",
-      "url": "https://jonahandersson.tech/comments/feed/"
     }
   ]
 }

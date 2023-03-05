@@ -10,7 +10,7 @@
     "youtube": "https://www.youtube.com/c/CodingMilitia",
     "linkedin": "https://www.linkedin.com/in/joaofbantunes/",
     "twitter": "https://twitter.com/joaofbantunes",
-    "github": "",
+    "github": "https://github.com/joaofbantunes",
     "mastodon": "https://mastodon.social/@joaofbantunes",
     "sessionize": ""
   },
@@ -27,14 +27,6 @@
     },
     {
       "type": "LinkTagRssType",
-      "url": "https://blog.codingmilitia.com/feed.xml"
-    },
-    {
-      "type": "LinkTagRssType",
-      "url": "https://blog.codingmilitia.com/feed.xml"
-    },
-    {
-      "type": "AHrefFeedType",
       "url": "https://blog.codingmilitia.com/feed.xml"
     }
   ]

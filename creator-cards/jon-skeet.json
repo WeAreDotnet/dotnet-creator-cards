@@ -10,7 +10,7 @@
     "youtube": "",
     "linkedin": "",
     "twitter": "https://twitter.com/jonskeet",
-    "github": "",
+    "github": "https://github.com/jskeet/",
     "mastodon": "",
     "sessionize": ""
   },
@@ -32,10 +32,6 @@
     {
       "type": "LinkTagRssType",
       "url": "https://codeblog.jonskeet.uk/feed/"
-    },
-    {
-      "type": "LinkTagRssType",
-      "url": "https://codeblog.jonskeet.uk/comments/feed/"
     }
   ]
 }

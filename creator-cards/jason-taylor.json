@@ -10,7 +10,7 @@
     "youtube": "",
     "linkedin": "https://www.linkedin.com/in/jasontaylordev/",
     "twitter": "https://twitter.com/jasontaylordev",
-    "github": "",
+    "github": "https://github.com/jasontaylordev",
     "mastodon": "",
     "sessionize": ""
   },
@@ -24,10 +24,6 @@
     {
       "type": "LinkTagRssType",
       "url": "https://jasontaylor.dev/feed/"
-    },
-    {
-      "type": "LinkTagRssType",
-      "url": "https://jasontaylor.dev/comments/feed/"
     }
   ]
 }

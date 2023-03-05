@@ -24,10 +24,6 @@
     {
       "type": "LinkTagRssType",
       "url": "https://irina.codes/feed/"
-    },
-    {
-      "type": "LinkTagRssType",
-      "url": "https://irina.codes/comments/feed/"
     }
   ]
 }
