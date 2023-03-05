@@ -24,10 +24,6 @@
     {
       "type": "LinkTagRssType",
       "url": "https://code-maze.com/feed/"
-    },
-    {
-      "type": "LinkTagRssType",
-      "url": "https://code-maze.com/comments/feed/"
     }
   ]
 }
