@@ -1,0 +1,35 @@
+{
+  "name": "Rob Mensching",
+  "sectionTitle": null,
+  "countryCode": "us",
+  "slogan": "Setup isn't just xcopy",
+  "type": "CREATOR",
+  "bio": "FireGiant CEO & Benevolent Dictator of WiX Toolset. Software installation expert with 25 years of experience.",
+  "tags": ".NET, MSI, MSIX, WiX, Setup",
+  "socials": {
+    "youtube": "https://www.youtube.com/channel/UCLBM1zrUGaCB-LnnCdUHdyA",
+    "linkedin": "https://www.linkedin.com/in/robmen/",
+    "twitter": "https://twitter.com/robmen",
+    "github": "https://github.com/robmen",
+    "mastodon": "https://hachyderm.io/@robmen",
+    "sessionize": ""
+  },
+  "channels": [
+    {
+      "name": "Blog",
+      "url": "https://robmensching.com/blog/"
+    },
+    {
+      "name": "Deployment Dojo",
+      "url": "https://youtube.com/playlist?list=PLDlzbQXIs18slmqmdlS10_de_Cps-QRg6"
+    },
+    {
+      "name": "Let's Code a Full 90 with Rob Mensching",
+      "url": "https://youtube.com/playlist?list=PLDlzbQXIs18uIbe4TgYi9d_rQfPs6fNkA"
+    }
+  ],
+  "feeds": [{
+      "type": "LinkTagAtomType",
+      "url": "https://robmensching.com/blog/posts/feed/"  
+    }]
+}
