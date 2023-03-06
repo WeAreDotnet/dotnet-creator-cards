@@ -1,0 +1,29 @@
+{
+    "name": "Chris Ayers",
+    "sectionTitle": null,
+    "countryCode": "us",
+    "slogan": "",
+    "type": "CREATOR",
+    "bio": "Chris is a Senior Customer Engineer on the Fast Track for Azure team at Microsoft. He has a focus in modern applications built with DevOps, microservices, containers, Single Page Apps, RESTful APIs, and cloud technologies following agile practices. In his free time, Chris is a speaker at numerous meetups, an avid reader and a gamer.",
+    "tags": ".NET, C#, Azure, ASP.NET, DevOps, Docker, Kubernetes, Containers",
+    "socials": {
+      "youtube": "",
+      "linkedin": "https://www.linkedin.com/in/chris-l-ayers/",
+      "twitter": "https://twitter.com/Chris_L_Ayers",
+      "github": "https://github.com/codebytes",
+      "mastodon": "https://hachyderm.io/@Chrisayers",
+      "sessionize": "https://sessionize.com/ChrisAyers"
+    },
+    "channels": [
+        {
+          "name": "Website",
+          "url": "https://www.chris-ayers.com/"
+        }
+      ],
+      "feeds": [
+        {
+          "type": "RSS Feed",
+          "url": "https://chris-ayers.com/feed.xml"
+        }
+    ]
+  }
