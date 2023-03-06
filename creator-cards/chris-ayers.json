@@ -16,13 +16,13 @@
     },
     "channels": [
         {
-          "name": "Website",
-          "url": "https://www.chris-ayers.com/"
+          "name": "Blog",
+      "url": "https://www.chris-ayers.com/"
         }
       ],
       "feeds": [
         {
-          "type": "RSS Feed",
+          "type": "LinkTagRssType",
           "url": "https://chris-ayers.com/feed.xml"
         }
     ]
