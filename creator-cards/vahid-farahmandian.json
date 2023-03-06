@@ -1,0 +1,27 @@
+{
+  "name": "Vahid Farahmandian",
+  "sectionTitle": null,
+  "countryCode": "IR",
+  "slogan": "Whatever you are, be a good one!",
+  "type": "CREATOR",
+  "bio": "Software Engineer, Book Author, Speaker",
+  "tags": ".NET, C#, Azure DevOps, SQL Server",
+  "socials": {
+    "youtube": "https://www.youtube.com/%40VahidFarahmandian",
+    "linkedin": "https://linkedin.com/in/vfarahmandian",
+    "twitter": "https://twitter.com/_jinget",
+    "github": "https://github.com/VahidFarahmandian",
+    "mastodon": "",
+    "sessionize": "https://sessionize.com/vfarahmandian"
+  },
+  "channels": [
+    {
+      "name": "Blog",
+      "url": "https://jinget.medium.com"
+    }
+  ],
+  "feeds": [{
+      "type": "LinkTagRssType",
+      "url": "https://jinget.medium.com/feed"  
+    }]
+}
