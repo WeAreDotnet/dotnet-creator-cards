@@ -1,0 +1,29 @@
+{
+  "name": "Ryan Southgate",
+  "sectionTitle": null,
+  "countryCode": "gb",
+  "slogan": "",
+  "type": "CREATOR",
+  "bio": "",
+  "tags": ".NET, C#, Linux, Cloud",
+  "socials": {
+    "youtube": "",
+    "linkedin": "",
+    "twitter": "https://twitter.com/ryan_southgate",
+    "github": "https://github.com/ry8806",
+    "mastodon": "",
+    "sessionize": ""
+  },
+  "channels": [
+    {
+      "name": "Blog",
+      "url": "https://ryansouthgate.com/"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "LinkTagRssType",
+      "url": "https://ryansouthgate.com/rss"
+    }
+  ]
+}
