@@ -1,0 +1,33 @@
+{
+    "name": "Naman Singh",
+    "sectionTitle": null,
+    "countryCode": "ZA",
+    "slogan": "",
+    "type": "CREATOR",
+    "bio": "Experienced Software Engineer with an entrepreneurial background, Naman Singh specializes in .NET and backend microservice architecture.",
+    "tags": ".NET, C#, microservices, architecture, design, cloud computing, devops",
+    "socials": {
+      "youtube": "",
+      "linkedin": "https://www.linkedin.com/in/namansinghza/",
+      "twitter": "",
+      "github": "https://github.com/SubLoadedZA",
+      "mastodon": "",
+      "sessionize": ""
+    },
+    "channels": [
+      {
+        "name": "dev.to",
+        "url": "https://dev.to/namansingh"
+      },
+      {
+        "name": "medium.com",
+        "url": "https://medium.com/@singhnaman"
+      }
+    ],
+    "feeds": [
+      {
+        "type": "",
+        "url": ""
+      }
+    ]
+  }
