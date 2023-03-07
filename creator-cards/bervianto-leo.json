@@ -1,0 +1,29 @@
+{
+  "name": "Bervianto Leo Pratama",
+  "sectionTitle": null,
+  "countryCode": "id",
+  "slogan": "",
+  "type": "CREATOR",
+  "bio": "Software Engineer, DevOps Enthusiast",
+  "tags": ".NET, C#, ASP.NET Core, Azure, Docker",
+  "socials": {
+    "youtube": "https://www.youtube.com/c/BerviantoLeoPratama",
+    "linkedin": "https://www.linkedin.com/in/bervianto-leo-pratama/",
+    "twitter": "https://twitter.com/berviantoleo",
+    "github": "https://github.com/berviantoleo",
+    "mastodon": "",
+    "sessionize": "https://sessionize.com/berviantoleo/"
+  },
+  "channels": [
+    {
+      "name": "Blog",
+      "url": "https://dev.to/berviantoleo"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "LinkTagRssType",
+      "url": "https://dev.to/feed/berviantoleo"
+    }
+  ]
+}
