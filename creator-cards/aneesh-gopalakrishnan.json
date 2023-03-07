@@ -1,0 +1,27 @@
+"name": "Aneesh Gopalakrishnan",
+  "sectionTitle": null,
+  "countryCode": "us",
+  "slogan": "Nobody Special!",
+  "type": "CREATOR",
+  "bio": "Engineer",
+  "tags": ".NET, react",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/aneeshlalga",
+    "twitter": "https://twitter.com/aneeshlalga",
+    "github": "https://github.com/codehippie1",
+  },
+  "channels": [
+    {
+	    "type": "Blog",
+      "url": "https://www.red-gate.com/simple-talk/author/aneesh-lalga/"
+    },
+    {
+      "type": "Talk",
+      "url": "https://www.meetup.com/nycmobiledev/events/289075752/"
+    },
+    {
+      "type": "Talk",
+      "url": "https://www.meetup.com/dotnet-virtual-user-group/events/291796195/"
+    }
+  ]
+}
