@@ -1,0 +1,22 @@
+{
+    "name": "John Iwasz",    
+    "countryCode": "us",
+    "slogan": "",
+    "type": "CREATOR",
+    "bio": "John is a seasoned software pro with 25+ years exp.  Currently at AVEVA, IoT & cybersecurity principal dev.",
+    "tags": ".NET, C#, cybersecurity",
+    "socials": {
+      "youtube": "",
+      "linkedin": "https://www.linkedin.com/in/johniwasz/",
+      "twitter": "https://twitter.com/jiwasz",
+      "github": "https://github.com/johniwasz",
+      "mastodon": "",
+      "sessionize": "https://sessionize.com/john-iwasz/"
+    },
+    "channels": [
+      {
+        "name": "C# Articles",
+        "url": "https://www.c-sharpcorner.com/members/john-iwasz"
+      }
+    ]
+  }
