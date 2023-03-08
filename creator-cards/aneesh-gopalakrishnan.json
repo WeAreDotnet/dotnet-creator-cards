@@ -12,16 +12,20 @@
   },
   "channels": [
     {
-	    "type": "Blog",
-      "url": "https://www.red-gate.com/simple-talk/author/aneesh-lalga/"
+      "type": "Blog",
+      "url": "https://www.red-gate.com/simple-talk/development/angular/inline-pdf-viewer-in-an-angular-app-now-you-can/"
     },
     {
       "type": "Talk",
-      "url": "https://www.meetup.com/nycmobiledev/events/289075752/"
+      "url": "https://www.youtube.com/watch?v=Gowr_23aIkw"
     },
     {
       "type": "Talk",
-      "url": "https://www.meetup.com/dotnet-virtual-user-group/events/291796195/"
+      "url": "https://www.youtube.com/watch?v=lvVycY2crAk"
+    },
+    {
+      "type": "Talk",
+      "url": "https://www.youtube.com/watch?v=DBkgipvL6ak"
     }
   ]
 }
