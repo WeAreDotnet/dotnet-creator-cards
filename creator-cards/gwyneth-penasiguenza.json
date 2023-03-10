@@ -1,0 +1,31 @@
+{
+  "name": "Gwyneth Pena-Siguenza",
+  "sectionTitle": null,
+  "countryCode": "US",
+  "slogan": "",
+  "type": "CREATOR",
+  "bio": "",
+  "tags": ".NET, C#",
+  "socials": {
+    "youtube": "https://youtube.com/madebygps",
+    "linkedin": "https://linkedin.com/in/madebygps",
+    "twitter": "https://github.com/madebygps",
+    "github": "https://github.com/madebygps",
+    "mastodon": "",
+    "sessionize": ""
+  },
+  "channels": [
+    {
+      "name": "Twitch",
+      "url": "https://twitch.tv/madebygps"
+    },
+    {
+      "name": "Site",
+      "url": "https://madebygps.com"
+    }
+  ],
+  "feeds": [{
+      "type": "LinkTagRssType",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbjgKwnWnGG7sKCPTRgrFcw"  
+    }]
+}
