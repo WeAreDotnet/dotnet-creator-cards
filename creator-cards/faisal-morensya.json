@@ -1,0 +1,29 @@
+{
+  "name": "Faisal Morensya",
+  "sectionTitle": null,
+  "countryCode": "id",
+  "slogan": "",
+  "type": "CREATOR",
+  "bio": "Product Engineer",
+  "tags": ".NET, C#",
+  "socials": {
+    "youtube": "",
+    "linkedin": "https://www.linkedin.com/in/faisalmorensya/",
+    "twitter": "https://twitter.com/fmorens93",
+    "github": "https://github.com/lloistborn",
+    "mastodon": "",
+    "sessionize": ""
+  },
+  "channels": [
+    {
+      "name": "Blog",
+      "url": "https://faisalmorensya.dev/"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "LinkTagRssType",
+      "url": "https://faisalmorensya.dev/feed.xml"
+    }
+  ]
+}
