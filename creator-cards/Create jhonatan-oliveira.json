@@ -1,0 +1,27 @@
+{
+  "name": "Jhonatan Oliveira",
+  "sectionTitle": null,
+  "countryCode": "br",
+  "slogan": "",
+  "type": "CREATOR",
+  "bio": "",
+  "tags": "C#, .NET, Azure, ASP.NET, Xamarin",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/jhonatanfernando/",
+    "twitter": "https://twitter.com/jhonatanfoliv",
+    "github": "https://github.com/jhonatanfernando",
+    "mastodon": "https://ohai.social/@jhonfoliveira"
+  },
+  "channels": [
+    {
+      "name": "Site",
+      "url": "https://blog.jhonatanoliveira.dev/"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "LinkTagRssType",
+      "url": "https://blog.jhonatanoliveira.dev/rss.xml"
+    }
+  ]
+}
