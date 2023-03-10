@@ -1,4 +1,4 @@
-﻿{
+{
   "name": "Matt Eland",
   "sectionTitle": null,
   "countryCode": "us",
@@ -26,24 +26,8 @@
   ],
   "feeds": [
     {
-      "type": "LinkTagRssType",
-      "url": "https://newdevsguide.com/feed/"
-    },
-    {
       "type": "LinkTagAtomType",
       "url": "https://newdevsguide.com/feed/atom/"
-    },
-    {
-      "type": "LinkTagRssType",
-      "url": "https://newdevsguide.com/feed/"
-    },
-    {
-      "type": "LinkTagRssType",
-      "url": "https://newdevsguide.com/comments/feed/"
-    },
-    {
-      "type": "LinkTagRssType",
-      "url": "https://accessibleai.dev/index.xml"
     },
     {
       "type": "LinkTagRssType",
