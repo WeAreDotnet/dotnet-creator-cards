@@ -10,7 +10,7 @@
     "youtube": "https://www.youtube.com/SeanKilleen",
     "linkedin": "https://linkedin.com/in/SeanKilleen",
     "twitter": "https://twitter.com/sjkilleen",
-    "github": "",
+    "github": "https://github.com/SeanKilleen",
     "mastodon": "https://mastodon.social/@sjkilleen",
     "sessionize": ""
   },
@@ -23,10 +23,6 @@
   "feeds": [
     {
       "type": "LinkTagAtomType",
-      "url": "https://seankilleen.com/feed.xml"
-    },
-    {
-      "type": "AHrefFeedType",
       "url": "https://seankilleen.com/feed.xml"
     },
     {

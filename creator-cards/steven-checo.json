@@ -24,10 +24,6 @@
     {
       "type": "LinkTagRssType",
       "url": "https://checox.com/feed/"
-    },
-    {
-      "type": "LinkTagRssType",
-      "url": "https://checox.com/comments/feed/"
     }
   ]
 }

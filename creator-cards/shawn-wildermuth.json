@@ -10,7 +10,7 @@
     "youtube": "https://www.youtube.com/c/swildermuth",
     "linkedin": "https://www.linkedin.com/in/shawnwildermuth/",
     "twitter": "https://twitter.com/shawnwildermuth",
-    "github": "",
+    "github": "https://github.com/shawnwildermuth",
     "mastodon": "",
     "sessionize": ""
   },
@@ -27,14 +27,6 @@
   "feeds": [
     {
       "type": "LinkTagRssType",
-      "url": "https://wildermuth.com/feed.xml"
-    },
-    {
-      "type": "AHrefFeedType",
-      "url": "https://wildermuth.com/feed.xml"
-    },
-    {
-      "type": "AHrefFeedType",
       "url": "https://wildermuth.com/feed.xml"
     },
     {

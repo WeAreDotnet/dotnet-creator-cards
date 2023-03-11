@@ -10,7 +10,7 @@
     "youtube": "",
     "linkedin": "",
     "twitter": "https://twitter.com/stevejgordon",
-    "github": "",
+    "github": "https://github.com/stevejgordon",
     "mastodon": "https://fosstodon.org/@stevejgordon",
     "sessionize": ""
   },
@@ -28,10 +28,6 @@
     {
       "type": "LinkTagRssType",
       "url": "https://www.stevejgordon.co.uk/feed"
-    },
-    {
-      "type": "LinkTagRssType",
-      "url": "https://www.stevejgordon.co.uk/comments/feed"
     }
   ]
 }

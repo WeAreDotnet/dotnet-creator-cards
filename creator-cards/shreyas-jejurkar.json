@@ -9,8 +9,8 @@
   "socials": {
     "youtube": "",
     "linkedin": "",
-    "twitter": "",
-    "github": "",
+    "twitter": "https://twitter.com/ShreyasJejurkar",
+    "github": "https://github.com/ShreyasJejurkar",
     "mastodon": "",
     "sessionize": ""
   },
@@ -24,10 +24,6 @@
     {
       "type": "LinkTagRssType",
       "url": "https://shreyasjejurkar.com/feed/"
-    },
-    {
-      "type": "LinkTagRssType",
-      "url": "https://shreyasjejurkar.com/comments/feed/"
     }
   ]
 }
