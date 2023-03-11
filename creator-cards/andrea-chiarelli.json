@@ -20,5 +20,8 @@
       "url": "https://andreachiarelli.it/"
     }
   ],
-  "feeds": []
+  "feeds": [{
+      "type": "LinkTagRssType",
+      "url": "https://andreachiarelli.it/feed/articles.xml"  
+    }]
 }
