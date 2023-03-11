@@ -10,7 +10,7 @@
     "youtube": "",
     "linkedin": "https://www.linkedin.com/in/matthias-jost/",
     "twitter": "https://twitter.com/jost0101",
-    "github": "",
+    "github": "https://github.com/matthiasjost",
     "mastodon": "",
     "sessionize": ""
   },
@@ -28,10 +28,6 @@
     {
       "type": "LinkTagRssType",
       "url": "https://www.matthias-jost.ch/en/feed/"
-    },
-    {
-      "type": "LinkTagRssType",
-      "url": "https://www.matthias-jost.ch/en/comments/feed/"
     }
   ]
 }

@@ -24,10 +24,6 @@
     {
       "type": "LinkTagRssType",
       "url": "https://blog.mzikmund.com/feed/"
-    },
-    {
-      "type": "LinkTagRssType",
-      "url": "https://blog.mzikmund.com/comments/feed/"
     }
   ]
 }

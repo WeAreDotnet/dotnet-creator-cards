@@ -10,7 +10,7 @@
     "youtube": "https://www.youtube.com/channel/UC-mHR47cULEfJHvk49t1zQA/videos",
     "linkedin": "",
     "twitter": "https://twitter.com/colhountech",
-    "github": "",
+    "github": "https://github.com/colhountech",
     "mastodon": "",
     "sessionize": ""
   },
@@ -24,10 +24,6 @@
     {
       "type": "LinkTagRssType",
       "url": "https://colhountech.com/feed/"
-    },
-    {
-      "type": "LinkTagRssType",
-      "url": "https://colhountech.com/comments/feed/"
     },
     {
       "type": "LinkTagRssType",
