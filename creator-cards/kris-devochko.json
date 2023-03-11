@@ -1,18 +1,18 @@
 ﻿{
-  "name": "Kris Devochko",
+  "name": "Kristina Devochko",
   "sectionTitle": null,
   "countryCode": "no",
-  "slogan": "",
+  "slogan": "Techie with animal welfare at heart <3",
   "type": "CREATOR",
-  "bio": "",
+  "bio": "Tech community activist. Cloud Native transformation artist. Preaching about cats, K8s, secure and sustainable software engineering.",
   "tags": "Azure, Kubernetes",
   "socials": {
     "youtube": "",
-    "linkedin": "https://www.linkedin.com/in/krisde/",
+    "linkedin": "https://www.linkedin.com/in/krisde",
     "twitter": "https://twitter.com/kristhecodingu1",
-    "github": "https://github.com/kristina-devochko",
+    "github": "https://github.com/guidemetothemoon",
     "mastodon": "",
-    "sessionize": ""
+    "sessionize": "https://sessionize.com/kristina-devochko"
   },
   "channels": [
     {
