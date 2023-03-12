@@ -39,11 +39,11 @@
   "feeds": [
     {
       "type": "LinkTagRssType",
-      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJ90Is0z9KIyNSufH--IwRg"
+      "url": "https://www.devleader.ca/tag/dotnet/feed/"
     },
     {
       "type": "LinkTagRssType",
-      "url": "https://www.devleader.ca/feed"
+      "url": "https://siftrss.com/f/jLpYVpVjqy"
     }
   ]
 }
