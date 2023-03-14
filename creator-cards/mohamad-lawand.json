@@ -5,10 +5,10 @@
   "slogan": "",
   "type": "CREATOR",
   "bio": "",
-  "tags": "ASP.NET Core, .NET",
+  "tags": "ASP.NET Core, .NET, Architecture, Cloud",
   "socials": {
     "youtube": "https://www.youtube.com/c/MohamadLawand",
-    "linkedin": "",
+    "linkedin": "https://www.linkedin.com/in/mlawand/",
     "twitter": "https://twitter.com/Moe23",
     "github": "https://github.com/mlawand",
     "mastodon": "",
@@ -18,12 +18,21 @@
     {
       "name": "Blog",
       "url": "https://dev.to/moe23"
+    },
+    {
+      "name": "Site",
+      "url": "https://mohamadlawand.com"
     }
   ],
   "feeds": [
     {
       "type": "LinkTagRssType",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9ao0wlk--d-bsjnCHBKDzA"
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9ao0wlk--d-bsjnCHBKDzA"
     }
+
   ]
 }
