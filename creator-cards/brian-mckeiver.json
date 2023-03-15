@@ -1,0 +1,27 @@
+{
+    "name": "Brian McKeiver",
+    "sectionTitle": null,
+    "countryCode": "us",
+    "slogan": "",
+    "type": "CREATOR",
+    "bio": "",
+    "tags": ".NET, Azure, CMS",
+    "socials": {
+      "youtube": "https://www.youtube.com/c/kontentrocks",
+      "linkedin": "https://www.linkedin.com/in/bmckeiver/",
+      "twitter": "https://twitter.com/mcbeev",
+      "github": "https://github.com/mcbeev",
+      "mastodon": "",
+      "sessionize": "https://sessionize.com/bmckeiver"
+    },
+    "channels": [
+      {
+        "name": "Blog",
+        "url": "https://www.mcbeev.com/"
+      }
+    ],
+    "feeds": [{
+        "type": "LinkTagRssType",
+        "url": "https://www.mcbeev.com/api/rss/articles"  
+      }]
+}
