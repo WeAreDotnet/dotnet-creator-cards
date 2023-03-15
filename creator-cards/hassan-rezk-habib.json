@@ -4,20 +4,24 @@
   "countryCode": "us",
   "slogan": "",
   "type": "CREATOR",
-  "bio": "",
-  "tags": ".NET",
+  "bio": "Innovator, Engineer and Entrepeneur",
+  "tags": ".NET, C#",
   "socials": {
-    "youtube": "",
-    "linkedin": "https://www.linkedin.com/in/hassanrezkhabib/recent-activity/shares/",
+    "youtube": "https://www.youtube.com/channel/UCT917nto6RSXMbnxToeKXWQ",
+    "linkedin": "https://www.linkedin.com/in/hassanrezkhabib/",
     "twitter": "https://twitter.com/HassanRezkHabib",
-    "github": "https://github.com/HassanHabib",
-    "mastodon": "",
+    "github": "https://github.com/hassanhabib",
+    "mastodon": "https://techhub.social/@hassanhabib",
     "sessionize": ""
   },
   "channels": [
     {
-      "name": "Blog",
-      "url": "https://hassanhabib.com/blog/"
+      "name": "Youtube Channel",
+      "url": "https://www.youtube.com/channel/UCT917nto6RSXMbnxToeKXWQ"
+    },
+    {
+      "name": "The Standard",
+      "url": "https://github.com/hassanhabib/The-Standard"
     },
     {
       "name": "linktree",
@@ -27,11 +31,7 @@
   "feeds": [
     {
       "type": "LinkTagRssType",
-      "url": "https://hassanhabib.com/feed/"
-    },
-    {
-      "type": "LinkTagRssType",
-      "url": "https://hassanhabib.com/comments/feed/"
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCT917nto6RSXMbnxToeKXWQ"
     }
   ]
 }
