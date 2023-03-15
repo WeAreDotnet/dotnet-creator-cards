@@ -1,0 +1,23 @@
+{
+  "name": "Patrik Svensson",
+  "sectionTitle": null,
+  "countryCode": "se",
+  "slogan": "",
+  "type": "CREATOR",
+  "bio": "Father. Husband. Programmer. Microsoft MVP. GitHub Star ⭐. Likes OSS, compilers, C#, and  @rustlang . Ally ✊🏾🏳️‍🌈🏳️‍⚧️♀️ (He/Him)",
+  "tags": ".NET, C#, Rust, Compilers, Cake, Spectre.Console",
+  "socials": {
+    "youtube": "",
+    "linkedin": "https://www.linkedin.com/in/psvensson82/",
+    "twitter": "https://twitter.com/firstdrafthell",
+    "github": "https://github.com/patriksvensson",
+    "mastodon": "https://mstdn.social/@patriksvensson",
+    "sessionize": "https://sessionize.com/patrik-svensson/"
+  },
+  "channels": [
+    {
+      "name": "Blog",
+      "url": "https://patriksvensson.se/"
+    }
+  ]
+}
