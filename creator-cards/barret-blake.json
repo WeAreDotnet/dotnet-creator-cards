@@ -23,11 +23,5 @@
   "feeds": [{
       "type": "LinkTagRssType",
       "url": "https://barretblake.dev/tag/dotnet/feed/"  
-    },{
-      "type": "LinkTagRssType",
-      "url": "https://barretblake.dev/tag/c/feed/"  
-    },{
-      "type": "LinkTagRssType",
-      "url": "https://barretblake.dev/feed/"  
     }]
 }
