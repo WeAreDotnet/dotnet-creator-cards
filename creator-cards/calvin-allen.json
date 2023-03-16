@@ -1,0 +1,31 @@
+{
+  "name": "Calvin Allen",
+  "sectionTitle": null,
+  "countryCode": "US",
+  "slogan": "",
+  "type": "CREATOR",
+  "bio": "Calvin is a C# / .NET Engineer at New Relic, Inc. (where he works on CodeStream!), a Part-Time Java Instructor with Tech Elevator, a Microsoft MVP in Developer Technologies, and a GitKraken Ambassador. (He/Him)",
+  "tags": ".NET, C#, Rust, Compilers, Cake, Spectre.Console",
+  "socials": {
+    "youtube": "https://youtube.com/@CodingWithCalvin",
+    "linkedin": "https://www.linkedin.com/in/calvin-allen/",
+    "twitter": "https://twitter.com/_CalvinAllen",
+    "github": "https://github.com/calvinallen",
+  },
+  "channels": [
+    {
+      "name": "Blog",
+      "url": "https://www.codingwithcalvin.net"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.codingwithcalvin.net/rss.xml"
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCeh4DkPs0xLeaoDnmsGu0Og"
+    },
+  ]
+}
