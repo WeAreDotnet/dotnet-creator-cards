@@ -2,17 +2,15 @@
   "name": "Christian Nagel",
   "sectionTitle": null,
   "countryCode": "at",
-  "slogan": "",
+  "slogan": "Always learn something new!",
   "type": "CREATOR",
-  "bio": "",
-  "tags": ".NET, C#",
+  "bio": "Christian is Microsoft MVP, book author, developer, trainer, and consultant working with .NET and Microsoft Azure",
+  "tags": ".NET, C#, Azure, ASP.NET Core, EF Core, DevOps",
   "socials": {
-    "youtube": "",
-    "linkedin": "",
+    "linkedin": "https://www.linkedin.com/in/cnagel/",
     "twitter": "https://twitter.com/ChristianNagel",
     "github": "https://github.com/christiannagel",
-    "mastodon": "",
-    "sessionize": ""
+    "sessionize": "https://sessionize.com/christian-nagel/"
   },
   "channels": [
     {
