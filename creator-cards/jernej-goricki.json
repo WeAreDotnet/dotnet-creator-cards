@@ -1,0 +1,29 @@
+{
+  "name": "Jernej Goricki",
+  "sectionTitle": null,
+  "countryCode": "uk",
+  "slogan": "",
+  "type": "CREATOR",
+  "bio": "",
+  "tags": ".NET, C#",
+  "socials": {
+    "youtube": "",
+    "linkedin": "https://www.linkedin.com/in/jernejgoricki/",
+    "twitter": "https://twitter.com/JernejGoricki",
+    "github": "https://github.com/jernejg/",
+    "mastodon": "",
+    "sessionize": ""
+  },
+  "channels": [
+    {
+      "name": "Blog",
+      "url": "https://ilovetodeletecode.hashnode.dev/"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "LinkTagRssType",
+      "url": "https://ilovetodeletecode.hashnode.dev/rss.xml"
+    }
+  ]
+}
