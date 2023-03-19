@@ -28,5 +28,10 @@
       "url": "https://medium.com/@mwaseemzakir"
     }
   ],
-  "feeds": []
+  "feeds": [
+    {
+      "type": "LinkTagRssType",
+      "url": " https://medium.com/feed/@mwaseemzakir"
+    }   
+  ]
 }
