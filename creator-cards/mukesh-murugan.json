@@ -4,10 +4,10 @@
   "countryCode": "in",
   "slogan": "",
   "type": "CREATOR",
-  "bio": "",
+  "bio": "Software Engineer, Blogger & Open Source Contributor working on .NET, Golang, AWS, and other related technologies.",
   "tags": ".NET, AWS",
   "socials": {
-    "youtube": "",
+    "youtube": "https://www.youtube.com/@codewithmukesh/videos",
     "linkedin": "https://www.linkedin.com/in/iammukeshm/",
     "twitter": "https://twitter.com/iammukeshm",
     "github": "https://github.com/iammukeshm",
@@ -24,6 +24,10 @@
     {
       "type": "LinkTagRssType",
       "url": "https://codewithmukesh.com/web-stories/feed/"
+    },
+    {
+      "type": "AHrefFeedType",
+      "url": "https://codewithmukesh.com/feed/"
     }
   ]
 }
