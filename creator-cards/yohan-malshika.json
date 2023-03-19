@@ -1,0 +1,29 @@
+﻿{
+  "name": "Yohan Malshika",
+  "sectionTitle": null,
+  "countryCode": "lk",
+  "slogan": "",
+  "type": "CREATOR",
+  "bio": "Software Engineer | Blogger",
+  "tags": ".NET, C#, Azure",
+  "socials": {
+    "youtube": "",
+    "linkedin": "https://www.linkedin.com/in/malshikay/",
+    "twitter": "https://twitter.com/malshika_yohan",
+    "github": "https://github.com/yohanym95",
+    "mastodon": "",
+    "sessionize": ""
+  },
+  "channels": [
+    {
+      "name": "Blog",
+      "url": "malshikay.medium.com"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "LinkTagRssType",
+      "url": "https://malshikay.medium.com/feed"
+    }
+  ]
+}
