@@ -1,0 +1,33 @@
+{
+  "name": "Tomasz Pęczek",
+  "sectionTitle": null,
+  "countryCode": "pl",
+  "slogan": "",
+  "type": "CREATOR",
+  "bio": "Cloud Solutions Architect • Software Developer & Architect • Blogger • Speaker • OSS Maintainer & Contributor • Microsoft MVP",
+  "tags": ".NET, C#, ASP.NET Core, DevOps, Architecture",
+  "socials": {
+    "youtube": "https://www.youtube.com/channel/UCjqcHDB_c2J3BwVfd-1ysFw",
+    "linkedin": "https://pl.linkedin.com/in/tpeczek",
+    "twitter": "https://twitter.com/tpeczek",
+    "github": "https://github.com/tpeczek",
+    "mastodon": "https://hachyderm.io/@tpeczek",
+    "sessionize": "https://sessionize.com/tpeczek/"
+  },
+  "channels": [
+    {
+      "name": "Blog",
+      "url": "https://www.tpeczek.com/"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "LinkTagRssType",
+      "url": "https://feeds.feedburner.com/YetAnotherDeveloperBlog"
+    },
+    {
+      "type": "AHrefFeedType",
+      "url": "https://feeds.feedburner.com/YetAnotherDeveloperBlog"
+    }
+  ]
+}
