@@ -1,0 +1,29 @@
+﻿{
+  "name": "Cezary Piątek",
+  "sectionTitle": null,
+  "countryCode": "pl",
+  "slogan": "",
+  "type": "CREATOR",
+  "bio": "",
+  "tags": ".NET, Roslyn, DevOps",
+  "socials": {
+    "youtube": "https://www.youtube.com/channel/UCz-4GvvTYCPNGa9hg7Te7Bw",
+    "linkedin": "",
+    "twitter": "https://twitter.com/cezary_piatek",
+    "github": "https://github.com/cezarypiatek",
+    "mastodon": "",
+    "sessionize": ""
+  },
+  "channels": [
+    {
+      "name": "Blog",
+      "url": "https://cezarypiatek.github.io/"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "LinkTagRssType",
+      "url": "https://cezarypiatek.github.io/index.xml"
+    }
+  ]
+}
