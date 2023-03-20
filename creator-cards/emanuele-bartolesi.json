@@ -4,15 +4,15 @@
   "countryCode": "ch",
   "slogan": "",
   "type": "CREATOR",
-  "bio": "",
+  "bio": "Expert Azure and M365 Developer, Technical Author, and Course Instructor",
   "tags": ".NET, Blazor, Azure",
   "socials": {
     "youtube": "",
-    "linkedin": "",
+    "linkedin": "https://www.linkedin.com/in/bartolesiemanuele",
     "twitter": "https://twitter.com/kasuken",
     "github": "https://github.com/kasuken",
     "mastodon": "",
-    "sessionize": ""
+    "sessionize": "https://sessionize.com/emanuelebartolesi/"
   },
   "channels": [
     {
