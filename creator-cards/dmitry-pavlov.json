@@ -24,5 +24,11 @@
       "name": "Facebook",
       "url": "https://www.facebook.com/groups/about.asp.net.core"
     }
+  ],
+  "feeds": [
+    {
+      "type": "LinkTagRssType",
+      "url": "https://dev.to/feed/dr_dimaka"
+    }
   ]
 }
