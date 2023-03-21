@@ -13,30 +13,29 @@ By creators, we mean enthusiasts who create content for Blogs, YouTube, Twitch, 
 
 ## When Do We Accept Someone's Creator Card Submission? 
 
-* You must have published a post since 2022 on any of your channels. 
+* [ ] You must have published at least three post (long form content) since 2022 on any of your channels. 
 
-* There must be one publication in English. We only list creators and channels with English content, it does not matter if you have other languages on top but you need to have English content and the feed you give us needs to be filtered for english. 
+* [ ] There must be three content pieces in English. 
 
-* There needs to be more than tweets. 
+* [ ] There needs to be more than tweets. 
 
-* A longer-form article on LinkedIn is good, but a self-hosted blog or one on a well-known platform like Hashnode, medium etc., is better. 
+* [ ] Longer-form article on LinkedIn is good, but a self-hosted blog or one on a well-known platform like Hashnode, medium etc., is better. 
 
-* Alternatively, you contributed with another form on a platform like YouTube, Twitch, Udemy or Pluralsight. If you have some recorded talks of conferences or anywhere else, that counts too! So in the form of a recorded video or a book. 
+* [ ] Alternatively, you contributed with another form on a platform like YouTube, Twitch, Udemy or Pluralsight. If you have some recorded talks of conferences or anywhere else, that counts too! So in the form of a recorded video or a book. 
 
 ## RSS or Atom Feed 
 
-* Submit an Atom or RSS URL inside your creator card that belongs to your blog 
+* [ ] Submit an Atom or RSS URL inside your creator card that belongs to your blog 
 
-* If you do not submit an RSS or Atom URL. We cannot consider your feed for the upcoming aggregation feature. 
-
-* If your blog covers content other than .NET make sure to give us a filtered feed just containing your .NET content
+* [ ] If you do not submit an RSS or Atom URL. We cannot consider your feed for the upcoming aggregation feature. 
 
 ## Content Guideline 
 
-* If you have a self-hosted blog, please ensure you have a valid HTTPS certificate. 
+* [ ] If you have a self-hosted blog, please ensure you have a valid HTTPS certificate. 
 
-* We host NO malicious or offensive content on the blog (including photos, swearing, etc.)
+* [ ] We host NO malicious or offensive content on the blog (including photos, swearing, etc.)
 
+* [ ] You must add the full URL to your GitHub profile to your card, so we can assign it to the member account that used the same GitHub account for sign-up.
 
 ## JSON Card Format
 
