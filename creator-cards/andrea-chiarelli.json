@@ -4,7 +4,7 @@
   "countryCode": "it",
   "slogan": "",
   "type": "CREATOR",
-  "bio": "",
+  "bio": "Software Engineer and Technical Author, i.e., continuous learner @ Okta/Auth0",
   "tags": ".NET, C#. ASP.NET Core",
   "socials": {
     "youtube": "",
@@ -18,6 +18,10 @@
     {
       "name": "Blog",
       "url": "https://andreachiarelli.it/"
+    },
+    {
+      "name": ".NET Identity with Auth0 (e-book)",
+      "url": "https://auth0.com/resources/ebooks/net-identity-with-auth0"
     }
   ],
   "feeds": [{
