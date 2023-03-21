@@ -8,6 +8,11 @@ We would love to add your content. Just make sure to follow our [Code of Conduct
 
 You must add the full URL to your GitHub profile to your card, so we can assign it to the member account that used the same GitHub account for sign-up.
 
+## Two Steps
+
+To becaome a creator a card and a member account is required.
+When your card has the GitHub URL of the account you have been using to sign-up we are going to link your account automatically to your card.
+
 ## What Are Creators?
 By creators, we mean enthusiasts who create content for Blogs, YouTube, Twitch, Books, and tutorial platforms (e.g. Pluralsight). The content can be free or paid.
 
