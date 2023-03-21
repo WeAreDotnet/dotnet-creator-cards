@@ -2,21 +2,20 @@
   "name": "Pierre Belin",
   "sectionTitle": null,
   "countryCode": "fr",
-  "slogan": "",
+  "slogan": "Improve your code review, only for goats",
   "type": "CREATOR",
-  "bio": "",
-  "tags": ".NET, Akka.NET",
+  "bio": "C# & .NET Content Creator",
+  "tags": "Freelance Architecture / C#/.NET Developer",
   "socials": {
-    "youtube": "",
     "linkedin": "https://www.linkedin.com/in/pierre-belin/",
-    "twitter": "",
+    "twitter": "https://twitter.com/pierrebelin_",
     "github": "https://github.com/pierrebelin",
     "mastodon": "",
     "sessionize": ""
   },
   "channels": [
     {
-      "name": "Blog",
+      "name": "Site",
       "url": "https://goatreview.com/"
     }
   ],
