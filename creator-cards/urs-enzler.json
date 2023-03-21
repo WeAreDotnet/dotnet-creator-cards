@@ -23,7 +23,7 @@
   "feeds": [
     {
       "type": "LinkTagRssType",
-      "url": "https://www.planetgeek.ch/feed/"
+      "url": "https://www.planetgeek.ch/author/ursenzler/feed/"
     }
   ]
 }
