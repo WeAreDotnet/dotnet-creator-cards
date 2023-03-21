@@ -1,6 +1,10 @@
 # #WeAreDonet Creator Submission Guidelines
 
-* By submitting this pull request to add my creator card, I verify that I adhere to the #WeAreDotnet creator card submission guidelines.
+* [x] check all points before submitting the PR.
+
+* [ ] By submitting this pull request to add my creator card, I verify that I adhere to the #WeAreDotnet creator card submission guidelines.
+
+* [ ] Make sure to follow our [Code of Conduct](https://github.com/wearedotnet/dotnet-creator-cards/blob/master/CODE_OF_CONDUCT.md) 
 
 * [ ] We do not accept submissions with the sole intention of promoting a product or company.
 
