@@ -1,0 +1,34 @@
+{
+  "name": "Dmitry Pavlov",
+  "sectionTitle": "World-class .NET Freelance Contractor",
+  "countryCode": "ru",
+  "slogan": "Never underestimate the power of getting familiar with the official documentation",
+  "type": "CREATOR",
+  "bio": "The coding machine 🤖 converting #c0ffee ☕ to #c0de 👨‍💻 as #10Xer. 9 Microsoft MVP Awards. Sense of humor adept 😀",
+  "tags": "ASP.NET Core, Blazor",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/dimaka",
+    "twitter": "https://www.twitter.com/dr_dimaka",
+    "github": "https://github.com/dmitry-pavlov"
+  },
+  "channels": [
+    {
+      "name": "Website",
+      "url": "https://coding-machine.net/"
+    },
+    {
+      "name": "Stack Overflow",
+      "url": "https://stackoverflow.com/users/804385/dmitry-pavlov"
+    },
+    {
+      "name": "Facebook",
+      "url": "https://www.facebook.com/groups/about.asp.net.core"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "LinkTagRssType",
+      "url": "https://dev.to/feed/dr_dimaka"
+    }
+  ]
+}
