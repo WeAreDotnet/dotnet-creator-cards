@@ -1,0 +1,29 @@
+{
+  "name": "Jiri Cincura",
+  "sectionTitle": null,
+  "countryCode": "cz",
+  "slogan": "tabs over spaces",
+  "type": "CREATOR",
+  "bio": "Jiří Činčura is .NET, C# and Firebird expert. He focuses on data and business layers, language constructs, parallelism, databases and performance. For almost two decades he contributes to open-source, i.e. FirebirdClient. He works as a software engineer for Microsoft. Frequent speaker and blogger at www.tabsoverspaces.com.",
+  "tags": ".NET/C#, Firebird, Entity Framework Core, databases, performance",
+  "socials": {
+    "youtube": "https://www.youtube.com/@cincura_net",
+    "linkedin": "",
+    "twitter": "https://twitter.com/cincura_net",
+    "github": "https://github.com/cincuranet",
+    "mastodon": "https://mas.to/@cincura_net",
+    "sessionize": ""
+  },
+  "channels": [ 
+    {
+      "name": "Blog",
+      "url": "https://www.tabsoverspaces.com/"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "LinkTagAtomType",
+      "url": "https://www.tabsoverspaces.com/feed.xml"  
+    }
+  ]
+}
