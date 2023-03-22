@@ -1,0 +1,29 @@
+{
+    "name": "Adil Ansari",
+    "sectionTitle": null,
+    "countryCode": "in",
+    "slogan": "Art of Programming",
+    "type": "CREATOR",
+    "bio": "Experienced C#, .Net, Microsoft 365, and Azure Developer with around 15 years of experience in designing and writing maintainable code. ",
+    "tags": ".NET, C#, Azure, CloudNative, DevOps, Microservice, Serverless",
+    "socials": {
+      "youtube": "",
+      "linkedin": "https://www.linkedin.com/in/adansari",
+      "twitter": "https://mobile.twitter.com/AdilOnTweeter",
+      "github": "https://github.com/adansari",
+      "mastodon": "",
+      "sessionize": ""
+    },
+    "channels": [
+      {
+        "name": "Blog",
+        "url": "https://adil-ansari.medium.com"
+      }
+    ],
+    "feeds": [
+      {
+        "type": "LinkTagRssType",
+        "url": "https://adil-ansari.medium.com/feed"
+      }
+    ]
+  }
