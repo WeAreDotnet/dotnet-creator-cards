@@ -1,0 +1,29 @@
+﻿{
+  "name": "Daniel Monettelli",
+  "sectionTitle": null,
+  "countryCode": "pe",
+  "slogan": "",
+  "type": "CREATOR",
+  "bio": "UX/Software Engineer | 'You have to see the end to see every thing', thank you very much mom for this beautiful phrase 😊",
+  "tags": ".NET, .NET MAUI, C#, Azure, AI, UI, UX",
+  "socials": {
+    "youtube": "https://www.youtube.com/@DanielMonettelli",
+    "linkedin": "https://www.linkedin.com/in/danielmonettelli/",
+    "twitter": "https://twitter.com/DaniMonettelli",
+    "github": "https://github.com/danielmonettelli",
+    "mastodon": "https://hachyderm.io/@danielmonettelli",
+    "sessionize": ""
+  },
+  "channels": [
+    {
+      "name": "Blog",
+      "url": "https://danielmonettelli.github.io/"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "LinkTagRssType",
+      "url": "https://danielmonettelli.github.io/feed.xml"
+    }
+  ]
+}
