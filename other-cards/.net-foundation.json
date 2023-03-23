@@ -9,15 +9,23 @@
   "socials": {
     "youtube": "https://www.youtube.com/c/NETFoundation",
     "linkedin": "",
-    "twitter": "",
-    "github": "",
+    "twitter": "https://twitter.com/dotnetfdn",
+    "github": "https://github.com/dotnet",
     "mastodon": "",
     "sessionize": ""
   },
   "channels": [
     {
-      "name": "Site",
-      "url": "https://twitter.com/dotnetfdn"
+      "name": "Channel",
+      "url": "https://www.youtube.com/c/NETFoundation"
+    },
+    {
+      "name": "Homepage",
+      "url": "https://dotnetfoundation.org/"
+    },
+    {
+      "name": "Blog",
+      "url": "https://dotnetfoundation.org/blog"
     }
   ],
   "feeds": [

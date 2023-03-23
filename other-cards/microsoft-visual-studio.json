@@ -9,8 +9,8 @@
   "socials": {
     "youtube": "https://www.youtube.com/c/visualstudio",
     "linkedin": "",
-    "twitter": "",
-    "github": "",
+    "twitter": "https://twitter.com/VisualStudio",
+    "github": "https://github.com/microsoft/vscode",
     "mastodon": "",
     "sessionize": ""
   },
@@ -18,6 +18,18 @@
     {
       "name": "Blog",
       "url": "https://devblogs.microsoft.com/visualstudio/"
+    },
+    {
+      "name": "YouTube",
+      "url": "https://www.youtube.com/c/visualstudio"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/VisualStudio"
+    },
+    {
+      "name": "Homepage",
+      "url": "https://visualstudio.microsoft.com/"
     }
   ],
   "feeds": [
@@ -28,10 +40,6 @@
     {
       "type": "LinkTagRssType",
       "url": "https://devblogs.microsoft.com/visualstudio/feed/"
-    },
-    {
-      "type": "LinkTagRssType",
-      "url": "https://devblogs.microsoft.com/visualstudio/comments/feed/"
     }
   ]
 }

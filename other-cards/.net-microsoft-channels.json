@@ -8,9 +8,9 @@
   "tags": ".NET, C#, ASP.NET Core, .NET MAUI",
   "socials": {
     "youtube": "https://www.youtube.com/c/dotNET",
-    "linkedin": "",
+    "linkedin": "https://www.linkedin.com/groups/40949/",
     "twitter": "https://twitter.com/dotnet",
-    "github": "",
+    "github": "https://github.com/dotnet",
     "mastodon": "",
     "sessionize": ""
   },
@@ -22,16 +22,20 @@
     {
       "name": "Documentation",
       "url": "https://docs.microsoft.com/dotnet"
+    },
+    {
+      "name": "YouTube",
+      "url": "https://www.youtube.com/c/dotNET"
+    },
+    {
+      "name": "Homepage",
+      "url": "https://dot.net/"
     }
   ],
   "feeds": [
     {
       "type": "LinkTagRssType",
       "url": "https://devblogs.microsoft.com/dotnet/feed/"
-    },
-    {
-      "type": "LinkTagRssType",
-      "url": "https://devblogs.microsoft.com/dotnet/comments/feed/"
     },
     {
       "type": "LinkTagRssType",
