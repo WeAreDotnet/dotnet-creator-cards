@@ -1,0 +1,40 @@
+{
+  "name": "My name is!",
+  "countryCode": "ISO COUNTRY CODE LOWERCASE",
+  "slogan": "",
+  "type": "CREATOR OR MAINTAINER whatever you are primarily",
+  "bio": "Once upon a time....keep it to around 300 characters max please!",
+  "tags": ".NET, C#, ASP.NET, I LOVE DOTNET",
+  "socials": {
+    "youtube": "",
+    "linkedin": "",
+    "twitter": "",
+    "mastodon": "",
+    "sessionize": "",
+    "other": ""
+  },
+  "channels": [
+    {
+      "name": "Site | Twitch | Youtube | etc",
+      "url": "https://ilovedotnet.org"
+    }
+  ],
+  "feeds": [
+    // Please only one if multiple types are available with the same content
+    {
+      "type": "LinkTagRssType",
+      "url": "rss.xml"
+    },
+    {
+      "type": "AHrefFeedType",
+      "url": "atom.xml"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Project Name",
+      "description": "Project Description",
+      "url": "https://github.com/<org>/project"
+    }
+  ]
+}
