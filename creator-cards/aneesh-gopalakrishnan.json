@@ -1,4 +1,5 @@
-"name": "Aneesh Gopalakrishnan",
+{
+  "name": "Aneesh Gopalakrishnan",
   "sectionTitle": null,
   "countryCode": "us",
   "slogan": "Nobody Special!",
@@ -8,24 +9,18 @@
   "socials": {
     "linkedin": "https://www.linkedin.com/in/aneeshlalga",
     "twitter": "https://twitter.com/aneeshlalga",
-    "github": "https://github.com/codehippie1",
+    "github": "https://github.com/codehippie1"
   },
   "channels": [
     {
       "type": "Blog",
       "url": "https://www.red-gate.com/simple-talk/development/angular/inline-pdf-viewer-in-an-angular-app-now-you-can/"
-    },
+    }
+  ],
+  "feeds": [
     {
-      "type": "Talk",
-      "url": "https://www.youtube.com/watch?v=Gowr_23aIkw"
-    },
-    {
-      "type": "Talk",
-      "url": "https://www.youtube.com/watch?v=lvVycY2crAk"
-    },
-    {
-      "type": "Talk",
-      "url": "https://www.youtube.com/watch?v=DBkgipvL6ak"
+      "type": "Blog",
+      "url": "https://rss.app/feeds/79Dl0OyyexNBxDuA.xml"
     }
   ]
 }
