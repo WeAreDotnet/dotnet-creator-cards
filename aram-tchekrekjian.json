@@ -1,0 +1,29 @@
+{
+  "name": "Aram Tchekrekjian",
+  "sectionTitle": null,
+  "countryCode": "JO",
+  "slogan": "",
+  "type": "CREATOR",
+  "bio": "",
+  "tags": ".NET, C#, Web, Mobile",
+  "socials": {
+    "youtube": "",
+    "linkedin": "https://www.linkedin.com/in/AramT87/",
+    "twitter": "https://twitter.com/AramT87",
+    "github": "https://github.com/aram87",
+    "mastodon": "",
+    "sessionize": ""
+  },
+  "channels": [
+    {
+      "name": "Blog",
+      "url": "https://codingsonata.com"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "LinkTagRssType",
+      "url": "https://codingsonata.com/feed/"
+    }
+  ]
+}
