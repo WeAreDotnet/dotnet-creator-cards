@@ -60,34 +60,42 @@ By creators, we mean enthusiasts who create content for Blogs, YouTube, Twitch, 
 ## Sample Card
 ```csharp
 {
-  "name": "First and Lastname",
-  "sectionTitle": null,
-  "countryCode": "",
+  "name": "My name is!",
+  "countryCode": "ISO COUNTRY CODE LOWERCASE",
   "slogan": "",
-  "type": "CREATOR",
-  "bio": "",
-  "tags": ".NET, C#",
+  "type": "CREATOR OR MAINTAINER whatever you are primarily",
+  "bio": "Once upon a time....keep it to around 300 characters max please!",
+  "tags": ".NET, C#, ASP.NET, I LOVE DOTNET",
   "socials": {
     "youtube": "",
     "linkedin": "",
     "twitter": "",
-    "github": "",
     "mastodon": "",
-    "sessionize": ""
+    "sessionize": "",
+    "other": ""
   },
   "channels": [
     {
-      "name": "Twitch",
-      "url": ""
-    },
-    {
-      "name": "Site",
-      "url": ""
+      "name": "Site | Twitch | Youtube | etc",
+      "url": "https://ilovedotnet.org"
     }
   ],
-  "feeds": [{
+  "feeds": [
+    // Please only one if multiple types are available with the same content
+    {
       "type": "LinkTagRssType",
-      "url": "...feed.xml"  
-    }]
+      "url": "rss.xml"
+    },
+    {
+      "type": "AHrefFeedType",
+      "url": "atom.xml"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Project Name",
+      "url": "https://github.com/<org>/project"
+    }
+  ]
 }
 ```
