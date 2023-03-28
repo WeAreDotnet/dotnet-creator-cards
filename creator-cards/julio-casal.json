@@ -1,0 +1,36 @@
+{
+  "name": "Julio Casal",
+  "countryCode": "us",
+  "slogan": "Keep Learning",
+  "type": "CREATOR",
+  "bio": "",
+  "tags": "C#, .NET, ASP.NET, Azure, Microservices",
+  "socials": {
+    "youtube": "https://www.youtube.com/c/jcasalt",
+    "linkedin": "https://www.linkedin.com/in/juliocasal",
+    "twitter": "https://twitter.com/julioc",
+    "github": "https://github.com/julioct",
+    "mastodon": "",
+    "sessionize": "",
+    "other": ""
+  },
+  "channels": [
+    {
+      "name": "Youtube",
+      "url": "https://www.youtube.com/@juliocasal"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCw8aBxRvQ2ksWNFuO5eHdmA"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Building Microservices With .NET",
+      "description": "Unlock The New Way To Build Cloud Ready .NET Systems At Scale",
+      "url": "https://dotnetmicroservices.com/"
+    }
+  ]
+}
