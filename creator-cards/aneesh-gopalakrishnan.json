@@ -19,8 +19,12 @@
   ],
   "feeds": [
     {
-      "type": "Blog",
-      "url": "https://rss.app/feeds/79Dl0OyyexNBxDuA.xml"
-    }
+      "type": "LinkTagRssType",
+      "url": "https://github.com/codehippie1/feeds/blob/main/aneesh_blogs.xml?raw=true"
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://github.com/codehippie1/feeds/blob/main/Aneesh_Talks.xml?raw=true"
+    },
   ]
 }
