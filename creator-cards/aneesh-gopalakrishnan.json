@@ -1,30 +1,30 @@
 {
   "name": "Aneesh Gopalakrishnan",
-  "sectionTitle": null,
-  "countryCode": "us",
-  "slogan": "Nobody Special!",
+  "countryCode": "USA",
+  "slogan": "",
   "type": "CREATOR",
   "bio": "Engineer",
-  "tags": ".NET, react",
+  "tags": ".NET, C#, ASP.NET Core, react, Azure",
   "socials": {
     "linkedin": "https://www.linkedin.com/in/aneeshlalga",
     "twitter": "https://twitter.com/aneeshlalga",
     "github": "https://github.com/codehippie1"
   },
-  "channels": [
-    {
-      "type": "Blog",
-      "url": "https://www.red-gate.com/simple-talk/development/angular/inline-pdf-viewer-in-an-angular-app-now-you-can/"
-    }
-  ],
   "feeds": [
     {
       "type": "LinkTagRssType",
-      "url": "https://github.com/codehippie1/feeds/blob/main/aneesh_blogs.xml?raw=true"
+      "url": "https://codehippie1.github.io/aneeshlal.github.io/blogs.xml"
     },
     {
       "type": "LinkTagRssType",
-      "url": "https://github.com/codehippie1/feeds/blob/main/Aneesh_Talks.xml?raw=true"
-    },
+      "url": "https://codehippie1.github.io/aneeshlal.github.io/talks.xml"
+    }
+  ],
+  "projects": [
+    {
+      "name": "ng2-pdfjs-viewer",
+      "description": "Angular PDF Viewer",
+      "url": "https://github.com/intbot/ng2-pdfjs-viewer"
+    }
   ]
 }
