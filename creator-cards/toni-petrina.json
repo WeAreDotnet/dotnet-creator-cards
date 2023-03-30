@@ -1,0 +1,32 @@
+{
+  "name": "Toni Petrina",
+  "countryCode": "hr",
+  "slogan": "Dev. Play.",
+  "type": "CREATOR",
+  "bio": "Writes instructions for computers. They misbehave. Currently SRE.",
+  "tags": ".NET, C#, ASP.NET, React, Typescript",
+  "socials": {
+    "youtube": "",
+    "linkedin": "https://www.linkedin.com/in/tonipetrina",
+    "twitter": "https://twitter.com/tonipetrina1",
+    "mastodon": "https://hachyderm.io/@tpetrina",
+    "sessionize": "https://sessionize.com/toni-petrina/",
+    "other": ""
+  },
+  "channels": [
+    {
+      "name": "Blog",
+      "url": "https://tpetrina.com"
+    }
+  ],
+  "feeds": [
+    // Please only one if multiple types are available with the same content
+    {
+      "type": "LinkTagRssType",
+      "url": "https://tpetrina.com/rss.xml"
+    },
+  ],
+  "projects": [
+    
+  ]
+}
