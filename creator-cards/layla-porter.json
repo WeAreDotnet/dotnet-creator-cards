@@ -12,7 +12,7 @@
     "twitter": "https://twitter.com/LaylaCodesIt",
     "github": "http://github.com/layla-p",
     "mastodon": "https://dotnet.social/@layla",
-    "sessionize": ""
+    "sessionize": "https://sessionize.com/layla-porter/"
   },
   "channels": [
     {
@@ -24,5 +24,9 @@
       "url": "https://www.layla.dev/"
     }
   ],
-  "feeds": []
+  "feeds": [
+    {
+      "name": "LinkTagRssType",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCrgujxhBlukMz4YH-o1cogQ"}
+  ]
 }
