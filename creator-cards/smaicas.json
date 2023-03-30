@@ -1,0 +1,30 @@
+{
+  "name": "Samuel Maícas",
+  "countryCode": "es",
+  "slogan": "",
+  "type": "CREATOR",
+  "bio": "",
+  "tags": "C#, .NET, BLAZOR, MAUI, ASP.NET ",
+  "socials": {
+    "youtube": "https://www.youtube.com/@cdecsharp",
+    "linkedin": "https://www.linkedin.com/in/samuel-ma%C3%ADcas/",
+    "twitter": "",
+    "mastodon": "",
+    "sessionize": "",
+    "other": ""
+  },
+  "channels": [
+    {
+      "name": "Twitch",
+      "url": "https://www.twitch.tv/viciostv"
+    }
+  ],
+  "feeds": [
+  ],
+  "projects": [
+    {
+      "name": "Dev N Joy Colab",
+      "url": "https://github.com/smaicas-org"
+    }
+  ]
+}
