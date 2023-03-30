@@ -21,7 +21,6 @@
     }
   ],
   "feeds": [
-    // Please only one if multiple types are available with the same content
     {
       "type": "LinkTagRssType",
       "url": "https://tpetrina.com/rss.xml"
