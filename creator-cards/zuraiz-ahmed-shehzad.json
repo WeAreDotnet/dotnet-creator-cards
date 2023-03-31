@@ -1,0 +1,29 @@
+{
+    "name": "Zuraiz Ahmed Shehzad",
+    "sectionTitle": null,
+    "countryCode": "pk",
+    "slogan": "",
+    "type": "CREATOR",
+    "bio": "",
+    "tags": ".NET, C#, Azure, Clean Coding, Microservices",
+    "socials": {
+      "youtube": "",
+      "linkedin": "https://www.linkedin.com/in/zuraiz-ahmed-shehzad-8b673117a/",
+      "twitter": "https://twitter.com/ShehzadZuraiz",
+      "github": "https://github.com/ZuraizAhmedShehzad",
+      "mastodon": "",
+      "sessionize": ""
+    },
+    "channels": [
+      {
+      "name": "Medium",
+      "url": "https://medium.com/@ZuraizAhmedShehzad"
+      }
+    ],
+    "feeds": [
+      {
+        "type": "LinkTagRssType",
+        "url": "https://medium.com/feed/@ZuraizAhmedShehzad"
+      }
+    ]
+  }
