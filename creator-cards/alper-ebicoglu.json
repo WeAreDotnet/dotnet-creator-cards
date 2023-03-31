@@ -1,0 +1,36 @@
+{
+  "name": "Alper Ebicoglu",
+  "countryCode": "tr",
+  "slogan": "",
+  "type": "creator",
+  "bio": "Full stack .NET developer; Learning, writing, building software on .NET since the early 2000s.",
+  "tags": ".NET, C#, ASP.NET, ABP.IO, Web Development Framework, Clean Architecture, Domain Driven Design",
+  "socials": {
+    "youtube": "",
+    "linkedin": "https://www.linkedin.com/in/ebicoglu/",
+    "twitter": "https://twitter.com/alperebicoglu",
+    "github": "https://github.com/berkansasmaz",
+    "mastodon": "",
+    "sessionize": "",
+    "other": "https://medium.com/@alperonline"
+  },
+  "channels": [
+    {
+      "name": "ABP Community",
+      "url": "https://community.abp.io/members/alper"
+    }
+  ],
+   "feeds": [
+    {
+      "type": "LinkTagRssType",
+      "url": "https://medium.com/feed/@alperonline"
+    }
+  ],
+  "projects": [
+    {
+      "name": "ABP Framework",
+      "description": "ABP Framework is an open-source web application framework built on top of ASP.NET Core. It is a complete infrastructure to create modern web applications by following the best practices and conventions of software development.",
+      "url": "https://github.com/abpframework/abp"
+    }
+  ]
+}
