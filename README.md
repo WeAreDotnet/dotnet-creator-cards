@@ -10,7 +10,7 @@ You must add the full URL to your GitHub profile to your card, so we can assign 
 
 ## Two Steps
 
-To becaome a creator a card and a member account is required.
+To become a creator a card and a member account is required.
 When your card has the GitHub URL of the account you have been using to sign-up we are going to link your account automatically to your card.
 
 ## What Are Creators?
