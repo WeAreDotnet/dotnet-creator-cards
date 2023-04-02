@@ -1,0 +1,25 @@
+{
+  "name": "Jaliya Udagedara",
+  "countryCode": "nzl",
+  "slogan": "Happy Coding",
+  "type": "CREATOR",
+  "bio": "A Programmer",
+  "tags": "C#, .NET, ASP.NET, Azure, Microservices",
+  "socials": {
+    "youtube": "https://www.youtube.com/@jaliyaudagedara",
+    "linkedin": "https://www.linkedin.com/in/jaliyaudagedara",
+    "twitter": "https://twitter.com/JaliyaUdagedara",
+    "github": "https://github.com/jaliyaudagedara",
+    "mastodon": "https://hachyderm.io/@jaliyaudagedara",
+    "sessionize": "https://sessionize.com/jaliya-udagedara",
+    "other": ""
+  },
+  "channels": [],
+  "feeds": [
+    {
+      "type": "LinkTagRssType",
+      "url": "https://jaliyaudagedara.blogspot.com/feeds/posts/default"
+    }
+  ],
+  "projects": []
+}
