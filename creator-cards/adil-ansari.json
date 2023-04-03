@@ -16,8 +16,12 @@
     },
     "channels": [
       {
-        "name": "Blog",
+        "name": "Medium",
         "url": "https://adil-ansari.medium.com"
+      },
+      {
+        "name": "Blog",
+        "url": "https://aop-by-adil.blogspot.com"
       }
     ],
     "feeds": [
