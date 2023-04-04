@@ -1,0 +1,28 @@
+{
+  "name": "Nick Proud",
+  "countryCode": "gbr",
+  "slogan": "",
+  "type": "CREATOR",
+  "bio": "Nick is a senior software engineer, Microsoft MVP and technology leader working within the RPA space. He create videos about C# and .NET on YouTube and is currently the Head of Software Development at NexBotix",
+  "tags": ".NET, C#,",
+  "socials": {
+    "youtube": "https://www.youtube.com/@nickproudprogrammer",
+    "linkedin": "https://www.linkedin.com/in/nickproud",
+    "twitter": "https://twitter.com/nickproud",
+    "mastodon": "https://mastodon.social/@nickproud",
+    "sessionize": "https://sessionize.com/nick-proud",
+    "github": "https://github.com/nickproud"
+  },
+  "channels": [
+    {
+      "name": "Youtube",
+      "url": "https://www.youtube.com/@nickproudprogrammer"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC231HSjku3orEpc60Rfm3nw"
+    }
+  ]
+}
