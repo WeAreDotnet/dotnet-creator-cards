@@ -1,0 +1,33 @@
+{
+  "name": "Tore Nestenius",
+  "countryCode": "se",
+  "slogan": "",
+  "type": "CREATOR",
+  "bio": "I’m an independent software consultant and trainer based in Helsingborg, Sweden.",
+  "tags": ".NET, C#, ASP.NET, Architecture, CQRS, Security, OpenID-Connect, IdentityServer",
+  "socials": {
+    "youtube": "",
+    "linkedin": "https://www.linkedin.com/in/torenestenius/",
+    "twitter": "https://twitter.com/Tndata",
+    "github": "https://github.com/tndata",
+    "sessionize": "",
+    "other": ""
+  },
+  "channels": [
+    {
+      "name": "Blog",
+      "url": "https://nestenius.se"
+    },
+    {
+      "name": "Site",
+      "url": "https://tn-data.se"
+    }
+  ],
+  "feeds": [
+    // Please only one if multiple types are available with the same content
+    {
+      "type": "LinkTagRssType",
+      "url": "https://nestenius.se/feed/"
+    }
+  ]
+}
