@@ -19,12 +19,5 @@
       "type": "LinkTagRssType",
       "url": "https://codehippie1.github.io/aneeshlal.github.io/talks.xml"
     }
-  ],
-  "projects": [
-    {
-      "name": "ng2-pdfjs-viewer",
-      "description": "Angular PDF Viewer",
-      "url": "https://github.com/intbot/ng2-pdfjs-viewer"
-    }
   ]
 }
