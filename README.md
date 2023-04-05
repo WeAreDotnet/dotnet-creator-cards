@@ -10,7 +10,7 @@ You must add the full URL to your GitHub profile to your card, so we can assign 
 
 ## Two Steps
 
-To becaome a creator a card and a member account is required.
+To become a creator a card and a member account is required.
 When your card has the GitHub URL of the account you have been using to sign-up we are going to link your account automatically to your card.
 
 ## What Are Creators?
@@ -18,7 +18,7 @@ By creators, we mean enthusiasts who create content for Blogs, YouTube, Twitch, 
 
 ## When Do We Accept Someone's Creator Card Submission? 
 
-* [ ] You must have published at least three post (long form content) since 2022 on any of your channels. 
+* [ ] You must have published at least three posts (long form content) since 2022 on any of your channels. 
 
 * [ ] There must be three content pieces in English. 
 
@@ -30,9 +30,9 @@ By creators, we mean enthusiasts who create content for Blogs, YouTube, Twitch, 
 
 ## RSS or Atom Feed 
 
-* [ ] Submit an Atom or RSS URL inside your creator card that belongs to your blog 
+* [ ] Submit an Atom or RSS URL inside your creator card that belongs to your blog.
 
-* [ ] If you do not submit an RSS or Atom URL. We cannot consider your feed for the upcoming aggregation feature. 
+* [ ] If you do not submit a RSS or Atom URL, we cannot consider your feed for the upcoming aggregation feature. 
 
 ## Content Guideline 
 
