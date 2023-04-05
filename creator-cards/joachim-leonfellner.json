@@ -1,0 +1,51 @@
+{
+  "name": "Joachim Leonfellner",
+  "countryCode": "at",
+  "slogan": "",
+  "type": "CREATOR",
+  "bio": "indie dev in ❤️ with side-projects currently living in Vienna 🇦🇹 🇪🇺 working remotely 🏝️",
+  "tags": ".NET, C#, ASP.NET, I LOVE DOTNET",
+  "socials": {
+    "youtube": "",
+    "linkedin": "",
+    "twitter": "https://twitter.com/johnny_leo",
+    "mastodon": "https://twitter.com/johnny_leo",
+    "sessionize": "",
+    "other": "https://bento.me/johnny"
+  },
+  "channels": [
+    {
+      "name": "Blog",
+      "url": "https://johnnys.news"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "AHrefFeedType",
+      "url": "https://johnnys.news/atom.xml"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Promptdle",
+      "url": "https://promptdle.com"
+    },   
+    {
+      "name": "Dots",
+      "url": "https://h3y.studio/dots/"
+    },
+      
+    {
+      "name": "W-Shock",
+      "url": "https://h3y.studio/wshock/"
+    },  
+    {
+      "name": "NoNo",
+      "url": "https://h3y.studio/nono/"
+    },  
+    {
+      "name": "OpenSee",
+      "url": "https://github.com/nor0x/OpenSee"
+    },
+  ]
+}
