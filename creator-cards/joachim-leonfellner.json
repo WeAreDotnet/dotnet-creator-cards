@@ -26,24 +26,11 @@
       "url": "https://johnnys.news/atom.xml"
     }
   ],
-  "projects": [
-    {
-      "name": "Promptdle",
-      "url": "https://promptdle.com"
-    },   
+  "projects": [ 
     {
       "name": "Dots",
-      "url": "https://h3y.studio/dots"
+      "url": "https://github.com/nor0x/dots"
     },
-      
-    {
-      "name": "W-Shock",
-      "url": "https://h3y.studio/wshock"
-    },  
-    {
-      "name": "NoNo",
-      "url": "https://h3y.studio/nono"
-    },  
     {
       "name": "OpenSee",
       "url": "https://github.com/nor0x/OpenSee"
