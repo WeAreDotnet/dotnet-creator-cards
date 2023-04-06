@@ -1,0 +1,30 @@
+{
+  "name": "Vasilii Oleinic",
+  "countryCode": "ro",
+  "slogan": "",
+  "type": "CREATOR",
+  "bio": ".NET Technical Lead & Content Creator",
+  "tags": ".NET, C#, ASP.NET, Azure, MinimalAPI",
+  "socials": {
+    "youtube": "https://www.youtube.com/channel/UCuY6_xAkpM1MhtIByZybjrA",
+    "linkedin": "https://www.linkedin.com/in/vasilii-oleinic-822096184/",
+    "twitter": "https://twitter.com/OleinicVasilii",
+    "github": "https://github.com/ByteRain0",
+    "mastodon": "",
+    "sessionize": "",
+    "other": ""
+  },
+  "channels": [
+    {
+      "name": "Youtube",
+      "url": "https://www.youtube.com/channel/UCuY6_xAkpM1MhtIByZybjrA"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCuY6_xAkpM1MhtIByZybjrA"
+    }
+  ],
+  "projects": []
+}
