@@ -21,6 +21,7 @@
 * Tools needed during development (for .NET)
 * CI/CD
 * SPA Frontend technologies like Angular, Vue.js, React etc.
+* Cloud services related to .NET applications (AWS, Azure...)
 
 
 * [ ] There must be three content pieces in English. 
@@ -33,16 +34,19 @@
 
 ## RSS or Atom Feed 
 
-* [ ] The content under feedsDotnet must be pure .NET meaning:
-
+* [ ] The content with feed.type = dotnet must be .NET related:
 * .NET itself
 * .NET libraries
 * .NET languages C#, F#, Visual Basic
 * Tools needed during development (for .NET)
 * CI/CD
 * SPA Frontend technologies like Angular, Vue.js, React etc.
+* Cloud services related to .NET applications (AWS, Azure...)
 
-* [ ] the content under feedsOffTopic may contain off-topic posts or posts indirectly related to .NET like frontend-topics, database etc.
+* [ ] the content under feed.ype = personal may contain off-topic posts.
+* Project management
+* leadership
+* Other
 
 * [ ] Submit an Atom or RSS URL inside your creator card that belongs to your blog 
 
