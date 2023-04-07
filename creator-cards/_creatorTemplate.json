@@ -13,19 +13,16 @@
     "sessionize": "",
     "other": ""
   },
-  "channels": [ // You must have published at least three post (long form content) since 2022 on any of your channels. About .NET or SPA frontend technologies
+  "channels": [
     {
       "name": "Blog|Site|Twitch|Youtube|Book|etc",
       "url": "https://www.wearedotnet.io/"
     }
   ],
-  "feedsDotnet": [ // .NET and .SPA Frontend technologies
-    "https://.../feeds/dotnet/rss.xml"
-  ],
-  "feedsOffTopic": [ // off-topic like managmement, projekt management, scrum etc goes here
-    "https://...feeds/offtopic/rss.xml"
-  ],
-  "feeds": null,
+  "feeds": [{
+    "type": "personal|dotnet",
+    "url": "https://...feeds/dotnet/rss.xml"
+  }],
   "projects": [
     {
       "name": "Project Name",
