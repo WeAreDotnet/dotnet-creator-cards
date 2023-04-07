@@ -15,6 +15,13 @@
 ## When Do We Accept Someone's Creator Card Submission? 
 
 * [ ] You must have published at least three post (long form content) since 2022 on any of your channels. 
+* .NET itself
+* .NET libraries
+* .NET languages C#, F#, Visual Basic
+* Tools needed during development (for .NET)
+* CI/CD
+* SPA Frontend technologies like Angular, Vue.js, React etc.
+
 
 * [ ] There must be three content pieces in English. 
 
@@ -25,6 +32,17 @@
 * [ ] Alternatively, you contributed with another form on a platform like YouTube, Twitch, Udemy or Pluralsight. If you have some recorded talks of conferences or anywhere else, that counts too! So in the form of a recorded video or a book. 
 
 ## RSS or Atom Feed 
+
+* [ ] The content under feedsDotnet must be pure .NET meaning:
+
+* .NET itself
+* .NET libraries
+* .NET languages C#, F#, Visual Basic
+* Tools needed during development (for .NET)
+* CI/CD
+* SPA Frontend technologies like Angular, Vue.js, React etc.
+
+* [ ] the content under feedsOffTopic may contain off-topic posts or posts indirectly related to .NET like frontend-topics, database etc.
 
 * [ ] Submit an Atom or RSS URL inside your creator card that belongs to your blog 
 
