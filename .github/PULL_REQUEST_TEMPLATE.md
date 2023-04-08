@@ -14,7 +14,15 @@
 
 ## When Do We Accept Someone's Creator Card Submission? 
 
-* [ ] You must have published at least three post (long form content) since 2022 on any of your channels. 
+* [ ] You must have published at least three content pieces (long form content) since 2022 on any of your channels. 
+* .NET itself
+* .NET libraries and projects
+* .NET languages C#, F#, Visual Basic
+* Tools needed during development (for .NET)
+* CI/CD
+* Only in combination with .NET: SPA Frontend technologies like Angular, Vue.js, React etc. 
+* Cloud services related to .NET applications (AWS, Azure...)
+
 
 * [ ] There must be three content pieces in English. 
 
@@ -26,9 +34,23 @@
 
 ## RSS or Atom Feed 
 
+* [ ] The content with feed.type = dotnet must be .NET related:
+* .NET itself
+* .NET libraries and projects
+* .NET languages C#, F#, Visual Basic
+* Tools needed during development (for .NET)
+* CI/CD
+* Only in combination with .NET: SPA Frontend technologies like Angular, Vue.js, React etc. 
+* Cloud services related to .NET applications (AWS, Azure...)
+
+* [ ] the content under feed.type = personal may contain off-topic posts.
+* Project management
+* leadership
+* Other
+
 * [ ] Submit an Atom or RSS URL inside your creator card that belongs to your blog 
 
-* [ ] If you do not submit an RSS or Atom URL. We cannot consider your feed for the upcoming aggregation feature. 
+* [ ] If you do not submit an RSS or Atom URL. We cannot consider your feed for the aggregation feature. 
 
 ## Content Guideline 
 

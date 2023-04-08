@@ -15,21 +15,14 @@
   },
   "channels": [
     {
-      "name": "Site | Twitch | Youtube | etc",
-      "url": "https://ilovedotnet.org"
+      "name": "Blog|Site|Twitch|Youtube|Book|etc",
+      "url": "https://www.wearedotnet.io/"
     }
   ],
-  "feeds": [
-    // Please only one if multiple types are available with the same content
-    {
-      "type": "LinkTagRssType",
-      "url": "rss.xml"
-    },
-    {
-      "type": "AHrefFeedType",
-      "url": "atom.xml"
-    }
-  ],
+  "feeds": [{
+    "type": "personal|dotnet",
+    "url": "https://...feeds/dotnet/rss.xml"
+  }],
   "projects": [
     {
       "name": "Project Name",
