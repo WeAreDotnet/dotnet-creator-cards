@@ -16,7 +16,7 @@
 
 * [ ] You must have published at least three post (long form content) since 2022 on any of your channels. 
 * .NET itself
-* .NET libraries
+* .NET libraries and projects
 * .NET languages C#, F#, Visual Basic
 * Tools needed during development (for .NET)
 * CI/CD
@@ -36,14 +36,14 @@
 
 * [ ] The content with feed.type = dotnet must be .NET related:
 * .NET itself
-* .NET libraries
+* .NET libraries and projects
 * .NET languages C#, F#, Visual Basic
 * Tools needed during development (for .NET)
 * CI/CD
 * SPA Frontend technologies like Angular, Vue.js, React etc.
 * Cloud services related to .NET applications (AWS, Azure...)
 
-* [ ] the content under feed.ype = personal may contain off-topic posts.
+* [ ] the content under feed.type = personal may contain off-topic posts.
 * Project management
 * leadership
 * Other
