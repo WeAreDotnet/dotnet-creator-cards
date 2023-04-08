@@ -20,7 +20,7 @@
 * .NET languages C#, F#, Visual Basic
 * Tools needed during development (for .NET)
 * CI/CD
-* SPA Frontend technologies like Angular, Vue.js, React etc.
+* Only in combination with .NET: SPA Frontend technologies like Angular, Vue.js, React etc. 
 * Cloud services related to .NET applications (AWS, Azure...)
 
 
@@ -40,7 +40,7 @@
 * .NET languages C#, F#, Visual Basic
 * Tools needed during development (for .NET)
 * CI/CD
-* SPA Frontend technologies like Angular, Vue.js, React etc.
+* Only in combination with .NET: SPA Frontend technologies like Angular, Vue.js, React etc. 
 * Cloud services related to .NET applications (AWS, Azure...)
 
 * [ ] the content under feed.type = personal may contain off-topic posts.
