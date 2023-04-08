@@ -50,7 +50,7 @@
 
 * [ ] Submit an Atom or RSS URL inside your creator card that belongs to your blog 
 
-* [ ] If you do not submit an RSS or Atom URL. We cannot consider your feed for the upcoming aggregation feature. 
+* [ ] If you do not submit an RSS or Atom URL. We cannot consider your feed for the aggregation feature. 
 
 ## Content Guideline 
 
