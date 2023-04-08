@@ -1,0 +1,23 @@
+﻿{
+  "name": "Javier Suarez",
+  "sectionTitle": null,
+  "countryCode": "es",
+  "slogan": "",
+  "type": "CREATOR",
+  "bio": "Engineer at Microsoft (.NET MAUI team) | content creator | speaker | He/Him",
+  "tags": ".NET MAUI, .NET, C#",
+  "socials": {
+    "youtube": "https://www.youtube.com/@javiersuarezruiz",
+    "linkedin": "https://www.linkedin.com/in/jsuarezruiz/",
+    "twitter": "https://twitter.com/jsuarezruiz",
+    "github": "https://github.com/jsuarezruiz",
+    "mastodon": "https://mastodon.social/@jsuarezruiz",
+    "sessionize": "https://sessionize.com/jsuarezruiz"
+  },
+  "feeds": [
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKnuLHRlK_zhrpaTWvNOdMA"
+    }
+  ]
+}
