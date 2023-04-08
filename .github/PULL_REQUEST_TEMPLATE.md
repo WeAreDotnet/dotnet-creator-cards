@@ -14,7 +14,7 @@
 
 ## When Do We Accept Someone's Creator Card Submission? 
 
-* [ ] You must have published at least three post (long form content) since 2022 on any of your channels. 
+* [ ] You must have published at least three content pieces (long form content) since 2022 on any of your channels. 
 * .NET itself
 * .NET libraries and projects
 * .NET languages C#, F#, Visual Basic
