@@ -26,8 +26,8 @@
     ],
     "feeds": [
       {
-        "type": "LinkTagRssType",
-        "url": "https://adil-ansari.medium.com/feed"
+        "type" : "dotnet",
+        "url" : "https://aop-by-adil.blogspot.com/atom.xml
       }
     ]
   }
