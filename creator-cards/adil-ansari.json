@@ -26,7 +26,11 @@
     ],
     "feeds": [
       {
-        "type": "LinkTagRssType",
+        "type" : "LinkTagRssType",
+        "url" : "https://aop-by-adil.blogspot.com/atom.xml
+      }
+      {
+        "type": "MediumRssFeed",
         "url": "https://adil-ansari.medium.com/feed"
       }
     ]
