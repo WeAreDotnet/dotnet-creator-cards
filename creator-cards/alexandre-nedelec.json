@@ -22,16 +22,12 @@
   ],
   "feeds": [
     {
-      "type": "LinkTagRssType",
+      "type": "personal",
       "url": "https://www.techwatching.dev/feed.rss"
     },
     {
-      "type": "LinkTagAtomType",
-      "url": "https://www.techwatching.dev/feed.atom"
-    },
-    {
-      "type": "AHrefFeedType",
-      "url": "https://www.techwatching.dev/feed.rss"
+      "type": "dotnet",
+      "url": "https://www.techwatching.dev/dotnet_feed.rss"
     }
   ]
 }
