@@ -1,0 +1,45 @@
+{
+  "name": "Héctor Pérez",
+  "sectionTitle": null,
+  "countryCode": "mx",
+  "slogan": "",
+  "type": "CREATOR",
+  "bio": "Freelance Consultant , Trainer , Content Creator , Speaker , .NET MAUI, Blazor, C#",
+  "tags": ".NET, .NET MAUI, C#, Blazor, Azure",
+  "socials": {
+    "youtube": "https://www.youtube.com/@devsschool",
+    "linkedin": "https://www.linkedin.com/in/hprez21/",
+    "twitter": "https://twitter.com/hprez",
+    "github": "https://github.com/hprez21",
+    "mastodon": "",
+    "sessionize": "https://sessionize.com/hector-uriel-perez-rojas"
+  },
+  "channels": [
+    {
+      "name": "Blog",
+      "url": "http://devs.school/"
+    },
+    {
+      "name": "Academy",
+      "url": "https://courses.devs.school/"
+    },
+    {
+      "name": ".NET MAUI Course",
+      "url": "https://www.udemy.com/course/net-maui-course/"
+    },
+    {
+      "name": "VS 2022 Book",
+      "url": "https://www.amazon.com/Hands-Visual-Studio-2022-productivity/dp/1801810540"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UClmm_8Uj7R30F9JHe-3nj5w"
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://devs.school/feed/"
+    }
+  ]
+}
