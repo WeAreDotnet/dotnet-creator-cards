@@ -1,0 +1,42 @@
+{
+    "name": "Thomas Ardal",
+    "countryCode": "dk",
+    "slogan": "",
+    "type": "CREATOR",
+    "bio": "I'm Thomas, a developer and founder of elmah.io",
+    "tags": ".NET, C#, ASP.NET, ASP.NET Core",
+    "socials": {
+      "youtube": "https://www.youtube.com/channel/UCVA0YUbkojey8AmY4x8Dgmw",
+      "linkedin": "https://www.linkedin.com/in/thomasardal/",
+      "twitter": "https://twitter.com/ThomasArdal",
+      "mastodon": "",
+      "sessionize": "",
+      "other": ""
+    },
+    "channels": [
+      {
+        "name": "Blog",
+        "url": "https://blog.elmah.io/"
+      },
+      {
+        "name": "Book",
+        "url": "https://leanpub.com/net-web-application-logging-essentials/"
+      }
+    ],
+    "feeds": [{
+      "type": "LinkTagRssType",
+      "url": "https://blog.elmah.io/author/thomas/rss/"
+    }],
+    "projects": [
+      {
+        "name": "NuPU",
+        "description": "NuGet Package Updater (NuPU) is an interactive CLI for updating NuGet packages.",
+        "url": "https://github.com/ThomasArdal/NuPU"
+      },
+      {
+        "name": "CronExpressions",
+        "description": "Quick info when hovering cron expressions in Visual Studio",
+        "url": "https://github.com/elmahio/CronExpressions"
+      }
+    ]
+  }
