@@ -4,12 +4,12 @@
   "countryCode": "us",
   "slogan": "",
   "type": "CREATOR",
-  "bio": "",
+  "bio": "Proven technical leader and developer with almost three decades of experience focused almost exclusively on building solutions for the Microsoft ecosystem. He is a Principal Consultant, helping clients solve problems and build amazing software. He is a blogger and writes about leadership and tech.",
   "tags": ".NET, C#",
   "socials": {
     "youtube": "",
     "linkedin": "https://www.linkedin.com/in/mjeaton/",
-    "twitter": "",
+    "twitter": "https://twitter.com/mjeaton",
     "github": "https://github.com/mjeaton",
     "mastodon": "https://fosstodon.org/@mjeaton@our.devchatter.com",
     "sessionize": ""
@@ -22,8 +22,8 @@
   ],
   "feeds": [
     {
-      "type": "LinkTagAtomType",
-      "url": "https://samestuffdifferentday.net/feed.xml"
+      "type": "LinkTagRssType",
+      "url": "https://samestuffdifferentday.net/feed/by_tag/dotnet.xml"
     },
     {
       "type": "AHrefFeedType",
