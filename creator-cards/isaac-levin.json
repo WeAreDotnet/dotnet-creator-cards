@@ -1,0 +1,33 @@
+﻿{
+  "name": "Isaac Levin",
+  "sectionTitle": null,
+  "countryCode": "us",
+  "slogan": "",
+  "type": "CREATOR",
+  "bio": "Isaac Levin is a .NET Developer Advocate at Amazon Web Services as well as a Microsoft MVP. He has over 10 years of experience working as a developer for the web, mostly in the Microsoft Ecosystem. Outside of work, he hosts a podcast called Coffee and Open Source where he interviews folks from across the tech industry as well as builds open source projects like PresenceLight and GitHub Stat Tracker. He lives outside of Seattle Washington and likes to wind down from work with his wife Ariana and his 2 sons Isaac and Avery.",
+  "tags": ".NET",
+  "socials": {
+    "youtube": "https://www.youtube.com/@isaacrlevin",
+    "linkedin": "https://www.linkedin.com/in/isaacrobinlevin",
+    "twitter": "https://twitter.com/isaacrlevin",
+    "github": "https://github.com/isaacrlevin",
+    "mastodon": "https://fosstodon.org/@isaacrlevin",
+    "sessionize": "https://sessionize.com/isaacrlevin/"
+  },
+  "channels": [
+    {
+      "name": "Coffee and Open Source",
+      "url": "https://www.coffeeandopensource.com/"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNalR7W6RGI0jVS_ZeIEQzA"
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://anchor.fm/s/63982f70/podcast/rss?utm_source=isaacl&utm_medium=twitter&utm_campaign=link&WT.mc_id=link-twitter-isaacl"
+    }    
+  ]
+}
