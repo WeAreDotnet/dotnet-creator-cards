@@ -90,41 +90,26 @@ When your card has the GitHub URL of the account you have been using to sign-up 
 ```csharp
 {
   "name": "My name is!",
-  "countryCode": "ISO COUNTRY CODE LOWERCASE",
-  "slogan": "",
   "type": "CREATOR OR MAINTAINER whatever you are primarily",
-  "bio": "Once upon a time....keep it to around 300 characters max please!",
   "tags": ".NET, C#, ASP.NET, I LOVE DOTNET",
-  "socials": {
-    "youtube": "",
-    "linkedin": "",
-    "twitter": "",
-    "mastodon": "",
-    "sessionize": "",
-    "other": ""
-  },
+  "github": "https://github.com/username",
   "channels": [
     {
-      "name": "Site | Twitch | Youtube | etc",
-      "url": "https://ilovedotnet.org"
+      "name": "Blog|Site|Twitch|Youtube|Book|etc",
+      "url": "https://www.wearedotnet.io/"
     }
   ],
-  "feeds": [
-    // Please only one if multiple types are available with the same content
-    {
-      "type": "dotnet|personal",
-      "url": "rss.xml"
-    },
-    {
-      "type": "dotnet|personal",
-      "url": "atom.xml"
-    }
-  ],
+  "feeds": [{
+    "type": "personal|dotnet",
+    "url": "https://...feeds/dotnet/rss.xml"
+  }],
   "projects": [
     {
       "name": "Project Name",
+      "description": "Project Description",
       "url": "https://github.com/<org>/project"
     }
   ]
 }
+
 ```
