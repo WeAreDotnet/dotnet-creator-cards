@@ -76,8 +76,7 @@ When your card has the GitHub URL of the account you have been using to sign-up 
 | Name         | Description                       |
 | ------------ | --------------------------------- |
 | name         | First and Lastname                |
-| slogan       | Short slogan                      |
-| type         | CREATOR | MAINTAINER                |
+| type         | CREATOR or MAINTAINER             |
 | channels     | Max. 5 channels (Blog, Site etc.) |
 | Feeds        | Max. 5 Feeds                      |
 
