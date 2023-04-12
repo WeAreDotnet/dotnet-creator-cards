@@ -1,0 +1,11 @@
+{
+  "name": "OurCoolBrandName",
+  "type": "Business|NonProfit|Personal",
+  "github": "https://github.com/username",  // THIS IS REQUIRED!
+  "blogRSS": "https://blog.example.com/rss.xml", // RSS for your companies dev/engineering blog if you have one
+  "twitter": "https://twitter.com/username", // OPTIONAL
+  "facebook": "https://www.facebook.com/username", // OPTIONAL
+  "linkedin": "https://www.linkedin.com/in/username", // OPTIONAL
+  "instagram": "https://www.instagram.com/username", // OPTIONAL
+  "youtube": "https://www.youtube.com/channel/username", // OPTIONAL
+}
