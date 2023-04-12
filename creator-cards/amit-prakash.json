@@ -1,0 +1,24 @@
+{
+  "name": "Amit Prakash",
+  "sectionTitle": null,
+  "countryCode": "IN",
+  "slogan": "",
+  "type": "CREATOR",
+  "bio": "",
+  "tags": ".NET, C#, ASP.NET Core, SQL, Angular",
+  "socials": {
+    "youtube": "",
+    "linkedin": "https://www.linkedin.com/in/dev-amit-prakash/",
+    "twitter": "",
+    "github": "https://github.com/iamitprakash",
+    "mastodon": "",
+    "sessionize": ""
+  },
+  "channels": [
+    {
+      "name": "Tech Diary",
+      "url": "https://www.linkedin.com/newsletters/7022684487754944512/"
+    }
+  ],
+  "feeds": []
+}
