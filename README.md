@@ -13,12 +13,27 @@ You must add the full URL to your GitHub profile to your card, so we can assign 
 To become a creator a card and a member account is required.
 When your card has the GitHub URL of the account you have been using to sign-up we are going to link your account automatically to your card.
 
-## What Are Creators?
-By creators, we mean enthusiasts who create content for Blogs, YouTube, Twitch, Books, and tutorial platforms (e.g. Pluralsight). The content can be free or paid.
+## #WeAreDonet Creator Submission Guidelines
 
-## When Do We Accept Someone's Creator Card Submission? 
+* [ ] Make sure to follow our [Code of Conduct](https://github.com/wearedotnet/dotnet-creator-cards/blob/master/CODE_OF_CONDUCT.md) 
 
-* [ ] You must have published at least three posts (long form content) since 2022 on any of your channels. 
+* [ ] We do not accept submissions with the sole intention of promoting a product or company.
+
+* [ ]  We add you as a creator, not your company. 
+
+* [ ]  The moderator team decides whether we accept or reject a submission.
+
+### When Do We Accept Someone's Creator Card Submission? 
+
+* [ ] You must have published at least three content pieces (long form content) since 2022 on any of your channels. 
+* .NET itself
+* .NET libraries and projects
+* .NET languages C#, F#, Visual Basic
+* Tools needed during development (for .NET)
+* CI/CD
+* Only in combination with .NET: SPA Frontend technologies like Angular, Vue.js, React etc. 
+* Cloud services related to .NET applications (AWS, Azure...)
+
 
 * [ ] There must be three content pieces in English. 
 
@@ -28,13 +43,27 @@ By creators, we mean enthusiasts who create content for Blogs, YouTube, Twitch, 
 
 * [ ] Alternatively, you contributed with another form on a platform like YouTube, Twitch, Udemy or Pluralsight. If you have some recorded talks of conferences or anywhere else, that counts too! So in the form of a recorded video or a book. 
 
-## RSS or Atom Feed 
+### RSS or Atom Feed 
 
-* [ ] Submit an Atom or RSS URL inside your creator card that belongs to your blog.
+* [ ] The content with feed.type = dotnet must be .NET related:
+* .NET itself
+* .NET libraries and projects
+* .NET languages C#, F#, Visual Basic
+* Tools needed during development (for .NET)
+* CI/CD
+* Only in combination with .NET: SPA Frontend technologies like Angular, Vue.js, React etc. 
+* Cloud services related to .NET applications (AWS, Azure...)
 
-* [ ] If you do not submit a RSS or Atom URL, we cannot consider your feed for the upcoming aggregation feature. 
+* [ ] the content under feed.type = personal may contain off-topic posts.
+* Project management
+* leadership
+* Other
 
-## Content Guideline 
+* [ ] Submit an Atom or RSS URL inside your creator card that belongs to your blog 
+
+* [ ] If you do not submit an RSS or Atom URL. We cannot consider your feed for the aggregation feature. 
+
+### Content Guideline 
 
 * [ ] If you have a self-hosted blog, please ensure you have a valid HTTPS certificate. 
 
