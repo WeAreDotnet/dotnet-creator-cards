@@ -1,11 +1,22 @@
 {
-  "name": "OurCoolBrandName",
-  "type": "Business|NonProfit|Personal",
-  "github": "https://github.com/orgName",  // THIS IS REQUIRED!
-  "blogRSS": "https://blog.example.com/rss.xml", // RSS for your companies dev/engineering blog if you have one
-  "twitter": "https://twitter.com/username", // OPTIONAL
-  "facebook": "https://www.facebook.com/username", // OPTIONAL
-  "linkedin": "https://www.linkedin.com/in/username", // OPTIONAL
-  "instagram": "https://www.instagram.com/username", // OPTIONAL
-  "youtube": "https://www.youtube.com/channel/username", // OPTIONAL
+	"name": "OurCoolBrandName",
+	"type": "Business|NonProfit|Personal",
+	"github": "https://github.com/orgName",
+	"address": {
+		"country": "UK",
+		"street": "this street 31 appartment 412",
+		"City": "London"
+	},
+	"contact": {
+		"name": "Mr Name",
+		"email": "mail@mrName.com",
+		"twitter": "",
+		"linkedIn": "companyUri"
+	},
+	"blogRSS": "https://blog.example.com/rss.xml",
+	"twitter": "https://twitter.com/username",
+	"facebook": "https://www.facebook.com/username",
+	"linkedin": "https://www.linkedin.com/in/username",
+	"instagram": "https://www.instagram.com/username",
+	"youtube": "https://www.youtube.com/channel/username"
 }
