@@ -1,7 +1,7 @@
 {
   "name": "OurCoolBrandName",
   "type": "Business|NonProfit|Personal",
-  "github": "https://github.com/username",  // THIS IS REQUIRED!
+  "github": "https://github.com/orgName",  // THIS IS REQUIRED!
   "blogRSS": "https://blog.example.com/rss.xml", // RSS for your companies dev/engineering blog if you have one
   "twitter": "https://twitter.com/username", // OPTIONAL
   "facebook": "https://www.facebook.com/username", // OPTIONAL
