@@ -1,7 +1,7 @@
 {
 	"name": "OurCoolBrandName",
 	"type": "Business|NonProfit|Personal",
-	"github": "https://github.com/orgName",
+	"github": "https://github.com/orgName", // Required, we only onboard companies active in opensource  and with a github profile
 	"address": {
 		"country": "UK",
 		"street": "this street 31 appartment 412",
