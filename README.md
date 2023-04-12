@@ -76,13 +76,8 @@ When your card has the GitHub URL of the account you have been using to sign-up 
 | Name         | Description                       |
 | ------------ | --------------------------------- |
 | name         | First and Lastname                |
-| sectionTitle | Leave empty                       |
-| countryCode  | Two letter code                   |
 | slogan       | Short slogan                      |
-| type         | CREATOR                           |
-| bio          | Max. two lines                    |
-| tags         | Max. 5 tags                       |
-| socials      | All known platforms               |
+| type         | CREATOR|MAINTAINER                |
 | channels     | Max. 5 channels (Blog, Site etc.) |
 | Feeds        | Max. 5 Feeds                      |
 
