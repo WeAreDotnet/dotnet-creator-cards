@@ -83,11 +83,11 @@ By creators, we mean enthusiasts who create content for Blogs, YouTube, Twitch, 
   "feeds": [
     // Please only one if multiple types are available with the same content
     {
-      "type": "LinkTagRssType",
+      "type": "dotnet|personal",
       "url": "rss.xml"
     },
     {
-      "type": "AHrefFeedType",
+      "type": "dotnet|personal",
       "url": "atom.xml"
     }
   ],
