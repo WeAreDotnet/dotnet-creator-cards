@@ -1,0 +1,36 @@
+{
+  "name": "Dima Enns",
+  "sectionTitle": null,
+  "countryCode": "de",
+  "slogan": "I'm Mr. Meeseeks, look at me!",
+  "type": "CREATOR",
+  "bio": "Open source developer with passion. Worked with .Net for my whole software development career (since 2008 as student). Recently hooked by Source Generator development.",
+  "tags": ".NET, C#, Dependency Injection, Source Generator, Data Virtualization",
+  "socials": {
+    "youtube": "",
+    "linkedin": "https://www.linkedin.com/in/dieter-dima-enns-276552135/",
+    "twitter": "https://twitter.com/DimonPuschkin",
+    "github": "https://github.com/Yeah69",
+    "mastodon": "",
+    "sessionize": ""
+  },
+  "channels": [],
+  "feeds": [],
+  "projects": [
+    {
+      "name": "MrMeeseeks.DIE",
+      "description": "Compile-time dependency injection container which requires minimal configuration",
+      "url": "https://github.com/Yeah69/MrMeeseeks.DIE"
+    },
+    {
+      "name": "BFF.DataVirtualizingCollection",
+      "description": "An approach to data virtualizing collections intended to be used in WPF projects.",
+      "url": "https://github.com/Yeah69/BFF.DataVirtualizingCollection"
+    },
+    {
+      "name": "MrMeeseeks.ResXTranslationCombinator",
+      "description": "A Github action that searches for default, automatically translated, and manually overriden ResX files, automatically translates missing texts, and combines them to directly usable ResX files.",
+      "url": "https://github.com/Yeah69/MrMeeseeks.ResXTranslationCombinator"
+    }
+  ]
+}
