@@ -1,19 +1,8 @@
 {
   "name": "Joachim Leonfellner",
-  "countryCode": "at",
-  "slogan": "world.hello();",
   "type": "CREATOR",
-  "bio": "indie dev in ❤️ with side-projects currently living in Vienna 🇦🇹 🇪🇺 working remotely 🏝️",
-  "tags": "dotnet, .NET, ASP.NET, .NET MAUI, Blazor, Avalonia, Uno, C#",
-  "socials": {
-    "youtube": "",
-    "linkedin": "",
-    "twitter": "https://twitter.com/johnny_leo",
-    "mastodon": "https://twitter.com/johnny_leo",
-    "github": "https://github.com/nor0x",
-    "sessionize": "",
-    "other": "https://bento.me/johnny"
-  },
+  "tags": "dotnet, .NET, C#, ASP.NET, .NET MAUI, Blazor, Avalonia, Uno, Xamarin",
+  "github": "https://github.com/nor0x",
   "channels": [
     {
       "name": "Blog",
@@ -22,7 +11,11 @@
   ],
   "feeds": [
     {
-      "type": "AHrefFeedType",
+      "type": "dotnet",
+      "url": "https://johnnys.news/tags/dotnet/atom.xml"
+    },
+    {
+      "type": "personal",
       "url": "https://johnnys.news/atom.xml"
     }
   ],
