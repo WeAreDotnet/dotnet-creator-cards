@@ -1,0 +1,40 @@
+{
+  "name": "Ricardo Josue Perez Altamirano",
+  "type": "CREATOR",
+  "tags": ".NET, C#, ASP.NET, I LOVE DOTNET,Azure",
+  "github": "https://github.com/RicardoJosuePerezAltamirano",
+  "channels": [
+    {
+      "name": "Youtube",
+      "url": "https://www.youtube.com/c/RicardoJosue"
+    },{
+      "name": "Sessionize",
+      "url": "https://sessionize.com/ricardo-josue-perez-altamirano/"
+    },{
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/ricardojosue/"
+    },{
+      "name": "Twitter",
+      "url": "https://twitter.com/RicardoJosue04"
+    },{
+      "name": "Blog",
+      "url": "https://dev.to/ricardojosue04"
+    }
+  ],
+  "feeds": [{
+    "type": "personal|dotnet",
+    "url": "https://...feeds/dotnet/rss.xml"
+  }],
+  "projects": [
+    {
+      "name": "DemoServiciosNativosMAUI",
+      "description": "Demo del consumo de servicios nativos en android usando .NET MAUI",
+      "url": "https://github.com/RicardoJosuePerezAltamirano/DemoServiciosNativosMAUI"
+    },
+     {
+      "name": "Sysne.BottomDrawer",
+      "description": "Adaptacion de control Button Drawer para aplicaciones con Xamarin Forms",
+      "url": "https://www.nuget.org/packages/Sysne.BottomDrawer"
+    }
+  ]
+}
