@@ -1,6 +1,5 @@
 ﻿{
   "name": "Tim Cadenbach",
-  "sectionTitle": null,
   "countryCode": "de",
   "slogan": "",
   "type": "CREATOR",
@@ -20,5 +19,22 @@
       "url": "https://www.tcdev.de/blog"
     }
   ],
-  "feeds": []
+  "feeds": [],
+  "projects": [
+    {
+      "name": "Net Dynamic API",
+      "description": "A library that turns your model into a fully working API, define your model as markdown (soon), json or c#.",
+      "url": "https://github.com/WeAreDotnet/dotnet-creator-cards"
+    },
+    {
+      "name": "dotnet-creator-cards",
+      "description": "This repository feeds the creator list at WeAreDotnet. It is also used to track issues and suggestions",
+      "url": "https://github.com/DeeJayTC/net-dynamic-api"
+    },
+    {
+      "name": "Net Dynamic API",
+      "description": "A collection of various .NET extension methods, useful functions and other things",
+      "url": "https://github.com/DeeJayTC/dotnet-utils"
+    }
+  ]
 }
