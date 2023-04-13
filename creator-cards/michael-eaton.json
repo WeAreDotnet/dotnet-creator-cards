@@ -22,11 +22,11 @@
   ],
   "feeds": [
     {
-      "type": "LinkTagRssType",
+      "type": "dotnet",
       "url": "https://samestuffdifferentday.net/feed/by_tag/dotnet.xml"
     },
     {
-      "type": "AHrefFeedType",
+      "type": "personal",
       "url": "https://samestuffdifferentday.net/feed.xml"
     }
   ]
