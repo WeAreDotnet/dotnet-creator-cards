@@ -1,5 +1,5 @@
 {
-  "name": "Héctor Pérez",
+  "name": "HÃ©ctor PÃ©rez",
   "sectionTitle": null,
   "countryCode": "mx",
   "slogan": "",
@@ -34,11 +34,11 @@
   ],
   "feeds": [
     {
-      "type": "LinkTagRssType",
+      "type": "dotnet",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UClmm_8Uj7R30F9JHe-3nj5w"
     },
     {
-      "type": "LinkTagRssType",
+      "type": "dotnet",
       "url": "https://devs.school/feed/"
     }
   ]
