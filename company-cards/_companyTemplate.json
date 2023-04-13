@@ -7,7 +7,7 @@
 		"street": "this street 31 appartment 412",
 		"City": "London"
 	},
-	"contact": {
+	"contact": { // Please give us a DevRel contact or someone in charge of your open source projects!
 		"name": "Mr Name",
 		"email": "mail@mrName.com",
 		"twitter": "",
