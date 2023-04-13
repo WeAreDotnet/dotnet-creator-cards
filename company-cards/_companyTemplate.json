@@ -3,10 +3,10 @@
 	"type": "Business|NonProfit|Personal",
 	"github": "https://github.com/orgName", // Required, we only onboard companies active in opensource  and with a github profile
 	"contact": { // Please give us a DevRel contact or someone in charge of your open source projects!
-		"name": "Mr Name",
+		"name": "Person or Department name",
 		"email": "mail@mrName.com",
-		"twitter": "",
-		"linkedIn": "companyUri"
+		"twitter": "",// only for individuals
+		"linkedIn": "companyUri" // only for individuals
 	},
 	"blogRSS": "https://blog.example.com/rss.xml",
 	"twitter": "https://twitter.com/username",
