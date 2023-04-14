@@ -22,12 +22,8 @@
   ],
   "feeds": [
     {
-      "type": "LinkTagRssType",
-      "url": "https://berkansasmaz.com/index.xml"
-    },
-    {
-      "type": "LinkTagRssType",
-      "url": "https://berkansasmaz.com/index.xml"
+      "type": "dotnet",
+      "url": "https://www.berkansasmaz.com/rss"
     }
   ]
 }
