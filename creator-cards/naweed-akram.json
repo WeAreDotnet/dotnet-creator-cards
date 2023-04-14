@@ -19,6 +19,18 @@
   },
   "projects": [
     {
+      "type": "LinkTagRssType",
+      "url": "https://blogs.xgenoapps.com/syndication.axd"
+    },
+    {
+      "type": "LinkTagAtomType",
+      "url": "https://blogs.xgenoapps.com/syndication.axd?format=atom"
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUk0jFsrql8cJU5YOUj9yag"
+    },
+    {
       "name": "XGENO.DBMapper",
       "description": "A very simple Micro ORM tool for SQL Server 2005 and above. It is a set of extension methods for the SqlConnection object.",
       "url": "https://github.com/naweed/XGENO.DBMapper"
@@ -42,6 +54,6 @@
       "name": "MauiScientificCalculator",
       "description": "A simple scientific calculator built using .NET MAUI.",
       "url": "https://github.com/naweed/MauiScientificCalculator"
-    },
+    }
   ]
 }
