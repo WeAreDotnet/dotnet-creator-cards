@@ -27,13 +27,13 @@
   }],
   "projects": [
     {
-      "name": "DemoServiciosNativosMAUI",
-      "description": "Demo del consumo de servicios nativos en android usando .NET MAUI",
+      "name": "DemoNativeServicesMAUI",
+      "description": "Demo of consuming native services on android using .NET MAUI",
       "url": "https://github.com/RicardoJosuePerezAltamirano/DemoServiciosNativosMAUI"
     },
      {
       "name": "Sysne.BottomDrawer",
-      "description": "Adaptacion de control Button Drawer para aplicaciones con Xamarin Forms",
+      "description": "Adaptation of Button Drawer control for applications with Xamarin Forms",
       "url": "https://www.nuget.org/packages/Sysne.BottomDrawer"
     }
   ]
