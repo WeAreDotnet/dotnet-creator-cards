@@ -1,0 +1,32 @@
+{
+  "name": "Joachim Leonfellner",
+  "type": "CREATOR",
+  "tags": "dotnet, .NET, C#, ASP.NET, .NET MAUI, Blazor, Avalonia, Uno, Xamarin",
+  "github": "https://github.com/nor0x",
+  "channels": [
+    {
+      "name": "Blog",
+      "url": "https://johnnys.news"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "dotnet",
+      "url": "https://johnnys.news/tags/dotnet/atom.xml"
+    },
+    {
+      "type": "personal",
+      "url": "https://johnnys.news/atom.xml"
+    }
+  ],
+  "projects": [ 
+    {
+      "name": "Dots",
+      "url": "https://github.com/nor0x/dots"
+    },
+    {
+      "name": "OpenSee",
+      "url": "https://github.com/nor0x/OpenSee"
+    },
+  ]
+}
