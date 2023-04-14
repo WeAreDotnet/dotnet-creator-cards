@@ -22,8 +22,8 @@
     }
   ],
   "feeds": [{
-    "type": "personal|dotnet",
-    "url": "https://...feeds/dotnet/rss.xml"
+    "type": "dotnet",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5Rh7fFBjc8_EBEeEXg67aw"
   }],
   "projects": [
     {
