@@ -17,7 +17,7 @@
     "twitter": "https://twitter.com/xgeno",
     "github": "https://github.com/naweed"
   },
-  "projects": [
+  "feeds": [
     {
       "type": "LinkTagRssType",
       "url": "https://blogs.xgenoapps.com/syndication.axd"
@@ -30,6 +30,8 @@
       "type": "LinkTagRssType",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUk0jFsrql8cJU5YOUj9yag"
     },
+  ],
+  "projects": [
     {
       "name": "XGENO.DBMapper",
       "description": "A very simple Micro ORM tool for SQL Server 2005 and above. It is a set of extension methods for the SqlConnection object.",
