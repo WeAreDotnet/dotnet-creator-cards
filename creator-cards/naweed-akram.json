@@ -19,15 +19,15 @@
   },
   "feeds": [
     {
-      "type": "LinkTagRssType",
+      "type": "personal",
       "url": "https://blogs.xgenoapps.com/syndication.axd"
     },
     {
-      "type": "LinkTagAtomType",
+      "type": "personal",
       "url": "https://blogs.xgenoapps.com/syndication.axd?format=atom"
     },
     {
-      "type": "LinkTagRssType",
+      "type": "personal",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUk0jFsrql8cJU5YOUj9yag"
     },
   ],
