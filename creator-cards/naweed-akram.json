@@ -1,37 +1,61 @@
-﻿{
+{
   "name": "Naweed Akram",
-  "sectionTitle": null,
-  "countryCode": "bh",
-  "slogan": "",
   "type": "CREATOR",
-  "bio": "",
-  "tags": ".NET MAUI",
-  "socials": {
-    "youtube": "https://www.youtube.com/@naweedakram",
-    "linkedin": "https://www.linkedin.com/in/naweed/",
-    "twitter": "https://twitter.com/xgeno",
-    "github": "",
-    "mastodon": "",
-    "sessionize": ""
-  },
+  "tags": ".NET, C#, .NET MAUI, Xamarin, Mobile",
+  "bio": "Solution Architect, Developer/Evangalist, Certified Project Management Professional (PMI-PMP), Enterprise Architect (TOGAF 9). Like to help community.",
+  "countryCode": "bh",
+  "github": "https://github.com/naweed",
   "channels": [
     {
       "name": "Blog",
       "url": "https://blogs.xgenoapps.com/"
     }
   ],
+  "socials": {
+    "youtube": "https://www.youtube.com/@naweedakram",
+    "linkedin": "https://www.linkedin.com/in/naweed/",
+    "twitter": "https://twitter.com/xgeno",
+    "github": "https://github.com/naweed"
+  },
   "feeds": [
     {
-      "type": "LinkTagRssType",
+      "type": "personal",
       "url": "https://blogs.xgenoapps.com/syndication.axd"
     },
     {
-      "type": "LinkTagAtomType",
+      "type": "personal",
       "url": "https://blogs.xgenoapps.com/syndication.axd?format=atom"
     },
     {
-      "type": "LinkTagRssType",
+      "type": "personal",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUk0jFsrql8cJU5YOUj9yag"
+    },
+  ],
+  "projects": [
+    {
+      "name": "XGENO.DBMapper",
+      "description": "A very simple Micro ORM tool for SQL Server 2005 and above. It is a set of extension methods for the SqlConnection object.",
+      "url": "https://github.com/naweed/XGENO.DBMapper"
+    },
+    {
+      "name": "MauiTubePlayer",
+      "description": "A REAL and BEAUTIFUL Youtube Clone app built using .Net Maui.",
+      "url": "https://github.com/naweed/MauiTubePlayer"
+    },
+    {
+      "name": "Maui Planets",
+      "description": "Planets Mobile App UI built using .Net Maui.",
+      "url": "https://github.com/naweed/MauiPlanets"
+    },
+    {
+      "name": "Beautiful BMI Calculator",
+      "description": "A simple and gorgeous BMI Calculator built using .NET MAUI and Skia Sharp.",
+      "url": "https://github.com/naweed/MauiBMICalculator"
+    },
+    {
+      "name": "MauiScientificCalculator",
+      "description": "A simple scientific calculator built using .NET MAUI.",
+      "url": "https://github.com/naweed/MauiScientificCalculator"
     }
   ]
 }
