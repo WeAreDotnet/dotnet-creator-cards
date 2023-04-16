@@ -1,0 +1,33 @@
+{
+  "name": "Johan Svensson",
+  "type": "CREATOR",
+  "tags": ".NET, C#, .NET MAUI, Xamarin, Mobile",
+  "github": "https://github.com/SirJohnK",
+  "channels": [
+    {
+      "name": "Blog",
+      "url": "https://sirjohnk.com/"
+    }
+  ],
+  "feeds": [{
+    "type": "dotnet",
+    "url": "https://sirjohnk.com/feed.xml"
+  }],
+  "projects": [
+    {
+      "name": "LocalizationResourceManager.Maui",
+      "description": "Enhanced .NET MAUI version of the Xamarin Community Toolkit LocalizationResourceManager.",
+      "url": "https://github.com/SirJohnK/LocalizationResourceManager.Maui"
+    },
+    {
+      "name": "Awesome.FeedParser",
+      "description": "Awesome feed parser library.",
+      "url": "https://github.com/SirJohnK/Awesome.FeedParser"
+    },
+    {
+      "name": "Awesome.StringExtensions",
+      "description": "A collection of awesome string extension methods.",
+      "url": "https://github.com/SirJohnK/Awesome.StringExtensions"
+    }
+  ]
+}
