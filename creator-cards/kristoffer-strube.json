@@ -18,7 +18,7 @@
   ],
   "feeds": [
     {
-      "type": "personel",
+      "type": "personal",
       "url": "https://kristoffer-strube.dk/RSS.xml"
     },
     {
