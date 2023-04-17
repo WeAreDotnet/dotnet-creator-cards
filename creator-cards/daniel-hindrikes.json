@@ -1,18 +1,18 @@
-﻿{
+{
   "name": "Daniel Hindrikes",
   "sectionTitle": null,
   "countryCode": "se",
   "slogan": "",
   "type": "CREATOR",
-  "bio": "",
-  "tags": ".NET MAUI, Blazor, Azure",
+  "bio": "Developer, and architect with focus on mobile- and cloud solutions using .NET and Azure.",
+  "tags": ".NET MAUI, Blazor, Azure, .NET",
   "socials": {
     "youtube": "https://www.youtube.com/c/DanielHindrikes",
-    "linkedin": "",
+    "linkedin": "https://www.linkedin.com/in/daniel-hindrikes/",
     "twitter": "https://twitter.com/hindrikes",
     "github": "https://github.com/dhindrik",
-    "mastodon": "",
-    "sessionize": ""
+    "mastodon": "https://dotnet.social/@danielhindrikes",
+    "sessionize": "https://sessionize.com/daniel-hindrikes/"
   },
   "channels": [
     {
