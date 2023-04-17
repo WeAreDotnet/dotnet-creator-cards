@@ -1,0 +1,43 @@
+{
+  "name": "Bastian Eicher",
+  "countryCode": "de",
+  "type": "CREATOR",
+  "tags": ".NET, C#, ASP.NET Core, REST, API",
+  "socials": {
+    "github": "https://github.com/bastianeicher",
+  },
+  "channels": [],
+  "feeds": [],
+  "projects": [
+    {
+      "name": "Zero Install",
+      "description": "decentralised cross-platform software installation system",
+      "url": "https://github.com/0install/0install-win"
+    },
+    {
+      "name": "TypedRest",
+      "description": "build type-safe, fluent-style REST API clients",
+      "url": "https://github.com/TypedRest/TypedRest-DotNet"
+    },
+    {
+      "name": "OpenServiceBroker libs",
+      "description": "client and server implementations of Open Service Broker API",
+      "url": "https://github.com/TypedRest/OpenServiceBroker"
+    },
+    {
+      "name": "Razor2Pdf",
+      "description": "renders APS.NET Core Razor Pages as PDFs using WeasyPrint",
+      "url": "https://github.com/nano-byte/Razor2Pdf"
+    },
+    {
+      "name": "SAT Solver",
+      "description": "DPLL boolean satisfiability solver",
+      "url": "https://github.com/nano-byte/sat-solver"
+    },
+    {
+      "name": "Structure Editor",
+      "description": "WinForms library for building split-screen editors for data structures",
+      "url": "https://github.com/nano-byte/structure-editor"
+    }
+  ]
+}
