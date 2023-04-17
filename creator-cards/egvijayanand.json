@@ -1,0 +1,70 @@
+{
+  "name": "Vijay Anand E G",
+  "sectionTitle": null,
+  "countryCode": "in",
+  "slogan": "",
+  "type": "CREATOR",
+  "bio": ".NET Geek | Blogger | Content Creator | .NET MAUI, Blazor, C# | He/Him",
+  "tags": ".NET, C#, .NET MAUI, ASP.NET, Blazor",
+  "github": "https://github.com/egvijayanand",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/egvijayanand",
+    "twitter": "https://twitter.com/egvijayanand",
+    "github": "https://github.com/egvijayanand",
+    "nuget": "https://www.nuget.org/profiles/egvijayanand"
+  },
+  "channels": [
+    {
+      "name": "Blog",
+      "url": "https://egvijayanand.in/"
+    },
+    {
+      "name": "Site",
+      "url": "https://egvijayanand.in/"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "LinkTagRssType",
+      "url": "https://egvijayanand.in/feed/"
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://egvijayanand.in/feed/rss/"
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://egvijayanand.in/feed/rss2/"
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://egvijayanand.in/feed/rdf/"
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://egvijayanand.in/feed/atom/"
+    }
+  ],
+  "projects": [
+    {
+      "name": ".NET MAUI Template Pack",
+      "description": ".NET MAUI Project and Item Templates for VS2022 and CLI.",
+      "url": "https://github.com/egvijayanand/dotnet-maui-templates"
+    },
+    {
+      "name": "Blazor Windows desktop project templates",
+      "description": "Blazor Windows desktop project templates.",
+      "url": "https://github.com/egvijayanand/blazor-project-templates"
+    },
+    {
+      "name": ".NET MAUI Toolkit",
+      "description": ".NET MAUI Toolkit is a set of fluent helper methods and classes to simplify working with .NET MAUI.",
+      "url": "https://github.com/egvijayanand/dotnet-maui-toolkit"
+    },
+    {
+      "name": "Weekly Xamarin Blazor",
+      "description": "Weekly Xamarin with Blazor and C#. Developed with BlazorWebView component hosted in .NET MAUI, Windows Forms, and WPF. Also has a Blazor Server and WebAssembly. Core logic as Razor Class Library.",
+      "url": "https://github.com/egvijayanand/WeeklyXamarinBlazor"
+    }
+  ]
+}
