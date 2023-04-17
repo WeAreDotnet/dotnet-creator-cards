@@ -25,23 +25,7 @@
   ],
   "feeds": [
     {
-      "type": "LinkTagRssType",
-      "url": "https://egvijayanand.in/feed/"
-    },
-    {
-      "type": "LinkTagRssType",
-      "url": "https://egvijayanand.in/feed/rss/"
-    },
-    {
-      "type": "LinkTagRssType",
-      "url": "https://egvijayanand.in/feed/rss2/"
-    },
-    {
-      "type": "LinkTagRssType",
-      "url": "https://egvijayanand.in/feed/rdf/"
-    },
-    {
-      "type": "LinkTagRssType",
+      "type": "dotnet",
       "url": "https://egvijayanand.in/feed/atom/"
     }
   ],
