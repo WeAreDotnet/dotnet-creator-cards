@@ -6,12 +6,12 @@
   "channels": [
     {
       "name": "Blog",
-      "url": "https:// baaitje.net/"
+      "url": "https://baaijte.net/"
     }
   ],
   "feeds": [{
     "type": "dotnet",
-    "url": "https://https://baaijte.net/feed/rss" 
+    "url": "https://baaijte.net/feed/rss" 
   }],
   "projects": [
     {
