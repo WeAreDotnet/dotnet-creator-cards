@@ -5,18 +5,6 @@
   "github": "https://github.com/RicardoJosuePerezAltamirano",
   "channels": [
     {
-      "name": "Youtube",
-      "url": "https://www.youtube.com/c/RicardoJosue"
-    },{
-      "name": "Sessionize",
-      "url": "https://sessionize.com/ricardo-josue-perez-altamirano/"
-    },{
-      "name": "LinkedIn",
-      "url": "https://www.linkedin.com/in/ricardojosue/"
-    },{
-      "name": "Twitter",
-      "url": "https://twitter.com/RicardoJosue04"
-    },{
       "name": "Blog",
       "url": "https://dev.to/ricardojosue04"
     }
