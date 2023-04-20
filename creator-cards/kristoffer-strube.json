@@ -1,0 +1,46 @@
+{
+  "name": "Kristoffer Strube",
+  "countryCode": "dk",
+  "type": "CREATOR",
+  "bio": ".NET developer, Comp.-Sci. MSc., and Blazor enthusiast. ",
+  "tags": "Blazor, .NET, C#, ASP.NET, SVG",
+  "socials": {
+    "twitter": "https://twitter.com/KStrubeG",
+    "linkedin": "https://www.linkedin.com/in/kristofferstrube/",
+    "mastodon": "https://hachyderm.io/@KristofferStrube"
+  },
+  "github": "https://github.com/KristofferStrube",
+  "channels": [
+    {
+      "name": "Blog",
+      "url": "https://kristoffer-strube.dk/"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "personal",
+      "url": "https://kristoffer-strube.dk/RSS.xml"
+    },
+    {
+      "type": "dotnet",
+      "url": "https://kristoffer-strube.dk/RSS.dotnet.xml"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Blazor.FileSystemAccess",
+      "description": "A Blazor wrapper for the File System Access browser API.",
+      "url": "https://github.com/KristofferStrube/Blazor.FileSystemAccess"
+    },
+    {
+      "name": "EditorConfigWizard",
+      "description": "A Wizard for creating and editing EditorConfig files.",
+      "url": "https://github.com/KristofferStrube/EditorConfigWizard"
+    },
+    {
+      "name": "Blazor.SVGEditor",
+      "description": "A basic SVG editor written in Blazor Wasm.",
+      "url": "https://github.com/KristofferStrube/Blazor.SVGEditor"
+    }
+  ]
+}
