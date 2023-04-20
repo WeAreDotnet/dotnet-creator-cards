@@ -12,11 +12,11 @@
   "feeds": [
     {
       "type": "dotnet",
-      "url": "https://johnnys.news/tags/dotnet/atom.xml"
+      "url": "https://johnnys.news/tags/dotnet/rss.xml"
     },
     {
       "type": "personal",
-      "url": "https://johnnys.news/atom.xml"
+      "url": "https://johnnys.news/rss.xml"
     }
   ],
   "projects": [ 
