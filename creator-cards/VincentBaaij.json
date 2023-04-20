@@ -1,0 +1,23 @@
+{
+  "name": "Vincent Baaij" ,
+  "type": "CREATOR",
+  "tags": ".NET, C#, Blazor ASP.NET, Azure",
+  "github": "https://github.com/vnbaaij",
+  "channels": [
+    {
+      "name": "Blog",
+      "url": "https://baaijte.net/"
+    }
+  ],
+  "feeds": [{
+    "type": "dotnet",
+    "url": "https://baaijte.net/feed/rss" 
+  }],
+  "projects": [
+    {
+      "name": "Fluent UI Blazor ",
+      "description": "Fluent UI component for Blazor ",
+      "url": "https://github.com/microsoft/fluentui-blazor"
+    }
+  ]
+}
