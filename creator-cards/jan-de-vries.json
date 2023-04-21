@@ -25,11 +25,11 @@
   ],
   "feeds": [
     {
-      "type": "LinkTagRssType",
+      "type": "dotnet",
       "url": "https://jan-v.nl/index.xml"
     },
     {
-      "type": "LinkTagRssType",
+      "type": "dotnet",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLfd7HBMLYJ0Muou1ihl_DA"
     }
   ],
