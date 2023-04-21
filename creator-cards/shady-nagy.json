@@ -20,5 +20,12 @@
       "url": "https://shadynagy.com/"
     }
   ],
-  "feeds": []
+  "feeds": [{
+    "type": "personal",
+    "url": "https://shadynagy.com/rss.xml"
+  },
+  {
+    "type": "dotnet",
+    "url": "https://shadynagy.com/dotnet.xml"
+  }],
 }
