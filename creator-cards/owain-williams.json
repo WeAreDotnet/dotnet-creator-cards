@@ -3,7 +3,7 @@
   "sectionTitle": null,
   "countryCode": "uk",
   "slogan": "",
-  "type": "dotnet",
+  "type": "CREATOR",
   "bio": "Hi I'm Owain, I'm an Umbraco CMS MVP, .Net Meetup organiser and Lego fan",
   "tags": ".NET, C#, ASP.NET Core, Umbraco CMS",
   "socials": {
@@ -22,7 +22,7 @@
   ],
   "feeds": [
     {
-      "type": "LinkTagRssType",
+      "type": "dotnet",
       "url": "https://owain.codes/rss"
     }
   ]
