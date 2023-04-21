@@ -1,0 +1,29 @@
+{
+  "name": "Owain Williams",
+  "sectionTitle": null,
+  "countryCode": "uk",
+  "slogan": "",
+  "type": "CREATOR",
+  "bio": "Hi I'm Owain, I'm an Umbraco CMS MVP, .Net Meetup organiser and Lego fan",
+  "tags": ".NET, C#, ASP.NET Core, Umbraco CMS",
+  "socials": {
+    "youtube": "",
+    "linkedin": "https://www.linkedin.com/in/owainwilliams//",
+    "twitter": "https://twitter.com/owaincodes",
+    "github": "https://github.com/OwainWilliams",
+    "mastodon": "",
+    "sessionize": ""
+  },
+  "channels": [
+    {
+      "name": "Blog",
+      "url": "https://owain.codes"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "LinkTagRssType",
+      "url": "https://owain.codes/rss"
+    }
+  ]
+}
