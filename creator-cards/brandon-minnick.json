@@ -1,0 +1,44 @@
+{
+  "name": "Brandon Minnick",
+  "type": "CREATOR",
+  "tags": ".NET, C#, .NET MAUI, Xamarin, Mobile, iOS, Android",
+  "countryCode": "us",
+  "github": "https://github.com/brminnick",
+  "channels": [
+    {
+      "name": "Blog",
+      "url": "https://codetraveler.io/"
+    }
+  ],
+  "feeds": [{
+    "type": "dotnet",
+    "url": "https://codetraveler.io/rss"
+  }],
+  "projects": [
+    {
+      "name": "GitTrends",
+      "description": "A iOS and Android app to monitor the Views, Clones and Star history of your GitHub repos",
+      "url": "https://github.com/brminnick/GitTrends"
+    },
+    {
+      "name": ".NET MAUI Community Toolkit",
+      "description": "The .NET MAUI Community Toolkit is a community-created library that contains .NET MAUI Extensions, Advanced UI/UX Controls, and Behaviors to help make your life as a .NET MAUI developer easier",
+      "url": "https://github.com/CommunityToolkit/Maui"
+    },
+    {
+      "name": ".NET MAUI Markup Community Toolkit",
+      "description": "The .NET MAUI Markup Community Toolkit is a community-created library that contains Fluent C# Extension Methods to easily create your User Interface in C#",
+      "url": "https://github.com/CommunityToolkit/Maui.Markup"
+    },
+    {
+      "name": "AsyncAwaitBestPractices",
+      "description": "Extensions for System.Threading.Tasks.Task and System.Threading.Tasks.ValueTask",
+      "url": "https://github.com/brminnick/AsyncAwaitBestPractices"
+    },
+    {
+      "name": "GitHubApiStatus",
+      "description": "A .NET library to easily parse GitHub's API Rate Limit",
+      "url": "https://github.com/brminnick/GitHubApiStatus"
+    },
+  ]
+}
