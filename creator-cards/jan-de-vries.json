@@ -1,0 +1,53 @@
+{
+  "name": "Jan de Vries",
+  "type": "CREATOR",
+  "countryCode": "nl",
+  "slogan": "If it doesn't go the way it should, it should go the way it can.",
+  "tags": "Azure, .NET, C#, ASP.NET, DevOps",
+  "github": "https://github.com/jandev/",
+  "channels": [
+    {
+      "name": "Blog",
+      "url": "https://jan-v.nl/"
+    },
+    {
+      "name": "Youtube",
+      "url": "https://www.youtube.com/@Jandev"
+    },
+    {
+      "name": "Mastodon",
+      "url": "https://mastodon.cloud/@Jandev"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jandv/"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "dotnet",
+      "url": "https://jan-v.nl/index.xml"
+    },
+    {
+      "type": "dotnet",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLfd7HBMLYJ0Muou1ihl_DA"
+    }
+  ],
+  "projects": [
+    {
+      "name": "URL Minifier",
+      "description": "A globally distributed URL minifier.",
+      "url": "https://github.com/jandev/minifier"
+    },
+    {
+      "name": "GUID codes",
+      "description": "Small project which returns new guids on request.",
+      "url": "https://github.com/Jandev/guid-api"
+    },
+    {
+      "name": "ADR CLI tool",
+      "description": "A CLI tool to create ADR documents.",
+      "url": "https://github.com/Jandev/adr-cli"
+    }
+  ]
+}
