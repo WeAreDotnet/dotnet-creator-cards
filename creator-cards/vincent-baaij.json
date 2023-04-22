@@ -10,7 +10,7 @@
     }
   ],
   "feeds": [{
-    "type": "LinkTagRssType",
+    "type": "dotnet",
     "url": "https://baaijte.net/feed/rss" 
   }],
   "projects": [
