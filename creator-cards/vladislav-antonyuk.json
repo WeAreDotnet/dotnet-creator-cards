@@ -6,19 +6,47 @@
   "type": "CREATOR",
   "bio": "",
   "tags": ".NET, C#, .NET MAUI, Blazor, Azure",
-  "socials": {
-    "youtube": "",
-    "linkedin": "https://www.linkedin.com/in/vladislav-antonyuk",
-    "twitter": "",
-    "github": "",
-    "mastodon": "",
-    "sessionize": ""
-  },
+  "github": "https://github.com/VladislavAntonyuk",
   "channels": [
     {
       "name": "Blog",
       "url": "https://vladislavantonyuk.github.io"
+    },
+    {
+      "name": "Blog",
+      "url": "https://vladislavantonyuk.azurewebsites.net"
     }
   ],
-  "feeds": []
+  "feeds": [
+    {
+      "type": "dotnet",
+      "url": "https://vladislavantonyuk.github.io/rss"
+    },
+    {
+      "type": "dotnet",
+      "url": "https://vladislavantonyuk.azurewebsites.net/rss"
+    }
+  ],
+  "projects": [
+    {
+      "name": "MauiSamples",
+      "description": ".NET MAUI Samples.",
+      "url": "https://github.com/VladislavAntonyuk/MauiSamples"
+    },
+    {
+      "name": ".NET Templates",
+      "description": ".NET Templates like Cross-platform Onion Architecture app.",
+      "url": "https://github.com/VladislavAntonyuk/.NET-Templatess"
+    },
+    {
+      "name": "Continue on PC",
+      "description": "Android Share and iOS Safari Extension to continue browsing on Desktop.",
+      "url": "https://github.com/VladislavAntonyuk/ContinueOnPC"
+    },
+    {
+      "name": ".NET MAUI Community Toolkit",
+      "description": "The .NET MAUI Community Toolkit is a community-created library that contains .NET MAUI Extensions, Advanced UI/UX Controls, and Behaviors to help make your life as a .NET MAUI developer easier.",
+      "url": "https://github.com/CommunityToolkit/Maui"
+    }
+  ]
 }
