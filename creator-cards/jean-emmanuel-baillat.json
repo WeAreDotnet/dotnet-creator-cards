@@ -1,0 +1,24 @@
+{
+  "name": "Jean-Emmanuel Baillat",
+  "type": "CREATOR",
+  "tags": "C#, .NET MAUI, Xamarin.Forms, Beginner, French",
+  "countryCode": "fr",
+  "github": "https://www.github.com/Kapusch",
+  "channels": [
+    {
+      "name": "Blog",
+      "url": "https://www.mauicestclair.fr/"
+    }
+  ],
+  "feeds": [{
+    "type": "dotnet",
+    "url": "https://www.mauicestclair.fr/index.xml"
+  }],
+  "projects": [
+    {
+      "name": "Export Notion to Hugo",
+      "description": "A .NET Console App to export your Notion pages as markdown and publish them to your Hugo static web site.",
+      "url": "https://github.com/Kapusch/export-notion-to-hugo"
+    }
+  ]
+}
