@@ -10,14 +10,19 @@
     }
   ],
   "feeds": [{
-    "type": "dotnet",
+    "type": "LinkTagRssType",
     "url": "https://baaijte.net/feed/rss" 
   }],
   "projects": [
     {
       "name": "Fluent UI Blazor ",
-      "description": "Fluent UI component for Blazor ",
+      "description": "Fluent UI Blazor components",
       "url": "https://github.com/microsoft/fluentui-blazor"
-    }
+    },
+    {
+      "name": "Docs and demos for Fluent UI Blazor",
+      "description": "Docs and demo site for Fluent UI Blazor component library",
+      "url": "https://www.fluentui-blazor.net"
+    },
   ]
 }
