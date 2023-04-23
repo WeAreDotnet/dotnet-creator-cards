@@ -1,11 +1,11 @@
 ﻿{
   "name": "Mukesh Murugan",
-  "sectionTitle": null,
   "countryCode": "in",
   "slogan": "",
   "type": "CREATOR",
   "bio": "Software Engineer, Blogger & Open Source Contributor working on .NET, Golang, AWS, and other related technologies.",
   "tags": ".NET, AWS, ASP.NET Core, Blazor",
+  "github": "https://github.com/iammukeshm",
   "socials": {
     "youtube": "https://www.youtube.com/@codewithmukesh/videos",
     "linkedin": "https://www.linkedin.com/in/iammukeshm/",
@@ -18,28 +18,23 @@
     {
       "name": "Blog",
       "url": "https://codewithmukesh.com/blog"
-    },
-    {
-      "name": "Newsletter",
-      "url": "https://codewithmukesh.substack.com/"
-    },
-    {
-      "name": "Facebook",
-      "url": "https://www.facebook.com/codewithmukesh"
-    },
-    {
-      "name": "LinkedIn",
-      "url": "https://www.linkedin.com/in/iammukeshm/"
     }
   ],
   "feeds": [
     {
-      "type": "LinkTagRssType",
+      "type": "dotnet",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCBgmocEUwo8s_IKOHjIecPw"
     },
     {
-      "type": "LinkTagRssType",
+      "type": "dotnet",
       "url": "https://codewithmukesh.com/feed/"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Full Stack Hero .NET 7 Web API Boilerplate",
+      "description": "fullstackhero's .NET Web API Boilerplate is a starting point for your next .NET 7 Clean Architecture Project that incorporates the most essential packages and features your projects will ever need including out of the box Multi-Tenancy support. This project can save well over 200+ hours of development time for your team.",
+      "url": "https://github.com/fullstackhero/dotnet-webapi-boilerplate"
     }
   ]
 }
