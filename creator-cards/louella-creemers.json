@@ -1,0 +1,28 @@
+﻿{
+  "name": "Louella Creemers",
+  "sectionTitle": null,
+  "countryCode": "nl",
+  "slogan": "",
+  "type": "CREATOR",
+  "bio": "",
+  "tags": ".NET, C#",
+  "socials": {
+    "youtube": "https://www.youtube.com/channel/UCZ-fWH07PGzd7ykMhriOC4glinke",
+    "linkedin": "https://www.linkedin.com/in/louelladev/",
+    "twitter": "https://twitter.com/lovelacecoding",
+    "github": "https://github.com/lovelacecoding",
+    "mastodon": "",
+    "sessionize": "https://sessionize.com/louelladev"
+  },
+  "channels": [
+    {
+      "name": "Personal website",
+      "url": "https://louella.dev/"
+    },
+    {
+      "name": "Blog",
+      "url": "https://lovelacecoding.hashnode.dev/"
+    }
+  ],
+  "feeds": []
+}
