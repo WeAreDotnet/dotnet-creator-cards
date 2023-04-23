@@ -1,0 +1,27 @@
+{
+  "name": "Amir Mokarchi",
+  "sectionTitle": null,
+  "countryCode": "IR",
+  "slogan": "",
+  "type": "CREATOR",
+  "bio": "Software Engineer | Microservices and Open Source Enthusiast",
+  "tags": ".NET, C#, SQL Server",
+  "socials": {
+    "youtube": "",
+    "linkedin": "https://linkedin.com/in/amir-mokarchi",
+    "twitter": "https://twitter.com/mokarchi",
+    "github": "https://github.com/mokarchi",
+    "mastodon": "",
+    "sessionize": ""
+  },
+  "channels": [
+    {
+      "name": "Blog",
+      "url": "https://medium.com/@mokarchi"
+    }
+  ],
+  "feeds": [{
+      "type": "",
+      "url": ""  
+    }]
+}
