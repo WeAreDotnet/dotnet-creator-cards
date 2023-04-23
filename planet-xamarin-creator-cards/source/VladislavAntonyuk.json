@@ -1,0 +1,20 @@
+{
+  "firstName": "Vladislav",
+  "lastName": "Antonyuk",
+  "stateOrRegion": "Ukraine",
+  "emailAddress": "vlad.antonyuk@gmail.com",
+  "tagOrBio": "is a .NET Software Engineer",
+  "webSite": "https://vladislavantonyuk.azurewebsites.net/",
+  "twitterHandle": "",
+  "githubHandle": "VladislavAntonyuk",
+  "gravatarHash": "c0b401631d8b65318905a76d8c643bad",
+  "feedUris": [
+    "https://vladislavantonyuk.azurewebsites.net/rss",
+    "https://vladislavantonyuk.github.io/rss"
+  ],
+  "position": {
+    "lat": 48.4647,
+    "lon": 35.0462
+  },
+  "languageCode": "en"
+}

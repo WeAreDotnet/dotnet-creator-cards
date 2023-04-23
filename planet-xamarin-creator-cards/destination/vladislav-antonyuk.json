@@ -1,0 +1,37 @@
+﻿{
+    "slogan": null,
+    "sectionTitle": "Planet Xamarin",
+    "socials": {
+        "youtube": "VladislavAntonyuk",
+        "linkedin": "vladislav-antonyuk",
+        "twitter": "",
+        "github": "VladislavAntonyuk",
+        "mastodon": "",
+        "sessionize": ""
+      },
+    "tags": null,
+    "bio": ".NET Software Engineer",
+    "type": "CREATOR",
+    "name": "Vladislav Antonyuk",
+    "feeds": [
+        {
+            "type": "AHrefFeedType",
+            "url": "https://vladislavantonyuk.github.io/rss"
+        },
+        {
+            "type": "AHrefFeedType",
+            "url": "https://vladislavantonyuk.azurewebsites.net/rss"
+        }
+    ],
+    "countryCode": "ua",
+    "channels": [
+        {
+            "url": "https://vladislavantonyuk.github.io/",
+            "name": "Site"
+        },
+        {
+            "url": "https://vladislavantonyuk.azurewebsites.net/",
+            "name": "Site"
+        }
+    ]
+}
