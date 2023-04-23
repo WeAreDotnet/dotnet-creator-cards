@@ -8,7 +8,7 @@
   "tags": "Architecture, .NET, ASP.NET Core",
   "socials": {
     "youtube": "",
-    "linkedin": "",
+    "linkedin": "https://www.linkedin.com/in/mehdihadeli/",
     "twitter": "https://twitter.com/mehdi_hadeli",
     "github": "https://github.com/mehdihadeli",
     "mastodon": "",
@@ -17,18 +17,10 @@
   "channels": [
     {
       "name": "Blog",
-      "url": "https://www.mehdihadeli.com/"
-    },
-    {
-      "name": "Blog RSS",
-      "url": "https://www.mehdihadeli.com/rss"
+      "url": "https://www.mehdihadeli.com"
     }
   ],
   "feeds": [
-    {
-      "type": "AHrefFeedType",
-      "url": "https://www.mehdihadeli.com/rss.xml"
-    },
     {
       "type": "BlogRssTag",
       "url": "https://www.mehdihadeli.com/rss"
