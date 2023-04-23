@@ -4,7 +4,7 @@
   "countryCode": "it",
   "slogan": "",
   "type": "CREATOR",
-  "bio": "Software Engineer and Technical Author, i.e., continuous learner @ Okta/Auth0",
+  "bio": "Software Engineer and Technical Author, i.e., continuous learner @ Auth0 by Okta",
   "tags": ".NET, C#. ASP.NET Core",
   "socials": {
     "youtube": "",
@@ -25,7 +25,11 @@
     }
   ],
   "feeds": [{
-      "type": "LinkTagRssType",
+      "type": "personal",
       "url": "https://andreachiarelli.it/feed/articles.xml"  
+    },
+    {
+      "type": "dotnet",
+      "url": "https://andreachiarelli.it/feed/dotnet-articles.xml"  
     }]
 }
