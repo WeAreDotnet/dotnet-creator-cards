@@ -4,11 +4,11 @@
   "countryCode": "ir",
   "slogan": "",
   "type": "CREATOR",
-  "bio": "",
+  "bio": "Software Engineer",
   "tags": "Microservices, .NET, ASP.NET Core, C#",
   "socials": {
     "youtube": "",
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/in/mohsen-rajabi72",
     "twitter": "https://twitter.com/mohsen_rajabi72",
     "github": "https://github.com/EngRajabi",
     "mastodon": "",
