@@ -24,15 +24,15 @@
   ],
   "feeds": [
     {
-      "type": "LinkTagRssType",
-      "url": "https://www.codingwithcalvin.net/rss.xml"
-    },
+      "type": "dotnet",
+      "url": "https://www.codingwithcalvin.net/dotnet-rss.xml"
+    },    
     {
-      "type": "LinkTagRssType",
+      "type": "dotnet",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCeh4DkPs0xLeaoDnmsGu0Og"
     },
     {
-      "type": "LinkTagRssType",
+      "type": "dotnet",
       "url": "https://rss.beehiiv.com/feeds/NLDTnoygDY.xml"
     }
   ]
