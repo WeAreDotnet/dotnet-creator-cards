@@ -21,7 +21,7 @@
     }
   ],
   "feeds": [{
-      "type": "Feed Blog",
+      "type": "Dotnet",
       "url": "https://medium.com/feed/@mokarchi"  
     }]
 }
