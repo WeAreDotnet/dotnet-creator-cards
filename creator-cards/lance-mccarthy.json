@@ -1,0 +1,103 @@
+{
+  "name": "Lance McCarthy",
+  "sectionTitle": null,
+  "countryCode": "us",
+  "slogan": "",
+  "type": "CREATOR",
+  "bio": "Microsoft MVP with a love for all things .NET, software development, and engineering.",
+  "tags": ".NET MAUI, .NET, C#, XAML, ASP.NET, CI-CD, GitHub Actions, Azure DevOps, Mixed Reality, Windows Dev, Blazor, UWP, WinRT, WinUI, Xamarin.Forms, dotnet",
+  "github": "https://github.com/LanceMcCarthy",
+  "socials": {
+    "youtube": "https://www.youtube.com/channel/UCV6JsDh22ENSF8DPvHBAs-w",
+    "linkedin": "https://www.linkedin.com/in/dvluper",
+    "twitter": "https://twitter.com/l_anceM",
+    "github": "https://github.com/LanceMcCarthy",
+    "mastodon": "https://dvlup.social/@lance",
+    "sessionize": "https://sessionize.com/lance-mccarthy/"
+  }
+  "channels": [
+    {
+      "name": "MVP Blog",
+      "url": "https://dvlup.com"
+    },
+    {
+      "name": "Professional Blog",
+      "url": "https://www.telerik.com/blogs/author/lance-mccarthy"
+    },
+    {
+      "name": "Youtube",
+      "url": "https://www.youtube.com/channel/UCV6JsDh22ENSF8DPvHBAs-w"
+    }
+  ],
+  "feeds": [{
+    "type": "dotnet",
+    "url": "https://dvlup.com/feed/"
+  }],
+  "projects": [
+    {
+      "name": "GitHub Action AzureBlobUpload",
+      "description": "A GitHub action to upload files to Azure Blob storage, compatible with all Actions runner operating systems.",
+      "url": "https://github.com/LanceMcCarthy/Action-AzureBlobUpload"
+    },
+    {
+      "name": "DevOps Examples",
+      "description": "A repo to show you how to use a private NuGet feed to restore packages in Azure DevOps, GitHub Actions, GitLab CI and AppCenter",
+      "url": "https://github.com/LanceMcCarthy/DevOpsExamples"
+    },
+    {
+      "name": "Password Purgatory for .NET",
+      "description": "A reimagining of Troy Hunt's Password Purgatory in .NET",
+      "url": "https://github.com/LanceMcCarthy/dotnet-password-purgatory"
+    },
+    {
+      "name": "GitHub Actions for Desktop Apps",
+      "description": "This repo contains a sample WPF application to demonstrate how to create CI/CD pipelines using GitHub Actions.",
+      "url": "https://github.com/microsoft/github-actions-for-desktop-apps"
+    },
+    {
+      "name": "MediaFileManager",
+      "description": "An application that simplifies tedious and numerous media file naming operations (i.e. renaming, episode numbering, etc). This repo uses GH Actions to build, package and distribute a WPF application to the Microsoft Store.",
+      "url": "https://github.com/LanceMcCarthy/MediaFileManager"
+    },
+    {
+      "name": "CommonHelpers",
+      "description": "A .NET Standard library, distributed via NuGet.org, containing a set of very frequently used classes, interfaces, and behaviors needed in every day projects.",
+      "url": "https://github.com/LanceMcCarthy/CommonHelpers"
+    },
+    {
+      "name": "AKeyless Action",
+      "description": "The only (and currently official) GitHub Action to let you use AKeyless static secrets and dynamic secrets in your workflows.",
+      "url": "https://github.com/LanceMcCarthy/akeyless-action"
+    },
+    {
+      "name": "UWP Controls",
+      "description": "A set of custom controls, helpers, and utilities for the .NET and UWP app developer.",
+      "url": "https://github.com/LanceMcCarthy/UwpProjects"
+    },
+    {
+      "name": "XKCD Viewer",
+      "description": "A cross-platform application showing the use of the xkcd comic strip API.",
+      "url": "https://github.com/LanceMcCarthy/XkcdViewer"
+    },
+    {
+      "name": "Latte Locator",
+      "description": "A interactively-pleasing app that uses the Starbucks API for a variety of functionality.",
+      "url": "https://github.com/LanceMcCarthy/Lancelot.LatteLocator"
+    },
+    {
+      "name": "Custom Xamarin Demos",
+      "description": "A set of specialized custom example applications for edge cases.",
+      "url": "https://github.com/LanceMcCarthy/CustomXamarinDemos"
+    },
+    {
+      "name": "Custom .NET MAUI Examples",
+      "description": "A set of specialized custom .NET MAUI applications for edge cases.",
+      "url": "https://github.com/LanceMcCarthy/CustomMauiExamples"
+    },
+    {
+      "name": "Remix 3D Downloader",
+      "description": "An application that lets you quickly download 3D models from Remix 3D. This functionality is not available via the website.",
+      "url": "https://github.com/LanceMcCarthy/RemixDownloader"
+    }
+  ]
+}
