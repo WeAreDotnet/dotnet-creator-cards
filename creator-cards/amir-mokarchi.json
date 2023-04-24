@@ -21,7 +21,7 @@
     }
   ],
   "feeds": [{
-      "type": "",
-      "url": ""  
+      "type": "Feed Blog",
+      "url": "https://medium.com/feed/@mokarchi"  
     }]
 }
