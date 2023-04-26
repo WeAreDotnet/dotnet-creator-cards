@@ -1,0 +1,33 @@
+{
+  "name": "Fiodar Sazanavets",
+  "sectionTitle": null,
+  "countryCode": "gb",
+  "slogan": "",
+  "type": "CREATOR",
+  "bio": "Senior software engineer, coding mentor, author of several books and courses, blogger.",
+  "tags": ".NET, C#, ASP.NET Core, SignalR, gRPC, Azure",
+  "socials": {
+    "youtube": "",
+    "linkedin": "https://www.linkedin.com/in/fiodar-sazanavets/",
+    "twitter": "https://twitter.com/FSazanavets",
+    "github": "https://github.com/fiodarsazanavets",
+    "mastodon": "",
+    "sessionize": ""
+  },
+  "channels": [
+    {
+      "name": "Site",
+      "url": "https://scientificprogrammer.net/"
+    },
+    {
+      "name": "Facebook Page",
+      "url": "https://www.facebook.com/mobiletechtracker"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "Personal Website Feed",
+      "url": "https://scientificprogrammer.net/feed/"
+    }
+  ]
+}
