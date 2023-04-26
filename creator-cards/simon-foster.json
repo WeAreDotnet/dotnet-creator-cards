@@ -1,0 +1,31 @@
+﻿{
+  "name": "Simon Foster",
+  "sectionTitle": null,
+  "countryCode": "gb",
+  "slogan": "More than just another developer",
+  "type": "CREATOR",
+  "bio": "Software Developer based in the North of England",
+  "tags": ".NET, ASP.NET Core",
+  "socials": {
+    "youtube": "",
+    "linkedin": "https://linkedin.com/in/funkysi1701/",
+    "twitter": "https://twitter.com/funkysi1701",
+    "github": "https://github.com/funkysi1701",
+    "mastodon": "https://hachyderm.io/web/@funkysi1701",
+    "sessionize": ""
+  },
+  "channels": [
+    {
+      "name": "Blog",
+      "url": "https://www.funkysi1701.com/"
+    }
+  ],
+  "feeds": [{
+    "type": "personal",
+    "url": "https://www.funkysi1701.com/index.xml"
+  },
+  {
+    "type": "dotnet",
+    "url": "https://www.funkysi1701.com/tags/dotnet/index.xml"
+  }]
+}
