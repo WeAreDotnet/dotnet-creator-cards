@@ -1,0 +1,16 @@
+{
+  "name": "Aleksei Zagoskin",
+  "type": "CREATOR",
+  "tags": ".NET, C#, ASP.NET, Microservices, Architecture, REST API",
+  "github": "https://github.com/Powerz",
+  "channels": [
+    {
+      "name": "Blog",
+      "url": "https://zagosk.in"
+    }
+  ],
+  "feeds": [{
+    "type": "LinkTagRssType",
+    "url": "https://zagosk.in/rss.xml"
+  }]
+}
