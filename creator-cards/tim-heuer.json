@@ -1,8 +1,14 @@
 {
     "name": "Tim Heuer",
+    "countryCode": "us",
     "type": "CREATOR",
-    "tags": ".NET, C#, ASP.NET, VisualStudio",
+    "tags": ".NET, C#, ASP.NET, Visual Studio",
     "github": "https://github.com/timheuer",
+    "socials": {
+      "linkedin": "https://www.linkedin.com/in/timheuer/",
+      "twitter": "https://twitter.com/timheuer",
+      "github": "https://github.com/timheuer"
+    },
     "channels": [
       {
         "name": "Blog",
