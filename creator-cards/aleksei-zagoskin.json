@@ -10,7 +10,7 @@
     }
   ],
   "feeds": [{
-    "type": "LinkTagRssType",
+    "type": "dotnet",
     "url": "https://zagosk.in/rss.xml"
   }]
 }
