@@ -4,8 +4,8 @@
   "countryCode": "fr",
   "slogan": "Improve your code review, only for goats",
   "type": "CREATOR",
-  "bio": "C# & .NET Content Creator",
-  "tags": "Freelance Architecture / C#/.NET Developer",
+  "bio": "",
+  "tags": ".NET, C#, Architecture",
   "socials": {
     "youtube": "",
     "linkedin": "https://www.linkedin.com/in/pierre-belin/",
@@ -16,7 +16,7 @@
   },
   "channels": [
     {
-      "name": "Site",
+      "name": "Blog",
       "url": "https://goatreview.com/"
     }
   ],
