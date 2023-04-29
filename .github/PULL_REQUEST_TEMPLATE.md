@@ -34,6 +34,9 @@
 
 ## RSS or Atom Feed 
 
+* [ ] The feed was validated using https://validator.w3.org/feed/ and does not contain errors
+
+
 * [ ] The content with feed.type = dotnet must be .NET related:
 * .NET itself
 * .NET libraries and projects
