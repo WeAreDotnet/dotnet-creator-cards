@@ -7,10 +7,10 @@
   "bio": "Open source, open knowledge - Orchard Dojo provides you with many open resources for learning the ins and outs of Orchard Core and Orchard 1.x.",
   "tags": ".NET, C#, Orchard, Orchard CMS, Orchard Core",
   "socials": {
-    "youtube": "",
-    "linkedin": "",
-    "twitter": "",
-    "github": "",
+    "youtube": "https://www.youtube.com/@Lombiq",
+    "linkedin": "https://www.linkedin.com/company/lombiq/",
+    "twitter": "https://twitter.com/Lombiq",
+    "github": "https://github.com/Lombiq",
     "mastodon": "",
     "sessionize": ""
   },
