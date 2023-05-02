@@ -1,0 +1,33 @@
+{
+    "name": "Saamer Mansoor",
+    "type": "CREATOR",
+    "tags": ".NET MAUI, Xamarin, C#, .NET, DevOps, Mobile, iOS, Android",
+    "countryCode": "us",
+    "bio": "Your go to person for brainstorming mobile app ideas!",
+    "github": "https://github.com/saamerm",
+    "socials": {
+        "linkedin": "https://www.linkedin.com/in/saamer/",
+        "twitter": "https://twitter.com/saamerm",
+        "sessionize": "https://sessionize.com/prototypemakers/"
+    },  
+    "channels": [
+        {
+          "name": "Blog",
+          "url": "https://medium.com/@prototypemakers"
+        }
+    ],
+    "feeds": [
+        {
+          "type": "LinkTagRssType",
+          "url": "https://medium.com/feed/@prototypemakers/"
+        }
+    ],
+    "projects": [
+        {
+          "name": "Shack Homes",
+          "description": "Tinder for Home Sales",
+          "url": "https://shackhomes.com"
+        }        
+      ]    
+}
+    
