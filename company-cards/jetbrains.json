@@ -1,0 +1,17 @@
+{
+	"name": "JetBrains",
+	"type": "Business",
+	"github": "https://github.com/jetbrains",
+	"contact": {
+		"name": "Maarten Balliauw",
+		"email": "maarten.balliauw@jetbrains.com",
+		"twitter": "",
+		"linkedIn": ""
+	},
+	"blogRSS": "https://blog.jetbrains.com/dotnet/feed/",
+	"twitter": "https://twitter.com/JetBrainsRider",
+	"facebook": "https://www.facebook.com/jetbrains",
+	"linkedin": "",
+	"instagram": "",
+	"youtube": "https://www.youtube.com/@JetBrainsTV"
+}
