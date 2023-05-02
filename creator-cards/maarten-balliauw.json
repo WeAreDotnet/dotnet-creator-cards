@@ -2,7 +2,7 @@
   "name": "Maarten Balliauw",
   "sectionTitle": null,
   "countryCode": "be",
-  "slogan": "",
+  "slogan": "C#, cloud, web, performance",
   "type": "CREATOR",
   "bio": "",
   "tags": ".NET, C#, ASP.NET Core",
@@ -12,7 +12,7 @@
     "twitter": "https://twitter.com/maartenballiauw",
     "github": "https://github.com/maartenba",
     "mastodon": "https://mastodon.online/@maartenballiauw",
-    "sessionize": ""
+    "sessionize": "https://sessionize.com/maartenba"
   },
   "channels": [
     {
