@@ -17,13 +17,13 @@
   "channels": [
     {
       "name": "Blog",
-      "url": "https://www.mehdihadeli.com"
+      "url": "https://mehdihadeli.com"
     }
   ],
   "feeds": [
     {
       "type": "BlogRssTag",
-      "url": "https://www.mehdihadeli.com/rss"
+      "url": "https://mehdihadeli.com/rss"
     }
   ]
 }
