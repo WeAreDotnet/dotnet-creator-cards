@@ -4,11 +4,11 @@
   "countryCode": "ir",
   "slogan": "",
   "type": "CREATOR",
-  "bio": "",
-  "tags": "Microservices, .NET, ASP.NET Core",
+  "bio": "Software Engineer | Open Source Enthusiast",
+  "tags": "Microservices, Architecture, .NET",
   "socials": {
     "youtube": "",
-    "linkedin": "",
+    "linkedin": "https://www.linkedin.com/in/meysamhadeli",
     "twitter": "https://twitter.com/meysamhadeli",
     "github": "https://github.com/meysamhadeli",
     "mastodon": "",
@@ -22,7 +22,7 @@
   ],
   "feeds": [
     {
-      "type": "LinkTagRssType",
+      "type": "BlogRssTag",
       "url": "https://meysamhadeli.com/rss.xml"
     }
   ]
