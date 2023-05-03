@@ -23,7 +23,7 @@
   "feeds": [
     {
       "type": "BlogRssTag",
-      "url": "https://mehdihadeli.com/rss"
+      "url": "https://mehdihadeli.com/rss.xml"
     }
   ]
 }
