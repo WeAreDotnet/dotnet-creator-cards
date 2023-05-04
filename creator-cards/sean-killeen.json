@@ -3,39 +3,29 @@
   "countryCode": "us",
   "slogan": "",
   "type": "CREATOR",
-  "bio": "",
+  "bio": "A mind at work. | Director, Modern Software Delivery @ Excella | MS MVP | NUnit docs | .NET DC | Teacher. Trying to be all the human I can be with the time I have. (he/him)",
   "tags": ".NET, C#, ASP.NET, Automated Testing, Azure, Terraform, TDD",
-  "github": "https://github.com/SeanKilleen",
+  "socials": {
+    "github": "https://github.com/SeanKilleen",
+    "youtube": "https://youtube.com/SeanKilleen",
+    "linkedin": "https://linkedin.com/in/SeanKilleen",
+    "twitter": "https://twitter.com/sjkilleen",
+    "mastodon": "https://mastodon.social/@sjkilleen",
+    "sessionize": "https://sessionize.com/SeanKilleen/"
+  },
   "channels": [
     {
       "name": "Blog",
       "url": "https://seankilleen.com/"
     },
     {
-      "name": "GitHub",
-      "url": "https://github.com/SeanKilleen"
-    },
-    {
       "name": "Twitch",
       "url": "https://twitch.tv/sjkilleen"
-    },
-    {
-      "name": "LinkedIn",
-      "url": "https://linkedin.com/in/SeanKilleen"
-    },
-    {
-      "name": "Mastodon",
-      "url": "https://mastodon.social/@sjkilleen"
-    }
-  ],
+    }],
   "feeds": [
     {
       "type": "personal",
       "url": "https://seankilleen.com/feed.xml"
-    },
-    {
-      "type": "LinkTagRssType",
-      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCilIuboVxEjp6aQpmCnEdKw"
     }
   ],
   "projects": [
