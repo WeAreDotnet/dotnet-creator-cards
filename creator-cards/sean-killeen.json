@@ -6,18 +6,26 @@
   "bio": "",
   "tags": ".NET, C#, ASP.NET, Automated Testing, Azure, Terraform, TDD",
   "github": "https://github.com/SeanKilleen",
-  "socials": {
-    "youtube": "https://www.youtube.com/SeanKilleen",
-    "linkedin": "https://linkedin.com/in/SeanKilleen",
-    "twitter": "https://twitter.com/sjkilleen",
-    "github": "https://github.com/SeanKilleen",
-    "mastodon": "https://mastodon.social/@sjkilleen",
-    "sessionize": "https://sessionize.com/SeanKilleen/"
-  },
   "channels": [
     {
       "name": "Blog",
       "url": "https://seankilleen.com/"
+    },
+    {
+      "name": "GitHub",
+      "url": "https://github.com/SeanKilleen"
+    },
+    {
+      "name": "Twitch",
+      "url": "https://twitch.tv/sjkilleen"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://linkedin.com/in/SeanKilleen"
+    },
+    {
+      "name": "Mastodon",
+      "url": "https://mastodon.social/@sjkilleen"
     }
   ],
   "feeds": [
@@ -28,6 +36,23 @@
     {
       "type": "LinkTagRssType",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCilIuboVxEjp6aQpmCnEdKw"
+    }
+  ],
+  "projects": [
+    {
+      "name": "NUnit Docs",
+      "description": "Documentation for the NUnit project",
+      "url": "https://github.com/nunit/docs"
+    },
+    {
+      "name": "NUnit Docfx-Action",
+      "description": "GitHub Action for running Docfx",
+      "url": "https://github.com/nunit/docfx-action"
+    },
+    {
+      "name": "Blog-in-a-box",
+      "description": "A quick, all in one stop for someone to get a blog presence up and running.",
+      "url": "https://github.com/excellalabs/blog-in-a-box"
     }
   ]
 }
