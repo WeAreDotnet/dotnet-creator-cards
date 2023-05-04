@@ -1,18 +1,18 @@
-﻿{
+{
   "name": "Sean Killeen",
-  "sectionTitle": null,
   "countryCode": "us",
   "slogan": "",
   "type": "CREATOR",
   "bio": "",
-  "tags": ".NET, C#, Automated Testing, Azure, Terraform",
+  "tags": ".NET, C#, ASP.NET, Automated Testing, Azure, Terraform, TDD",
+  "github": "https://github.com/SeanKilleen",
   "socials": {
     "youtube": "https://www.youtube.com/SeanKilleen",
     "linkedin": "https://linkedin.com/in/SeanKilleen",
     "twitter": "https://twitter.com/sjkilleen",
     "github": "https://github.com/SeanKilleen",
     "mastodon": "https://mastodon.social/@sjkilleen",
-    "sessionize": ""
+    "sessionize": "https://sessionize.com/SeanKilleen/"
   },
   "channels": [
     {
