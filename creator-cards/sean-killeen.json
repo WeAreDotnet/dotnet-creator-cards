@@ -22,7 +22,7 @@
   ],
   "feeds": [
     {
-      "type": "LinkTagAtomType",
+      "type": "personal",
       "url": "https://seankilleen.com/feed.xml"
     },
     {
