@@ -20,5 +20,10 @@
       "url": "https://engincanv.github.io/"
     }
   ],
-  "feeds": []
+  "feeds": [
+    {
+      "type": "dotnet",
+      "url": "https://engincanv.github.io/feed.xml"
+    }
+  ]
 }
