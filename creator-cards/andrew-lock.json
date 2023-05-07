@@ -18,15 +18,15 @@
     {
       "name": "Blog",
       "url": "https://andrewlock.net/"
+    },
+    {
+      "name": "Book",
+      "url": "https://manning.com/books/asp-dot-net-core-in-action-3e"
     }
   ],
   "feeds": [
     {
-      "type": "LinkTagRssType",
-      "url": "https://andrewlock.net/rss.xml"
-    },
-    {
-      "type": "AHrefFeedType",
+      "type": "dotnet",
       "url": "https://andrewlock.net/rss.xml"
     }
   ]
