@@ -22,13 +22,13 @@
   ],
   "feeds": [
     {
-      "type": "Journal",
+      "type": "personal",
       "url": "https://keepontruckin.hashnode.dev/rss.xml"
     }, {
-      "type": "Journal",
+      "type": "dotnet",
       "url": "https://dev.to/feed/kosalanuwan"
     }, {
-      "type": "Opensource",
+      "type": "personal",
       "url": "https://github.com/kosalanuwan.atom"
     }
   ]
