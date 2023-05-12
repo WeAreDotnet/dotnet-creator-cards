@@ -20,5 +20,12 @@
       "type": "dotnet",
       "url": "https://medium.com/feed/@s.esmaeelinejad"
     }
+  ],
+  "projects": [
+    {
+      "name": "DotNetRateLimiter",
+      "description": "A RateLimit for Actions and Controllers",
+      "url": "https://github.com/sa-es-ir/DotNet.RateLimit"
+    }
   ]
 }
