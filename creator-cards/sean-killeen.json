@@ -1,33 +1,49 @@
-﻿{
+{
   "name": "Sean Killeen",
   "sectionTitle": null,
   "countryCode": "us",
   "slogan": "",
   "type": "CREATOR",
-  "bio": "",
-  "tags": ".NET, C#, Automated Testing, Azure, Terraform",
+  "bio": "A mind at work. | Director, Modern Software Delivery @ Excella | MS MVP | NUnit docs | .NET DC | Teacher. Trying to be all the human I can be with the time I have. (he/him)",
+  "tags": ".NET, C#, ASP.NET, Automated Testing, Azure, Terraform, TDD",
   "socials": {
-    "youtube": "https://www.youtube.com/SeanKilleen",
+    "github": "https://github.com/SeanKilleen",
+    "youtube": "https://youtube.com/SeanKilleen",
     "linkedin": "https://linkedin.com/in/SeanKilleen",
     "twitter": "https://twitter.com/sjkilleen",
-    "github": "https://github.com/SeanKilleen",
     "mastodon": "https://mastodon.social/@sjkilleen",
-    "sessionize": ""
+    "sessionize": "https://sessionize.com/SeanKilleen/"
   },
   "channels": [
     {
       "name": "Blog",
       "url": "https://seankilleen.com/"
-    }
-  ],
-  "feeds": [
-    {
-      "type": "LinkTagAtomType",
-      "url": "https://seankilleen.com/feed.xml"
     },
     {
-      "type": "LinkTagRssType",
-      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCilIuboVxEjp6aQpmCnEdKw"
+      "name": "Twitch",
+      "url": "https://twitch.tv/sjkilleen"
+    }],
+  "feeds": [
+    {
+      "type": "personal",
+      "url": "https://seankilleen.com/feed.xml"
+    }
+  ],
+  "projects": [
+    {
+      "name": "NUnit Docs",
+      "description": "Documentation for the NUnit project",
+      "url": "https://github.com/nunit/docs"
+    },
+    {
+      "name": "NUnit Docfx-Action",
+      "description": "GitHub Action for running Docfx",
+      "url": "https://github.com/nunit/docfx-action"
+    },
+    {
+      "name": "Blog-in-a-box",
+      "description": "A quick, all in one stop for someone to get a blog presence up and running.",
+      "url": "https://github.com/excellalabs/blog-in-a-box"
     }
   ]
 }
