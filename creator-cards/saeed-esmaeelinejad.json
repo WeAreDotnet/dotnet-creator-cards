@@ -4,16 +4,21 @@
   "countryCode": "ir",
   "slogan": "",
   "type": "CREATOR",
-  "bio": "",
-  "tags": "C#, EF, SQL Server, ASP.NET",
+  "bio": "A .Net enthusiast who loves learning.",
+  "tags": "C#, .NET, ASP.NET",
   "socials": {
     "youtube": "",
-    "linkedin": "https://www.linkedin.com/in/saeed-esmaeelinejad/",
+    "linkedin": "https://www.linkedin.com/in/sa-es-ir",
     "twitter": "",
-    "github": "",
+    "github": "https://github.com/sa-es-ir",
     "mastodon": "",
     "sessionize": ""
   },
   "channels": [],
-  "feeds": []
+  "feeds": [
+    {
+      "type": "dotnet",
+      "url": "https://medium.com/feed/@s.esmaeelinejad"
+    }
+  ]
 }
