@@ -1,0 +1,30 @@
+{
+  "name": "Carlos Pons",
+  "sectionTitle": null,
+  "countryCode": "es",
+  "slogan": "",
+  "type": "CREATOR",
+  "bio": "",
+  "tags": ".NET, C#, Azure, AWS, DevOps",
+  "socials": {
+    "youtube": "",
+    "linkedin": "https://www.linkedin.com/in/carlosponsn/",
+    "twitter": "",
+    "github": "https://github.com/karlospn",
+    "mastodon": "",
+    "sessionize": ""
+  },
+  "channels": [
+    {
+      "name": "Blog",
+      "url": "https://www.mytechramblings.com/"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "personal",
+      "url": "https://www.mytechramblings.com/index.xml"
+    }
+  ]
+}
+
