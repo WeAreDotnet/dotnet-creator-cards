@@ -18,6 +18,10 @@
     {
       "name": "Youtube",
       "url": "https://www.youtube.com/channel/UCuY6_xAkpM1MhtIByZybjrA"
+    },
+    {
+      "name": "Newsletter",
+      "url": "https://voleinic.substack.com/"
     }
   ],
   "feeds": [
