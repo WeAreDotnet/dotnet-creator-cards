@@ -1,0 +1,36 @@
+﻿{
+  "name": "Vicente Guzmán",
+  "sectionTitle": null,
+  "countryCode": "nl",
+  "slogan": "",
+  "type": "CREATOR",
+  "bio": "Custom Software Engineering Team Lead at Accenture (Mobile Team) | content creator | speaker | .NET MAUI, Blazor, C# | He/Him",
+  "tags": ".NET MAUI, Blazor, C#",
+  "socials": {
+    "youtube": "https://www.youtube.com/c/VicenteGuzman",
+    "linkedin": "https://www.linkedin.com/in/vggl01",
+    "twitter": "https://twitter.com/luciomsp",
+    "github": "https://github.com/luciomsp",
+    "sessionize": "https://sessionize.com/vggl"
+  },
+  "channels": [
+    {
+      "name": "Blog",
+      "url": "https://luciomsp.wordpress.com/"
+    },
+    {
+      "name": "Website",
+      "url": "https://vicenteguzman.com/"
+    },
+    {
+      "type": "Syncfusion Blog Posts",
+      "url": "https://www.syncfusion.com/blogs/author/luciomspgeeks-ms"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "LinkTagRssType",
+      "url": "https://luciomsp.wordpress.com/feed/"
+    }
+  ]
+}
