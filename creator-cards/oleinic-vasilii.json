@@ -15,7 +15,7 @@
   ],
   "feeds": [
     {
-      "type": "LinkTagRssType",
+      "type": "dotnet",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCuY6_xAkpM1MhtIByZybjrA"
     }
   ],
