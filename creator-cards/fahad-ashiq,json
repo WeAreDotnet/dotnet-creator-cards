@@ -3,27 +3,17 @@
   "type": "I am Software Development Engineer having 3 years of experience starting from system analysis and design ending by implementation, testing, deployment & technical documentation. Have the passion to work and gain experiences, quick learner, having good communication skills, take responsibilities with conscience, flexible and motivated team member",
   "tags": ".NET, C#, ASP.NET, I LOVE creating softwares & application using DOTNET",
   "github": "https://github.com/fahadashiq12",
+  "socials" : {
+  "Twitter": "https://twitter.com/iamfahadashiq",
+  "GitHub":  "https://github.com/fahadashiq12",
+  "Medium": "https://fahadashiq30.medium.com/",
+  "Dev,to": "https://dev.to/fahadashiq12"
+  },
   "channels": [
-    {
-      "name": "Twitter",
-      "url": "https://twitter.com/iamfahadashiq"
-    },
-    {
-        "name": "GitHub",
-        "url": "https://github.com/fahadashiq12"
-    },
-    {
-        "name": "LinkedIn",
-        "url": "https://www.linkedin.com/in/fahadashiqdev/"
-    },
-    {
-        "name": "Medium",
-        "url": "https://fahadashiq30.medium.com/"
-    },
-    {
-        "name": "Dev,to",
-        "url": "https://dev.to/fahadashiq12"
-    }   
+      {
+        "name": "Youtube",
+        "url": "https://www.youtube.com/@fahadashiq1463"
+      }
   ],
   "feeds": [{
     "type": "dotent",
