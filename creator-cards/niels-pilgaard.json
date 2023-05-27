@@ -1,20 +1,17 @@
-﻿{
+{
   "name": "Niels Pilgaard",
-  "sectionTitle": null,
-  "countryCode": "dk",
-  "slogan": "Passionate about learning and growing as a developer.",
   "type": "CREATOR",
-  "bio": "I'm a C# developer, focused mostly on backend and automation. I particularly enjoy performance work, RabbitMQ and exploring new topics.",
-  "tags": "Blazor, C#, Azure, AzureDevOps",
-  "socials": {
-    "youtube": "",
-    "linkedin": "https://www.linkedin.com/in/niels-pilgaard/",
-    "twitter": "https://twitter.com/Niels_Pilgaard",
-    "github": "https://github.com/NielsPilgaard",
-    "mastodon": "",
-    "sessionize": ""
-  },
+  "tags": "ASP.NET, Blazor, C#, Azure, AzureDevOps",
+  "github": "https://github.com/NielsPilgaard",
   "channels": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/niels-pilgaard/"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/Niels_Pilgaard"
+    },
     {
       "name": "Blog",
       "url": "https://pilgaard-blog.azurewebsites.net/"
