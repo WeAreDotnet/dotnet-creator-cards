@@ -14,20 +14,32 @@
         {
           "name": "Blog",
           "url": "https://medium.com/@prototypemakers"
+        },
+        {
+          "name": "Youtube",
+          "url": "https://www.youtube.com/@prototypemakers"
+        },
+        {
+          "name": "Site",
+          "url": "https://thefirstprototype.com"
         }
     ],
     "feeds": [
         {
-          "type": "LinkTagRssType",
+          "type": "dotnet",
           "url": "https://medium.com/feed/@prototypemakers/"
         }
     ],
     "projects": [
         {
+          "name": "NumberBomb",
+          "description": "Math Game for ages 6+ available on iOS & Android",
+          "url": "http://github.com/saamerm/NumberBomb"
+        },        
+        {
           "name": "Shack Homes",
           "description": "Tinder for Home Sales",
           "url": "https://shackhomes.com"
-        }        
-      ]    
-}
-    
+        }
+    ]    
+}    
