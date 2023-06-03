@@ -1,0 +1,35 @@
+{
+  "name": "Goh Chun Lin",
+  "type": "CREATOR",
+  "tags": ".NET, C#, Web APIs, UWP, Kubernetes",
+  "github": "https://github.com/goh-chunlin",
+  "channels": [
+    {
+      "name": "Blog",
+      "url": "http://cuteprogramming.wordpress.com/"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "personal",
+      "url": "https://cuteprogramming.blog/feed/"
+    }
+  ],
+  "projects": [
+    {
+      "name": "WebcamWinForm",
+      "description": "A simple Windows Forms application to demonstrate how to record video and audio via a webcam using C#.",
+      "url": "https://github.com/goh-chunlin/WebcamWinForm"
+    },
+    {
+      "name": "Lunar.OCR",
+      "description": "A project to show how we can perform Optical Character Recognition (OCR) on UWP app.",
+      "url": "https://github.com/goh-chunlin/Lunar.OCR"
+    },
+    {
+      "name": "WordpressRssFeed",
+      "description": "This is a NuGet library to retrieve the basic information of posts in a given Wordpress blog.",
+      "url": "https://github.com/goh-chunlin/WordpressRssFeed"
+    }
+  ]
+}
