@@ -6,7 +6,7 @@
   "channels": [
     {
       "name": "Blog",
-      "url": "http://cuteprogramming.wordpress.com/"
+      "url": "https://cuteprogramming.wordpress.com/"
     },
     {
       "name": "YouTube",
@@ -20,7 +20,7 @@
   "feeds": [
     {
       "type": "personal",
-      "url": "http://cuteprogramming.wordpress.com/feed/"
+      "url": "https://cuteprogramming.wordpress.com/feed/"
     }
   ],
   "projects": [
