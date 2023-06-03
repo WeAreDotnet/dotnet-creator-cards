@@ -7,6 +7,14 @@
     {
       "name": "Blog",
       "url": "http://cuteprogramming.wordpress.com/"
+    },
+    {
+      "name": "YouTube",
+      "url": "https://www.youtube.com/watch?v=YOuD51np8bM"
+    },
+    {
+      "name": "YouTube",
+      "url": "https://www.youtube.com/watch?v=s3_5-Z1HeIM&t=4182s"
     }
   ],
   "feeds": [
@@ -30,6 +38,11 @@
       "name": "WordpressRssFeed",
       "description": "This is a NuGet library to retrieve the basic information of posts in a given Wordpress blog.",
       "url": "https://github.com/goh-chunlin/WordpressRssFeed"
+    },
+    {
+      "name": "GCL Boilerplate for C#",
+      "description": "This is a project that aims to assist me to come up with solutions quickly in certain use cases, such as creating a console application to parse a CSV file, etc.",
+      "url": "https://github.com/goh-chunlin/gcl-boilerplate.csharp"
     }
   ]
 }
