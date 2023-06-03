@@ -19,6 +19,10 @@
   ],
   "feeds": [
     {
+      "type": "dotnet",
+      "url": "https://cuteprogramming.blog/category/experience/c/feed/"
+    },
+    {
       "type": "personal",
       "url": "https://cuteprogramming.wordpress.com/feed/"
     }
