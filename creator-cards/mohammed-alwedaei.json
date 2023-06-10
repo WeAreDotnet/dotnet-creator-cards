@@ -1,0 +1,22 @@
+{
+  "name": "Mohammed Alwedaei",
+  "type": "CREATOR",
+  "tags": ".NET, C#, ASP.NET, Cloud, Architecture",
+  "github": "https://github.com/Mohammed-Alwedaei",
+  "channels": [
+    {
+      "name": "Site",
+      "url": "https://www.pexelx.io/"
+    },
+    {
+      "name": "Youtube",
+      "url": "https://www.youtube.com/@developwithpixelx"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCU_4IRthvELzzCHbz124zIQ"
+    }
+  ]
+}
