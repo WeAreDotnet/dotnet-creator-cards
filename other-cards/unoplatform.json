@@ -1,0 +1,35 @@
+﻿{
+  "name": "Uno Platform",
+  "countryCode": "US",
+  "slogan": "",
+  "type": "OTHER",
+  "bio": "",
+  "tags": ".NET, WinUI, Xamarin",
+  "socials": {
+    "youtube": "",
+    "linkedin": "",
+    "twitter": "",
+    "github": "",
+    "mastodon": "",
+    "sessionize": ""
+  },
+  "channels": [
+    {
+      "name": "Site",
+      "url": "https://platform.uno/"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "dotnet",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8GkqD6hsSkwYof6n2Wk1hg"
+    },
+    {
+      "type": "dotnet",
+      "url": "https://platform.uno/feed/"
+    }
+  ]
+}
+
+
+
