@@ -1,0 +1,29 @@
+{
+  "name": "Ahmed Shah",
+  "sectionTitle": null,
+  "countryCode": "pk",
+  "slogan": "",
+  "type": "CREATOR",
+  "bio": "",
+  "tags": ".NET,C#,Azure",
+  "socials": {
+    "youtube": "",
+    "linkedin": "https://www.linkedin.com/in/ahmedshahjr/",
+    "twitter": "https://twitter.com/ahmedshahjr",
+    "github": "https://github.com/ahmedshahjr",
+    "mastodon": "",
+    "sessionize": ""
+  },
+  "channels": [
+    {
+      "name": "DevTo",
+      "url": "https://dev.to/ahmedshahjr"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "LinkTagRssType",
+      "url": " https://dev.to/feed/ahmedshahjr"
+    }
+  ]
+}
