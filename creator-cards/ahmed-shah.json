@@ -23,7 +23,7 @@
   "feeds": [
     {
       "type": "LinkTagRssType",
-      "url": " https://dev.to/feed/ahmedshahjr"
+      "url": "https://dev.to/feed/ahmedshahjr"
     }
   ]
 }
