@@ -11,7 +11,7 @@
   ],
   "feeds": [
     {
-    "type": "LinkTagRssType",
+    "type": "dotnet",
     "url": "https://ivangechev.com/feed.xml"
     }
   ]
