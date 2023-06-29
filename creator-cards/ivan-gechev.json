@@ -1,0 +1,18 @@
+{
+  "name": "Ivan Gechev",
+  "type": "CREATOR",
+  "tags": ".NET, C#",
+  "github": "https://github.com/Banovvv",
+  "channels": [
+    {
+      "name": "Blog",
+      "url": "https://ivangechev.com/blog"
+    }
+  ],
+  "feeds": [
+    {
+    "type": "LinkTagRssType",
+    "url": "https://ivangechev.com/feed.xml"
+    }
+  ]
+}
