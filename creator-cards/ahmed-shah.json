@@ -11,7 +11,7 @@
   ],
   "feeds": [
     {
-      "type": "personal|dotnet",
+      "type": "dotnet",
       "url": "https://dev.to/feed/ahmedshahjr"
     }
   ]
