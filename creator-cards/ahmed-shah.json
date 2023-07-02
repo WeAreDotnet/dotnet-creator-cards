@@ -1,19 +1,8 @@
 {
   "name": "Ahmed Shah",
-  "sectionTitle": null,
-  "countryCode": "pk",
-  "slogan": "",
-  "type": "CREATOR",
-  "bio": "",
-  "tags": ".NET,C#,Azure",
-  "socials": {
-    "youtube": "",
-    "linkedin": "https://www.linkedin.com/in/ahmedshahjr/",
-    "twitter": "https://twitter.com/ahmedshahjr",
-    "github": "https://github.com/ahmedshahjr",
-    "mastodon": "",
-    "sessionize": ""
-  },
+  "type": "CREATOR and Tutorials",
+  "tags": ".NET,C#,Azure,Cloud, Architecture",
+  "github": "https://github.com/ahmedshahjr",
   "channels": [
     {
       "name": "DevTo",
@@ -22,7 +11,7 @@
   ],
   "feeds": [
     {
-      "type": "LinkTagRssType",
+      "type": "personal|dotnet",
       "url": "https://dev.to/feed/ahmedshahjr"
     }
   ]
