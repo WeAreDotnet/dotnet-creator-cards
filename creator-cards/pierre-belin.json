@@ -23,7 +23,7 @@
   "feeds": [
     {
       "type": "dotnet",
-      "url": "https://goatreview.com/rss/"
+      "url": "https://goatreview.com/tag/net/rss/"
     }
   ]
 }
