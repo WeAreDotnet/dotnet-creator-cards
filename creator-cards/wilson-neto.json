@@ -1,6 +1,8 @@
 {
   "name": "Wilson Neto Dev",
   "type": "CREATOR",
+  "countryCode": "BR",
+  "type": "CREATOR",
   "tags": ".NET, C#, ASP.NET, JS, AZURE, REACT.JS, NEXT.JS",
   "github": "https://github.com/wilsonneto-dev",
   "channels": [
