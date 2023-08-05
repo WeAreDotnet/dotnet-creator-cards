@@ -1,29 +1,16 @@
 {
   "name": "Xavier Abelaira Rueda",
-  "sectionTitle": null,
-  "countryCode": "es",
-  "slogan": "The tragedy in life doesn't lie in not reaching your goal. The tragedy lies in having no goal to reach",
   "type": "CREATOR",
-  "bio": "Development Leader at Cotecna Inspection. Software passionate and Tech geek",
   "tags": ".NET, C#, Azure, ASP.NET Core, Entity Framework, .NET MAUI, Blazor, Angular",
-  "socials": {
-    "youtube": "",
-    "linkedin": "https://www.linkedin.com/in/xabelaira/",
-    "twitter": "https://twitter.com/Xelit3_dev",
-    "github": "https://github.com/Xelit3",
-    "mastodon": "",
-    "sessionize": ""
-  },
+  "github": "https://github.com/Xelit3",
   "channels": [
     {
       "name": "Blog",
       "url": "https://dev.to/xelit3"
     }
   ],
-  "feeds": [
-    {
-      "type": "LinkTagRssType",
-      "url": "https://dev.to/feed/xelit3"
-    }
-  ]
+  "feeds": [{
+    "type": "dotnet",
+    "url": "https://dev.to/feed/xelit3"
+  }]
 }
