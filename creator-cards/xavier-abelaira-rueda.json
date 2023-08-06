@@ -1,0 +1,16 @@
+{
+  "name": "Xavier Abelaira Rueda",
+  "type": "CREATOR",
+  "tags": ".NET, C#, Azure, ASP.NET Core, Entity Framework, .NET MAUI, Blazor, Angular",
+  "github": "https://github.com/Xelit3",
+  "channels": [
+    {
+      "name": "Blog",
+      "url": "https://dev.to/xelit3"
+    }
+  ],
+  "feeds": [{
+    "type": "dotnet",
+    "url": "https://dev.to/feed/xelit3"
+  }]
+}
