@@ -22,15 +22,16 @@
     "github": "https://github.com/hikalkan",
     "sessionize": "https://sessionize.com/halil-ibrahim-kalkan"
   },
-  "feeds": [{
-    "type": "personal|dotnet",
-    "url": "https://...feeds/dotnet/rss.xml"
-  }],
   "projects": [
     {
-      "name": "Project Name",
-      "description": "Project Description",
-      "url": "https://github.com/<org>/project"
+      "name": "ABP Framework",
+      "description": "Open Source Web Application Framework for ASP.NET Core",
+      "url": "https://github.com/abpframework/abp"
+    },
+    {
+      "name": "SCS",
+      "description": "TCP Server/Client Communication and RMI Framework",
+      "url": "https://github.com/hikalkan/scs"
     }
   ]
 }
