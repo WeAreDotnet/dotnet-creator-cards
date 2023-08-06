@@ -8,9 +8,13 @@
   "bio": "I'm a software architect & developer who loves to work on open source projects. I'm the lead developer of the ABP framework. I'm mostly interesting in developing reusable framework & libraries, distributed systems, multi-threaded and scalable solutions. I'm talking at local and international conferences about multi-tenancy, microservice architecture and developer tools. I'm writing technical articles on various platforms.",
   "channels": [
     {
-      "name": "Site",
+      "name": "Personal Website",
       "url": "https://halilibrahimkalkan.com/"
-    }
+    },
+    {
+      "name": "ABP Framework Book",
+      "url": "https://www.amazon.com/Mastering-ABP-Framework-maintainable-implementing-dp-1801079242/dp/1801079242"
+	  }
   ],
   "socials": {
     "linkedin": "https://www.linkedin.com/in/halil-ibrahim-kalkan/",
