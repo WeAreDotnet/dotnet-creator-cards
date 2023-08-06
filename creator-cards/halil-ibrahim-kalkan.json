@@ -1,0 +1,32 @@
+{
+  "name": "Halil ibrahim Kalkan",
+  "sectionTitle": null,
+  "countryCode": "tr",
+  "type": "CREATOR",
+  "tags": "ABP, .NET, C#, ASP.NET, ARCHITECTURE",
+  "github": "https://github.com/hikalkan",
+  "bio": "I'm a software architect & developer who loves to work on open source projects. I'm the lead developer of the ABP framework. I'm mostly interesting in developing reusable framework & libraries, distributed systems, multi-threaded and scalable solutions. I'm talking at local and international conferences about multi-tenancy, microservice architecture and developer tools. I'm writing technical articles on various platforms.",
+  "channels": [
+    {
+      "name": "Site",
+      "url": "https://halilibrahimkalkan.com/"
+    }
+  ],
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/halil-ibrahim-kalkan/",
+    "twitter": "https://twitter.com/hibrahimkalkan",
+    "github": "https://github.com/hikalkan",
+    "sessionize": "https://sessionize.com/halil-ibrahim-kalkan"
+  },
+  "feeds": [{
+    "type": "personal|dotnet",
+    "url": "https://...feeds/dotnet/rss.xml"
+  }],
+  "projects": [
+    {
+      "name": "Project Name",
+      "description": "Project Description",
+      "url": "https://github.com/<org>/project"
+    }
+  ]
+}
