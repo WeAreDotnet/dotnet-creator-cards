@@ -5,13 +5,13 @@
   "github": "https://github.com/fahadashiq12",
   "channels": [
       {
-        "name": "Youtube",
-        "url": "https://www.youtube.com/@fahadashiq1463"
+        "name": "Personal Blog",
+        "url": "https://fahadashiqdev.com/blogs"
       }
   ],
   "feeds": [{
     "type": "dotent",
-    "url": "https://www.xml-sitemaps.com/download/fahadashiqdev.com-74b3339d7/sitemap.xml?view=1"
+    "url": "https://fahadashiq30.medium.com/why-you-should-learn-net-development-in-2023-bc831cf9c383"
   }],
   "projects": [
     {
