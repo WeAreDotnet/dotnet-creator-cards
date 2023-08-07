@@ -71,6 +71,8 @@ When your card has the GitHub URL of the account you have been using to sign-up 
 
 * [ ] You must add the full URL to your GitHub profile to your card, so we can assign it to the member account that used the same GitHub account for sign-up.
 
+* [ ] My feed was sucessfully checked against this validator https://validator.w3.org/feed/
+
 ## JSON Card Format
 
 | Name         | Description                       |
