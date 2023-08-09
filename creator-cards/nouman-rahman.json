@@ -1,29 +1,27 @@
-﻿{
-  "name": "Nouman Rahman",
-  "sectionTitle": null,
-  "countryCode": "in",
-  "slogan": "",
+{
+  "name": "My name is Nouman Rahman!",
   "type": "CREATOR",
-  "bio": "",
-  "tags": ".NET, C#",
-  "socials": {
-    "youtube": "",
-    "linkedin": "",
-    "twitter": "https://twitter.com/programmingfire",
-    "github": "https://github.com/programmingfire",
-    "mastodon": "",
-    "sessionize": ""
-  },
+  "tags": ".NET, C#, ASP.NET, I LOVE DOTNET",
+  "github": "https://github.com/programmingfire",
   "channels": [
     {
       "name": "Blog",
-      "url": "https://programmingfire.com"
+      "url": "https://www.programmingfire.com/"
+    },
+    {
+      "name": "Youtube"
+      "url": "https://youtube.com/c/Programmingfire"
+    },
+    
+    {
+      "name": "Twitter"
+      "url": "https://twitter.com/Programmingfire"
     }
   ],
-  "feeds": [
-    {
-      "type": "AHrefFeedType",
-      "url": "https://programmingfire.com/rss.xml"
-    }
+  "feeds": [{
+    "type": "persona",
+    "url": "https://programmingfire.com/rss.xml"
+  }],
+  "projects": [
   ]
 }
