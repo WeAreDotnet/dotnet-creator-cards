@@ -1,0 +1,20 @@
+{
+  "name": "My name is Arthur Casals",
+  "type": "CREATOR | .NET Lead Editor at InfoQ",
+  "tags": ".NET, C#, ASP.NET",
+  "github": "https://github.com/casals",
+  "channels": [
+    {
+      "name": "InfoQ",
+      "url": "https://www.infoq.com/profile/Arthur-Casals/"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/acasals/"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/acasals"
+    }
+  ]
+}
