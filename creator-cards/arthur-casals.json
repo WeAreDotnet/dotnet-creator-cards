@@ -16,5 +16,10 @@
       "name": "Twitter",
       "url": "https://twitter.com/acasals"
     }
-  ]
+  ],
+  ,
+  "feeds": [{
+    "type": "dotnet",
+    "url": "http://www.feedrinse.com/services/channel/?chanurl=b54ab7d9684455c5786b6d1b4a37de3d"
+  }]  
 }
