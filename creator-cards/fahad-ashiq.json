@@ -7,11 +7,15 @@
       {
         "name": "Personal Blog",
         "url": "https://fahadashiqdev.com/blogs"
+      },
+       {
+        "name": "Medium Blog",
+        "url": "https://fahadashiq30.medium.com/"
       }
   ],
   "feeds": [{
     "type": "dotent",
-    "url": "https://fahadashiq30.medium.com/why-you-should-learn-net-development-in-2023-bc831cf9c383"
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4yLR4UKU7fOtlKQqkDEmEQ"
   }],
   "projects": [
     {
