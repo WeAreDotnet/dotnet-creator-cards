@@ -87,9 +87,9 @@ When your card has the GitHub URL of the account you have been using to sign-up 
 ## Sample Card
 ```csharp
 {
-  "name": "My name is!",
-  "type": "CREATOR OR MAINTAINER whatever you are primarily",
-  "tags": ".NET, C#, ASP.NET, I LOVE DOTNET",
+  "name": "FirstName LastName",
+  "type": "CREATOR|MAINTAINER",
+  "tags": ".NET, C#, ASP.NET",
   "github": "https://github.com/username",
   "channels": [
     {
