@@ -1,0 +1,25 @@
+{
+  "name": "Arthur Casals",
+  "type": "CREATOR",
+  "tags": ".NET, C#, ASP.NET",
+  "github": "https://github.com/casals",
+  "channels": [
+    {
+      "name": "InfoQ",
+      "url": "https://www.infoq.com/profile/Arthur-Casals/"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/acasals/"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/acasals"
+    }
+  ],
+  ,
+  "feeds": [{
+    "type": "dotnet",
+    "url": "http://www.feedrinse.com/services/channel/?chanurl=b54ab7d9684455c5786b6d1b4a37de3d"
+  }]  
+}
