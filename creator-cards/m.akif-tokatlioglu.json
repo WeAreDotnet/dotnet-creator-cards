@@ -1,17 +1,8 @@
 ﻿{
   "name": "M. Akif Tokatlioglu",
   "type": "CREATOR",
-  "countryCode": "tr",
   "tags": ".NET, C#, Blazor, ASP.NET Core, ASP.NET",
   "github": "https://github.com/akifmt",
-  "socials": {
-    "youtube": "",
-    "linkedin": "https://www.linkedin.com/in/makiftokatlioglu",
-    "twitter": "",
-    "github": "https://github.com/akifmt",
-    "mastodon": "",
-    "sessionize": ""
-  },
   "channels": [
     {
       "name": "Blog",
