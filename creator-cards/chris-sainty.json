@@ -1,23 +1,16 @@
 ﻿{
   "name": "Chris Sainty",
-  "sectionTitle": null,
-  "countryCode": "gb",
-  "slogan": "",
   "type": "CREATOR",
-  "bio": "I'm a software developer, Microsoft MVP, content creator, international speaker, and maintainer of several popular open-source packages for Blazor.",
-  "tags": "Blazor .NET C#",
-  "socials": {
-    "youtube": "https://youtube.com/@chris-sainty",
-    "linkedin": "https://linkedin.com/in/chris-sainty",
-    "twitter": "https://twitter.com/chris_sainty",
-    "github": "https://github.com/chrissainty",
-    "mastodon": "https://mstdn.social/@chrissainty",
-    "sessionize": "https://sessionize.com/chrissainty/"
-  },
+  "tags": "Blazor, .NET, C#, ASP.NET Core",
+  "github": "https://github.com/chrissainty",
   "channels": [
     {
       "name": "Blog",
       "url": "https://chrissainty.com/"
+    },
+    {
+      "name": "YouTube",
+      "url": "https://youtube.com/@chris-sainty"
     },
     {
       "name": "Blazor in Action (Book)",
@@ -26,8 +19,19 @@
   ],
   "feeds": [
     {
-      "type": "LinkTagRssType",
-      "url": "https://chrissainty.com/rss/"
-    }
+      "type": "dotnet",
+      "url": "https://chrissainty.com/index.xml"
+    },
+    {
+      "type": "dotnet",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCaU0bGuWwL2-6zStRze0g8A"
+    },
+  ],
+  "projects": [
+   {
+     "name": "Blazored",
+     "description": "A collection of components and libraries for Blazor.",
+     "url": "https://github.com/Blazored"
+   }
   ]
 }
