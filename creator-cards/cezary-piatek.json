@@ -22,7 +22,7 @@
   ],
   "feeds": [
     {
-      "type": "LinkTagRssType",
+      "type": "dotnet",
       "url": "https://cezarypiatek.github.io/index.xml"
     }
   ]
