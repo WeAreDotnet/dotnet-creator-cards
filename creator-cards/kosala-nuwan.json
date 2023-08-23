@@ -1,23 +1,18 @@
 ﻿{
   "name": "It's actually me",
-  "sectionTitle": null,
-  "countryCode": "lk",
-  "slogan": "",
   "type": "CREATOR",
-  "bio": "Currently Architect at @virtusacorp. JavaScript .NET Azure Serverless devocate. Huge GitHub nerd. Nonconformist.",
-  "tags": ".NET, JavaScript, Azure, Serverless, Devcontainers",
-  "socials": {
-    "youtube": "",
-    "linkedin": "https://www.linkedin.com/in/kosalanuwan/",
-    "twitter": "https://twitter.com/kosalanuwan",
-    "github": "https://github.com/kosalanuwan",
-    "mastodon": "https://fosstodon.org/@kosalanuwan",
-    "sessionize": ""
-  },
+  "tags": ".NET, C#, AZURE",
+  "github": "https://github.com/kosalanuwan",
   "channels": [
     {
-      "name": "Articles",
+      "name": "Site",
       "url": "https://kosalanuwan.github.io/"
+    }, {
+      "name": "Blog",
+      "url": "https://dev.to/kosalanuwan/"
+    }, {
+      "name": "Blog",
+      "url": "https://keepontruckin.hashnode.dev/"
     }
   ],
   "feeds": [
