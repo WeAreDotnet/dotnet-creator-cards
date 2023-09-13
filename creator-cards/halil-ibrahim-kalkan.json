@@ -17,7 +17,10 @@
       "url": "https://www.amazon.com/Mastering-ABP-Framework-maintainable-implementing-dp-1801079242/dp/1801079242"
     }
   ],
-  "feeds": [],
+  "feeds": [{
+    "type": "dotnet",
+    "url": "https://community.abp.io/rss?member=hikalkan&language=en"
+  }],
   "projects": [
     {
       "name": "ABP Framework",
