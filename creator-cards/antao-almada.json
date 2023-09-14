@@ -1,0 +1,28 @@
+﻿{
+  "name": "Antão Almada",
+  "sectionTitle": null,
+  "countryCode": "pt",
+  "slogan": "",
+  "type": "CREATOR",
+  "bio": "I've been using .NET since it's first versions mostly for the development of interactive applications, VR and AR.",
+  "tags": ".NET, C#, LINQ",
+  "socials": {
+    "youtube": "",
+    "linkedin": "https://www.linkedin.com/in/antaoalmada/",
+    "twitter": "https://twitter.com/AntaoAlmada",
+    "github": "https://github.com/aalmada",
+    "mastodon": "",
+    "sessionize": ""
+  },
+  "channels": [
+    {
+      "name": "LinkedIn Articles",
+      "url": "https://www.linkedin.com/in/antaoalmada/recent-activity/articles/"
+    },
+    {
+      "name": "Medium",
+      "url": "https://antao-almada.medium.com/"
+    }
+  ],  
+  "feeds": []
+}
