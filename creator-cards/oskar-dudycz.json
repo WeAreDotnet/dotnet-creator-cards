@@ -2,23 +2,27 @@
   "name": "Oskar Dudycz",
   "sectionTitle": null,
   "countryCode": "pl",
-  "slogan": "",
+  "slogan": "I help people build well-architected Event-Driven software.",
   "type": "CREATOR",
-  "bio": "",
-  "tags": ".NET, Event-Driven Architecture",
+  "bio": "Event Sourcerer | Marten co-Maintainer | Architect, Consultant and Blogger passionate about Open Source",
+  "tags": ".NET, Event-Driven Architecture, Event Sourcing",
   "socials": {
-    "youtube": "",
+    "youtube": "https://www.youtube.com/channel/UC3M4_OgJS4lvZHVDzkOlxIg",
     "linkedin": "https://www.linkedin.com/in/oskardudycz/",
     "twitter": "https://twitter.com/oskar_at_net",
     "github": "https://github.com/oskardudycz",
     "mastodon": "https://hachyderm.io/@oskardudycz",
-    "sessionize": ""
+    "sessionize": "https://sessionize.com/oskar-dudycz/"
   },
   "channels": [
     {
       "name": "Blog",
       "url": "https://event-driven.io/en/"
-    }
+    },
+    {
+      "name": "Newsletter (Architecture Weekly)",
+      "url": "https://www.architecture-weekly.com"
+    },
   ],
   "feeds": [
     {
@@ -26,12 +30,25 @@
       "url": "https://event-driven.io/rss.xml"
     },
     {
-      "type": "LinkTagRssType",
-      "url": "https://event-driven.io/newsletter-pl-rss.xml"
-    },
-    {
       "type": "AHrefFeedType",
       "url": "https://event-driven.io/rss.xml"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Marten",
+      "description": ".NET Transactional Document DB and Event Store on PostgreSQL",
+      "url": "https://github.com/JasperFx/marten"
+    },
+    {
+      "name": "Event Sourcing .NET",
+      "description": "Examples and Tutorials of Event Sourcing in .NET",
+      "url": "https://github.com/oskardudycz/EventSourcing.NetCore"
+    },
+    {
+      "name": "Ogooreck",
+      "description": "Sneaky Testing Library in BDD style",
+      "url": "https://github.com/oskardudycz/Ogooreck"
     }
   ]
 }
