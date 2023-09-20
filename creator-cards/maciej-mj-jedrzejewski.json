@@ -1,0 +1,31 @@
+{
+    "name": "Maciej MJ Jedrzejewski",
+    "sectionTitle": null,
+    "countryCode": "ch",
+    "slogan": "",
+    "type": "CREATOR",
+    "bio": "",
+    "tags": "Software Architecture, Domain Driven Design, Continuous Deployments",
+    "socials": {
+      "youtube": "https://www.youtube.com/@meaboutsoftware",
+      "linkedin": "https://www.linkedin.com/in/jedrzejewski-maciej/",
+      "twitter": "",
+      "github": "https://github.com/meaboutsoftware",
+      "mastodon": "",
+      "sessionize": "https://sessionize.com/maciej-jedrzejewski/"
+    },
+    "channels": [
+      {
+      "name": "Blog",
+      "url": "https://meaboutsoftware.com/"
+      }
+    ],
+    "feeds": [],
+    "projects": [
+      {
+        "name": "Evolutionary Architecture by example",
+        "description": "Example of architecture evolution from Modular Monolith to Microservices",
+        "url": "https://github.com/evolutionary-architecture/evolutionary-architecture-by-example"
+      }
+    ]
+  }
