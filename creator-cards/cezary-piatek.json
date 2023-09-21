@@ -1,29 +1,44 @@
 ﻿{
   "name": "Cezary Piątek",
-  "sectionTitle": null,
-  "countryCode": "pl",
-  "slogan": "",
   "type": "CREATOR",
-  "bio": "",
-  "tags": ".NET, Roslyn, DevOps",
-  "socials": {
-    "youtube": "https://www.youtube.com/channel/UCz-4GvvTYCPNGa9hg7Te7Bw",
-    "linkedin": "",
-    "twitter": "https://twitter.com/cezary_piatek",
-    "github": "https://github.com/cezarypiatek",
-    "mastodon": "",
-    "sessionize": ""
-  },
+  "tags": ".NET, C#, ASP.NET, Testing, Architecture, Roslyn",
+  "github": "https://github.com/cezarypiatek",
   "channels": [
     {
       "name": "Blog",
-      "url": "https://cezarypiatek.github.io/"
+      "url": "https://cezarypiatek.github.io"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/cezary_piatek"
     }
   ],
-  "feeds": [
+  "feeds": [{
+    "type": "dotnet",
+    "url": "https://cezarypiatek.github.io/index.xml"
+  }],
+  "projects": [
     {
-      "type": "dotnet",
-      "url": "https://cezarypiatek.github.io/index.xml"
+      "name": "NScenario",
+      "description": "Library for annotating steps of test case scenarios",
+      "url": "https://github.com/cezarypiatek/NScenario"
+    },
+    {
+      "name": "NScenario",
+      "description": "Cross-platform UI app that facilitates WireMock.NET troubleshooting.",
+      "url": "https://github.com/WireMock-Net/WireMockInspector"
+    },
+    {
+      "name": "GRPC-Mock-Server",
+      "description": "Standalone component for mocking GRPC services",
+      "url": "https://github.com/cezarypiatek/GRPC-Mock-Server"
+    },
+    {
+      "name": "MappingGenerator",
+      "description": "Design time alternative to AutoMapper.",
+      "url": "https://mappinggenerator.net/"
     }
   ]
 }
+
+
