@@ -1,41 +1,30 @@
 {
-    "name": "Kamil Bączek",
-    "sectionTitle": null,
-    "countryCode": "pl",
-    "slogan": "",
-    "type": "CREATOR",
-    "bio": "",
-    "tags": ".NET, Software Architecture, Domain Driven Design",
-    "socials": {
-      "youtube": "",
-      "linkedin": "https://www.linkedin.com/in/kamilbaczek/",
-      "twitter": "",
-      "github": "https://github.com/kamilbaczek/kamilbaczek",
-      "mastodon": "",
-      "sessionize": ""
-    },
-    "channels": [
-      {
+  "name": "Kamil Bączek",
+  "type": "CREATOR",
+  "tags": "C#, .NET, Software Architecture, Domain Driven Design",
+  "github": "https://github.com/kamilbaczek/kamilbaczek",
+  "channels": [
+    {
       "name": "Medium",
       "url": "https://medium.com/@kamilbaczek98"
-      }
-    ],
-    "feeds": [
-      {
-        "type": "LinkTagRssType",
-        "url": "https://medium.com/feed/@kamilbaczek98"
-      }
-    ],
-    "projects": [
-      {
-        "name": "Evolutionary Architecture by example",
-        "description": "Example of architecture evolution from Modular Monolith to Microservices",
-        "url": "https://github.com/evolutionary-architecture/evolutionary-architecture-by-example"
-      },
-      {
-        "name": "Modular Monolith by example",
-        "description": "Example of  Modular Mnolith with Domain Driven Design",
-        "url": "https://github.com/kamilbaczek/Modular-monolith-by-example"
-      }
-    ]
-  }
+    }
+  ],
+  "feeds": [
+    {
+      "type": "LinkTagRssType",
+      "url": "https://medium.com/feed/@kamilbaczek98"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Evolutionary Architecture by example",
+      "description": "Example of architecture evolution from Modular Monolith to Microservices",
+      "url": "https://github.com/evolutionary-architecture/evolutionary-architecture-by-example"
+    },
+    {
+      "name": "Modular Monolith by example",
+      "description": "Example of  Modular Mnolith with Domain Driven Design",
+      "url": "https://github.com/kamilbaczek/Modular-monolith-by-example"
+    }
+  ]
+}
