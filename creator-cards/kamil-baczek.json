@@ -7,7 +7,15 @@
     {
       "name": "Medium",
       "url": "https://medium.com/@kamilbaczek98"
-    }
+    },
+    {
+      "name": "dev.to",
+      "url": "https://dev.to/kamilbaczek"
+    },
+    {
+      "name": "ArtOfSoftwareDesign.NET",
+      "url": "https://artofsoftwaredesign.net"
+    },
   ],
   "feeds": [
     {
