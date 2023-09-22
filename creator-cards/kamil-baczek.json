@@ -1,7 +1,7 @@
 {
   "name": "Kamil Bączek",
   "type": "CREATOR",
-  "tags": "C#, .NET, Software Architecture, Domain Driven Design",
+  "tags": ".NET, Software Architecture, Domain Driven Design",
   "github": "https://github.com/kamilbaczek/kamilbaczek",
   "channels": [
     {
@@ -9,13 +9,17 @@
       "url": "https://medium.com/@kamilbaczek98"
     },
     {
-      "name": "dev.to",
+      "name": "Dev.to",
       "url": "https://dev.to/kamilbaczek"
     },
     {
       "name": "ArtOfSoftwareDesign.NET",
       "url": "https://artofsoftwaredesign.net"
     },
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/kamilbaczek"
+    }
   ],
   "feeds": [
     {
