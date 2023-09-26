@@ -1,19 +1,8 @@
-﻿{
+{
   "name": "Antão Almada",
-  "sectionTitle": null,
-  "countryCode": "pt",
-  "slogan": "",
   "type": "CREATOR",
-  "bio": "I've been using .NET since it's first versions mostly for the development of interactive applications, VR and AR.",
   "tags": ".NET, C#, LINQ",
-  "socials": {
-    "youtube": "",
-    "linkedin": "https://www.linkedin.com/in/antaoalmada/",
-    "twitter": "https://twitter.com/AntaoAlmada",
-    "github": "https://github.com/aalmada",
-    "mastodon": "",
-    "sessionize": ""
-  },
+  "github": "https://github.com/aalmada",
   "channels": [
     {
       "name": "LinkedIn Articles",
@@ -23,6 +12,48 @@
       "name": "Medium",
       "url": "https://antao-almada.medium.com/"
     }
-  ],  
-  "feeds": []
+  ],
+  "feeds": [],
+  "projects": [
+    {
+      "name": "LinqBenchmarks",
+      "description": "Benchmarking LINQ and alternative implementations.",
+      "url": "https://github.com/NetFabric/LinqBenchmarks"
+    },
+    {
+      "name": "NetFabric.Hyperlinq",
+      "description": "High performance LINQ implementation with minimal heap allocations. Supports enumerables, async enumerables, arrays and Span<T>.",
+      "url": "https://github.com/NetFabric/NetFabric.Hyperlinq"
+    },
+    {
+      "name": "NetFabric.Hyperlinq.Analyzer",
+      "description": "A Roslyn analyzer with rules related to generation and consumption of enumerables and async enumerables in C#.",
+      "url": "https://github.com/NetFabric/NetFabric.Hyperlinq.Analyzer"
+    },
+    {
+      "name": "NetFabric.Assertive",
+      "description": "A fluent assertions library that performs full coverage on any enumerable type.",
+      "url": "https://github.com/NetFabric/NetFabric.Assertive"
+    },
+    {
+      "name": "NetFabric.CodeAnalysis",
+      "description": "Extensions to System.CodeAnalysis (Roslyn API) and System.Reflection.",
+      "url": "https://github.com/NetFabric/NetFabric.CodeAnalysis"
+    },
+    {
+      "name": "NetFabric.Numerics",
+      "description": "A powerful .NET library that provides strongly-typed implementations of multiple coordinate systems, including cartesian, polar, spherical, and geodetic.",
+      "url": "https://github.com/NetFabric/NetFabric.Numerics"
+    },
+    {
+      "name": "NetFabric.DoublyLinkedList",
+      "description": "An alternative to LinkedList<T> with reverse operation and enumeration without allocation.",
+      "url": "https://github.com/NetFabric/NetFabric.DoublyLinkedList"
+    },
+    {
+      "name": "NetFabric.Vision",
+      "description": "Computer vision modules for .NET and BonsaiRx.",
+      "url": "https://github.com/NetFabric/NetFabric.Vision"
+    }  
+  ]
 }
