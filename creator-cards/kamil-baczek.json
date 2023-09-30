@@ -23,7 +23,7 @@
   ],
   "feeds": [
     {
-      "type": "LinkTagRssType",
+      "type": "personal",
       "url": "https://medium.com/feed/@kamilbaczek98"
     }
   ],
@@ -40,3 +40,4 @@
     }
   ]
 }
+
