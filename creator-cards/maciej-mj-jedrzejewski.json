@@ -21,7 +21,12 @@
       "url": "https://sessionize.com/maciej-jedrzejewski/"
     }
   ],
-  "feeds": [],
+  "feeds": [
+    {
+      "type": "personal",
+      "url": "https://meaboutsoftware.com/feed/"
+    }
+  ],
   "projects": [
     {
       "name": "Evolutionary Architecture by Example",
