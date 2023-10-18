@@ -1,0 +1,32 @@
+{
+  "name": "Luke Parker",
+  "type": "CREATOR",
+  "tags": ".NET, C#, ASP.NET, Clean Architecture, Vertical Slice Architecture, Clean Code",
+  "github": "https://github.com/Hona",
+  "channels": [
+    {
+      "name": "Blog",
+      "url": "https://lukeparker.dev"
+    },
+    {
+      "name": "Youtube",
+      "url": "https://www.youtube.com/@lukeparkerdev"
+    }
+  ],
+  "feeds": [{
+    "type": "personal",
+    "url": "https://lukeparker.dev/blog.rss"
+  }],
+  "projects": [
+    {
+      "name": "UpBlazor",
+      "description": "🏦 I built this site to integrate with Up Bank (an Australian digital bank), to assist users with budgeting and to gain powerful future insights. It was built from my personal pain of doing budgetting in a spreadsheet when I knew there was a better way. There was no existing solution integrating with Up Bank, or that did exactly what I wanted... so I built this site!",
+      "url": "https://github.com/Hona/UpBlazor"
+    },
+    {
+      "name": "Tempus Hub",
+      "description": "🥇 Website built for a racing game community to socialise, track times, see analytics and all round complement the game. This app aggregates data from the game's API and creates much more insightful data presented with the beautiful frontend for end users.",
+      "url": "https://github.com/Hona/TempusHub"
+    }
+  ]
+}
