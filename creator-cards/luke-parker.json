@@ -15,7 +15,7 @@
   ],
   "feeds": [{
     "type": "personal",
-    "url": "https://lukeparker.dev/blog.rss"
+    "url": "https://lukeparker.dev/feed.xml"
   }],
   "projects": [
     {
