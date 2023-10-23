@@ -11,7 +11,7 @@
     "linkedin": "https://www.linkedin.com/in/owainwilliams//",
     "twitter": "https://twitter.com/owaincodes",
     "github": "https://github.com/OwainWilliams",
-    "mastodon": "",
+    "mastodon": "@owaincodes@umbracocommunity.social",
     "sessionize": ""
   },
   "channels": [
@@ -22,11 +22,12 @@
   ],
   "feeds": [
     {
-      "type": "personal",
-      "url": "https://owain.codes/rss?category=thoughts"
+      "type": "dotnet",
+      "url": "https://owain.codes/rss?category=dotnet"
     },
     {
-      "type":
+      "type": "personal",
+      "url": "https://owain.codes/rss?category=thoughts"
     }
   ]
 }
