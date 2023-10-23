@@ -22,8 +22,11 @@
   ],
   "feeds": [
     {
-      "type": "dotnet",
-      "url": "https://owain.codes/rss"
+      "type": "personal",
+      "url": "https://owain.codes/rss?category=thoughts"
+    },
+    {
+      "type":
     }
   ]
 }
