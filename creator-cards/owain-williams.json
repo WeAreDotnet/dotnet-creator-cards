@@ -19,9 +19,9 @@
   }],
   "projects": [
     {
-      "name": "Project Name",
-      "description": "Project Description",
-      "url": "https://github.com/<org>/project"
+      "name": "H5YR",
+      "description": "High Five, You Rock - A celebration of awesomeness in open source communities",
+      "url": "https://github.com/H5YR/High5YouRock"
     }
   ]
 }
