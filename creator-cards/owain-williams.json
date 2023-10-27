@@ -1,33 +1,27 @@
 {
   "name": "Owain Williams",
-  "sectionTitle": null,
-  "countryCode": "uk",
-  "slogan": "",
   "type": "CREATOR",
-  "bio": "Hi I'm Owain, I'm an Umbraco CMS MVP, .Net Meetup organiser and Lego fan",
-  "tags": ".NET, C#, ASP.NET Core, Umbraco CMS",
-  "socials": {
-    "youtube": "",
-    "linkedin": "https://www.linkedin.com/in/owainwilliams//",
-    "twitter": "https://twitter.com/owaincodes",
-    "github": "https://github.com/OwainWilliams",
-    "mastodon": "@owaincodes@umbracocommunity.social",
-    "sessionize": ""
-  },
+  "tags": ".NET, C#, ASP.NET",
+  "github": "https://github.com/OwainWilliams",
   "channels": [
     {
       "name": "Blog",
-      "url": "https://owain.codes"
+      "url": "https://www.owain.codes/"
     }
   ],
-  "feeds": [
+  "feeds": [{
+    "type": "dotnet",
+    "url": "https://owain.codes/rss?category=dotnet"
+  },
+  {
+    "type": "personal",
+    "url": "https://owain.codes/rss?category=thoughts"
+  }],
+  "projects": [
     {
-      "type": "dotnet",
-      "url": "https://owain.codes/rss?category=dotnet"
-    },
-    {
-      "type": "personal",
-      "url": "https://owain.codes/rss?category=thoughts"
+      "name": "Project Name",
+      "description": "Project Description",
+      "url": "https://github.com/<org>/project"
     }
   ]
 }
