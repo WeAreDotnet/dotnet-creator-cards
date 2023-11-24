@@ -10,7 +10,7 @@
     }
   ],
   "feeds": [{
-    "type": "personal|dotnet",
+    "type": "dotnet",
     "url": "https://kazo0.dev/feed.xml"
   }]
 }
