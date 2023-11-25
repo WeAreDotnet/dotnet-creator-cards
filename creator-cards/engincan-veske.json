@@ -1,19 +1,8 @@
 ﻿{
   "name": "Engincan Veske",
-  "sectionTitle": null,
-  "countryCode": "tr",
-  "slogan": "",
   "type": "CREATOR",
-  "bio": "",
   "tags": "ABP Framework, .NET, C#",
-  "socials": {
-    "youtube": "",
-    "linkedin": "https://www.linkedin.com/in/engincanv/",
-    "twitter": "https://twitter.com/EngincanVeske",
-    "github": "https://github.com/EngincanV",
-    "mastodon": "",
-    "sessionize": ""
-  },
+  "github": "https://github.com/EngincanV",
   "channels": [
     {
       "name": "Blog",
