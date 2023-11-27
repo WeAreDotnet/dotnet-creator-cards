@@ -1,6 +1,6 @@
-# #WeAreDonet Creator Submission Guidelines
+# #WeAreDotnet Creator Submission Guidelines
 
-* [x] Check all points before submitting the PR.
+* [ ] Check all points before submitting the PR.
 
 * [ ] By submitting this pull request to add my creator card, I verify that I adhere to the #WeAreDotnet creator card submission guidelines.
 
