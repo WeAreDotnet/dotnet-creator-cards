@@ -10,7 +10,7 @@
     }
   ],
   "feeds": [{
-    "type": "personal",
+    "type": "dotnet",
     "url": "https://blog.rufer.be/feed/"
   }]
 }
