@@ -17,13 +17,17 @@
   "channels": [
     {
       "name": "Blog",
-      "url": "https://blog.mzikmund.com/"
+      "url": "https://mzikmund.dev/"
     }
   ],
   "feeds": [
     {
       "type": "LinkTagRssType",
-      "url": "https://blog.mzikmund.com/feed/"
+      "url": "https://mzikmund.dev/rss/"
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCB6Td35bzTvcJN_HG6TLtwA/"
     }
   ]
 }
