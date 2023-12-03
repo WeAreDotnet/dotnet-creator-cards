@@ -1,29 +1,20 @@
 ﻿{
   "name": "Martin Zikmund",
   "type": "CREATOR",
-  "bio": "Martin is an open-source software developer and Microsoft Developer Technologies MVP. He specializes in cross-platform application development and loves the Microsoft technology stack. He enjoys sharing his knowledge with other developers at conferences and on-line. In spare time he enjoys sport climbing/bouldering, gaming on Xbox, reading, geocaching and building LEGO as an avid AFOL.",
   "tags": ".NET, C#, Uno Platform",
   "github": "https://github.com/MartinZikmund",
   "channels": [
     {
-      "name": "Site and blog",
+      "name": "Site",
       "url": "https://mzikmund.dev/"
-    },
-    {
-      "name": "LinkedIn",
-      "url": "https://www.linkedin.com/in/mzikmund"
     },
     {
       "name": "YouTube",
       "url": "https://www.youtube.com/@mzikmund"
     },
     {
-      "name": "X",
-      "url": "https://x.com/mzikmunddev"
-    },
-    {
-      "name": "Sessionize",
-      "url": "https://sessionize.com/MartinZikmund"
+      "name": "Twitch",
+      "url": "https://twitch.tv/MartinZikmund"
     }
   ],
   "feeds": [
