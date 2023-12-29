@@ -1,19 +1,24 @@
 {
   "name": "Antão Almada",
   "type": "CREATOR",
-  "tags": ".NET, C#, LINQ",
+  "tags": ".NET, C#, LINQ, performance, Roslyn",
   "github": "https://github.com/aalmada",
   "channels": [
     {
-      "name": "LinkedIn Articles",
-      "url": "https://www.linkedin.com/in/antaoalmada/recent-activity/articles/"
+      "name": "Blog",
+      "url": "https://aalmada.github.io/"
     },
     {
       "name": "Medium",
       "url": "https://antao-almada.medium.com/"
     }
   ],
-  "feeds": [],
+  "feeds": [
+    {
+      "type": "personal",
+      "url": "https://aalmada.github.io/feed.xml"
+    }
+  ],
   "projects": [
     {
       "name": "LinqBenchmarks",
