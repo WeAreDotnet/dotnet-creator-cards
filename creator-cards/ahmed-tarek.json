@@ -1,0 +1,36 @@
+{
+  "name": "Ahmed Tarek",
+  "type": "CREATOR",
+  "tags": ".NET, C#, ASP.NET, ASP.NET Core",
+  "github": "https://github.com/AhmedTarekHasan",
+  "channels": [
+    {
+      "name": "Website",
+      "url": "https://DevelopmentSimplyPut.com"
+    },
+	{
+      "name": "Blog",
+      "url": "https://DevelopmentSimplyPut.com/blog"
+    },
+	{
+      "name": "Medium",
+      "url": "https://medium.com/@eng_ahmed.tarek"
+    },
+	{
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/atarekhasan"
+    },
+	{
+      "name": "Twitter",
+      "url": "https://twitter.com/AhmedTarekHasa1"
+    },
+	{
+      "name": "GitHub",
+      "url": "https://github.com/AhmedTarekHasan"
+    }
+  ],
+  "feeds": [{
+    "type": "Dotnet",
+    "url": "https://www.developmentsimplyput.com/blog/blog-feed.xml"
+  }]
+}
