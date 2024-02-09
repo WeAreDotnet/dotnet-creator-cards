@@ -13,11 +13,7 @@
     {
       "type": "dotnet",
       "url": "https://akifmt.github.io/dotnet/index.xml"
-    },
-	{
-      "type": "personal",
-      "url": "https://akifmt.github.io/posts/index.xml"
-	}
+    }
   ],
   "projects": [
     {
