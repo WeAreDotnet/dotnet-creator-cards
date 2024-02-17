@@ -20,5 +20,8 @@
       "url": "https://www.linkedin.com/newsletters/7022684487754944512/"
     }
   ],
-  "feeds": []
+  "feeds": [{
+    "type":"RSS",
+    "url":"https://www.amitprakash.me/rss.xml"
+  }]
 }
