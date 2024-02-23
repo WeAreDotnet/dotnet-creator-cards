@@ -23,7 +23,7 @@
   ],
   "feeds": [
     {
-      "type": "LinkTagRssType",
+      "type": "dotnet",
       "url": "https://stenbrinke.nl/index.xml"
     }
   ]
