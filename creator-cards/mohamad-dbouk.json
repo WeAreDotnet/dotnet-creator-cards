@@ -25,6 +25,10 @@
     {
       "type": "LinkTagRssType",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCL6eh0qUlyA0gOtMkFklgQg"
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://mdbouk.com/feed/"
     }
   ]
 }
