@@ -1,0 +1,29 @@
+﻿{
+  "name": "Martin Costello",
+  "sectionTitle": null,
+  "countryCode": "gb",
+  "slogan": "",
+  "type": "CREATOR",
+  "bio": ".NET developer, tester and Microsoft MVP",
+  "tags": ".NET, C#",
+  "socials": {
+    "youtube": "https://www.youtube.com/@MartinCostello",
+    "linkedin": "https://www.linkedin.com/in/martin-costello/",
+    "twitter": "https://twitter.com/martin_costello",
+    "github": "https://github.com/martincostello",
+    "mastodon": "",
+    "sessionize": "https://sessionize.com/martincostello/"
+  },
+  "channels": [
+    {
+      "name": "Blog",
+      "url": "https://blog.martincostello.com/"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "LinkTagRssType",
+      "url": "https://blog.martincostello.com/feed.xml"
+    }
+  ]
+}
