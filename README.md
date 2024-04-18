@@ -1,3 +1,6 @@
+# Please note
+The repository contains some cards based on an old file format. Please make sure to use the new format: https://github.com/WeAreDotnet/dotnet-creator-cards/blob/main/creator-cards/_creatorTemplate.json
+
 # Welcome!
 
 Welcome to https://www.wearedotnet.io
