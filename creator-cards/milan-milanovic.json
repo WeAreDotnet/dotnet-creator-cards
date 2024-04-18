@@ -1,0 +1,40 @@
+﻿{
+  "name": "Milan Milanović",
+  "sectionTitle": null,
+  "countryCode": "rs",
+  "slogan": "",
+  "type": "CREATOR",
+  "bio": "",
+  "tags": ".NET, C#, Architecture",
+  "socials": {
+    "youtube": "https://www.youtube.com/@techworldwithmilan",
+    "linkedin": "https://www.linkedin.com/in/milanmilanovic/",
+    "twitter": "https://twitter.com/milan_milanovic",
+    "github": "https://github.com/milanm",
+    "mastodon": "",
+    "sessionize": "https://sessionize.com/milanmilanovic"
+  },
+  "channels": [
+    {
+      "name": "Blog",
+      "url": "https://newsletter.techworld-with-milan.com/"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "LinkTagRssType",
+      "url": "https://newsletter.techworld-with-milan.com/feed"
+    }],
+  "projects": [
+    {
+      "name": ".NET Developer Roadmap 2024",
+      "description": "Project Description",
+      "url": "The comprehensive .NET Developer Roadmap by seniority level"
+    },
+     {
+      "name": "Design Patterns In Use",
+      "description": "Most common Design Patterns you need to know, with examples in C#",
+      "url": "https://github.com/milanm/DesignPatternsInUse"
+    }
+  ]
+}
