@@ -1,0 +1,75 @@
+﻿{
+  "name": "Martin Costello",
+  "type": "CREATOR",
+  "tags": ".NET, C#, ASP.NET",
+  "github": "https://github.com/martincostello",
+  "channels": [
+    {
+      "name": "Blog",
+      "url": "https://blog.martincostello.com"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/martin-costello/"
+    },
+    {
+      "name": "Sessionize",
+      "url": "https://sessionize.com/martincostello/"
+    },
+    {
+      "name": "Site",
+      "url": "https://martincostello.com"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/martin_costello"
+    },
+    {
+      "name": "Youtube",
+      "url": "https://www.youtube.com/@MartinCostello"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "LinkTagRssType",
+      "url": "https://blog.martincostello.com/feed.xml"
+    }
+  ],
+  "projects": [
+    {
+      "name": "AspNet.Security.OAuth.Providers",
+      "description": "OAuth 2.0 social authentication providers for ASP.NET Core",
+      "url": "https://github.com/aspnet-contrib/AspNet.Security.OAuth.Providers"
+    },
+    {
+      "name": "AWS Lambda Test Server for .NET",
+      "description": "A NuGet package that provides an in-memory test server for testing AWS Lambda functions",
+      "url": "https://github.com/martincostello/lambda-test-server"
+    },
+    {
+      "name": "HttpClient Interception",
+      "description": "A .NET library for intercepting server-side HTTP requests",
+      "url": "https://github.com/justeattakeaway/httpclient-interception"
+    },
+    {
+      "name": "Polly",
+      "description": "Polly is a .NET resilience and transient-fault-handling library",
+      "url": "https://github.com/App-vNext/Polly"
+    },
+    {
+      "name": "SQL LocalDB Wrapper",
+      "description": "SQL LocalDB Wrapper is a .NET library providing interop with the Microsoft SQL Server LocalDB Instance API",
+      "url": "https://github.com/martincostello/sqllocaldb"
+    },
+    {
+      "name": "Swashbuckle.AspNetCore",
+      "description": "Swagger tools for documenting APIs built on ASP.NET Core",
+      "url": "https://github.com/domaindrivendev/Swashbuckle.AspNetCore"
+    },
+    {
+      "name": "xunit Logging",
+      "description": "Logging extensions for xunit",
+      "url": "https://github.com/martincostello/xunit-logging"
+    }
+  ]
+}
