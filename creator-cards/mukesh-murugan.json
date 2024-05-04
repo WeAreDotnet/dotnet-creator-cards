@@ -1,33 +1,31 @@
 ﻿{
   "name": "Mukesh Murugan",
-  "countryCode": "in",
-  "slogan": "",
-  "type": "CREATOR",
   "bio": "Senior Software Engineer working with .NET, GoLang, AWS, Terraform & Kubernetes.",
-  "tags": ".NET, AWS, ASP.NET Core, Clean Architecture",
+  "type": "CREATOR",
+  "countryCode": "in",
+  "tags": ".NET, C#, ASP.NET, AWS",
   "github": "https://github.com/iammukeshm",
-  "socials": {
-    "youtube": "https://www.youtube.com/@codewithmukesh",
-    "linkedin": "https://www.linkedin.com/in/iammukeshm/",
-    "twitter": "https://twitter.com/iammukeshm",
-    "github": "https://github.com/iammukeshm",
-    "mastodon": "",
-    "sessionize": ""
-  },
   "channels": [
     {
       "name": "Blog",
-      "url": "https://codewithmukesh.com/blog"
+      "url": "https://www.codewithmukesh.com"
+    },
+    {
+      "name": "Youtube",
+      "url": "https://www.youtube.com/@codewithmukesh"
     }
   ],
   "feeds": [
     {
-      "type": "LinkTagRssType",
-      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCBgmocEUwo8s_IKOHjIecPw"
-    },
-    {
-      "type": "LinkTagRssType",
+      "type": "dotnet",
       "url": "https://codewithmukesh.com/rss.xml"
+    }
+  ],
+  "projects": [
+    {
+      "name": "fullstackhero",
+      "description": "Production Grade .NET 8 WebAPI Starter Kit with Multitenancy Support and Clean Code.",
+      "url": "https://github.com/fullstackhero/dotnet-webapi-starter-kit"
     }
   ]
 }
