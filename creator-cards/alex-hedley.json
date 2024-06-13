@@ -1,0 +1,23 @@
+{
+  "name": "FirstName LastName",
+  "type": "CREATOR|MAINTAINER",
+  "tags": ".NET, C#, ASP.NET",
+  "github": "https://github.com/username",
+  "channels": [
+    {
+      "name": "Blog|Site|Twitch|Youtube|Book|etc",
+      "url": "https://www.wearedotnet.io/"
+    }
+  ],
+  "feeds": [{
+    "type": "personal|dotnet",
+    "url": "https://...feeds/dotnet/rss.xml"
+  }],
+  "projects": [
+    {
+      "name": "Project Name",
+      "description": "Project Description",
+      "url": "https://github.com/<org>/project"
+    }
+  ]
+}
