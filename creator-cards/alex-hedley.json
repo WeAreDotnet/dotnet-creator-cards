@@ -1,23 +1,45 @@
 {
-  "name": "FirstName LastName",
-  "type": "CREATOR|MAINTAINER",
+  "name": "Alex Hedley",
+  "type": "CREATOR",
   "tags": ".NET, C#, ASP.NET",
-  "github": "https://github.com/username",
+  "github": "https://github.com/alexhedley",
   "channels": [
     {
-      "name": "Blog|Site|Twitch|Youtube|Book|etc",
-      "url": "https://www.wearedotnet.io/"
+      "name": "Site",
+      "url": "https://www.alexhedley.com/"
+    },
+    {
+      "name": "Blog",
+      "url": "https://www.alexhedley.com/blog/"
+    },
+    {
+      "name": "Youtube",
+      "url": "https://youtube.com/@alexhedley8"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://www.twitter.com/alexhedley"
     }
   ],
   "feeds": [{
-    "type": "personal|dotnet",
-    "url": "https://...feeds/dotnet/rss.xml"
+    "type": "personal",
+    "url": "https://alexhedley.github.io/blog/feed"
   }],
   "projects": [
     {
-      "name": "Project Name",
-      "description": "Project Description",
-      "url": "https://github.com/<org>/project"
+      "name": "Utility",
+      "description": "Helper app",
+      "url": "https://github.com/AlexHedley/Utility-Blazor"
+    },
+    {
+      "name": "Blazor Interactive",
+      "description": "Blazor C# Interactive (Try .NET)",
+      "url": "https://github.com/alex-hedley/BlazorInteractive"
+    },
+    {
+      "name": "Blashing",
+      "description": "[WIP] Build a beautiful dashboard",
+      "url": "https://github.com/AlexHedley/blashing"
     }
   ]
 }
