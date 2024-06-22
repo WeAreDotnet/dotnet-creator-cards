@@ -1,0 +1,50 @@
+{
+  "name": "Aaron Stannard",
+  "type": "MAINTAINER",
+  "tags": ".NET, C#, ASP.NET, AKKA.NET, ACTORS, MQTT, HIGH PERFORMANCE",
+  "github": "https://github.com/Aaronontheweb",
+  "channels": [
+    {
+      "name": "Site",
+      "url": "https://petabridge.com/"
+    },
+    {
+      "name": "Blog",
+      "url": "https://aaronstannard.com/"
+    },
+    {
+      "name": "YouTube (Petabridge)",
+      "url": "https://www.youtube.com/@petabridge"
+    },
+    {
+      "name": "YouTube (Stannardian)",
+      "url": "https://www.youtube.com/@Stannardian"
+    },
+    {
+      "name": "Twitch",
+      "url": "https://www.twitch.tv/stannardian"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "dotnet",
+      "url": "https://petabridge.com/blog/feed.xml"
+    },
+    {
+      "type": "personal",
+      "url": "https://aaronstannard.com/feed.xml"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Akka.NET",
+      "description": "Canonical actor model implementation for .NET with local + distributed actors in C# and F#.",
+      "url": "https://github.com/akkadotnet/akka.net"
+    },
+    {
+      "name": "TurboMqtt",
+      "description": "The fastest Message Queue Telemetry Transport (MQTT) client for .NET.",
+      "url": "https://github.com/petabridge/TurboMqtt"
+    }
+  ]
+}
