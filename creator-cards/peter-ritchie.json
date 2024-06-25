@@ -1,0 +1,64 @@
+{
+    "name": "Peter Ritchie",
+    "type": "CREATOR",
+    "tags": ".NET, C#, ASP.NET Core, Aspire, Azure",
+    "github": "https://github.com/peteraritchie",
+    "channels": [
+        {
+            "name": "Blog",
+            "url": "https://blog.peterritchie.com/"
+        },
+        {
+            "name": "Book - Practical Visual Studio 2015",
+            "url": "https://amzn.to/3X6yYLv"
+        },
+        {
+            "name": "Book - Visual Studio 2010 Best Practices",
+            "url": "https://amzn.to/4bTw550"
+        },
+        {
+            "name": "Book - Refactoring With Microsoft Visual Studio 2010",
+            "url": "https://amzn.to/4c2dBPP"
+        },
+        {
+            "name": "LinkedIn",
+            "url": "https://www.linkedin.com/in/peteraritchie/"
+        },
+        {
+            "name": "X",
+            "url": "https://x.com/peterritchie"
+        },
+        {
+            "name": "Mastodon",
+            "url": "https://mastodon.social/@peterritchie"
+        }
+    ],
+    "feeds": [
+        {
+            "type": "personal",
+            "url": "https://blog.peterritchie.com/feed.xml"
+        }
+    ],
+    "projects": [
+        {
+            "name": "PRI.Messaging.Primmitives",
+            "description": "Messaging primitives for .NET,",
+            "url": "https://github.com/peteraritchie/Messaging.Primitives"
+        },
+        {
+            "name": "PRI.Messaging.Patterns",
+            "description": ".NET messaging pattern abstractions based on PRI.Messaging.Primmitives.",
+            "url": "https://github.com/peteraritchie/Messaging.Patterns"
+        },
+        {
+            "name": "PRI.LongPath",
+            "description": "Drop-in library to support long paths in .NET.",
+            "url": "https://github.com/peteraritchie/LongPath"
+        },
+        {
+            "name": "Pri.Utility.Templates",
+            "description": "Some <dotnet new> templates, including vsspell file.",
+            "url": "https://github.com/peteraritchie/"
+        }
+    ]
+}
