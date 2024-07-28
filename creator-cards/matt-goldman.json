@@ -1,0 +1,41 @@
+{
+  "name": "Matt Goldman",
+  "type": "CREATOR",
+  "tags": ".NET, C#, .NET MAUI",
+  "github": "https://github.com/matt-goldman",
+  "channels": [
+    {
+      "name": "Blog",
+      "url": "https://goforgoldman.com/"
+    },
+    {
+      "name": "Podcast",
+      "url": "https://www.beerdriven.dev/"
+    },
+    {
+      "name": "YouTube",
+      "url": "https://www.youtube.com/@goforgoldman"
+    },
+    {
+      "name": "Book",
+      "url": "https://www.manning.com/books/dot-net-maui-in-action"
+    }
+  ],
+  "feeds": [{
+    "type": "dotnet",
+    "url": "https://goforgoldman.com/feed.xml"
+  },{
+    "type": "dotnet",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC3ZzlQkApc6aXixN2c3PHiA"
+  }, {
+    "type": "personal",
+    "url": "https://www.beerdriven.dev/episodes/index.xml"
+  }],
+  "projects": [
+    {
+      "name": "MauiPageResolver",
+      "description": "A simple and lightweight page resolver for use in .NET MAUI projects",
+      "url": "https://github.com/matt-goldman/Maui.Plugins.PageResolver"
+    }
+  ]
+}
