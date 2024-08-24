@@ -28,18 +28,6 @@
   "feeds": [{
     "type": "dotnet",
     "url": "https://www.urbanuprise.co.za/post/a-beginners-guide-net-framework-introduction/feed.xml"
-  },{
-    "type": "dotnet",
-    "url": "https://www.urbanuprise.co.za/post/a-beginners-guide-learn-c/feed.xml"
-  },{
-    "type": "dotnet",
-    "url": "https://www.urbanuprise.co.za/post/a-beginner-s-guide-get-started-with-blazor/feed.xml"
-  },{
-    "type": "personal",
-    "url": "https://www.urbanuprise.co.za/post/a-beginners-guide-save-your-code-with-github/feed.xml"
-  },{
-    "type": "personal",
-    "url": "https://www.urbanuprise.co.za/arcade-hub-challenge/feed.xml"
   }],
   "projects": [
     {
