@@ -1,0 +1,26 @@
+{
+    "name": "Olabamiji Oyetubo",
+    "sectionTitle": null,
+    "countryCode": "ng",
+    "type": "CREATOR",
+    "tags": ".NET, C#, ASP.NET, Azure, Winforms",
+    "socials": {
+      "youtube": "",
+      "linkedin": "https://www.linkedin.com/in/olabamiji-o-9a5538162/",
+      "github": "https://github.com/bigboybamo",
+      "mastodon": "",
+      "sessionize": ""
+    },
+    "channels": [
+      {
+        "name": "Blog",
+        "url": "https://dev.to/bigboybamo/"
+      }
+    ],
+    "feeds": [
+      {
+        "type" : "dotnet",
+        "url" : "https://dev.to/bigboybamo"
+      }
+    ]
+  }
