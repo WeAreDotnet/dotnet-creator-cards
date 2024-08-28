@@ -20,7 +20,7 @@
     "feeds": [
       {
         "type" : "dotnet",
-        "url" : "https://dev.to/bigboybamo"
+        "url" : "https://dev.to/feed/bigboybamo"
       }
     ]
   }
