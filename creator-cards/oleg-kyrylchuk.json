@@ -11,19 +11,19 @@
     "linkedin": "https://www.linkedin.com/in/okyrylchuk/",
     "twitter": "https://twitter.com/okyrylchuk",
     "github": "https://github.com/okyrylchuk",
-    "mastodon": "",
+    "mastodon": "https://dotnet.social/@okyrylchuk",
     "sessionize": ""
   },
   "channels": [
     {
       "name": "Blog",
-      "url": "https://blog.okyrylchuk.dev/"
+      "url": "https://okyrylchuk.dev/blog"
     }
   ],
   "feeds": [
     {
       "type": "AHrefFeedType",
-      "url": "https://blog.okyrylchuk.dev/rss.xml"
+      "url": "https://okyrylchuk.dev/feed/"
     }
   ]
 }
