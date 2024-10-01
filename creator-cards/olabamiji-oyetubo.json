@@ -1,26 +1,28 @@
 {
-    "name": "Olabamiji Oyetubo",
-    "sectionTitle": null,
-    "countryCode": "ng",
-    "type": "CREATOR",
-    "tags": ".NET, C#, ASP.NET, Azure, Winforms",
-    "socials": {
-      "youtube": "",
-      "linkedin": "https://www.linkedin.com/in/olabamiji-o-9a5538162/",
-      "github": "https://github.com/bigboybamo",
-      "mastodon": "",
-      "sessionize": ""
+  "name": "Olabamiji Oyetubo",
+  "type": "CREATOR",
+  "tags": ".NET, C#, ASP.NET",
+  "github": "https://github.com/bigboybamo",
+  "channels": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/olabamiji-o-9a5538162/"
     },
-    "channels": [
-      {
-        "name": "Blog",
-        "url": "https://dev.to/bigboybamo/"
-      }
-    ],
-    "feeds": [
-      {
-        "type" : "dotnet",
-        "url" : "https://dev.to/feed/bigboybamo"
-      }
-    ]
-  }
+    {
+      "name": "Blog",
+      "url": "https://dev.to/bigboybamo/"
+    }
+  ],
+  "feeds": [{
+    "type": "personal",
+    "url": "https://dev.to/feed/bigboybamo"
+  }],
+  "projects": [
+    {
+      "name": "TextToSpeech",
+      "description": "A winforms text to speech desktop application",
+      "url": "https://github.com/bigboybamo/Text2speeech"
+    }
+  ]
+}
+
