@@ -11,7 +11,7 @@
     }
   ],
   "feeds": [{
-    "type": "dotnet",
+    "type": "LinkTagRssType",
     "url": "https://dotnetuniversity.com/rss.xml"
   }]
 }
