@@ -24,6 +24,10 @@
     {
       "type": "LinkTagRssType",
       "url": "https://www.respawnsive.com/en/author/jeremy-brunpicardrespawnsive-com/feed/"
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHgReZNPPdfyTtVOFyWKF_A"
     }
   ]
 }
