@@ -17,13 +17,13 @@
   "channels": [
     {
       "name": "Blog",
-      "url": "https://meysamhadeli.com"
+      "url": "https://dotnetuniversity.com"
     }
   ],
   "feeds": [
     {
       "type": "dotnet",
-      "url": "https://meysamhadeli.com/rss.xml"
+      "url": "https://dotnetuniversity.com/rss.xml"
     }
   ]
 }
