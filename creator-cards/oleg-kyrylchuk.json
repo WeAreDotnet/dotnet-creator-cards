@@ -5,15 +5,11 @@
   "slogan": "",
   "type": "CREATOR",
   "bio": "",
-  "tags": ".NET, C#",
-  "socials": {
-    "youtube": "",
-    "linkedin": "https://www.linkedin.com/in/okyrylchuk/",
-    "twitter": "https://twitter.com/okyrylchuk",
-    "github": "https://github.com/okyrylchuk",
-    "mastodon": "https://dotnet.social/@okyrylchuk",
-    "sessionize": ""
-  },
+  "tags": ".NET, C#, ASP.NET, EF Core",
+  "linkedin": "https://www.linkedin.com/in/okyrylchuk/",
+  "twitter": "https://twitter.com/okyrylchuk",
+  "github": "https://github.com/okyrylchuk",
+  "mastodon": "https://dotnet.social/@okyrylchuk",
   "channels": [
     {
       "name": "Blog",
