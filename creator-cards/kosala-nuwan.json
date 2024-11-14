@@ -1,0 +1,30 @@
+﻿{
+  "name": "It's actually me",
+  "type": "CREATOR",
+  "tags": ".NET, C#, AZURE",
+  "github": "https://github.com/kosalanuwan",
+  "channels": [
+    {
+      "name": "Site",
+      "url": "https://kosalanuwan.github.io/"
+    }, {
+      "name": "Blog",
+      "url": "https://dev.to/kosalanuwan/"
+    }, {
+      "name": "Blog",
+      "url": "https://keepontruckin.hashnode.dev/"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "personal",
+      "url": "https://keepontruckin.hashnode.dev/rss.xml"
+    }, {
+      "type": "dotnet",
+      "url": "https://dev.to/feed/kosalanuwan"
+    }, {
+      "type": "personal",
+      "url": "https://github.com/kosalanuwan.atom"
+    }
+  ]
+}

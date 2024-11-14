@@ -1,0 +1,32 @@
+{
+  "name": "Milan Milanović",
+  "type": "CREATOR",
+  "tags": ".NET, C#, ASP.NET",
+  "github": "https://github.com/milanm",
+  "channels": [
+    {
+      "name": "Blog",
+      "url": "https://newsletter.techworld-with-milan.com/"
+    },
+    {
+      "name": "Youtube",
+      "url": "https://www.youtube.com/@techworldwithmilan/"
+    }
+  ],
+  "feeds": [{
+    "type": "personal",
+    "url": "https://newsletter.techworld-with-milan.com/feed"
+  }],
+  "projects": [
+    {
+      "name": ".NET Developer Roadmap 2024",
+      "description": "The comprehensive .NET Developer Roadmap by seniority level",
+      "url": "https://github.com/milanm/DotNet-Developer-Roadmap"
+    },
+    {
+      "name": "Design Patterns In Use",
+      "description": "Most common Design Patterns you need to know, with examples in C#",
+      "url": "https://github.com/milanm/DesignPatternsInUse"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Mohamad Dbouk",
+  "type": "CREATOR",
+  "tags": ".NET, C#, ASP.NET, Azure, DevOps",
+  "github": "https://github.com/mhdbouk",
+  "channels": [
+    {
+      "name": "Blog",
+      "url": "https://www.mdbouk.com/"
+    },
+    {
+      "name": "Youtube",
+      "url": "https://www.youtube.com/@mdbouk"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/mdbouk"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/mhdbouk"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "dotnet",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCL6eh0qUlyA0gOtMkFklgQg"
+    },
+    {
+      "type": "dotnet",
+      "url": "https://mdbouk.com/feed/"
+    }
+  ]
+}

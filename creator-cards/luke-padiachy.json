@@ -1,0 +1,44 @@
+{
+  "name": "Luke Padiachy",
+  "type": "CREATOR",
+  "tags": ".NET, C#, Blazor, ASP.NET, .NET MAUI",
+  "github": "https://github.com/lukepadiachy",
+  "channels": [
+    {
+      "name": "Blog",
+      "url": "https://www.urbanuprise.co.za/profile/lukepadiachy/profile"
+    },
+    {
+      "name": "YouTube",
+      "url": "https://www.youtube.com/@lukepadiachy"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/lukepadiachy"
+    },
+    {
+      "name": "X",
+      "url": "https://x.com/luke_padiachy"
+    },
+    {
+      "name": "Site",
+      "url": "https://www.urbanuprise.co.za/learntocode"
+    }
+  ],
+  "feeds": [{
+    "type": "dotnet",
+    "url": "https://politepol.com/fd/Sj5SGvMcuFD5/feed.xml"
+  }],
+  "projects": [
+    {
+      "name": "SpellChecker",
+      "description": "This is a spell checker project that makes use of Gemini's API in order to pick up spelling errors in a sentence. Made With Blazor",
+      "url": "https://github.com/lukepadiachy/SpellChecker"
+    },
+    {
+      "name": "DadJokeApp",
+      "description": "Generates DadJokes. Made on MAUI.",
+      "url": "https://github.com/lukepadiachy/DadJokeApp"
+    }
+  ]
+}

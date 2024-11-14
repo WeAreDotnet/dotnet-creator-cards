@@ -1,0 +1,23 @@
+{
+  "name": "Diego Faria",
+  "type": "CREATOR",
+  "tags": ".NET, C#, ASP.NET",
+  "github": "https://github.com/diegodrf",
+  "channels": [
+    {
+      "name": "Blog",
+      "url": "https://dev.to/diegodrf/"
+    }
+  ],
+  "feeds": [{
+    "type": "dotnet",
+    "url": "https://dev.to/feed/diegodrf"
+  }],
+  "projects": [
+    {
+      "name": "BuddyInjector",
+      "description": "Buddy Injector is a simple and lightweight dependency injector to be used in your unit tests",
+      "url": "https://github.com/diegodrf/diegodrf.BuddyInjector"
+    }
+  ]
+}

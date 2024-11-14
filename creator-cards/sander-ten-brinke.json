@@ -1,0 +1,30 @@
+{
+  "name": "Sander ten Brinkek",
+  "type": "CREATOR",
+  "tags": ".NET, C#, ASP.NET Core, Azure, DevOps",
+  "github": "https://github.com/sander1095",
+  "channels": [
+    {
+      "name": "Blog",
+      "url": "https://stenbrinke.nl"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/stenbrinke/"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/sandertenbrinke"
+    },
+    {
+      "name": "Sessionize",
+      "url": "https://sessionize.com/sander-ten-brinke/"
+    }    
+  ],
+  "feeds": [
+    {
+      "type": "dotnet",
+      "url": "https://stenbrinke.nl/index.xml"
+    }
+  ]
+}

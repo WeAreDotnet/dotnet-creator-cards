@@ -1,6 +1,6 @@
-# #WeAreDonet Creator Submission Guidelines
+# #WeAreDotnet Creator Submission Guidelines
 
-* [x] Check all points before submitting the PR.
+* [ ] Check all points before submitting the PR.
 
 * [ ] By submitting this pull request to add my creator card, I verify that I adhere to the #WeAreDotnet creator card submission guidelines.
 
@@ -33,6 +33,9 @@
 * [ ] Alternatively, you contributed with another form on a platform like YouTube, Twitch, Udemy or Pluralsight. If you have some recorded talks of conferences or anywhere else, that counts too! So in the form of a recorded video or a book. 
 
 ## RSS or Atom Feed 
+
+* [ ] The feed was validated using https://validator.w3.org/feed/ and does not contain errors
+
 
 * [ ] The content with feed.type = dotnet must be .NET related:
 * .NET itself

@@ -1,0 +1,31 @@
+{
+  "name": "Vicente Guzmán",
+  "type": "CREATOR",
+  "tags": ".NET, C#, XAMARIN, .NET MAUI, GITHUB",
+  "github": "https://github.com/LucioMSP",
+  "channels": [
+    {
+      "name": "Blog",
+      "url": "https://luciomsp.wordpress.com/"
+    },
+    {
+      "name": "Site",
+      "url": "https://vicenteguzman.com/"
+    },
+    {
+      "name": "Syncfusion Blog Posts",
+      "url": "https://www.syncfusion.com/blogs/author/luciomspgeeks-ms"
+    },
+  ],
+  "feeds": [{
+    "type": "Personal",
+    "url": "hhttps://luciomsp.wordpress.com/feed/"
+  }],
+  "projects": [
+    {
+      "name": "GitHub 101",
+      "description": "Basic mini course to learn how to use GitHub",
+      "url": "https://github.com/LucioMSP/GitHub-101"
+    }
+  ]
+}

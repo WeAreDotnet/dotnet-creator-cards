@@ -1,0 +1,38 @@
+{
+  "name": "My name is Fahad Ashiq!",
+  "type": "CREATOR",
+  "tags": ".NET, C#, ASP.NET, I LOVE creating softwares & application using DOTNET",
+  "github": "https://github.com/fahadashiq12",
+  "channels": [
+      {
+        "name": "Personal Blog",
+        "url": "https://fahadashiqdev.com/blogs"
+      },
+       {
+        "name": "Medium Blog",
+        "url": "https://fahadashiq30.medium.com/"
+      }
+  ],
+  "feeds": [{
+    "type": "dotent",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4yLR4UKU7fOtlKQqkDEmEQ"
+  }],
+  "projects": [
+    {
+      "name": "Tech Tehwaar - Web Page",
+      "description": "TechTehwaar - we celebrate trending tech stacks",
+      "url": "https://www.techtehwaar.com/"
+    },
+    {
+        "name": "DevFolio",
+        "description": "Personal Developer Portfolio",
+        "url": "https://fahadashiqdev.com/"
+    },
+    {
+        "name": "MYM - Web Page ",
+        "description": "Make your meal giving you comfort by customizing your order on your own.",
+        "url": "https://makeyourmeal.netlify.app/"
+    }
+
+  ]
+}

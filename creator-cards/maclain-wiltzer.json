@@ -1,0 +1,30 @@
+{
+  "name": "Maclain Wiltzer",
+  "type": "CREATOR",
+  "tags": ".NET, C#, ASP.NET, SQL, Algorithms",
+  "github": "https://github.com/makolyte",
+  "channels": [
+    {
+      "name": "Blog",
+      "url": "https://makolyte.com/"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/company/makolyte/"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/makolyte"
+    }
+  ],
+  "feeds": [{
+    "type": "dotnet",
+    "url": "https://makolyte.com/category/csharp/feed/"
+  },
+  {
+    "type": "personal",
+    "url": "https://makolyte.com/feed/"
+  }],
+  "projects": [
+  ]
+}

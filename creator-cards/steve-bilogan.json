@@ -1,0 +1,16 @@
+{
+  "name": "Steve Bilogan",
+  "type": "CREATOR",
+  "tags": ".NET, C#, Uno Platform, XAML",
+  "github": "https://github.com/kazo0",
+  "channels": [
+    {
+      "name": "Blog",
+      "url": "https://kazo0.dev/"
+    }
+  ],
+  "feeds": [{
+    "type": "dotnet",
+    "url": "https://kazo0.dev/feed.xml"
+  }]
+}

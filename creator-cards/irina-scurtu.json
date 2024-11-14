@@ -4,15 +4,15 @@
   "countryCode": "ro",
   "slogan": "",
   "type": "CREATOR",
-  "bio": "",
-  "tags": ".NET, C#",
+  "bio": "Microsoft MVP, Software Architect, Independent consultant, Author",
+  "tags": ".NET, C#, Architecture, gRPC, REST, Cloud. ASP.NET Core, Web API, API Design",
   "socials": {
     "youtube": "",
     "linkedin": "https://www.linkedin.com/in/irinascurtu/",
     "twitter": "https://twitter.com/irina_scurtu",
     "github": "https://github.com/irinascurtu",
     "mastodon": "",
-    "sessionize": ""
+    "sessionize": "https://sessionize.com/irinascurtu/"
   },
   "channels": [
     {

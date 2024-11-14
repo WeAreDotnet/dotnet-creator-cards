@@ -1,7 +1,7 @@
 {
-  "name": "My name is!",
-  "type": "CREATOR OR MAINTAINER whatever you are primarily",
-  "tags": ".NET, C#, ASP.NET, I LOVE DOTNET",
+  "name": "FirstName LastName",
+  "type": "CREATOR|MAINTAINER",
+  "tags": ".NET, C#, ASP.NET",
   "github": "https://github.com/username",
   "channels": [
     {

@@ -1,0 +1,16 @@
+{
+  "name": "Marc Rufer",
+  "type": "CREATOR",
+  "tags": ".NET, C#, Azure, DevOps, DevSecOps, Security, GitHub",
+  "github": "https://github.com/rufer7",
+  "channels": [
+    {
+      "name": "Blog",
+      "url": "https://blog.rufer.be"
+    }
+  ],
+  "feeds": [{
+    "type": "dotnet",
+    "url": "https://blog.rufer.be/feed/"
+  }]
+}

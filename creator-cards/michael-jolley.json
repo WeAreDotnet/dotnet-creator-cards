@@ -1,0 +1,39 @@
+{
+    "name": "Michael Jolley",
+    "type": "CREATOR",
+    "tags": ".NET, C#, ASP.NET, Entity Framework",
+    "github": "https://github.com/michaeljolley",
+    "channels": [
+      {
+          "name": "Youtube",
+          "url": "https://youtube.com/@baldbeardedbuilder"
+      },
+      {
+        "name": "Twitch",
+        "url": "https://twitch.tv/baldbeardedbuilder"
+      },
+      {
+        "name": "X",
+        "url": "https://x.com/michaeljolley"
+      },
+      {
+        "name": "Site",
+        "url": "https://baldbeardedbuilder.com"
+      },
+      {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/in/michaelwjolley/"
+      }
+    ],
+    "feeds": [
+      {
+        "type": "dotnet",
+        "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCn2FoDbv_veJB_UbrF93_jw"
+      },
+      {
+        "type": "personal",
+        "url": "https://baldbeardedbuilder.com/rss.xml"
+      }
+    ],
+    "projects": []
+  }

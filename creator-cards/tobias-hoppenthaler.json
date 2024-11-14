@@ -1,0 +1,23 @@
+{
+  "name": "Tobias Hoppenthaler",
+  "sectionTitle": null,
+  "countryCode": "de",
+  "slogan": "",
+  "type": "CREATOR",
+  "bio": "I am a Principal IT Consultant and VP at msg group, focused on cross-platform, mobile and desktop application development. | He/Him",
+  "tags": ".NET MAUI, .NET, C#",
+  "socials": {
+    "youtube": "https://www.youtube.com/@hot33331",
+    "linkedin": "https://www.linkedin.com/in/tobiashoppenthaler/",
+    "twitter": "https://twitter.com/hot33331",
+    "github": "https://github.com/hot33331",
+    "mastodon": "https://mastodon.online/@hot33331",
+    "sessionize": "https://sessionize.com/hot33331/"
+  },
+  "channels": [
+    {
+      "name": "Blog",
+      "url": "https://hot33331.github.io/"
+    }
+  ]
+}

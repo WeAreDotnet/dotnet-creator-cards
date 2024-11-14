@@ -1,0 +1,36 @@
+{
+  "name": "Halil ibrahim Kalkan",
+  "type": "CREATOR",
+  "tags": "ABP, .NET, C#, ASP.NET, ARCHITECTURE",
+  "github": "https://github.com/hikalkan",
+  "channels": [
+    {
+      "name": "Personal Website",
+      "url": "https://halilibrahimkalkan.com/"
+    },
+    {
+      "name": "ABP Community Posts",
+      "url": "https://community.abp.io/members/hikalkan"
+    },
+    {
+      "name": "ABP Framework Book",
+      "url": "https://www.amazon.com/Mastering-ABP-Framework-maintainable-implementing-dp-1801079242/dp/1801079242"
+    }
+  ],
+  "feeds": [{
+    "type": "dotnet",
+    "url": "https://community.abp.io/rss?member=hikalkan&language=en"
+  }],
+  "projects": [
+    {
+      "name": "ABP Framework",
+      "description": "Open Source Web Application Framework for ASP.NET Core",
+      "url": "https://github.com/abpframework/abp"
+    },
+    {
+      "name": "SCS",
+      "description": "TCP Server/Client Communication and RMI Framework",
+      "url": "https://github.com/hikalkan/scs"
+    }
+  ]
+}

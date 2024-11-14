@@ -1,0 +1,33 @@
+﻿{
+  "name": "Orchard Dojo",
+  "sectionTitle": null,
+  "countryCode": null,
+  "slogan": "",
+  "type": "OTHER",
+  "bio": "Open source, open knowledge - Orchard Dojo provides you with many open resources for learning the ins and outs of Orchard Core and Orchard 1.x.",
+  "tags": ".NET, C#, Orchard, Orchard CMS, Orchard Core",
+  "socials": {
+    "youtube": "https://www.youtube.com/@Lombiq",
+    "linkedin": "https://www.linkedin.com/company/lombiq/",
+    "twitter": "https://twitter.com/Lombiq",
+    "github": "https://github.com/Lombiq",
+    "mastodon": "",
+    "sessionize": ""
+  },
+  "channels": [
+    {
+      "name": "Homepage",
+      "url": "https://orcharddojo.net/"
+    },
+    {
+      "name": "Blog",
+      "url": "https://orcharddojo.net/blog"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "personal",
+      "url": "https://orcharddojo.net/rss?projection=28"
+    }
+  ]
+}

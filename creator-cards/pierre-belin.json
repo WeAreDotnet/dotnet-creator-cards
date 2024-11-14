@@ -4,9 +4,10 @@
   "countryCode": "fr",
   "slogan": "Improve your code review, only for goats",
   "type": "CREATOR",
-  "bio": "C# & .NET Content Creator",
-  "tags": "Freelance Architecture / C#/.NET Developer",
+  "bio": "",
+  "tags": ".NET, C#, Architecture",
   "socials": {
+    "youtube": "",
     "linkedin": "https://www.linkedin.com/in/pierre-belin/",
     "twitter": "https://twitter.com/pierrebelin_",
     "github": "https://github.com/pierrebelin",
@@ -15,14 +16,14 @@
   },
   "channels": [
     {
-      "name": "Site",
+      "name": "Blog",
       "url": "https://goatreview.com/"
     }
   ],
   "feeds": [
     {
-      "type": "LinkTagRssType",
-      "url": "https://goatreview.com/rss/"
+      "type": "dotnet",
+      "url": "https://goatreview.com/tag/net/rss/"
     }
   ]
 }

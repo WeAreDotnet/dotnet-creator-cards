@@ -1,24 +1,36 @@
-﻿{
+{
   "name": "Niels Pilgaard",
-  "sectionTitle": null,
-  "countryCode": "dk",
-  "slogan": "Passionate about learning and growing as a developer.",
   "type": "CREATOR",
-  "bio": "I'm a C# developer, focused mostly on backend and automation. I particularly enjoy performance work, RabbitMQ and exploring new topics.",
-  "tags": "Blazor, C#, Azure",
-  "socials": {
-    "youtube": "",
-    "linkedin": "https://www.linkedin.com/in/niels-pilgaard/",
-    "twitter": "https://twitter.com/Niels_Pilgaard",
-    "github": "https://github.com/NielsPilgaard",
-    "mastodon": "https://hachyderm.io/@NielsPilgaard",
-    "sessionize": ""
-  },
+  "tags": "ASP.NET, Blazor, C#, Azure, AzureDevOps",
+  "github": "https://github.com/NielsPilgaard",
   "channels": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/niels-pilgaard/"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/Niels_Pilgaard"
+    },
     {
       "name": "Blog",
       "url": "https://pilgaard-blog.azurewebsites.net/"
     }
   ],
-  "feeds": []
+  "feeds": [{
+    "type": "dotnet",
+    "url": "https://pilgaard-blog.azurewebsites.net/feed.xml"
+  }],
+  "projects": [
+    {
+      "name": "Pilgaard.BackgroundJobs",
+      "description": "A dotnet library for running background jobs in a scalable and performant manner. The jobs can trigger based on cron expressions, intervals or absolute datetime.",
+      "url": "https://github.com/NielsPilgaard/Pilgaard.BackgroundJobs"
+    },
+    {
+      "name": "Mini Møder",
+      "description": "Helps parents find social connections for their children. A community for sharing and discovering playgroups, parenting groups, unschooling groups and like-minded parents.",
+      "url": "https://github.com/NielsPilgaard/Jordnaer"
+    }
+  ]
 }

@@ -1,29 +1,17 @@
-﻿{
+
+{
   "name": "Meysam Hadeli",
-  "sectionTitle": null,
-  "countryCode": "ir",
-  "slogan": "",
   "type": "CREATOR",
-  "bio": "",
   "tags": "Microservices, .NET, ASP.NET Core",
-  "socials": {
-    "youtube": "",
-    "linkedin": "",
-    "twitter": "https://twitter.com/meysamhadeli",
-    "github": "https://github.com/meysamhadeli",
-    "mastodon": "",
-    "sessionize": ""
-  },
+  "github": "https://github.com/meysamhadeli",
   "channels": [
     {
       "name": "Blog",
-      "url": "https://meysamhadeli.com"
+      "url": "https://dotnetuniversity.com"
     }
   ],
-  "feeds": [
-    {
-      "type": "LinkTagRssType",
-      "url": "https://meysamhadeli.com/rss.xml"
-    }
-  ]
+  "feeds": [{
+    "type": "LinkTagRssType",
+    "url": "https://dotnetuniversity.com/rss.xml"
+  }]
 }

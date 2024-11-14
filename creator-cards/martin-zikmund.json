@@ -1,29 +1,47 @@
 ﻿{
   "name": "Martin Zikmund",
-  "sectionTitle": null,
-  "countryCode": "cz",
-  "slogan": "",
   "type": "CREATOR",
-  "bio": "Martin is a freelance software developer and Microsoft Developer Technologies MVP. He specializes in architecting and building cross-platform mobile and cloud solutions on the Microsoft technology stack. Martin loves contributing to open-source, primarily to Uno Platform, as it is a tremendous source of learning. You can also meet him on Stack Overflow, where he frequently helps other developers. In spare time he likes to do lead climbing/bouldering, play squash, game on Xbox, read, and find geocaches.",
   "tags": ".NET, C#, Uno Platform",
-  "socials": {
-    "youtube": "https://www.youtube.com/@mzikmund",
-    "linkedin": "https://www.linkedin.com/in/mzikmund",
-    "twitter": "https://twitter.com/mzikmunddev",
-    "github": "https://github.com/MartinZikmund",
-    "mastodon": "https://dotnet.social/@mzikmund",
-    "sessionize": "https://sessionize.com/MartinZikmund"
-  },
+  "github": "https://github.com/MartinZikmund",
   "channels": [
     {
-      "name": "Blog",
-      "url": "https://blog.mzikmund.com/"
+      "name": "Site",
+      "url": "https://mzikmund.dev/"
+    },
+    {
+      "name": "YouTube",
+      "url": "https://www.youtube.com/@mzikmund"
+    },
+    {
+      "name": "Twitch",
+      "url": "https://twitch.tv/MartinZikmund"
     }
   ],
   "feeds": [
     {
-      "type": "LinkTagRssType",
-      "url": "https://blog.mzikmund.com/feed/"
+      "type": "dotnet",
+      "url": "https://mzikmund.dev/rss/"
+    },
+    {
+      "type": "dotnet",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCB6Td35bzTvcJN_HG6TLtwA"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Uno Platform",
+      "description": ".NET cross-Platform application development framework",
+      "url": "https://github.com/unoplatform/uno"
+    },
+    {
+      "name": "Martin Zikmund",
+      "description": "Personal website and blog",
+      "url": "https://github.com/MartinZikmund/mzikmund"
+    },
+    {
+      "name": "Playing with Physics",
+      "description": "Set of apps demonstrating high-school physics phenomena",
+      "url": "https://github.com/MartinZikmund/PlayingWithPhysics"
     }
   ]
 }

@@ -1,0 +1,25 @@
+﻿{
+  "name": "M. Akif Tokatlioglu",
+  "type": "CREATOR",
+  "tags": ".NET, C#, Blazor, ASP.NET Core, ASP.NET",
+  "github": "https://github.com/akifmt",
+  "channels": [
+    {
+      "name": "Blog",
+      "url": "https://akifmt.github.io/dotnet/"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "dotnet",
+      "url": "https://akifmt.github.io/dotnet/index.xml"
+    }
+  ],
+  "projects": [
+    {
+      "name": "DotNetCoding",
+      "description": "DotNet Coding",
+      "url": "https://github.com/akifmt/DotNetCoding"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Tim Heuer",
+    "countryCode": "us",
+    "type": "CREATOR",
+    "tags": ".NET, C#, ASP.NET, Visual Studio",
+    "github": "https://github.com/timheuer",
+    "socials": {
+      "linkedin": "https://www.linkedin.com/in/timheuer/",
+      "twitter": "https://twitter.com/timheuer",
+      "github": "https://github.com/timheuer"
+    },
+    "channels": [
+      {
+        "name": "Blog",
+        "url": "https://timheuer.com/"
+      }
+    ],
+    "feeds": [{
+      "type": "dotnet",
+      "url": "https://timheuer.com/category-feed/rss/dotnet"
+    }],
+    "projects": [
+      {
+        "name": "Alexa.NET",
+        "description": "Alexa.NET is a helper library for working with Alexa skill requests/responses in C#.",
+        "url": "https://github.com/timheuer/alexa-skills-dotnet"
+      }
+    ]
+  }
+  

@@ -1,24 +1,49 @@
 ﻿{
   "name": "Engincan Veske",
-  "sectionTitle": null,
-  "countryCode": "tr",
-  "slogan": "",
   "type": "CREATOR",
-  "bio": "",
   "tags": "ABP Framework, .NET, C#",
-  "socials": {
-    "youtube": "",
-    "linkedin": "https://www.linkedin.com/in/engincanv/",
-    "twitter": "https://twitter.com/EngincanVeske",
-    "github": "https://github.com/EngincanV",
-    "mastodon": "",
-    "sessionize": ""
-  },
+  "github": "https://github.com/EngincanV",
   "channels": [
     {
       "name": "Blog",
       "url": "https://engincanv.github.io/"
     }
   ],
-  "feeds": []
+  "feeds": [
+    {
+      "type": "dotnet",
+      "url": "https://engincanv.github.io/feed.xml"
+    },
+    {
+      "type": "ABP Community",
+      "url": "https://community.abp.io/rss?member=EngincanV"
+    }
+  ],
+  "projects": [
+    {
+      "name": "abpframework/abp",
+      "description": "ABP Framework is an open-source web application framework built on top of ASP.NET Core. It is a complete infrastructure to create modern web applications by following the best practices and conventions of software development.",
+      "url": "https://github.com/abpframework/abp"
+    },
+    {
+      "name": "abpframework/eventhub",
+      "description": "Open-source event organizing web application and a reference DDD solution. This is a reference application built with the ABP Framework. It implements the Domain Driven Design with multiple application layers.",
+      "url": "https://github.com/abpframework/eventhub"
+    },
+    {
+      "name": "EngincanV/SeoHelper",
+      "description": "This package helps you to add meta-tags, sitemap.xml, and robots.txt into your project easily.",
+      "url": "https://github.com/EngincanV/SeoHelper"
+    },
+    {
+      "name": "EngincanV/reCaptcha-V3",
+      "description": "reCAPTCHA V3 for .NET 5.",
+      "url": "https://github.com/EngincanV/reCaptcha-V3"
+    },
+    {
+      "name": "EngincanV/presentations",
+      "description": "Source material for public presentations given by me.",
+      "url": "https://github.com/EngincanV/presentations"
+    }
+  ] 
 }

@@ -1,0 +1,16 @@
+{
+  "name": "Devindran Ramadass",
+  "type": "CREATOR",
+  "tags": ".NET, C#, ASP.NET, Performance, UX, Angular",
+  "github": "https://github.com/devindran",
+  "channels": [
+    {
+      "name": "Devindran Ramadass's Blog",
+      "url": "https://hashnode.devindran.com/"
+    }
+  ],
+  "feeds": [{
+    "type": "devindran|dotnet",
+    "url": "https://hashnode.devindran.com/rss.xml"
+  }]
+}
