@@ -1,0 +1,37 @@
+﻿{
+  "name": "ABP Framework",
+  "sectionTitle": "The Web App Platform for .NET Developers",
+  "countryCode": null,
+  "slogan": "",
+  "type": "OTHER",
+  "bio": "The Web App Platform for .NET Developers",
+  "tags": ".NET, C#, ASP.NET Core, .NET MAUI",
+  "socials": {
+    "youtube": "https://www.youtube.com/@Volosoft/videos",
+    "linkedin": "https://www.linkedin.com/company/volosoft",
+    "twitter": "https://twitter.com/abpframework",
+    "github": "https://github.com/abpframework",
+    "mastodon": "",
+    "sessionize": ""
+  },
+  "channels": [
+    {
+      "name": "Documentation",
+      "url": "https://abp.io/docs/latest/"
+    },
+    {
+      "name": "YouTube",
+      "url": "https://www.youtube.com/@Volosoft/videos"
+    },
+    {
+      "name": "Homepage",
+      "url": "https://dot.net/"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCO3XKlpvq8CA5MQNVS6b3dQ"
+    }
+  ]
+}
