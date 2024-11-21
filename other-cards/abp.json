@@ -32,6 +32,9 @@
     {
       "type": "LinkTagRssType",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCO3XKlpvq8CA5MQNVS6b3dQ"
-    }
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://abp.io/community/rss"
   ]
 }
