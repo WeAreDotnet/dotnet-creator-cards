@@ -1,0 +1,20 @@
+﻿{
+  "name": "Simon Foster",
+  "type": "CREATOR",
+  "tags": ".NET, C#, ASP.NET",
+  "github": "https://github.com/funkysi1701",
+  "channels": [
+    {
+      "name": "Blog",
+      "url": "https://www.funkysi1701.com/"
+    }
+  ],
+  "feeds": [{
+    "type": "personal",
+    "url": "https://www.funkysi1701.com/index.xml"
+  },
+  {
+    "type": "dotnet",
+    "url": "https://www.funkysi1701.com/tags/dotnet/index.xml"
+  }]
+}
