@@ -1,0 +1,36 @@
+{
+    "name": "Amplifying FSharp",
+    "type": "CREATOR",
+    "tags": "F#, OSS",
+    "github": "https://github.com/amplifying-fsharp",
+    "channels": [
+      {
+        "name": "Youtube",
+        "url": "https://www.youtube.com/@amplifyingfsharp"
+      },
+      {
+        "name": "Site",
+        "url": "https://amplifyingfsharp.io/"
+      },
+      {
+        "name": "BlueSky",
+        "url": "https://bsky.app/profile/amplifyingfsharp.io"
+      },
+      {
+        "name":"X",
+        "url": "https://x.com/amplifyfsharp"
+      },
+      {
+        "name": "Mastodon",
+        "url": "https://mastodon.social/@amplifyingfsharp"
+      }
+    ],
+    "feeds": [],
+    "projects": [
+      {
+        "name": "Sessions",
+        "description": "Submit suggestions for sessions",
+        "url": "https://github.com/amplifying-fsharp/sessions"
+      }
+    ]
+  }
