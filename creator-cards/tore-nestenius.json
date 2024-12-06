@@ -1,18 +1,10 @@
 {
   "name": "Tore Nestenius",
   "countryCode": "se",
-  "slogan": "",
   "type": "CREATOR",
-  "bio": "I’m an independent software consultant and trainer based in Helsingborg, Sweden.",
-  "tags": ".NET, C#, ASP.NET, Architecture, CQRS, Security, OpenID-Connect, IdentityServer",
-  "socials": {
-    "youtube": "",
-    "linkedin": "https://www.linkedin.com/in/torenestenius/",
-    "twitter": "https://twitter.com/Tndata",
-    "github": "https://github.com/tndata",
-    "sessionize": "",
-    "other": ""
-  },
+  "bio": "I am an independent software consultant and trainer based in Helsingborg, Sweden.",
+  "tags": ".NET, C#, ASP.NET, Architecture, CQRS, Security, OpenID-Connect, IdentityServer, Azure",
+  "github": "https://github.com/tndata",
   "channels": [
     {
       "name": "Blog",
@@ -21,12 +13,31 @@
     {
       "name": "Site",
       "url": "https://tn-data.se"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/torenestenius"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/Tndata"
+    },
+    {
+      "name": "Sessionize",
+      "url": "https://sessionize.com/tore-nestenius/"
     }
   ],
   "feeds": [
     {
-      "type": "LinkTagRssType",
+      "type": "dotnet",
       "url": "https://nestenius.se/feed/"
+    }
+  ],
+    "projects": [
+    {
+      "name": "Cloud Debugger",
+      "description": "Open-source ASP.NET Core tool providing a comprehensive set of utilities for exploring, teaching, and debugging Azure services.",
+      "url": "https://github.com/tndata/CloudDebugger"
     }
   ]
 }
