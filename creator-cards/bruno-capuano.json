@@ -29,6 +29,10 @@
     {
       "type": "LinkTagRssType",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCyHCkJ4lsphfhu_ljRws6aA"
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://elbruno.com/feed"
     }
   ],
   "projects": [
