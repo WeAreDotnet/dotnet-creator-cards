@@ -1,0 +1,60 @@
+﻿{
+  "name": "Bruno Capuano",
+  "type": "CREATOR",
+  "tags": ".NET, AI, Artificial Intelligence, Machine Learning, Azure",
+  "github": "https://github.com/elbruno",
+  "sectionTitle": null,
+  "countryCode": "ca",
+  "slogan": "",  
+  "bio": "",
+  "channels": [
+    {
+      "name": "Blog",
+      "url": "https://www.elbruno.com"
+    },
+    {
+      "name": "YouTube",
+      "url": "https://youtube.com/elbruno"
+    }
+  ],
+  "socials": {
+    "youtube": "https://www.youtube.com/elbruno",
+    "linkedin": "https://www.linkedin.com/in/elbruno/",
+    "twitter": "https://twitter.com/elbruno",
+    "github": "https://github.com/elbruno",
+    "mastodon": "",
+    "sessionize": "https://sessionize.com/elbruno/"
+  },
+  "feeds": [
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCyHCkJ4lsphfhu_ljRws6aA"
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://elbruno.com/feed"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Traffic CCCT - Video Analyzer",
+      "description": "TrafficJamAnalyzer is an advanced tool designed to help monitor and analyze traffic conditions by processing images from CCTV cameras around the roads of Tenerife. By utilizing artificial intelligence (AI) with Semantic Kernel and OpenAI, the application accurately assesses traffic density and identifies locations with potential traffic jams",
+      "url": "https://aka.ms/netaitrafficjamanalyzer"
+    },
+    {
+      "name": "eShopLite - Semantic Search",
+      "description": "eShopLite - Semantic Search is a reference .NET application implementing an eCommerce site with Search features using Keyword Search and Semantic Search.",
+      "url": "https://aka.ms/netaieshoplitesemanticsearch"
+    },
+    {
+      "name": "eShopLite - Semantic Search with Azure AI Search",
+      "description": "eShopLite - Semantic Search is a reference .NET application implementing an eCommerce site with Search features using Keyword Search and Semantic Search with Azure AI Search",
+      "url": "https://aka.ms/netaieshoplitesemanticsearchazureaisearch"
+    },
+    {
+      "name": "NET + AI - Video Analyzer",
+      "description": "This repository contains a series of samples on how to analyse a video using multimodal Large Language Models, like GPT-4o or GPT-4o-mini",
+      "url": "https://aka.ms/netaivideoanalyser"
+    }
+  ]
+}
