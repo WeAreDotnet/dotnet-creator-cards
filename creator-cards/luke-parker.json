@@ -3,19 +3,23 @@
   "type": "CREATOR",
   "tags": ".NET, C#, ASP.NET, Clean Architecture, Vertical Slice Architecture, Clean Code",
   "github": "https://github.com/Hona",
+  "socials": {
+    "youtube": "https://youtube.com/@LukeParkerDev",
+    "linkedin": "https://www.linkedin.com/in/lukeparkerdev/",
+    "twitter": "https://twitter.com/LukeParkerDev",
+    "github": "https://github.com/Hona",
+    "mastodon": "",
+    "sessionize": "https://sessionize.com/luke-parker/"
+  },
   "channels": [
     {
       "name": "Blog",
       "url": "https://lukeparker.dev"
-    },
-    {
-      "name": "Youtube",
-      "url": "https://www.youtube.com/@lukeparkerdev"
     }
   ],
   "feeds": [{
-    "type": "personal",
-    "url": "https://lukeparker.dev/feed.xml"
+    "type": "dotnet",
+    "url": "https://lukeparker.dev/rss.xml"
   }],
   "projects": [
     {
