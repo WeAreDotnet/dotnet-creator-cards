@@ -1,0 +1,46 @@
+{
+  "name": "András Tóth (Bandi)",
+  "type": "CREATOR",
+  "tags": "MAUI, Xamarin, .NET, .NET MAUI",
+  "github": "https://github.com/banditoth",
+  "channels": [
+    {
+      "name": "Website",
+      "url": "https://www.banditoth.net/"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://x.com/banditoth_"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/banditoth/"
+    }
+  ],
+  "feeds": [{
+    "type": "dotnet",
+    "url": "https://www.banditoth.net/feed"
+  }],
+  "projects": [
+    {
+      "name": "MAUI Archiver VSCode",
+      "description": "A Visual Studio Code extension to ease up .NET MAUI Archiving",
+      "url": "https://github.com/banditoth/maui-archiver-vscode"
+    },
+    {
+      "name": "MAUI.Packages",
+      "description": "Popular NuGet packages to ease up MAUI development",
+      "url": "https://github.com/banditoth/MAUI.Packages"
+    },
+    {
+      "name": "Apple Privacy manifest editor for MAUI",
+      "description": "Generate and modify apple's xcprivacy files within Visual Studio Code, for MAUI",
+      "url": "https://github.com/banditoth/maui-appleprivacy-vscode"
+    },
+    {
+      "name": "Forms.RecurrenceToolkit for Xamarin",
+      "description": "Handful tools helps creating Xamarin apps",
+      "url": "https://github.com/banditoth/Forms.RecurrenceToolkit"
+    }
+  ]
+}
