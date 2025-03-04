@@ -1,0 +1,39 @@
+{
+  "name": "Mabrouk Mahdhi",
+  "type": "CREATOR",
+  "tags": ".NET, C#, ASP.NET, Blazor",
+  "github": "https://github.com/mabroukmahdhi",
+  "channels": [
+    {
+      "name": "Blog",
+      "url": "https://mabroukmahdhi.medium.com/"
+    },
+    {
+      "name": "Youtube",
+      "url": "https://www.youtube.com/@mabroukmahdhi"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "dotnet",
+      "url": "https://mabroukmahdhi.medium.com/feed"
+    }
+  ],
+  "projects": [
+    {
+      "name": "FlexiMail",
+      "description": "FlexiMail is a robust, test-driven C# library tailored specifically for seamless email integration using Microsoft Exchange Web Services (EWS).",
+      "url": "https://github.com/mabroukmahdhi/FlexiMail"
+    },
+    {
+      "name": "bClipboard",
+      "description": "bClipboard is a Blazor library that simplifies clipboard operations in your Blazor applications. With bClipboard, developers can easily copy text to and read text from the clipboard using simple and intuitive APIs. This library leverages JavaScript interop to provide seamless clipboard functionality within Blazor.",
+      "url": "https://github.com/mabroukmahdhi/bClipboard"
+    },
+    {
+      "name": "ADotNet",
+      "description": "ADotNet is a.NET library that enables software engineers on the .NET platform to develop AzureDevOps pipelines and Git Actions in C#.",
+      "url": "https://github.com/The-Standard-Organization/ADotNet"
+    }
+  ]
+}

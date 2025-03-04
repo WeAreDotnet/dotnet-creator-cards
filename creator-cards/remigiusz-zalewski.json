@@ -1,0 +1,31 @@
+﻿{
+  "name": "Remigiusz Zalewski",
+  "type": "CREATOR",
+  "tags": ".NET, ASP.NET Core, C#, Azure, DevOps, Architecture, EF Core",
+  "github": "https://github.com/RemigiuszZalewski",
+  "channels": [
+    {
+      "name": "YouTube",
+      "url": "https://www.youtube.com/@remigiuszzalewski"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/remigiusz-zalewski"
+    },
+    {
+      "name": "Medium",
+      "url": "https://medium.com/@remigiuszzalewski"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "dotnet",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCgy1CO2iKfU62nF310adD0A"
+    },
+    {
+      "type": "dotnet",
+      "url": "https://medium.com/feed/@remigiuszzalewski"
+    }
+  ],
+  "projects": []
+}

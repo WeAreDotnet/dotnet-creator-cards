@@ -9,13 +9,25 @@
       "url": "https://lukeparker.dev"
     },
     {
-      "name": "Youtube",
-      "url": "https://www.youtube.com/@lukeparkerdev"
-    }
+      "name": "YouTube",
+      "url": "https://youtube.com/@LukeParkerDev"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/lukeparkerdev/"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/LukeParkerDev"
+    },
+    {
+      "name": "Sessionize",
+      "url": "https://sessionize.com/luke-parker/"
+    },
   ],
   "feeds": [{
-    "type": "personal",
-    "url": "https://lukeparker.dev/feed.xml"
+    "type": "dotnet",
+    "url": "https://lukeparker.dev/rss.xml"
   }],
   "projects": [
     {

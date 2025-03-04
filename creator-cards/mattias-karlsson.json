@@ -1,0 +1,70 @@
+{
+  "name": "Mattias Karlsson",
+  "type": "MAINTAINER",
+  "tags": ".NET, C#, DevOps",
+  "github": "https://github.com/devlead",
+  "channels": [
+    {
+      "name": "Blog",
+      "url": "https://www.devlead.se/"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "dotnet",
+      "url": "https://www.devlead.se/feed.rss"
+    }
+  ],
+  "projects": [
+    {
+      "name": "ARI ",
+      "description": "Azure Resource Inventory .NET Tool - Inventories and documents Azure Tenant resources to a set of markdown files for specified tenant to a specified folder.",
+      "url": "https://github.com/devlead/ARI.git"
+    },
+    {
+      "name": "Blobify",
+      "description": "Blobify is a .NET Global tool that archives (moves) files from a local folder to Azure Blob Storage container.",
+      "url": "https://github.com/devlead/Blobify.git"
+    },
+    {
+      "name": "BRI",
+      "description": "Bicep Registry Inventory .NET Tool - Inventories and documents Bicep modules in a Azure container registry.",
+      "url": "https://github.com/devlead/bri.git"
+    },
+    {
+      "name": "Cake",
+      "description": "Cake (C# Make) is a build automation system with a C# DSL to do things like compiling code, copy files/folders, running unit tests, compress files and build NuGet packages.",
+      "url": "https://github.com/cake-build/cake"
+    },
+    {
+      "name": "Cake.Bridge.DependencyInjection",
+      "description": "Provides helpers for providing Cake context using Microsoft DependencyInjection, letting you use Cake Core/Common/Addins abstractions and aliases.",
+      "url": "https://github.com/devlead/Cake.Bridge.DependencyInjection.git"
+    },
+    {
+      "name": "Devlead.Statiq",
+      "description": "Provides helpers and extensions for the static site generator Statiq, i.e. themes from http uri and TabGroup shortcode.",
+      "url": "https://github.com/devlead/Devlead.Statiq.git"
+    },
+    {
+      "name": "DPI",
+      "description": "Dependency Inventory .NET Tool - Inventories dependencies and reports to Azure Log Analytics",
+      "url": "https://github.com/devlead/DPI.git"
+    },
+    {
+      "name": "LitJson",
+      "description": "A .Net library to handle conversions from and to JSON (JavaScript Object Notation) strings.",
+      "url": "https://github.com/LitJSON/litjson"
+    },
+    {
+      "name": "Spectre.Console.Cli.Extensions.DependencyInjection",
+      "description": "A type provider for the CLI component of Spectre.Console using the Microsoft.Extensions.DependencyInjection container.",
+      "url": "https://github.com/wcomab/Spectre.Console.Cli.Extensions.DependencyInjection"
+    },
+    {
+      "name": "Unpack DAC Package .NET Tool",
+      "description": "Extracts dacpac and generates deployment script to target folder without need for actual database running.",
+      "url": "https://github.com/devlead/UnpackDacPac.git"
+    }
+  ]
+}
