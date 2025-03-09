@@ -1,0 +1,17 @@
+{
+  "name": "Chedy Missaoui",
+  "type": "CREATOR",
+  "tags": ".NET, C#, Azure, DevOps, PaaS, Cloud, Terraform, Containers",
+  "github": "https://github.com/MissaouiChedy",
+  "channels": [
+    {
+      "name": "Blog",
+      "url": "https://blog.techdominator.com/"
+    }
+  ],
+  "feeds": [{
+    "type": "dotnet",
+    "url": "https://blog.techdominator.com/feed.xml"
+  }],
+  "projects": []
+}
