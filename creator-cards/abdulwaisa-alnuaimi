@@ -1,0 +1,17 @@
+{
+    "name": "Abdulwaisa Al Nuaimi",
+    "sectionTitle": null,
+    "countryCode": "YE",
+    "slogan": "Art of Programming",
+    "type": "CREATOR",
+    "bio": "Software Engineer | .NET Full-Stack Developer | C#/.NET | Blazor | Angular | Azure | SQL",
+    "tags": ".NET, C#, Azure, CloudNative, DevOps, Microservice, Architecture",
+    "socials": {
+      "youtube": "https://www.youtube.com/@codeDotnet",
+      "linkedin": "https://www.linkedin.com/in/abdulwaisame",
+      "twitter": "https://x.com/BdalwasAln58389",
+      "github": "https://github.com/alnaimi-github",
+      "mastodon": "",
+      "sessionize": ""
+    }
+  }
