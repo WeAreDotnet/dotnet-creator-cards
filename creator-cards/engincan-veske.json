@@ -1,18 +1,22 @@
 ﻿{
   "name": "Engincan Veske",
   "type": "CREATOR",
-  "tags": "ABP Framework, .NET, C#",
+  "tags": "ABP Framework, .NET, C#, AI",
   "github": "https://github.com/EngincanV",
   "channels": [
     {
       "name": "Blog",
-      "url": "https://engincanv.github.io/"
+      "url": "https://engincanveske.substack.com"
+    },
+    {
+      "name": "Youtube",
+      "url": "https://www.youtube.com/@engincanv"
     }
   ],
   "feeds": [
     {
       "type": "dotnet",
-      "url": "https://engincanv.github.io/feed.xml"
+      "url": "https://engincanveske.substack.com/feed"
     },
     {
       "type": "ABP Community",
