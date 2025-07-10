@@ -17,13 +17,13 @@
   "channels": [
     {
       "name": "Blog",
-      "url": "https://checox.com"
+      "url": "https://checox.dev"
     }
   ],
   "feeds": [
     {
       "type": "LinkTagRssType",
-      "url": "https://checox.com/feed/"
+      "url": "https://checox.dev/feed/"
     }
   ]
 }

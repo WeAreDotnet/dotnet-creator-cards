@@ -16,13 +16,13 @@
     "feeds": [
         {
             "type": "AHrefFeedType",
-            "url": "https://checox.com/feed/"
+            "url": "https://checox.dev/feed/"
         }
     ],
     "countryCode": "us",
     "channels": [
         {
-            "url": "https://checox.com",
+            "url": "https://checox.dev",
             "name": "Site"
         }
     ]
