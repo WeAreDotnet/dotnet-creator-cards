@@ -1,33 +1,17 @@
 ﻿{
   "name": "Martin Stühmer",
-  "sectionTitle": null,
-  "countryCode": "de",
-  "slogan": "Make something foolproof, and the universe will respond by producing a superior fool.",
   "type": "CREATOR",
-  "bio": ".NET developer, architect and consultant. Passionate about building scalable and high-performance applications. Blogger at Daily DevOps & .NET",
   "tags": ".NET, C#, Blazor, Performance, Scalability",
-  "socials": {
-    "youtube": "",
-    "linkedin": "https://www.linkedin.com/in/martin-stuehmer/",
-    "twitter": "",
-    "github": "https://github.com/samtrion",
-    "mastodon": "",
-    "sessionize": ""
-  },
+  "github": "https://github.com/samtrion",
   "channels": [
     {
       "name": "Blog",
       "url": "https://daily-devops.net/"
     }
   ],
-  "feeds": [
-    {
-      "type": "LinkTagRssType",
-      "url": "https://daily-devops.net/authors/martin/feed.rss"
-    },
-    {
-      "type": "AHrefFeedType",
-      "url": "https://daily-devops.net/authors/martin/feed.rss"
-    }
-  ]
+  "feeds": [{
+    "type": "dotnet",
+    "url": "https://daily-devops.net/authors/martin/feed.rss"
+  }],
+  "projects": []
 }
