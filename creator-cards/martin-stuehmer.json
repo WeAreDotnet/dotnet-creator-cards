@@ -1,0 +1,17 @@
+﻿{
+  "name": "Martin Stühmer",
+  "type": "CREATOR",
+  "tags": ".NET, C#, Blazor, Performance, Scalability",
+  "github": "https://github.com/samtrion",
+  "channels": [
+    {
+      "name": "Blog",
+      "url": "https://daily-devops.net/"
+    }
+  ],
+  "feeds": [{
+    "type": "dotnet",
+    "url": "https://daily-devops.net/authors/martin/feed.rss"
+  }],
+  "projects": []
+}
