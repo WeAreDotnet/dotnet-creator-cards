@@ -3,11 +3,12 @@
   "countryCode": "es",
   "slogan": "",
   "type": "CREATOR",
-  "bio": "Programmer who thinks in the plural. Mostly focused on Microsoft technologies. (C#, .NET, MAUI, Blazor, Powershell...)",
-  "tags": "C#, .NET, BLAZOR, MAUI, ASP.NET ",
+  "bio": "Programmer who thinks in the plural. Mostly focused on Microsoft technologies. Code library dispenser.",
+  "tags": "C#, .NET, BLAZOR",
   "socials": {
     "youtube": "https://www.youtube.com/@cdecsharp",
     "linkedin": "https://www.linkedin.com/in/samuel-ma%C3%ADcas/",
+    "github": "https://github.com/smaicas",
     "twitter": "",
     "mastodon": "",
     "sessionize": "",
@@ -16,15 +17,15 @@
   "channels": [
     {
       "name": "Twitch",
-      "url": "https://www.twitch.tv/viciostv"
+      "url": "https://www.twitch.tv/cdcsharp"
     }
   ],
   "feeds": [
   ],
   "projects": [
     {
-      "name": "Dev N Joy Colab",
-      "url": "https://github.com/smaicas-org/Dnj.Colab"
+      "name": "Code libraries",
+      "url": "https://github.com/smaicas"
     }
   ]
 }
