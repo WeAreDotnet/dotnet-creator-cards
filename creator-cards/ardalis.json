@@ -1,0 +1,47 @@
+{
+  "name": "Ardalis",
+  "type": "CREATOR",
+  "tags": ".NET, C#, ASP.NET",
+  "github": "https://github.com/ardalis",
+  "channels": [
+    {
+      "name": "Blog",
+      "url": "https://ardalis.com/"
+    },
+    {
+      "name": "YouTube",
+      "url": "https://www.youtube.com/ardalis"
+    },
+    {
+      "name": "Company",
+      "url": "https://NimblePros.com"
+    }
+  ],
+  "feeds": [
+    {
+    "type": "blog",
+    "url": "https://ardalis.com/rss.xml"
+    },
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkvBKVrZ_RepwX7UgfnFIUA"
+    }
+],
+  "projects": [
+    {
+      "name": "Clean Architecture",
+      "description": "Clean Architecture Solution Template: A proven Clean Architecture Template for ASP.NET Core",
+      "url": "https://github.com/ardalis/CleanArchitecture"
+    },
+    {
+      "name": "Ardalis Specification",
+      "description": "A simple, strongly-typed way to encapsulate query logic in a reusable and combinable way.",
+      "url": "https://github.com/ardalis/Specification"
+    },
+    {
+      "name": "Ardalis GuardClauses",
+      "description": "A simple package with guard clause extensions.",
+      "url": "https://github.com/ardalis/GuardClauses"
+    }
+  ]
+}
