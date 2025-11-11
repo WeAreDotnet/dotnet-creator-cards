@@ -1,27 +1,24 @@
 {
   "name": "Barret Blake",
-  "sectionTitle": null,
-  "countryCode": "US",
-  "slogan": "",
   "type": "CREATOR",
-  "bio": "I wear many hats. Father, husband, Microsoft MVP, developer, gamer, blogger, speaker, model railroader, and so forth. I’ve been blessed greatly by this industry, and so this site is one way I try to give a little bit back. When I can find the time, I add a bit of my coding knowledge and experience to share with whoever might find it of worth.",
-  "tags": ".NET, C#, Azure, Blazor, DevOps, Power Automate, Serverless, Cloud, MSSQL, SQL, .NET Core, Microsoft, Azure Data Factory, ASP.NET",
-  "socials": {
-    "youtube": "https://www.youtube.com/@barretcodes",
-    "linkedin": "https://www.linkedin.com/in/barretblake",
-    "twitter": "https://twitter.com/barretblake",
-    "github": "",
-    "mastodon": "https://mstdn.social/@barret",
-    "sessionize": "https://sessionize.com/barretblake/"
-  },
+  "tags": ".NET, C#, ASP.NET, Entity Framework, Aspire, Blazor, SQL Server",
+  "github": "https://github.com/barretb",
   "channels": [
     {
       "name": "Blog",
-      "url": "https://barretblake.dev"
+      "url": "https://barretblake.dev/"
+    },
+    {
+      "name": "Youtube",
+      "url": "https://www.youtube.com/@barretcodes/"
     }
   ],
   "feeds": [{
-      "type": "LinkTagRssType",
-      "url": "https://barretblake.dev/tag/dotnet/feed/"  
-    }]
+    "type": "dotnet",
+    "url": "https://barretblake.dev/tags/dotnet/index.xml"
+  },{
+    "type": "personal",
+    "url": "https://barretblake.dev/posts/index.xml"
+  }],
+  "projects": []
 }
