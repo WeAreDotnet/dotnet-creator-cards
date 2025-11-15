@@ -1,0 +1,84 @@
+{
+  "name": "Steven T. Cramer",
+  "sectionTitle": null,
+  "countryCode": "th",
+  "slogan": "Turn your LIQUID code SOLID!",
+  "type": "CREATOR",
+  "bio": "Creator of TimeWarp libraries for .NET. Former application architect for Little Caesars. Building tools that help developers write better code faster.",
+  "tags": "Blazor, State Management, .NET, CLI Frameworks",
+  "socials": {
+    "youtube": "https://www.youtube.com/@thefreezeteam4397",
+    "linkedin": "https://www.linkedin.com/in/steventcramer",
+    "twitter": "https://x.com/StevenTCramer",
+    "github": "https://github.com/StevenTCramer",
+    "mastodon": "",
+    "sessionize": ""
+  },
+  "channels": [
+    {
+      "name": "Blog",
+      "url": "https://thefreezeteam.com"
+    },
+    {
+      "name": "Twitch",
+      "url": "https://www.twitch.tv/thefreezeteam"
+    },
+    {
+      "name": "Nostr",
+      "url": "https://nostria.app/p/npub1dh5md7ysepkc2eqne5cmy2prvxscgadchtjwyapjrq67guvnmgfsf7fqg4"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "LinkTagRssType",
+      "url": "https://thefreezeteam.com/feed.rss"
+    }
+  ],
+  "projects": [
+    {
+      "name": "TimeWarp.State",
+      "description": "Blazor State management library",
+      "url": "https://github.com/TimeWarpEngineering/timewarp-state"
+    },
+    {
+      "name": "TimeWarp.Nuru",
+      "description": "Route-based CLI framework for .NET",
+      "url": "https://github.com/TimeWarpEngineering/timewarp-nuru"
+    },
+    {
+      "name": "TimeWarp.Architecture",
+      "description": "Distributed application template for .NET utilizing Blazor, Web API, gRPC",
+      "url": "https://github.com/TimeWarpEngineering/timewarp-architecture"
+    },
+    {
+      "name": "TimeWarp.Amuru",
+      "description": "Fluent scripting API with shell pipeline support",
+      "url": "https://github.com/TimeWarpEngineering/timewarp-amuru"
+    },
+    {
+      "name": "timewarp-simple-icons",
+      "description": "All of the simple-icons wrapped as Blazor components",
+      "url": "https://github.com/TimeWarpEngineering/timewarp-simple-icons"
+    },
+    {
+      "name": "TimeWarp.Multiavatar",
+      "description": ".NET implementation for generating unique, procedurally-generated avatars",
+      "url": "https://github.com/TimeWarpEngineering/timewarp-multiavatar"
+    },
+    {
+      "name": "TimeWarp.Fixie",
+      "description": "Convention-based testing framework built on Fixie with dependency injection",
+      "url": "https://github.com/TimeWarpEngineering/timewarp-fixie"
+    },
+    {
+      "name": "TimeWarp.Mediator",
+      "description": "Simple, unambitious mediator implementation for in-process messaging",
+      "url": "https://github.com/TimeWarpEngineering/timewarp-mediator"
+    },
+    {
+      "name": "TimeWarp.OptionsValidation",
+      "description": "FluentValidation integration with Microsoft.Extensions.Options for startup validation",
+      "url": "https://github.com/TimeWarpEngineering/timewarp-options-validation"
+    }
+  ]
+}
