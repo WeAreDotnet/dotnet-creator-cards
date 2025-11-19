@@ -24,7 +24,7 @@
     },
     {
       "type": "dotnet",
-      "url": "https://www.allanritchie.com/dotnet/rss.xml"
+      "url": "https://www.allanritchie.com/rss.xml"
     }
   ],
   "projects": [
