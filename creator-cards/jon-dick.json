@@ -1,0 +1,39 @@
+{
+  "name": "Jon Dick",
+  "type": "CREATOR",
+  "tags": ".NET, C#, MAUI",
+  "github": "https://github.com/redth",
+  "channels": [
+    {
+      "name": "Blog",
+      "url": "https://redth.codes"
+    },
+    {
+      "name": "Youtube",
+      "url": "https://www.youtube.com/@GoneDotNet"
+    }
+  ],
+  "projects": [
+    {
+      "name": "MAUI Docker + macOS Containers",
+      "description": "Docker images and macOS VMs for MAUI development/building/testing. ",
+      "url": " http://github.com/maui-containers/maui-containers/ "
+    },
+    {
+      "name": "MAUI Virtual List View",
+      "description": "A virtualized ListView control for .NET MAUI to support simple, fast, multi-templated, uneven item sized lists by not adding too many bells and whistles and using an adapter pattern data source.",
+      "url": "https://github.com/Redth/Maui.VirtualListView"
+    },
+    {
+      "name": "ZXing.Net.MAUI",
+      "description": "Barcode scanning and generation for .NET MAUI applications",
+      "url": "https://github.com/Redth/ZXing.Net.Maui"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "dotnet",
+      "url": "https://redth.codes/rss.xml"
+    }
+  ]
+}
