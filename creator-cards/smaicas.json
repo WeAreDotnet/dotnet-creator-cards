@@ -1,30 +1,28 @@
 {
   "name": "Samuel Maícas",
-  "countryCode": "es",
-  "slogan": "",
   "type": "CREATOR",
-  "bio": "Programmer who thinks in the plural. Mostly focused on Microsoft technologies. (C#, .NET, MAUI, Blazor, Powershell...)",
-  "tags": "C#, .NET, BLAZOR, MAUI, ASP.NET ",
-  "socials": {
-    "youtube": "https://www.youtube.com/@cdecsharp",
-    "linkedin": "https://www.linkedin.com/in/samuel-ma%C3%ADcas/",
-    "twitter": "",
-    "mastodon": "",
-    "sessionize": "",
-    "other": ""
-  },
+  "tags": ".NET, C#, ASP.NET, BLAZOR, Avalonia",
+  "github": "https://github.com/smaicas",
   "channels": [
     {
       "name": "Twitch",
-      "url": "https://www.twitch.tv/viciostv"
+      "url": "https://www.twitch.tv/cdcsharp"
+    },
+    {
+      "name": "Youtube",
+      "url": "https://www.youtube.com/@cdecsharp"
+    },
+    {
+      "name": "Linkedin",
+      "url": "https://www.linkedin.com/in/samuel-ma%C3%ADcas/"
     }
   ],
-  "feeds": [
-  ],
+  "feeds": [],
   "projects": [
     {
-      "name": "Dev N Joy Colab",
-      "url": "https://github.com/smaicas-org/Dnj.Colab"
+      "name": "Code libraries",
+      "description": "A lot of my libraries for Microsoft Technologies",
+      "url": "https://github.com/smaicas"
     }
   ]
 }
