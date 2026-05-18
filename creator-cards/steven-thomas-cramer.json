@@ -1,19 +1,8 @@
 {
   "name": "Steven T. Cramer",
-  "sectionTitle": null,
-  "countryCode": "th",
-  "slogan": "Turn your LIQUID code SOLID!",
   "type": "CREATOR",
-  "bio": "Creator of TimeWarp libraries for .NET. Former application architect for Little Caesars. Building tools that help developers write better code faster.",
   "tags": "Blazor, State Management, .NET, CLI Frameworks",
-  "socials": {
-    "youtube": "https://www.youtube.com/@thefreezeteam4397",
-    "linkedin": "https://www.linkedin.com/in/steventcramer",
-    "twitter": "https://x.com/StevenTCramer",
-    "github": "https://github.com/StevenTCramer",
-    "mastodon": "",
-    "sessionize": ""
-  },
+  "github": "https://github.com/StevenTCramer",
   "channels": [
     {
       "name": "Blog",
@@ -30,7 +19,7 @@
   ],
   "feeds": [
     {
-      "type": "LinkTagRssType",
+      "type": "dotnet",
       "url": "https://thefreezeteam.com/feed.rss"
     }
   ],
