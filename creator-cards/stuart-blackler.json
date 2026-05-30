@@ -1,19 +1,8 @@
 ﻿{
   "name": "Stuart Blackler",
-  "sectionTitle": null,
-  "countryCode": "gb",
-  "slogan": "",
   "type": "CREATOR",
-  "bio": "I help .NET & DevOps engineers expand their knowledge with tips, tricks and tutorials",
   "tags": ".NET, C#, DevOps, AWS",
-  "socials": {
-    "youtube": "https://youtube.com/@CodeWithStu",
-    "linkedin": "https://www.linkedin.com/in/im5tu/",
-    "twitter": "https://twitter.com/CodeWithStu",
-    "github": "https://github.com/Im5tu",
-    "mastodon": "https://hachyderm.io/@codewithstu",
-    "sessionize": ""
-  },
+  "github": "https://github.com/im5tu",
   "channels": [
     {
       "name": "Youtube",
@@ -21,21 +10,29 @@
     },
     {
       "name": "Blog",
-      "url": "https://im5tu.io/article/"
-    },
-    {
-      "name": "Newsletter",
-      "url": "https://news.codewithstu.tv"
+      "url": "https://codewithstu.tv"
     }
   ],
   "feeds": [
     {
-      "type": "LinkTagRssType",
-      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCF5dh7bm49bpsZjWHYDG4Lg"
+      "type": "dotnet",
+      "url": "https://codewithstu.tv/thoughts/dotnet/feed.xml"
     },
     {
-      "type": "LinkTagRssType",
-      "url": "https://im5tu.io/tags/dotnet/index.xml"
+      "type": "personal",
+      "url": "https://codewithstu.tv/thoughts/feed.xml"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Goa",
+      "description": "High-performance .NET framework for AWS Lambda with native AOT support, lightweight service clients, and minimal cold start overhead",
+      "url": "https://github.com/im5tu/goa"
+    },
+    {
+      "name": "Serialization Benchmarks",
+      "description": "Comprehensive BenchmarkDotNet suite comparing .NET JSON and binary serializers including System.Text.Json, MessagePack, Protobuf, and more",
+      "url": "https://github.com/Im5tu/SerializationBenchmarks"
     }
   ]
 }
