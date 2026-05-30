@@ -1,0 +1,62 @@
+{
+  "name": "Allan Ritchie",
+  "type": "CREATOR",
+  "tags": ".NET, MAUI, C#, ASP.NET",
+  "github": "https://github.com/aritchie",
+  "channels": [
+    {
+      "name": "Site",
+      "url": "https://www.shinylib.net/"
+    },
+    {
+      "name": "Blog",
+      "url": "https://www.allanritchie.com/"
+    },
+    {
+      "name": "Youtube",
+      "url": "https://www.youtube.com/@GoneDotNet"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "dotnet",
+      "url": "https://shinylib.net/blog/rss.xml"
+    },
+    {
+      "type": "dotnet",
+      "url": "https://www.allanritchie.com/rss.xml"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Shiny",
+      "description": "Shiny provides BluetoothLE, Periodic Background Jobs, True background GPS, Geofencing, Local & Push Notifications for mobile platforms",
+      "url": "https://github.com/shinyorg/shiny"
+    },
+    {
+      "name": "Shiny Mediator",
+      "description": "Shiny Mediator is a mediator pattern implementation, but for built with ALL .NET apps in mind including desktop, mobile, and server platforms. We provide a TON of middleware out-of-box to get you up and rolling with hardly any effort whatsoever.",
+      "url": "https://github.com/shinyorg/mediator"
+    },
+    {
+      "name": "Shiny Reflector",
+      "description": "Reflection is awesome and super powerful, but also very slow and non-AOT compliant. Using source generators, we look to solve some of those pain points. This library gives you the power of reflection... without the actual reflection!",
+      "url": "https://github.com/shinyorg/reflector"
+    },
+    {
+      "name": "Shiny MAUI Shell",
+      "description": "Make .NET MAUI Shell shinier with viewmodel lifecycle management, navigation, and source generation to remove boilerplate, reduce errors, and make your app testable! We try to take care of all the gaps with .NET MAUI Shell",
+      "url": "https://github.com/shinyorg/maui"
+    },
+    {
+      "name": "Shiny App Templates",
+      "description": "Get started with .NET MAUI, Shiny, and many community libraries without figuring out how to wire everything up",
+      "url": "https://github.com/shinyorg/templates"
+    },
+    {
+      "name": "ACR User Dialogs",
+      "description": "A cross platform library that allows you to call for standard user dialogs",
+      "url": "https://github.com/aritchie/userdialogs"
+    }
+  ]
+}
