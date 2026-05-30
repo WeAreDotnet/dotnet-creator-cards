@@ -1,0 +1,27 @@
+{
+  "name": "Elliot One",
+  "type": "CREATOR",
+  "tags": ".NET, C#, ASP.NET, Semantic Search, RAG",
+  "github": "https://github.com/elliotOne",
+  "channels": [
+    {
+      "name": "Blog",
+      "url": "https://www.elliotone.com/"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/elliot1one"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/elliotone"
+    }
+  ],
+  "projects": [
+    {
+      "name": "nl-rag-pgvector-company-docs",
+      "description": "A .NET 10 web app demonstrating Retrieval-Augmented Generation (RAG) for company Q&A using pgvector and Ollama-hosted AI models.",
+      "url": "https://github.com/ElliotOne/nl-rag-pgvector-company-docs"
+    }
+  ]
+}
