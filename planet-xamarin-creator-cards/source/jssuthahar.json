@@ -1,18 +1,18 @@
 {
   "firstName": "Suthahar",
   "lastName": "Jegatheesan",
-  "tagOrBio": "insatiable desire to keep learning keeps the dynamic blogger. I take keen interest in sharing my knowledge and solving my readers’ technology-related problems.",
+  "tagOrBio": "MSDEVBUILD is a technology community platform created by Suthahar Jegatheesan, focused on helping developers learn and build real-world applications using modern Microsoft and cross-platform technologies",
   "emailAddress": "",
   "twitterHandle": "jssuthahar",
   "gravatarHash": "2a34ebf4e9c4dca84eb7feee7217568f",
-  "stateOrRegion": "Bangalore, India",
-  "webSite": "https://www.msdevbuild.com/",
+  "stateOrRegion": "Kuala Lumpur, Malaysia",
+  "webSite": "https://blog.msdevbuild.com/",
   "position": {
-    "lat": 12.971599,
-    "lon": 77.594563
+    "lat": 3.1390,
+    "lon": 101.6869
   },
   "feedUris": [
-    "https://www.msdevbuild.com/feeds/posts/default"
+    "https://blog.msdevbuild.com/rss.xml"
   ],
   "githubHandle": "jssuthahar",
   "languageCode": "en"
