@@ -1,0 +1,13 @@
+{
+	"name": "NDepend",
+	"type": "Business",
+	"github": "https://github.com/ndepend",
+	"contact": {
+		"name": "NDepend Support",
+		"email": "support@ndepend.com"
+	},
+	"blogRSS": "https://blog.ndepend.com/feed/",
+	"twitter": "https://x.com/ndepend",
+	"facebook": "https://www.facebook.com/ndepend",
+	"linkedin": "https://www.linkedin.com/company/ndepend/"
+}
