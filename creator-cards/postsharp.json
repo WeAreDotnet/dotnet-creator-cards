@@ -1,0 +1,38 @@
+{
+  "name": "PostSharp Technologies",
+  "type": "MAINTAINER",
+  "tags": ".NET, C#, Roslyn, Aspect-Oriented Programming, Metaprogramming, Design Patterns, Architecture",
+  "github": "https://github.com/postsharp",
+  "channels": [
+    {
+      "name": "Blog",
+      "url": "https://postsharp.net/blog"
+    },
+    {
+      "name": "Site",
+      "url": "https://postsharp.net"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/company/postsharp"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "dotnet",
+      "url": "https://postsharp.net/feed.xml"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Metalama",
+      "description": "A Roslyn-based open-source patterns and architecture toolkit for C#.",
+      "url": "https://github.com/metalama/Metalama"
+    },
+    {
+      "name": "PostSharp",
+      "description": "The aspect-oriented programming framework for .NET, since 2004.",
+      "url": "https://github.com/postsharp/PostSharp.Public"
+    }
+  ]
+}
