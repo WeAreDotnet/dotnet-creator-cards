@@ -1,18 +1,8 @@
 {
   "name": "Tore Nestenius",
-  "countryCode": "se",
-  "slogan": "",
   "type": "CREATOR",
-  "bio": "I’m an independent software consultant and trainer based in Helsingborg, Sweden.",
-  "tags": ".NET, C#, ASP.NET, Architecture, CQRS, Security, OpenID-Connect, IdentityServer",
-  "socials": {
-    "youtube": "",
-    "linkedin": "https://www.linkedin.com/in/torenestenius/",
-    "twitter": "https://twitter.com/Tndata",
-    "github": "https://github.com/tndata",
-    "sessionize": "",
-    "other": ""
-  },
+  "tags": ".NET, C#, ASP.NET Core, Security, Authentication, OpenID Connect, OAuth, IdentityServer, Azure, Architecture, CQRS, AI Agents",
+  "github": "https://github.com/tndata",
   "channels": [
     {
       "name": "Blog",
@@ -25,8 +15,25 @@
   ],
   "feeds": [
     {
-      "type": "LinkTagRssType",
-      "url": "https://nestenius.se/feed/"
+      "type": "dotnet",
+      "url": "https://nestenius.se/feed.xml"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Coding Agent Explorer",
+      "description": "Real-time .NET proxy and dashboard for inspecting AI coding agent API calls (currently supports Claude Code)",
+      "url": "https://github.com/tndata/CodingAgentExplorer"
+    },
+    {
+      "name": "CloudDebugger",
+      "description": "Open-source tool to explore and troubleshoot Azure from .NET: App Service, storage, messaging, identity and DefaultAzureCredential",
+      "url": "https://github.com/tndata/CloudDebugger"
+    },
+    {
+      "name": "Container Layer Explorer",
+      "description": "Local web tool for exploring Docker and OCI image layers: see which files each layer adds, changes or deletes, as a matrix of paths and layers. Built with .NET.",
+      "url": "https://github.com/tndata/ContainerLayerExplorer"
     }
   ]
 }
